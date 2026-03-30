@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0841",
+  "text": "job. The staffing is tired starting to grain. We see some light front grain on your front left on board. Just EB5, EB5. Okay Ollie you can see Max ahead struggling, Estimac five ahead please, P7.",
+  "words": [
+    {
+      "word": "job.",
+      "start": 1.16,
+      "end": 1.74
+    },
+    {
+      "word": "The",
+      "start": 3.62,
+      "end": 3.88
+    },
+    {
+      "word": "staffing",
+      "start": 3.88,
+      "end": 4.18
+    },
+    {
+      "word": "is",
+      "start": 4.18,
+      "end": 4.36
+    },
+    {
+      "word": "tired",
+      "start": 4.36,
+      "end": 4.52
+    },
+    {
+      "word": "starting",
+      "start": 4.52,
+      "end": 4.84
+    },
+    {
+      "word": "to",
+      "start": 4.84,
+      "end": 5.02
+    },
+    {
+      "word": "grain.",
+      "start": 5.02,
+      "end": 5.2
+    },
+    {
+      "word": "We",
+      "start": 6.68,
+      "end": 7.26
+    },
+    {
+      "word": "see",
+      "start": 7.26,
+      "end": 7.44
+    },
+    {
+      "word": "some",
+      "start": 7.44,
+      "end": 7.6
+    },
+    {
+      "word": "light",
+      "start": 7.6,
+      "end": 7.94
+    },
+    {
+      "word": "front",
+      "start": 7.94,
+      "end": 8.3
+    },
+    {
+      "word": "grain",
+      "start": 8.3,
+      "end": 8.54
+    },
+    {
+      "word": "on",
+      "start": 8.54,
+      "end": 8.74
+    },
+    {
+      "word": "your",
+      "start": 8.74,
+      "end": 8.82
+    },
+    {
+      "word": "front",
+      "start": 8.82,
+      "end": 9.08
+    },
+    {
+      "word": "left",
+      "start": 9.08,
+      "end": 9.36
+    },
+    {
+      "word": "on",
+      "start": 9.36,
+      "end": 9.6
+    },
+    {
+      "word": "board.",
+      "start": 9.6,
+      "end": 9.96
+    },
+    {
+      "word": "Just",
+      "start": 11.02,
+      "end": 11.6
+    },
+    {
+      "word": "EB5,",
+      "start": 11.6,
+      "end": 12.4
+    },
+    {
+      "word": "EB5.",
+      "start": 12.62,
+      "end": 13.3
+    },
+    {
+      "word": "Okay",
+      "start": 14.48,
+      "end": 14.86
+    },
+    {
+      "word": "Ollie",
+      "start": 14.86,
+      "end": 15.04
+    },
+    {
+      "word": "you",
+      "start": 15.04,
+      "end": 15.22
+    },
+    {
+      "word": "can",
+      "start": 15.22,
+      "end": 15.32
+    },
+    {
+      "word": "see",
+      "start": 15.32,
+      "end": 15.46
+    },
+    {
+      "word": "Max",
+      "start": 15.46,
+      "end": 15.78
+    },
+    {
+      "word": "ahead",
+      "start": 15.78,
+      "end": 16.04
+    },
+    {
+      "word": "struggling,",
+      "start": 16.04,
+      "end": 16.48
+    },
+    {
+      "word": "Estimac",
+      "start": 17.0,
+      "end": 17.42
+    },
+    {
+      "word": "five",
+      "start": 17.42,
+      "end": 17.96
+    },
+    {
+      "word": "ahead",
+      "start": 17.96,
+      "end": 18.3
+    },
+    {
+      "word": "please,",
+      "start": 18.3,
+      "end": 18.6
+    },
+    {
+      "word": "P7.",
+      "start": 18.62,
+      "end": 19.08
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}

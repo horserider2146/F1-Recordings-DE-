@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_0790",
+  "text": "I had a bit of a snap in it.",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.96,
+      "end": 1.2
+    },
+    {
+      "word": "had",
+      "start": 1.2,
+      "end": 1.44
+    },
+    {
+      "word": "a",
+      "start": 1.44,
+      "end": 1.5
+    },
+    {
+      "word": "bit",
+      "start": 1.5,
+      "end": 1.6
+    },
+    {
+      "word": "of",
+      "start": 1.6,
+      "end": 1.7
+    },
+    {
+      "word": "a",
+      "start": 1.7,
+      "end": 1.76
+    },
+    {
+      "word": "snap",
+      "start": 1.76,
+      "end": 1.96
+    },
+    {
+      "word": "in",
+      "start": 1.96,
+      "end": 2.14
+    },
+    {
+      "word": "it.",
+      "start": 2.14,
+      "end": 2.26
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

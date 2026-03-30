@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_0457",
+  "text": "Gap at 1.0, debris should have been cleared, stay on line Gap at 1.0 Moose at 37.1, Leclerc, 36.6, George, 36.3 Gap at 1.0 Gap you happy with this one, Adrien?",
+  "words": [
+    {
+      "word": "Gap",
+      "start": 1.02,
+      "end": 1.52
+    },
+    {
+      "word": "at",
+      "start": 1.52,
+      "end": 1.64
+    },
+    {
+      "word": "1",
+      "start": 1.64,
+      "end": 1.76
+    },
+    {
+      "word": ".0,",
+      "start": 1.76,
+      "end": 2.24
+    },
+    {
+      "word": "debris",
+      "start": 2.52,
+      "end": 2.9
+    },
+    {
+      "word": "should",
+      "start": 2.9,
+      "end": 3.14
+    },
+    {
+      "word": "have",
+      "start": 3.14,
+      "end": 3.26
+    },
+    {
+      "word": "been",
+      "start": 3.26,
+      "end": 3.34
+    },
+    {
+      "word": "cleared,",
+      "start": 3.34,
+      "end": 3.68
+    },
+    {
+      "word": "stay",
+      "start": 3.92,
+      "end": 4.3
+    },
+    {
+      "word": "on",
+      "start": 4.3,
+      "end": 4.48
+    },
+    {
+      "word": "line",
+      "start": 4.48,
+      "end": 4.72
+    },
+    {
+      "word": "Gap",
+      "start": 6.1,
+      "end": 6.6
+    },
+    {
+      "word": "at",
+      "start": 6.6,
+      "end": 6.6
+    },
+    {
+      "word": "1",
+      "start": 6.6,
+      "end": 6.92
+    },
+    {
+      "word": ".0",
+      "start": 6.92,
+      "end": 7.94
+    },
+    {
+      "word": "Moose",
+      "start": 9.26,
+      "end": 9.76
+    },
+    {
+      "word": "at",
+      "start": 9.76,
+      "end": 9.9
+    },
+    {
+      "word": "37",
+      "start": 9.9,
+      "end": 10.24
+    },
+    {
+      "word": ".1,",
+      "start": 10.24,
+      "end": 10.68
+    },
+    {
+      "word": "Leclerc,",
+      "start": 10.88,
+      "end": 11.4
+    },
+    {
+      "word": "36",
+      "start": 11.54,
+      "end": 11.94
+    },
+    {
+      "word": ".6,",
+      "start": 11.94,
+      "end": 12.38
+    },
+    {
+      "word": "George,",
+      "start": 12.58,
+      "end": 12.76
+    },
+    {
+      "word": "36",
+      "start": 13.02,
+      "end": 13.5
+    },
+    {
+      "word": ".3",
+      "start": 13.5,
+      "end": 14.18
+    },
+    {
+      "word": "Gap",
+      "start": 16.02,
+      "end": 16.52
+    },
+    {
+      "word": "at",
+      "start": 16.52,
+      "end": 16.64
+    },
+    {
+      "word": "1",
+      "start": 16.64,
+      "end": 16.86
+    },
+    {
+      "word": ".0",
+      "start": 16.86,
+      "end": 17.36
+    },
+    {
+      "word": "Gap",
+      "start": 18.0,
+      "end": 18.32
+    },
+    {
+      "word": "you",
+      "start": 18.32,
+      "end": 18.46
+    },
+    {
+      "word": "happy",
+      "start": 18.46,
+      "end": 18.68
+    },
+    {
+      "word": "with",
+      "start": 18.68,
+      "end": 18.94
+    },
+    {
+      "word": "this",
+      "start": 18.94,
+      "end": 19.04
+    },
+    {
+      "word": "one,",
+      "start": 19.04,
+      "end": 19.22
+    },
+    {
+      "word": "Adrien?",
+      "start": 19.32,
+      "end": 19.54
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

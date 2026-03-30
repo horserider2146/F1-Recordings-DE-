@@ -1,0 +1,35 @@
+{
+  "clip_id": "clip_0090",
+  "text": "Second, powered up one minute.",
+  "words": [
+    {
+      "word": "Second,",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "word": "powered",
+      "start": 1.2,
+      "end": 1.46
+    },
+    {
+      "word": "up",
+      "start": 1.46,
+      "end": 1.62
+    },
+    {
+      "word": "one",
+      "start": 1.62,
+      "end": 1.86
+    },
+    {
+      "word": "minute.",
+      "start": 1.86,
+      "end": 2.06
+    }
+  ],
+  "language": "en",
+  "word_count": 5,
+  "is_empty": false,
+  "is_very_short": false
+}

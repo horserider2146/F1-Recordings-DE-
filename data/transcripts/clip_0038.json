@@ -1,0 +1,285 @@
+{
+  "clip_id": "clip_0038",
+  "text": "I look at it to call it for everyone, I'll be down the virtual door, I'll keep the process. We need to sync 7 to 8 gear, offset 0, smooth in 1, position 10. That's a very low limit if you want to go to the belt. We try to push, we can about push.",
+  "words": [
+    {
+      "word": "I",
+      "start": 1.3,
+      "end": 1.7
+    },
+    {
+      "word": "look",
+      "start": 1.7,
+      "end": 1.82
+    },
+    {
+      "word": "at",
+      "start": 1.82,
+      "end": 1.94
+    },
+    {
+      "word": "it",
+      "start": 1.94,
+      "end": 2.04
+    },
+    {
+      "word": "to",
+      "start": 2.04,
+      "end": 2.14
+    },
+    {
+      "word": "call",
+      "start": 2.14,
+      "end": 2.34
+    },
+    {
+      "word": "it",
+      "start": 2.34,
+      "end": 2.4
+    },
+    {
+      "word": "for",
+      "start": 2.4,
+      "end": 2.6
+    },
+    {
+      "word": "everyone,",
+      "start": 2.6,
+      "end": 2.88
+    },
+    {
+      "word": "I'll",
+      "start": 3.02,
+      "end": 3.14
+    },
+    {
+      "word": "be",
+      "start": 3.14,
+      "end": 3.24
+    },
+    {
+      "word": "down",
+      "start": 3.24,
+      "end": 3.34
+    },
+    {
+      "word": "the",
+      "start": 3.34,
+      "end": 3.46
+    },
+    {
+      "word": "virtual",
+      "start": 3.46,
+      "end": 3.66
+    },
+    {
+      "word": "door,",
+      "start": 3.66,
+      "end": 3.92
+    },
+    {
+      "word": "I'll",
+      "start": 4.02,
+      "end": 4.2
+    },
+    {
+      "word": "keep",
+      "start": 4.2,
+      "end": 4.26
+    },
+    {
+      "word": "the",
+      "start": 4.26,
+      "end": 4.38
+    },
+    {
+      "word": "process.",
+      "start": 4.38,
+      "end": 4.56
+    },
+    {
+      "word": "We",
+      "start": 5.42,
+      "end": 5.7
+    },
+    {
+      "word": "need",
+      "start": 5.7,
+      "end": 5.82
+    },
+    {
+      "word": "to",
+      "start": 5.82,
+      "end": 5.96
+    },
+    {
+      "word": "sync",
+      "start": 5.96,
+      "end": 6.22
+    },
+    {
+      "word": "7",
+      "start": 6.22,
+      "end": 6.58
+    },
+    {
+      "word": "to",
+      "start": 6.58,
+      "end": 6.82
+    },
+    {
+      "word": "8",
+      "start": 6.82,
+      "end": 7.06
+    },
+    {
+      "word": "gear,",
+      "start": 7.06,
+      "end": 7.3
+    },
+    {
+      "word": "offset",
+      "start": 8.78,
+      "end": 9.18
+    },
+    {
+      "word": "0,",
+      "start": 9.18,
+      "end": 9.58
+    },
+    {
+      "word": "smooth",
+      "start": 10.04,
+      "end": 10.36
+    },
+    {
+      "word": "in",
+      "start": 10.36,
+      "end": 10.62
+    },
+    {
+      "word": "1,",
+      "start": 10.62,
+      "end": 10.9
+    },
+    {
+      "word": "position",
+      "start": 11.68,
+      "end": 12.08
+    },
+    {
+      "word": "10.",
+      "start": 12.08,
+      "end": 12.84
+    },
+    {
+      "word": "That's",
+      "start": 14.44,
+      "end": 14.84
+    },
+    {
+      "word": "a",
+      "start": 14.84,
+      "end": 14.88
+    },
+    {
+      "word": "very",
+      "start": 14.88,
+      "end": 15.1
+    },
+    {
+      "word": "low",
+      "start": 15.1,
+      "end": 15.36
+    },
+    {
+      "word": "limit",
+      "start": 15.36,
+      "end": 15.6
+    },
+    {
+      "word": "if",
+      "start": 15.6,
+      "end": 15.88
+    },
+    {
+      "word": "you",
+      "start": 15.88,
+      "end": 16.0
+    },
+    {
+      "word": "want",
+      "start": 16.0,
+      "end": 16.12
+    },
+    {
+      "word": "to",
+      "start": 16.12,
+      "end": 16.2
+    },
+    {
+      "word": "go",
+      "start": 16.2,
+      "end": 16.3
+    },
+    {
+      "word": "to",
+      "start": 16.3,
+      "end": 16.46
+    },
+    {
+      "word": "the",
+      "start": 16.46,
+      "end": 16.58
+    },
+    {
+      "word": "belt.",
+      "start": 16.58,
+      "end": 16.8
+    },
+    {
+      "word": "We",
+      "start": 18.06,
+      "end": 18.28
+    },
+    {
+      "word": "try",
+      "start": 18.28,
+      "end": 18.46
+    },
+    {
+      "word": "to",
+      "start": 18.46,
+      "end": 18.58
+    },
+    {
+      "word": "push,",
+      "start": 18.58,
+      "end": 18.78
+    },
+    {
+      "word": "we",
+      "start": 19.22,
+      "end": 19.38
+    },
+    {
+      "word": "can",
+      "start": 19.38,
+      "end": 19.52
+    },
+    {
+      "word": "about",
+      "start": 19.52,
+      "end": 19.74
+    },
+    {
+      "word": "push.",
+      "start": 19.74,
+      "end": 19.96
+    }
+  ],
+  "language": "en",
+  "word_count": 55,
+  "is_empty": false,
+  "is_very_short": false
+}

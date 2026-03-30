@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0600",
+  "text": "Overthake available. Ape is 16, suggestion higher gear there, try higher gear. Ape is 50. 25 laps to go. You have overtake, char, down. When I get on the pit straight, I've got no power.",
+  "words": [
+    {
+      "word": "Overthake",
+      "start": 1.68,
+      "end": 2.2
+    },
+    {
+      "word": "available.",
+      "start": 2.2,
+      "end": 2.5
+    },
+    {
+      "word": "Ape",
+      "start": 3.92,
+      "end": 4.44
+    },
+    {
+      "word": "is",
+      "start": 4.44,
+      "end": 4.96
+    },
+    {
+      "word": "16,",
+      "start": 4.96,
+      "end": 5.68
+    },
+    {
+      "word": "suggestion",
+      "start": 6.04,
+      "end": 6.52
+    },
+    {
+      "word": "higher",
+      "start": 6.52,
+      "end": 6.86
+    },
+    {
+      "word": "gear",
+      "start": 6.86,
+      "end": 7.16
+    },
+    {
+      "word": "there,",
+      "start": 7.16,
+      "end": 7.4
+    },
+    {
+      "word": "try",
+      "start": 7.68,
+      "end": 7.9
+    },
+    {
+      "word": "higher",
+      "start": 7.9,
+      "end": 8.32
+    },
+    {
+      "word": "gear.",
+      "start": 8.32,
+      "end": 8.58
+    },
+    {
+      "word": "Ape",
+      "start": 9.08,
+      "end": 9.18
+    },
+    {
+      "word": "is",
+      "start": 9.18,
+      "end": 9.3
+    },
+    {
+      "word": "50.",
+      "start": 9.3,
+      "end": 9.48
+    },
+    {
+      "word": "25",
+      "start": 12.96,
+      "end": 13.48
+    },
+    {
+      "word": "laps",
+      "start": 13.48,
+      "end": 13.96
+    },
+    {
+      "word": "to",
+      "start": 13.96,
+      "end": 14.2
+    },
+    {
+      "word": "go.",
+      "start": 14.2,
+      "end": 14.4
+    },
+    {
+      "word": "You",
+      "start": 14.84,
+      "end": 15.02
+    },
+    {
+      "word": "have",
+      "start": 15.02,
+      "end": 15.28
+    },
+    {
+      "word": "overtake,",
+      "start": 15.28,
+      "end": 15.88
+    },
+    {
+      "word": "char,",
+      "start": 16.12,
+      "end": 16.34
+    },
+    {
+      "word": "down.",
+      "start": 16.68,
+      "end": 17.02
+    },
+    {
+      "word": "When",
+      "start": 18.12,
+      "end": 18.4
+    },
+    {
+      "word": "I",
+      "start": 18.4,
+      "end": 18.52
+    },
+    {
+      "word": "get",
+      "start": 18.52,
+      "end": 18.62
+    },
+    {
+      "word": "on",
+      "start": 18.62,
+      "end": 18.74
+    },
+    {
+      "word": "the",
+      "start": 18.74,
+      "end": 18.82
+    },
+    {
+      "word": "pit",
+      "start": 18.82,
+      "end": 18.96
+    },
+    {
+      "word": "straight,",
+      "start": 18.96,
+      "end": 19.2
+    },
+    {
+      "word": "I've",
+      "start": 19.32,
+      "end": 19.42
+    },
+    {
+      "word": "got",
+      "start": 19.42,
+      "end": 19.52
+    },
+    {
+      "word": "no",
+      "start": 19.52,
+      "end": 19.72
+    },
+    {
+      "word": "power.",
+      "start": 19.72,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

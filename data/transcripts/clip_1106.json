@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_1106",
+  "text": "Ocon is latched, Valtteri 139.5, top to Valtteri is 1.5, we are happy with your pace at the moment, Ocon is 38.8, he might clear us within the 10 seconds, but head down.",
+  "words": [
+    {
+      "word": "Ocon",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "word": "is",
+      "start": 0.08,
+      "end": 0.2
+    },
+    {
+      "word": "latched,",
+      "start": 0.2,
+      "end": 0.56
+    },
+    {
+      "word": "Valtteri",
+      "start": 1.7,
+      "end": 2.14
+    },
+    {
+      "word": "139",
+      "start": 2.14,
+      "end": 3.02
+    },
+    {
+      "word": ".5,",
+      "start": 3.02,
+      "end": 3.62
+    },
+    {
+      "word": "top",
+      "start": 5.32,
+      "end": 5.54
+    },
+    {
+      "word": "to",
+      "start": 5.54,
+      "end": 5.72
+    },
+    {
+      "word": "Valtteri",
+      "start": 5.72,
+      "end": 6.06
+    },
+    {
+      "word": "is",
+      "start": 6.06,
+      "end": 6.22
+    },
+    {
+      "word": "1",
+      "start": 6.22,
+      "end": 6.42
+    },
+    {
+      "word": ".5,",
+      "start": 6.42,
+      "end": 6.94
+    },
+    {
+      "word": "we",
+      "start": 8.9,
+      "end": 9.38
+    },
+    {
+      "word": "are",
+      "start": 9.38,
+      "end": 9.5
+    },
+    {
+      "word": "happy",
+      "start": 9.5,
+      "end": 9.74
+    },
+    {
+      "word": "with",
+      "start": 9.74,
+      "end": 9.92
+    },
+    {
+      "word": "your",
+      "start": 9.92,
+      "end": 10.04
+    },
+    {
+      "word": "pace",
+      "start": 10.04,
+      "end": 10.32
+    },
+    {
+      "word": "at",
+      "start": 10.32,
+      "end": 10.46
+    },
+    {
+      "word": "the",
+      "start": 10.46,
+      "end": 10.52
+    },
+    {
+      "word": "moment,",
+      "start": 10.52,
+      "end": 10.78
+    },
+    {
+      "word": "Ocon",
+      "start": 12.2,
+      "end": 12.76
+    },
+    {
+      "word": "is",
+      "start": 12.76,
+      "end": 13.02
+    },
+    {
+      "word": "38",
+      "start": 13.02,
+      "end": 13.4
+    },
+    {
+      "word": ".8,",
+      "start": 13.4,
+      "end": 14.02
+    },
+    {
+      "word": "he",
+      "start": 14.88,
+      "end": 15.1
+    },
+    {
+      "word": "might",
+      "start": 15.1,
+      "end": 15.28
+    },
+    {
+      "word": "clear",
+      "start": 15.28,
+      "end": 15.56
+    },
+    {
+      "word": "us",
+      "start": 15.56,
+      "end": 15.84
+    },
+    {
+      "word": "within",
+      "start": 15.84,
+      "end": 16.56
+    },
+    {
+      "word": "the",
+      "start": 16.56,
+      "end": 16.74
+    },
+    {
+      "word": "10",
+      "start": 16.74,
+      "end": 16.92
+    },
+    {
+      "word": "seconds,",
+      "start": 16.92,
+      "end": 17.3
+    },
+    {
+      "word": "but",
+      "start": 17.82,
+      "end": 17.82
+    },
+    {
+      "word": "head",
+      "start": 17.82,
+      "end": 18.48
+    },
+    {
+      "word": "down.",
+      "start": 18.48,
+      "end": 18.68
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,125 @@
+{
+  "clip_id": "clip_0125",
+  "text": "Yeah, all good. Yeah, stop tired. So, quite a bit of a mix. Only two stop starters. Left hand and right hand. AP9.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "all",
+      "start": 0.32,
+      "end": 0.34
+    },
+    {
+      "word": "good.",
+      "start": 0.34,
+      "end": 0.48
+    },
+    {
+      "word": "Yeah,",
+      "start": 0.84,
+      "end": 1.16
+    },
+    {
+      "word": "stop",
+      "start": 1.26,
+      "end": 1.48
+    },
+    {
+      "word": "tired.",
+      "start": 1.48,
+      "end": 1.76
+    },
+    {
+      "word": "So,",
+      "start": 3.38,
+      "end": 3.8
+    },
+    {
+      "word": "quite",
+      "start": 3.88,
+      "end": 4.08
+    },
+    {
+      "word": "a",
+      "start": 4.08,
+      "end": 4.16
+    },
+    {
+      "word": "bit",
+      "start": 4.16,
+      "end": 4.22
+    },
+    {
+      "word": "of",
+      "start": 4.22,
+      "end": 4.32
+    },
+    {
+      "word": "a",
+      "start": 4.32,
+      "end": 4.4
+    },
+    {
+      "word": "mix.",
+      "start": 4.4,
+      "end": 4.68
+    },
+    {
+      "word": "Only",
+      "start": 5.02,
+      "end": 5.24
+    },
+    {
+      "word": "two",
+      "start": 5.24,
+      "end": 5.58
+    },
+    {
+      "word": "stop",
+      "start": 5.58,
+      "end": 5.88
+    },
+    {
+      "word": "starters.",
+      "start": 5.88,
+      "end": 7.14
+    },
+    {
+      "word": "Left",
+      "start": 7.36,
+      "end": 7.52
+    },
+    {
+      "word": "hand",
+      "start": 7.52,
+      "end": 7.68
+    },
+    {
+      "word": "and",
+      "start": 7.68,
+      "end": 7.82
+    },
+    {
+      "word": "right",
+      "start": 7.82,
+      "end": 7.98
+    },
+    {
+      "word": "hand.",
+      "start": 7.98,
+      "end": 8.2
+    },
+    {
+      "word": "AP9.",
+      "start": 8.42,
+      "end": 8.84
+    }
+  ],
+  "language": "en",
+  "word_count": 23,
+  "is_empty": false,
+  "is_very_short": false
+}

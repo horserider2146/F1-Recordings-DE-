@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_1160",
+  "text": "We had a good run in the sprint yesterday, but our problem was cut short, so let's see what we can get today. We'll stay on top of the tire man.",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "had",
+      "start": 0.1,
+      "end": 0.18
+    },
+    {
+      "word": "a",
+      "start": 0.18,
+      "end": 0.22
+    },
+    {
+      "word": "good",
+      "start": 0.22,
+      "end": 0.36
+    },
+    {
+      "word": "run",
+      "start": 0.36,
+      "end": 0.5
+    },
+    {
+      "word": "in",
+      "start": 0.5,
+      "end": 0.6
+    },
+    {
+      "word": "the",
+      "start": 0.6,
+      "end": 0.68
+    },
+    {
+      "word": "sprint",
+      "start": 0.68,
+      "end": 0.82
+    },
+    {
+      "word": "yesterday,",
+      "start": 0.82,
+      "end": 1.22
+    },
+    {
+      "word": "but",
+      "start": 1.6,
+      "end": 1.68
+    },
+    {
+      "word": "our",
+      "start": 1.68,
+      "end": 1.76
+    },
+    {
+      "word": "problem",
+      "start": 1.76,
+      "end": 1.9
+    },
+    {
+      "word": "was",
+      "start": 1.9,
+      "end": 2.02
+    },
+    {
+      "word": "cut",
+      "start": 2.02,
+      "end": 2.16
+    },
+    {
+      "word": "short,",
+      "start": 2.16,
+      "end": 2.46
+    },
+    {
+      "word": "so",
+      "start": 2.64,
+      "end": 2.8
+    },
+    {
+      "word": "let's",
+      "start": 2.8,
+      "end": 3.6
+    },
+    {
+      "word": "see",
+      "start": 3.6,
+      "end": 3.68
+    },
+    {
+      "word": "what",
+      "start": 3.68,
+      "end": 3.78
+    },
+    {
+      "word": "we",
+      "start": 3.78,
+      "end": 3.86
+    },
+    {
+      "word": "can",
+      "start": 3.86,
+      "end": 3.98
+    },
+    {
+      "word": "get",
+      "start": 3.98,
+      "end": 4.1
+    },
+    {
+      "word": "today.",
+      "start": 4.1,
+      "end": 4.38
+    },
+    {
+      "word": "We'll",
+      "start": 4.68,
+      "end": 4.88
+    },
+    {
+      "word": "stay",
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "word": "on",
+      "start": 5.04,
+      "end": 5.14
+    },
+    {
+      "word": "top",
+      "start": 5.14,
+      "end": 5.3
+    },
+    {
+      "word": "of",
+      "start": 5.3,
+      "end": 5.44
+    },
+    {
+      "word": "the",
+      "start": 5.44,
+      "end": 5.52
+    },
+    {
+      "word": "tire",
+      "start": 5.52,
+      "end": 5.68
+    },
+    {
+      "word": "man.",
+      "start": 5.68,
+      "end": 5.86
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

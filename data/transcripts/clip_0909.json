@@ -1,0 +1,260 @@
+{
+  "clip_id": "clip_0909",
+  "text": "Sermon in front will push next time. And good strong weaving down the straight please. All the way to Porto. Good strong weaving. In a good position you know. Four cars to go in front. Good braking to Porto. Three cars to go. No threats behind. Two cars to go.",
+  "words": [
+    {
+      "word": "Sermon",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "in",
+      "start": 0.34,
+      "end": 0.42
+    },
+    {
+      "word": "front",
+      "start": 0.42,
+      "end": 0.56
+    },
+    {
+      "word": "will",
+      "start": 0.56,
+      "end": 0.72
+    },
+    {
+      "word": "push",
+      "start": 0.72,
+      "end": 1.06
+    },
+    {
+      "word": "next",
+      "start": 1.06,
+      "end": 1.24
+    },
+    {
+      "word": "time.",
+      "start": 1.24,
+      "end": 1.44
+    },
+    {
+      "word": "And",
+      "start": 2.82,
+      "end": 3.28
+    },
+    {
+      "word": "good",
+      "start": 3.28,
+      "end": 3.52
+    },
+    {
+      "word": "strong",
+      "start": 3.52,
+      "end": 3.86
+    },
+    {
+      "word": "weaving",
+      "start": 3.86,
+      "end": 4.12
+    },
+    {
+      "word": "down",
+      "start": 4.12,
+      "end": 4.42
+    },
+    {
+      "word": "the",
+      "start": 4.42,
+      "end": 4.58
+    },
+    {
+      "word": "straight",
+      "start": 4.58,
+      "end": 4.78
+    },
+    {
+      "word": "please.",
+      "start": 4.78,
+      "end": 5.02
+    },
+    {
+      "word": "All",
+      "start": 5.42,
+      "end": 5.54
+    },
+    {
+      "word": "the",
+      "start": 5.54,
+      "end": 5.66
+    },
+    {
+      "word": "way",
+      "start": 5.66,
+      "end": 5.76
+    },
+    {
+      "word": "to",
+      "start": 5.76,
+      "end": 5.84
+    },
+    {
+      "word": "Porto.",
+      "start": 5.84,
+      "end": 6.18
+    },
+    {
+      "word": "Good",
+      "start": 6.3,
+      "end": 6.38
+    },
+    {
+      "word": "strong",
+      "start": 6.38,
+      "end": 6.62
+    },
+    {
+      "word": "weaving.",
+      "start": 6.62,
+      "end": 6.84
+    },
+    {
+      "word": "In",
+      "start": 7.08,
+      "end": 7.18
+    },
+    {
+      "word": "a",
+      "start": 7.18,
+      "end": 7.3
+    },
+    {
+      "word": "good",
+      "start": 7.3,
+      "end": 7.4
+    },
+    {
+      "word": "position",
+      "start": 7.4,
+      "end": 7.76
+    },
+    {
+      "word": "you",
+      "start": 7.76,
+      "end": 7.92
+    },
+    {
+      "word": "know.",
+      "start": 7.92,
+      "end": 8.02
+    },
+    {
+      "word": "Four",
+      "start": 10.04,
+      "end": 10.5
+    },
+    {
+      "word": "cars",
+      "start": 10.5,
+      "end": 10.74
+    },
+    {
+      "word": "to",
+      "start": 10.74,
+      "end": 10.9
+    },
+    {
+      "word": "go",
+      "start": 10.9,
+      "end": 11.04
+    },
+    {
+      "word": "in",
+      "start": 11.04,
+      "end": 11.1
+    },
+    {
+      "word": "front.",
+      "start": 11.1,
+      "end": 11.3
+    },
+    {
+      "word": "Good",
+      "start": 12.6,
+      "end": 13.06
+    },
+    {
+      "word": "braking",
+      "start": 13.06,
+      "end": 13.4
+    },
+    {
+      "word": "to",
+      "start": 13.4,
+      "end": 13.66
+    },
+    {
+      "word": "Porto.",
+      "start": 13.66,
+      "end": 14.02
+    },
+    {
+      "word": "Three",
+      "start": 14.82,
+      "end": 15.28
+    },
+    {
+      "word": "cars",
+      "start": 15.28,
+      "end": 15.52
+    },
+    {
+      "word": "to",
+      "start": 15.52,
+      "end": 15.7
+    },
+    {
+      "word": "go.",
+      "start": 15.7,
+      "end": 15.86
+    },
+    {
+      "word": "No",
+      "start": 17.28,
+      "end": 17.74
+    },
+    {
+      "word": "threats",
+      "start": 17.74,
+      "end": 17.94
+    },
+    {
+      "word": "behind.",
+      "start": 17.94,
+      "end": 18.3
+    },
+    {
+      "word": "Two",
+      "start": 18.5,
+      "end": 18.66
+    },
+    {
+      "word": "cars",
+      "start": 18.66,
+      "end": 18.9
+    },
+    {
+      "word": "to",
+      "start": 18.9,
+      "end": 19.08
+    },
+    {
+      "word": "go.",
+      "start": 19.08,
+      "end": 19.26
+    }
+  ],
+  "language": "en",
+  "word_count": 50,
+  "is_empty": false,
+  "is_very_short": false
+}

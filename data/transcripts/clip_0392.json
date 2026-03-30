@@ -1,0 +1,140 @@
+{
+  "clip_id": "clip_0392",
+  "text": "...this will have overtaken... ...8.7 ahead... ...behind 26... ...and they're just passing all the right places! Boost available early press... ...will have overtaken... ...7.9...",
+  "words": [
+    {
+      "word": "...this",
+      "start": 1.7,
+      "end": 2.46
+    },
+    {
+      "word": "will",
+      "start": 2.46,
+      "end": 2.84
+    },
+    {
+      "word": "have",
+      "start": 2.84,
+      "end": 3.1
+    },
+    {
+      "word": "overtaken...",
+      "start": 3.1,
+      "end": 4.4
+    },
+    {
+      "word": "...8",
+      "start": 4.4,
+      "end": 4.74
+    },
+    {
+      "word": ".7",
+      "start": 4.74,
+      "end": 5.44
+    },
+    {
+      "word": "ahead...",
+      "start": 5.44,
+      "end": 6.0
+    },
+    {
+      "word": "...behind",
+      "start": 8.8,
+      "end": 9.56
+    },
+    {
+      "word": "26...",
+      "start": 9.56,
+      "end": 10.32
+    },
+    {
+      "word": "...and",
+      "start": 10.32,
+      "end": 10.62
+    },
+    {
+      "word": "they're",
+      "start": 10.62,
+      "end": 10.86
+    },
+    {
+      "word": "just",
+      "start": 10.86,
+      "end": 10.94
+    },
+    {
+      "word": "passing",
+      "start": 10.94,
+      "end": 11.34
+    },
+    {
+      "word": "all",
+      "start": 11.34,
+      "end": 11.52
+    },
+    {
+      "word": "the",
+      "start": 11.52,
+      "end": 11.62
+    },
+    {
+      "word": "right",
+      "start": 11.62,
+      "end": 11.74
+    },
+    {
+      "word": "places!",
+      "start": 11.74,
+      "end": 12.12
+    },
+    {
+      "word": "Boost",
+      "start": 13.78,
+      "end": 14.36
+    },
+    {
+      "word": "available",
+      "start": 14.36,
+      "end": 14.74
+    },
+    {
+      "word": "early",
+      "start": 14.74,
+      "end": 15.1
+    },
+    {
+      "word": "press...",
+      "start": 15.1,
+      "end": 16.06
+    },
+    {
+      "word": "...will",
+      "start": 16.06,
+      "end": 16.66
+    },
+    {
+      "word": "have",
+      "start": 16.66,
+      "end": 16.9
+    },
+    {
+      "word": "overtaken...",
+      "start": 16.9,
+      "end": 18.0
+    },
+    {
+      "word": "...7",
+      "start": 19.0,
+      "end": 19.26
+    },
+    {
+      "word": ".9...",
+      "start": 19.26,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

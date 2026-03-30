@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_1028",
+  "text": "For us, Tyropus is still OK. Might be slight error damage. Yeah, that was my vote. Understood. Just trying to race. Axel, I've made loss to... ...car head and car behind. It's actually breaking and exit of turn six. Well, car behind six.",
+  "words": [
+    {
+      "word": "For",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "us,",
+      "start": 0.16,
+      "end": 0.34
+    },
+    {
+      "word": "Tyropus",
+      "start": 0.52,
+      "end": 0.96
+    },
+    {
+      "word": "is",
+      "start": 0.96,
+      "end": 1.14
+    },
+    {
+      "word": "still",
+      "start": 1.14,
+      "end": 1.32
+    },
+    {
+      "word": "OK.",
+      "start": 1.32,
+      "end": 1.66
+    },
+    {
+      "word": "Might",
+      "start": 2.08,
+      "end": 2.32
+    },
+    {
+      "word": "be",
+      "start": 2.32,
+      "end": 2.5
+    },
+    {
+      "word": "slight",
+      "start": 2.5,
+      "end": 2.82
+    },
+    {
+      "word": "error",
+      "start": 2.82,
+      "end": 3.22
+    },
+    {
+      "word": "damage.",
+      "start": 3.22,
+      "end": 3.54
+    },
+    {
+      "word": "Yeah,",
+      "start": 4.38,
+      "end": 4.84
+    },
+    {
+      "word": "that",
+      "start": 4.92,
+      "end": 4.98
+    },
+    {
+      "word": "was",
+      "start": 4.98,
+      "end": 5.12
+    },
+    {
+      "word": "my",
+      "start": 5.12,
+      "end": 5.26
+    },
+    {
+      "word": "vote.",
+      "start": 5.26,
+      "end": 5.52
+    },
+    {
+      "word": "Understood.",
+      "start": 7.3,
+      "end": 7.78
+    },
+    {
+      "word": "Just",
+      "start": 8.2,
+      "end": 8.28
+    },
+    {
+      "word": "trying",
+      "start": 8.28,
+      "end": 8.52
+    },
+    {
+      "word": "to",
+      "start": 8.52,
+      "end": 8.66
+    },
+    {
+      "word": "race.",
+      "start": 8.66,
+      "end": 8.92
+    },
+    {
+      "word": "Axel,",
+      "start": 11.36,
+      "end": 11.84
+    },
+    {
+      "word": "I've",
+      "start": 11.86,
+      "end": 11.94
+    },
+    {
+      "word": "made",
+      "start": 11.94,
+      "end": 12.04
+    },
+    {
+      "word": "loss",
+      "start": 12.04,
+      "end": 12.38
+    },
+    {
+      "word": "to...",
+      "start": 12.38,
+      "end": 13.0
+    },
+    {
+      "word": "...car",
+      "start": 13.7,
+      "end": 14.06
+    },
+    {
+      "word": "head",
+      "start": 14.06,
+      "end": 14.26
+    },
+    {
+      "word": "and",
+      "start": 14.26,
+      "end": 14.34
+    },
+    {
+      "word": "car",
+      "start": 14.34,
+      "end": 14.52
+    },
+    {
+      "word": "behind.",
+      "start": 14.52,
+      "end": 14.82
+    },
+    {
+      "word": "It's",
+      "start": 14.96,
+      "end": 15.0
+    },
+    {
+      "word": "actually",
+      "start": 15.0,
+      "end": 15.2
+    },
+    {
+      "word": "breaking",
+      "start": 15.2,
+      "end": 15.6
+    },
+    {
+      "word": "and",
+      "start": 15.6,
+      "end": 16.32
+    },
+    {
+      "word": "exit",
+      "start": 16.32,
+      "end": 16.88
+    },
+    {
+      "word": "of",
+      "start": 16.88,
+      "end": 17.1
+    },
+    {
+      "word": "turn",
+      "start": 17.1,
+      "end": 17.22
+    },
+    {
+      "word": "six.",
+      "start": 17.22,
+      "end": 17.6
+    },
+    {
+      "word": "Well,",
+      "start": 18.34,
+      "end": 18.82
+    },
+    {
+      "word": "car",
+      "start": 19.08,
+      "end": 19.26
+    },
+    {
+      "word": "behind",
+      "start": 19.26,
+      "end": 19.52
+    },
+    {
+      "word": "six.",
+      "start": 19.52,
+      "end": 19.76
+    }
+  ],
+  "language": "en",
+  "word_count": 43,
+  "is_empty": false,
+  "is_very_short": false
+}

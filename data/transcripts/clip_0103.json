@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0103",
+  "text": "A QPREX, AXE was flat at 7K. 10K, 7K. And the temp is at 0. I think it's around 60ms. Level 4, please. No, it's about flat. That was good. Focus on these front tires.",
+  "words": [
+    {
+      "word": "A",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "QPREX,",
+      "start": 0.4,
+      "end": 1.02
+    },
+    {
+      "word": "AXE",
+      "start": 1.16,
+      "end": 3.5
+    },
+    {
+      "word": "was",
+      "start": 3.5,
+      "end": 3.66
+    },
+    {
+      "word": "flat",
+      "start": 3.66,
+      "end": 3.98
+    },
+    {
+      "word": "at",
+      "start": 3.98,
+      "end": 4.14
+    },
+    {
+      "word": "7K.",
+      "start": 4.14,
+      "end": 4.62
+    },
+    {
+      "word": "10K,",
+      "start": 5.08,
+      "end": 5.46
+    },
+    {
+      "word": "7K.",
+      "start": 5.6,
+      "end": 6.16
+    },
+    {
+      "word": "And",
+      "start": 7.9,
+      "end": 8.38
+    },
+    {
+      "word": "the",
+      "start": 8.38,
+      "end": 8.86
+    },
+    {
+      "word": "temp",
+      "start": 8.86,
+      "end": 9.38
+    },
+    {
+      "word": "is",
+      "start": 9.38,
+      "end": 9.62
+    },
+    {
+      "word": "at",
+      "start": 9.62,
+      "end": 9.74
+    },
+    {
+      "word": "0.",
+      "start": 9.74,
+      "end": 9.92
+    },
+    {
+      "word": "I",
+      "start": 11.02,
+      "end": 11.5
+    },
+    {
+      "word": "think",
+      "start": 11.5,
+      "end": 11.68
+    },
+    {
+      "word": "it's",
+      "start": 11.68,
+      "end": 11.9
+    },
+    {
+      "word": "around",
+      "start": 11.9,
+      "end": 12.16
+    },
+    {
+      "word": "60ms.",
+      "start": 12.16,
+      "end": 13.06
+    },
+    {
+      "word": "Level",
+      "start": 14.46,
+      "end": 14.94
+    },
+    {
+      "word": "4,",
+      "start": 14.94,
+      "end": 15.24
+    },
+    {
+      "word": "please.",
+      "start": 15.3,
+      "end": 15.48
+    },
+    {
+      "word": "No,",
+      "start": 15.76,
+      "end": 15.82
+    },
+    {
+      "word": "it's",
+      "start": 16.0,
+      "end": 16.14
+    },
+    {
+      "word": "about",
+      "start": 16.14,
+      "end": 16.26
+    },
+    {
+      "word": "flat.",
+      "start": 16.26,
+      "end": 16.5
+    },
+    {
+      "word": "That",
+      "start": 16.7,
+      "end": 16.74
+    },
+    {
+      "word": "was",
+      "start": 16.74,
+      "end": 16.84
+    },
+    {
+      "word": "good.",
+      "start": 16.84,
+      "end": 17.04
+    },
+    {
+      "word": "Focus",
+      "start": 17.22,
+      "end": 17.36
+    },
+    {
+      "word": "on",
+      "start": 17.36,
+      "end": 17.62
+    },
+    {
+      "word": "these",
+      "start": 17.62,
+      "end": 17.82
+    },
+    {
+      "word": "front",
+      "start": 17.82,
+      "end": 18.04
+    },
+    {
+      "word": "tires.",
+      "start": 18.04,
+      "end": 18.28
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

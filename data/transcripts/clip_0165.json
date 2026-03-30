@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0165",
+  "text": "He's 3, that's 40 on your right. He's not out of attack, he's likely going to get him back. Hello, please. Low zone without attack. I dropped on 70 on you. Low zone without attack.",
+  "words": [
+    {
+      "word": "He's",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "3,",
+      "start": 0.24,
+      "end": 0.4
+    },
+    {
+      "word": "that's",
+      "start": 1.08,
+      "end": 1.4
+    },
+    {
+      "word": "40",
+      "start": 1.4,
+      "end": 2.08
+    },
+    {
+      "word": "on",
+      "start": 2.08,
+      "end": 2.62
+    },
+    {
+      "word": "your",
+      "start": 2.62,
+      "end": 2.8
+    },
+    {
+      "word": "right.",
+      "start": 2.8,
+      "end": 3.14
+    },
+    {
+      "word": "He's",
+      "start": 4.92,
+      "end": 5.4
+    },
+    {
+      "word": "not",
+      "start": 5.4,
+      "end": 5.6
+    },
+    {
+      "word": "out",
+      "start": 5.6,
+      "end": 6.46
+    },
+    {
+      "word": "of",
+      "start": 6.46,
+      "end": 6.56
+    },
+    {
+      "word": "attack,",
+      "start": 6.56,
+      "end": 6.84
+    },
+    {
+      "word": "he's",
+      "start": 7.16,
+      "end": 7.4
+    },
+    {
+      "word": "likely",
+      "start": 7.4,
+      "end": 7.64
+    },
+    {
+      "word": "going",
+      "start": 7.64,
+      "end": 7.86
+    },
+    {
+      "word": "to",
+      "start": 7.86,
+      "end": 7.94
+    },
+    {
+      "word": "get",
+      "start": 7.94,
+      "end": 8.12
+    },
+    {
+      "word": "him",
+      "start": 8.12,
+      "end": 8.3
+    },
+    {
+      "word": "back.",
+      "start": 8.3,
+      "end": 8.54
+    },
+    {
+      "word": "Hello,",
+      "start": 8.76,
+      "end": 8.86
+    },
+    {
+      "word": "please.",
+      "start": 8.96,
+      "end": 9.1
+    },
+    {
+      "word": "Low",
+      "start": 12.68,
+      "end": 13.16
+    },
+    {
+      "word": "zone",
+      "start": 13.16,
+      "end": 13.54
+    },
+    {
+      "word": "without",
+      "start": 13.54,
+      "end": 14.04
+    },
+    {
+      "word": "attack.",
+      "start": 14.04,
+      "end": 14.46
+    },
+    {
+      "word": "I",
+      "start": 14.88,
+      "end": 15.0
+    },
+    {
+      "word": "dropped",
+      "start": 15.0,
+      "end": 15.2
+    },
+    {
+      "word": "on",
+      "start": 15.2,
+      "end": 15.4
+    },
+    {
+      "word": "70",
+      "start": 15.4,
+      "end": 15.8
+    },
+    {
+      "word": "on",
+      "start": 15.8,
+      "end": 15.98
+    },
+    {
+      "word": "you.",
+      "start": 15.98,
+      "end": 16.06
+    },
+    {
+      "word": "Low",
+      "start": 16.28,
+      "end": 16.3
+    },
+    {
+      "word": "zone",
+      "start": 16.3,
+      "end": 16.48
+    },
+    {
+      "word": "without",
+      "start": 16.48,
+      "end": 16.76
+    },
+    {
+      "word": "attack.",
+      "start": 16.76,
+      "end": 17.1
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

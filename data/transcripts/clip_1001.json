@@ -1,0 +1,240 @@
+{
+  "clip_id": "clip_1001",
+  "text": "could well be a two stop. But I was with the safety code for this only thing you just watch the delta please make sure the delta just positive. Very frustrating. Right. Let's just focus on ourselves here, buddy. Antonelli back out in front. Colopinto Ocon.",
+  "words": [
+    {
+      "word": "could",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "well",
+      "start": 0.12,
+      "end": 0.28
+    },
+    {
+      "word": "be",
+      "start": 0.28,
+      "end": 0.44
+    },
+    {
+      "word": "a",
+      "start": 0.44,
+      "end": 0.52
+    },
+    {
+      "word": "two",
+      "start": 0.52,
+      "end": 0.68
+    },
+    {
+      "word": "stop.",
+      "start": 0.68,
+      "end": 0.92
+    },
+    {
+      "word": "But",
+      "start": 1.44,
+      "end": 1.44
+    },
+    {
+      "word": "I",
+      "start": 3.5,
+      "end": 3.98
+    },
+    {
+      "word": "was",
+      "start": 3.98,
+      "end": 4.2
+    },
+    {
+      "word": "with",
+      "start": 4.2,
+      "end": 4.34
+    },
+    {
+      "word": "the",
+      "start": 4.34,
+      "end": 4.46
+    },
+    {
+      "word": "safety",
+      "start": 4.46,
+      "end": 4.66
+    },
+    {
+      "word": "code",
+      "start": 4.66,
+      "end": 4.98
+    },
+    {
+      "word": "for",
+      "start": 4.98,
+      "end": 5.2
+    },
+    {
+      "word": "this",
+      "start": 5.2,
+      "end": 5.4
+    },
+    {
+      "word": "only",
+      "start": 5.4,
+      "end": 5.78
+    },
+    {
+      "word": "thing",
+      "start": 5.78,
+      "end": 6.76
+    },
+    {
+      "word": "you",
+      "start": 6.76,
+      "end": 7.02
+    },
+    {
+      "word": "just",
+      "start": 7.02,
+      "end": 8.04
+    },
+    {
+      "word": "watch",
+      "start": 8.04,
+      "end": 8.26
+    },
+    {
+      "word": "the",
+      "start": 8.26,
+      "end": 8.4
+    },
+    {
+      "word": "delta",
+      "start": 8.4,
+      "end": 8.6
+    },
+    {
+      "word": "please",
+      "start": 8.6,
+      "end": 8.86
+    },
+    {
+      "word": "make",
+      "start": 8.86,
+      "end": 9.04
+    },
+    {
+      "word": "sure",
+      "start": 9.04,
+      "end": 9.2
+    },
+    {
+      "word": "the",
+      "start": 9.2,
+      "end": 9.48
+    },
+    {
+      "word": "delta",
+      "start": 9.48,
+      "end": 9.68
+    },
+    {
+      "word": "just",
+      "start": 9.68,
+      "end": 9.88
+    },
+    {
+      "word": "positive.",
+      "start": 9.88,
+      "end": 10.7
+    },
+    {
+      "word": "Very",
+      "start": 10.74,
+      "end": 11.22
+    },
+    {
+      "word": "frustrating.",
+      "start": 11.22,
+      "end": 11.88
+    },
+    {
+      "word": "Right.",
+      "start": 12.06,
+      "end": 12.16
+    },
+    {
+      "word": "Let's",
+      "start": 12.2,
+      "end": 12.3
+    },
+    {
+      "word": "just",
+      "start": 12.3,
+      "end": 12.44
+    },
+    {
+      "word": "focus",
+      "start": 12.44,
+      "end": 13.88
+    },
+    {
+      "word": "on",
+      "start": 13.88,
+      "end": 14.74
+    },
+    {
+      "word": "ourselves",
+      "start": 14.74,
+      "end": 14.98
+    },
+    {
+      "word": "here,",
+      "start": 14.98,
+      "end": 15.22
+    },
+    {
+      "word": "buddy.",
+      "start": 15.22,
+      "end": 15.4
+    },
+    {
+      "word": "Antonelli",
+      "start": 16.48,
+      "end": 16.96
+    },
+    {
+      "word": "back",
+      "start": 16.96,
+      "end": 17.3
+    },
+    {
+      "word": "out",
+      "start": 17.3,
+      "end": 17.62
+    },
+    {
+      "word": "in",
+      "start": 17.62,
+      "end": 17.86
+    },
+    {
+      "word": "front.",
+      "start": 17.86,
+      "end": 18.14
+    },
+    {
+      "word": "Colopinto",
+      "start": 18.58,
+      "end": 19.06
+    },
+    {
+      "word": "Ocon.",
+      "start": 19.06,
+      "end": 19.56
+    }
+  ],
+  "language": "en",
+  "word_count": 46,
+  "is_empty": false,
+  "is_very_short": false
+}

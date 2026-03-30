@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_0062",
+  "text": "We still gained the overlamp, but we were out.",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "still",
+      "start": 0.16,
+      "end": 0.4
+    },
+    {
+      "word": "gained",
+      "start": 0.4,
+      "end": 0.76
+    },
+    {
+      "word": "the",
+      "start": 0.76,
+      "end": 0.96
+    },
+    {
+      "word": "overlamp,",
+      "start": 0.96,
+      "end": 2.22
+    },
+    {
+      "word": "but",
+      "start": 2.54,
+      "end": 2.82
+    },
+    {
+      "word": "we",
+      "start": 2.82,
+      "end": 3.58
+    },
+    {
+      "word": "were",
+      "start": 3.58,
+      "end": 3.8
+    },
+    {
+      "word": "out.",
+      "start": 3.8,
+      "end": 3.96
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

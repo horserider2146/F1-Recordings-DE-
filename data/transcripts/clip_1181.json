@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_1181",
+  "text": "So gap to checker 1.6 car ahead is Lindblad. So Lindblad last lap 39.8. Checker last lap 40.3. Lindblad 38.6. Ok so Ocon now the car behind 1.9.",
+  "words": [
+    {
+      "word": "So",
+      "start": 2.22,
+      "end": 2.9
+    },
+    {
+      "word": "gap",
+      "start": 2.9,
+      "end": 3.16
+    },
+    {
+      "word": "to",
+      "start": 3.16,
+      "end": 3.38
+    },
+    {
+      "word": "checker",
+      "start": 3.38,
+      "end": 3.64
+    },
+    {
+      "word": "1",
+      "start": 3.64,
+      "end": 3.78
+    },
+    {
+      "word": ".6",
+      "start": 3.78,
+      "end": 4.32
+    },
+    {
+      "word": "car",
+      "start": 4.32,
+      "end": 4.66
+    },
+    {
+      "word": "ahead",
+      "start": 4.66,
+      "end": 4.96
+    },
+    {
+      "word": "is",
+      "start": 4.96,
+      "end": 5.2
+    },
+    {
+      "word": "Lindblad.",
+      "start": 5.2,
+      "end": 5.78
+    },
+    {
+      "word": "So",
+      "start": 6.82,
+      "end": 7.34
+    },
+    {
+      "word": "Lindblad",
+      "start": 7.34,
+      "end": 7.94
+    },
+    {
+      "word": "last",
+      "start": 7.94,
+      "end": 8.18
+    },
+    {
+      "word": "lap",
+      "start": 8.18,
+      "end": 8.4
+    },
+    {
+      "word": "39",
+      "start": 8.4,
+      "end": 8.9
+    },
+    {
+      "word": ".8.",
+      "start": 8.9,
+      "end": 9.48
+    },
+    {
+      "word": "Checker",
+      "start": 11.16,
+      "end": 11.84
+    },
+    {
+      "word": "last",
+      "start": 11.84,
+      "end": 12.02
+    },
+    {
+      "word": "lap",
+      "start": 12.02,
+      "end": 12.28
+    },
+    {
+      "word": "40",
+      "start": 12.28,
+      "end": 12.6
+    },
+    {
+      "word": ".3.",
+      "start": 12.6,
+      "end": 13.24
+    },
+    {
+      "word": "Lindblad",
+      "start": 13.46,
+      "end": 14.0
+    },
+    {
+      "word": "38",
+      "start": 14.0,
+      "end": 14.44
+    },
+    {
+      "word": ".6.",
+      "start": 14.44,
+      "end": 15.12
+    },
+    {
+      "word": "Ok",
+      "start": 16.56,
+      "end": 17.24
+    },
+    {
+      "word": "so",
+      "start": 17.24,
+      "end": 17.5
+    },
+    {
+      "word": "Ocon",
+      "start": 17.5,
+      "end": 17.9
+    },
+    {
+      "word": "now",
+      "start": 17.9,
+      "end": 18.18
+    },
+    {
+      "word": "the",
+      "start": 18.18,
+      "end": 18.32
+    },
+    {
+      "word": "car",
+      "start": 18.32,
+      "end": 18.48
+    },
+    {
+      "word": "behind",
+      "start": 18.48,
+      "end": 18.82
+    },
+    {
+      "word": "1",
+      "start": 18.82,
+      "end": 19.1
+    },
+    {
+      "word": ".9.",
+      "start": 19.1,
+      "end": 19.68
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

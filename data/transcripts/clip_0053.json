@@ -1,0 +1,85 @@
+{
+  "clip_id": "clip_0053",
+  "text": "Yes, and we did not in the second, I think it's better with the potion.",
+  "words": [
+    {
+      "word": "Yes,",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "and",
+      "start": 0.48,
+      "end": 0.72
+    },
+    {
+      "word": "we",
+      "start": 0.72,
+      "end": 1.48
+    },
+    {
+      "word": "did",
+      "start": 1.48,
+      "end": 1.7
+    },
+    {
+      "word": "not",
+      "start": 1.7,
+      "end": 1.96
+    },
+    {
+      "word": "in",
+      "start": 1.96,
+      "end": 2.22
+    },
+    {
+      "word": "the",
+      "start": 2.22,
+      "end": 2.44
+    },
+    {
+      "word": "second,",
+      "start": 2.44,
+      "end": 2.88
+    },
+    {
+      "word": "I",
+      "start": 3.12,
+      "end": 3.22
+    },
+    {
+      "word": "think",
+      "start": 3.22,
+      "end": 3.38
+    },
+    {
+      "word": "it's",
+      "start": 3.38,
+      "end": 3.68
+    },
+    {
+      "word": "better",
+      "start": 3.68,
+      "end": 4.12
+    },
+    {
+      "word": "with",
+      "start": 4.12,
+      "end": 4.46
+    },
+    {
+      "word": "the",
+      "start": 4.46,
+      "end": 4.78
+    },
+    {
+      "word": "potion.",
+      "start": 4.78,
+      "end": 4.96
+    }
+  ],
+  "language": "en",
+  "word_count": 15,
+  "is_empty": false,
+  "is_very_short": false
+}

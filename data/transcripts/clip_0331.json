@@ -1,0 +1,25 @@
+{
+  "clip_id": "clip_0331",
+  "text": "target plus four",
+  "words": [
+    {
+      "word": "target",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "plus",
+      "start": 0.3,
+      "end": 0.74
+    },
+    {
+      "word": "four",
+      "start": 0.74,
+      "end": 1.52
+    }
+  ],
+  "language": "en",
+  "word_count": 3,
+  "is_empty": false,
+  "is_very_short": false
+}

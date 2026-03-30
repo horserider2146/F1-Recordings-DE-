@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_0078",
+  "text": "It's a 52610 focus rate, 52610.",
+  "words": [
+    {
+      "word": "It's",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "a",
+      "start": 0.28,
+      "end": 0.34
+    },
+    {
+      "word": "52610",
+      "start": 0.34,
+      "end": 1.22
+    },
+    {
+      "word": "focus",
+      "start": 1.22,
+      "end": 1.5
+    },
+    {
+      "word": "rate,",
+      "start": 1.5,
+      "end": 1.78
+    },
+    {
+      "word": "52610.",
+      "start": 1.94,
+      "end": 2.6
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

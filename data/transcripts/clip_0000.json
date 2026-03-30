@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0000",
+  "text": "Okay, we'll switch off the pit line for a half minute.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "we'll",
+      "start": 0.34,
+      "end": 0.52
+    },
+    {
+      "word": "switch",
+      "start": 0.52,
+      "end": 0.7
+    },
+    {
+      "word": "off",
+      "start": 0.7,
+      "end": 0.96
+    },
+    {
+      "word": "the",
+      "start": 0.96,
+      "end": 1.34
+    },
+    {
+      "word": "pit",
+      "start": 1.34,
+      "end": 1.52
+    },
+    {
+      "word": "line",
+      "start": 1.52,
+      "end": 1.66
+    },
+    {
+      "word": "for",
+      "start": 1.66,
+      "end": 1.88
+    },
+    {
+      "word": "a",
+      "start": 1.88,
+      "end": 1.98
+    },
+    {
+      "word": "half",
+      "start": 1.98,
+      "end": 2.14
+    },
+    {
+      "word": "minute.",
+      "start": 2.14,
+      "end": 2.26
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

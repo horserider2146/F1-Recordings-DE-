@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0993",
+  "text": "But turns out destroy little books to my generations. Yeah, copy.",
+  "words": [
+    {
+      "word": "But",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "word": "turns",
+      "start": 0.52,
+      "end": 0.84
+    },
+    {
+      "word": "out",
+      "start": 0.84,
+      "end": 1.1
+    },
+    {
+      "word": "destroy",
+      "start": 1.1,
+      "end": 1.54
+    },
+    {
+      "word": "little",
+      "start": 1.54,
+      "end": 1.84
+    },
+    {
+      "word": "books",
+      "start": 1.84,
+      "end": 2.2
+    },
+    {
+      "word": "to",
+      "start": 2.2,
+      "end": 3.04
+    },
+    {
+      "word": "my",
+      "start": 3.04,
+      "end": 3.2
+    },
+    {
+      "word": "generations.",
+      "start": 3.2,
+      "end": 3.68
+    },
+    {
+      "word": "Yeah,",
+      "start": 4.1,
+      "end": 4.44
+    },
+    {
+      "word": "copy.",
+      "start": 4.5,
+      "end": 4.72
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

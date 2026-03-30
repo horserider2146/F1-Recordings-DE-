@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_0064",
+  "text": "We can take shape too if you break earlier.",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "can",
+      "start": 0.18,
+      "end": 0.38
+    },
+    {
+      "word": "take",
+      "start": 0.38,
+      "end": 0.68
+    },
+    {
+      "word": "shape",
+      "start": 0.68,
+      "end": 0.96
+    },
+    {
+      "word": "too",
+      "start": 0.96,
+      "end": 1.26
+    },
+    {
+      "word": "if",
+      "start": 1.26,
+      "end": 1.54
+    },
+    {
+      "word": "you",
+      "start": 1.54,
+      "end": 1.68
+    },
+    {
+      "word": "break",
+      "start": 1.68,
+      "end": 1.88
+    },
+    {
+      "word": "earlier.",
+      "start": 1.88,
+      "end": 2.18
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

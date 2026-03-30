@@ -1,0 +1,70 @@
+{
+  "clip_id": "clip_0347",
+  "text": "So we've got 10 seconds to green light. Turn the top right.",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "we've",
+      "start": 0.14,
+      "end": 0.2
+    },
+    {
+      "word": "got",
+      "start": 0.2,
+      "end": 0.28
+    },
+    {
+      "word": "10",
+      "start": 0.28,
+      "end": 0.68
+    },
+    {
+      "word": "seconds",
+      "start": 0.68,
+      "end": 1.04
+    },
+    {
+      "word": "to",
+      "start": 1.04,
+      "end": 1.34
+    },
+    {
+      "word": "green",
+      "start": 1.34,
+      "end": 1.5
+    },
+    {
+      "word": "light.",
+      "start": 1.5,
+      "end": 1.78
+    },
+    {
+      "word": "Turn",
+      "start": 2.12,
+      "end": 2.36
+    },
+    {
+      "word": "the",
+      "start": 2.36,
+      "end": 2.48
+    },
+    {
+      "word": "top",
+      "start": 2.48,
+      "end": 2.62
+    },
+    {
+      "word": "right.",
+      "start": 2.62,
+      "end": 2.86
+    }
+  ],
+  "language": "en",
+  "word_count": 12,
+  "is_empty": false,
+  "is_very_short": false
+}

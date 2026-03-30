@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0026",
+  "text": "After you switch off, wait 10 seconds and back to P2. Ok, make sure you look after your gaps, it exists, or we need a hard laptop, but easy on power.",
+  "words": [
+    {
+      "word": "After",
+      "start": 0.0,
+      "end": 0.62
+    },
+    {
+      "word": "you",
+      "start": 0.62,
+      "end": 0.78
+    },
+    {
+      "word": "switch",
+      "start": 0.78,
+      "end": 0.9
+    },
+    {
+      "word": "off,",
+      "start": 0.9,
+      "end": 1.16
+    },
+    {
+      "word": "wait",
+      "start": 1.44,
+      "end": 1.66
+    },
+    {
+      "word": "10",
+      "start": 1.66,
+      "end": 1.84
+    },
+    {
+      "word": "seconds",
+      "start": 1.84,
+      "end": 2.1
+    },
+    {
+      "word": "and",
+      "start": 2.1,
+      "end": 2.34
+    },
+    {
+      "word": "back",
+      "start": 2.34,
+      "end": 2.54
+    },
+    {
+      "word": "to",
+      "start": 2.54,
+      "end": 2.66
+    },
+    {
+      "word": "P2.",
+      "start": 2.66,
+      "end": 2.88
+    },
+    {
+      "word": "Ok,",
+      "start": 4.66,
+      "end": 5.02
+    },
+    {
+      "word": "make",
+      "start": 5.14,
+      "end": 5.22
+    },
+    {
+      "word": "sure",
+      "start": 5.22,
+      "end": 5.36
+    },
+    {
+      "word": "you",
+      "start": 5.36,
+      "end": 5.44
+    },
+    {
+      "word": "look",
+      "start": 5.44,
+      "end": 5.56
+    },
+    {
+      "word": "after",
+      "start": 5.56,
+      "end": 5.72
+    },
+    {
+      "word": "your",
+      "start": 5.72,
+      "end": 5.88
+    },
+    {
+      "word": "gaps,",
+      "start": 5.88,
+      "end": 6.06
+    },
+    {
+      "word": "it",
+      "start": 6.52,
+      "end": 6.56
+    },
+    {
+      "word": "exists,",
+      "start": 6.56,
+      "end": 6.88
+    },
+    {
+      "word": "or",
+      "start": 7.26,
+      "end": 7.38
+    },
+    {
+      "word": "we",
+      "start": 7.38,
+      "end": 7.48
+    },
+    {
+      "word": "need",
+      "start": 7.48,
+      "end": 7.56
+    },
+    {
+      "word": "a",
+      "start": 7.56,
+      "end": 7.64
+    },
+    {
+      "word": "hard",
+      "start": 7.64,
+      "end": 7.9
+    },
+    {
+      "word": "laptop,",
+      "start": 7.9,
+      "end": 8.14
+    },
+    {
+      "word": "but",
+      "start": 8.54,
+      "end": 8.68
+    },
+    {
+      "word": "easy",
+      "start": 8.68,
+      "end": 9.1
+    },
+    {
+      "word": "on",
+      "start": 9.1,
+      "end": 9.34
+    },
+    {
+      "word": "power.",
+      "start": 9.34,
+      "end": 9.52
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

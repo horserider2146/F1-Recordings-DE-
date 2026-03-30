@@ -1,0 +1,255 @@
+{
+  "clip_id": "clip_0529",
+  "text": "and up is Hamilton turn 11. Car behind you though is Leclerc on and out that, Hamilton's three back and turns 12 on a time lap. Think it will be clear ahead when you get there. Hamilton's approaching turn 14. Assumed for now, single cool, hit the reds up.",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.06
+    },
+    {
+      "word": "up",
+      "start": 0.06,
+      "end": 0.18
+    },
+    {
+      "word": "is",
+      "start": 0.18,
+      "end": 0.32
+    },
+    {
+      "word": "Hamilton",
+      "start": 0.32,
+      "end": 0.7
+    },
+    {
+      "word": "turn",
+      "start": 0.7,
+      "end": 1.26
+    },
+    {
+      "word": "11.",
+      "start": 1.26,
+      "end": 1.66
+    },
+    {
+      "word": "Car",
+      "start": 3.5,
+      "end": 3.74
+    },
+    {
+      "word": "behind",
+      "start": 3.74,
+      "end": 4.04
+    },
+    {
+      "word": "you",
+      "start": 4.04,
+      "end": 4.2
+    },
+    {
+      "word": "though",
+      "start": 4.2,
+      "end": 4.32
+    },
+    {
+      "word": "is",
+      "start": 4.32,
+      "end": 4.46
+    },
+    {
+      "word": "Leclerc",
+      "start": 4.46,
+      "end": 5.12
+    },
+    {
+      "word": "on",
+      "start": 5.12,
+      "end": 5.28
+    },
+    {
+      "word": "and",
+      "start": 5.28,
+      "end": 5.36
+    },
+    {
+      "word": "out",
+      "start": 5.36,
+      "end": 5.56
+    },
+    {
+      "word": "that,",
+      "start": 5.56,
+      "end": 5.72
+    },
+    {
+      "word": "Hamilton's",
+      "start": 5.92,
+      "end": 6.34
+    },
+    {
+      "word": "three",
+      "start": 6.34,
+      "end": 6.58
+    },
+    {
+      "word": "back",
+      "start": 6.58,
+      "end": 6.8
+    },
+    {
+      "word": "and",
+      "start": 6.8,
+      "end": 7.0
+    },
+    {
+      "word": "turns",
+      "start": 7.0,
+      "end": 7.16
+    },
+    {
+      "word": "12",
+      "start": 7.16,
+      "end": 7.56
+    },
+    {
+      "word": "on",
+      "start": 7.56,
+      "end": 7.9
+    },
+    {
+      "word": "a",
+      "start": 7.9,
+      "end": 8.0
+    },
+    {
+      "word": "time",
+      "start": 8.0,
+      "end": 8.3
+    },
+    {
+      "word": "lap.",
+      "start": 8.3,
+      "end": 8.46
+    },
+    {
+      "word": "Think",
+      "start": 9.5,
+      "end": 9.94
+    },
+    {
+      "word": "it",
+      "start": 9.94,
+      "end": 10.1
+    },
+    {
+      "word": "will",
+      "start": 10.1,
+      "end": 10.16
+    },
+    {
+      "word": "be",
+      "start": 10.16,
+      "end": 10.26
+    },
+    {
+      "word": "clear",
+      "start": 10.26,
+      "end": 10.56
+    },
+    {
+      "word": "ahead",
+      "start": 10.56,
+      "end": 10.82
+    },
+    {
+      "word": "when",
+      "start": 10.82,
+      "end": 11.06
+    },
+    {
+      "word": "you",
+      "start": 11.06,
+      "end": 11.18
+    },
+    {
+      "word": "get",
+      "start": 11.18,
+      "end": 11.4
+    },
+    {
+      "word": "there.",
+      "start": 11.4,
+      "end": 11.68
+    },
+    {
+      "word": "Hamilton's",
+      "start": 13.3,
+      "end": 13.74
+    },
+    {
+      "word": "approaching",
+      "start": 13.74,
+      "end": 14.02
+    },
+    {
+      "word": "turn",
+      "start": 14.02,
+      "end": 14.42
+    },
+    {
+      "word": "14.",
+      "start": 14.42,
+      "end": 15.18
+    },
+    {
+      "word": "Assumed",
+      "start": 17.04,
+      "end": 17.48
+    },
+    {
+      "word": "for",
+      "start": 17.48,
+      "end": 17.7
+    },
+    {
+      "word": "now,",
+      "start": 17.7,
+      "end": 17.84
+    },
+    {
+      "word": "single",
+      "start": 17.96,
+      "end": 18.22
+    },
+    {
+      "word": "cool,",
+      "start": 18.22,
+      "end": 18.64
+    },
+    {
+      "word": "hit",
+      "start": 18.84,
+      "end": 18.96
+    },
+    {
+      "word": "the",
+      "start": 18.96,
+      "end": 19.06
+    },
+    {
+      "word": "reds",
+      "start": 19.06,
+      "end": 19.32
+    },
+    {
+      "word": "up.",
+      "start": 19.32,
+      "end": 19.48
+    }
+  ],
+  "language": "en",
+  "word_count": 49,
+  "is_empty": false,
+  "is_very_short": false
+}

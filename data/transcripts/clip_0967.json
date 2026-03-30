@@ -1,0 +1,260 @@
+{
+  "clip_id": "clip_0967",
+  "text": "Gap behind stable one second. Reminders to keep one line under braking and being attacked. Gap 1.2 behind now. Tire management is all good. Only drift loss is 1.2. 30 laps to go. Gap behind stable 1.2. Only loss, drop on the front, turn 3. Focus, exit.",
+  "words": [
+    {
+      "word": "Gap",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "behind",
+      "start": 0.38,
+      "end": 0.58
+    },
+    {
+      "word": "stable",
+      "start": 0.58,
+      "end": 0.96
+    },
+    {
+      "word": "one",
+      "start": 0.96,
+      "end": 1.3
+    },
+    {
+      "word": "second.",
+      "start": 1.3,
+      "end": 1.6
+    },
+    {
+      "word": "Reminders",
+      "start": 2.32,
+      "end": 2.82
+    },
+    {
+      "word": "to",
+      "start": 2.82,
+      "end": 2.92
+    },
+    {
+      "word": "keep",
+      "start": 2.92,
+      "end": 3.02
+    },
+    {
+      "word": "one",
+      "start": 3.02,
+      "end": 3.34
+    },
+    {
+      "word": "line",
+      "start": 3.34,
+      "end": 3.82
+    },
+    {
+      "word": "under",
+      "start": 3.82,
+      "end": 4.04
+    },
+    {
+      "word": "braking",
+      "start": 4.04,
+      "end": 4.34
+    },
+    {
+      "word": "and",
+      "start": 4.34,
+      "end": 4.5
+    },
+    {
+      "word": "being",
+      "start": 4.5,
+      "end": 4.74
+    },
+    {
+      "word": "attacked.",
+      "start": 4.74,
+      "end": 5.14
+    },
+    {
+      "word": "Gap",
+      "start": 5.98,
+      "end": 6.22
+    },
+    {
+      "word": "1",
+      "start": 6.22,
+      "end": 6.66
+    },
+    {
+      "word": ".2",
+      "start": 6.66,
+      "end": 7.1
+    },
+    {
+      "word": "behind",
+      "start": 7.1,
+      "end": 7.3
+    },
+    {
+      "word": "now.",
+      "start": 7.3,
+      "end": 7.56
+    },
+    {
+      "word": "Tire",
+      "start": 7.68,
+      "end": 7.88
+    },
+    {
+      "word": "management",
+      "start": 7.88,
+      "end": 8.18
+    },
+    {
+      "word": "is",
+      "start": 8.18,
+      "end": 8.38
+    },
+    {
+      "word": "all",
+      "start": 8.38,
+      "end": 8.56
+    },
+    {
+      "word": "good.",
+      "start": 8.56,
+      "end": 8.72
+    },
+    {
+      "word": "Only",
+      "start": 8.96,
+      "end": 9.2
+    },
+    {
+      "word": "drift",
+      "start": 9.2,
+      "end": 9.36
+    },
+    {
+      "word": "loss",
+      "start": 9.36,
+      "end": 9.62
+    },
+    {
+      "word": "is",
+      "start": 9.62,
+      "end": 9.76
+    },
+    {
+      "word": "1",
+      "start": 9.76,
+      "end": 10.08
+    },
+    {
+      "word": ".2.",
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "word": "30",
+      "start": 11.38,
+      "end": 11.88
+    },
+    {
+      "word": "laps",
+      "start": 11.88,
+      "end": 12.1
+    },
+    {
+      "word": "to",
+      "start": 12.1,
+      "end": 12.26
+    },
+    {
+      "word": "go.",
+      "start": 12.26,
+      "end": 12.42
+    },
+    {
+      "word": "Gap",
+      "start": 13.18,
+      "end": 13.58
+    },
+    {
+      "word": "behind",
+      "start": 13.58,
+      "end": 13.74
+    },
+    {
+      "word": "stable",
+      "start": 13.74,
+      "end": 14.1
+    },
+    {
+      "word": "1",
+      "start": 14.1,
+      "end": 14.38
+    },
+    {
+      "word": ".2.",
+      "start": 14.38,
+      "end": 14.86
+    },
+    {
+      "word": "Only",
+      "start": 15.04,
+      "end": 15.22
+    },
+    {
+      "word": "loss,",
+      "start": 15.22,
+      "end": 15.54
+    },
+    {
+      "word": "drop",
+      "start": 15.72,
+      "end": 15.82
+    },
+    {
+      "word": "on",
+      "start": 15.82,
+      "end": 16.04
+    },
+    {
+      "word": "the",
+      "start": 16.04,
+      "end": 16.12
+    },
+    {
+      "word": "front,",
+      "start": 16.12,
+      "end": 16.4
+    },
+    {
+      "word": "turn",
+      "start": 16.64,
+      "end": 16.72
+    },
+    {
+      "word": "3.",
+      "start": 16.72,
+      "end": 17.46
+    },
+    {
+      "word": "Focus,",
+      "start": 18.06,
+      "end": 18.5
+    },
+    {
+      "word": "exit.",
+      "start": 18.62,
+      "end": 18.9
+    }
+  ],
+  "language": "en",
+  "word_count": 47,
+  "is_empty": false,
+  "is_very_short": false
+}

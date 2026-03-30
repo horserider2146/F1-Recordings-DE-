@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_1114",
+  "text": "to this. So we think the problem is being solved. Still 9 laps to go after this. P-Ball 3. 9 laps to go. And it's 8 laps to go. Blue 3. 9 laps to go.",
+  "words": [
+    {
+      "word": "to",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "this.",
+      "start": 0.12,
+      "end": 0.36
+    },
+    {
+      "word": "So",
+      "start": 4.56,
+      "end": 5.04
+    },
+    {
+      "word": "we",
+      "start": 5.04,
+      "end": 7.32
+    },
+    {
+      "word": "think",
+      "start": 7.32,
+      "end": 7.48
+    },
+    {
+      "word": "the",
+      "start": 7.48,
+      "end": 7.62
+    },
+    {
+      "word": "problem",
+      "start": 7.62,
+      "end": 7.86
+    },
+    {
+      "word": "is",
+      "start": 7.86,
+      "end": 8.06
+    },
+    {
+      "word": "being",
+      "start": 8.06,
+      "end": 8.26
+    },
+    {
+      "word": "solved.",
+      "start": 8.26,
+      "end": 8.72
+    },
+    {
+      "word": "Still",
+      "start": 9.2,
+      "end": 9.64
+    },
+    {
+      "word": "9",
+      "start": 9.64,
+      "end": 9.98
+    },
+    {
+      "word": "laps",
+      "start": 9.98,
+      "end": 10.18
+    },
+    {
+      "word": "to",
+      "start": 10.18,
+      "end": 10.42
+    },
+    {
+      "word": "go",
+      "start": 10.42,
+      "end": 10.56
+    },
+    {
+      "word": "after",
+      "start": 10.56,
+      "end": 10.74
+    },
+    {
+      "word": "this.",
+      "start": 10.74,
+      "end": 11.02
+    },
+    {
+      "word": "P",
+      "start": 12.64,
+      "end": 13.02
+    },
+    {
+      "word": "-Ball",
+      "start": 13.02,
+      "end": 13.22
+    },
+    {
+      "word": "3.",
+      "start": 13.22,
+      "end": 13.48
+    },
+    {
+      "word": "9",
+      "start": 15.08,
+      "end": 15.4
+    },
+    {
+      "word": "laps",
+      "start": 15.4,
+      "end": 15.56
+    },
+    {
+      "word": "to",
+      "start": 15.56,
+      "end": 15.74
+    },
+    {
+      "word": "go.",
+      "start": 15.74,
+      "end": 15.88
+    },
+    {
+      "word": "And",
+      "start": 16.74,
+      "end": 16.94
+    },
+    {
+      "word": "it's",
+      "start": 16.94,
+      "end": 17.14
+    },
+    {
+      "word": "8",
+      "start": 17.14,
+      "end": 17.44
+    },
+    {
+      "word": "laps",
+      "start": 17.44,
+      "end": 17.7
+    },
+    {
+      "word": "to",
+      "start": 17.7,
+      "end": 17.9
+    },
+    {
+      "word": "go.",
+      "start": 17.9,
+      "end": 18.1
+    },
+    {
+      "word": "Blue",
+      "start": 19.32,
+      "end": 19.8
+    },
+    {
+      "word": "3.",
+      "start": 19.8,
+      "end": 19.82
+    },
+    {
+      "word": "9",
+      "start": 19.84,
+      "end": 19.86
+    },
+    {
+      "word": "laps",
+      "start": 19.86,
+      "end": 19.88
+    },
+    {
+      "word": "to",
+      "start": 19.88,
+      "end": 19.9
+    },
+    {
+      "word": "go.",
+      "start": 19.9,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

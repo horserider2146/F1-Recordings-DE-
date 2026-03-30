@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_0713",
+  "text": "Gasly for my number 36 Engine 11, engine 11, position 5 They've made the right one, Sarah's so great We think Gasly's in a similar situation, Max Seems to be fairly constant for him",
+  "words": [
+    {
+      "word": "Gasly",
+      "start": 0.0,
+      "end": 0.78
+    },
+    {
+      "word": "for",
+      "start": 0.78,
+      "end": 0.92
+    },
+    {
+      "word": "my",
+      "start": 0.92,
+      "end": 1.1
+    },
+    {
+      "word": "number",
+      "start": 1.1,
+      "end": 1.32
+    },
+    {
+      "word": "36",
+      "start": 1.32,
+      "end": 2.06
+    },
+    {
+      "word": "Engine",
+      "start": 5.34,
+      "end": 5.92
+    },
+    {
+      "word": "11,",
+      "start": 5.92,
+      "end": 6.5
+    },
+    {
+      "word": "engine",
+      "start": 6.88,
+      "end": 7.16
+    },
+    {
+      "word": "11,",
+      "start": 7.16,
+      "end": 7.48
+    },
+    {
+      "word": "position",
+      "start": 7.9,
+      "end": 8.4
+    },
+    {
+      "word": "5",
+      "start": 8.4,
+      "end": 9.0
+    },
+    {
+      "word": "They've",
+      "start": 11.08,
+      "end": 11.66
+    },
+    {
+      "word": "made",
+      "start": 11.66,
+      "end": 11.8
+    },
+    {
+      "word": "the",
+      "start": 11.8,
+      "end": 12.02
+    },
+    {
+      "word": "right",
+      "start": 12.02,
+      "end": 12.22
+    },
+    {
+      "word": "one,",
+      "start": 12.22,
+      "end": 12.5
+    },
+    {
+      "word": "Sarah's",
+      "start": 12.62,
+      "end": 13.06
+    },
+    {
+      "word": "so",
+      "start": 13.06,
+      "end": 13.18
+    },
+    {
+      "word": "great",
+      "start": 13.18,
+      "end": 13.54
+    },
+    {
+      "word": "We",
+      "start": 14.74,
+      "end": 15.32
+    },
+    {
+      "word": "think",
+      "start": 15.32,
+      "end": 15.82
+    },
+    {
+      "word": "Gasly's",
+      "start": 15.82,
+      "end": 16.3
+    },
+    {
+      "word": "in",
+      "start": 16.3,
+      "end": 16.4
+    },
+    {
+      "word": "a",
+      "start": 16.4,
+      "end": 16.52
+    },
+    {
+      "word": "similar",
+      "start": 16.52,
+      "end": 16.78
+    },
+    {
+      "word": "situation,",
+      "start": 16.78,
+      "end": 17.44
+    },
+    {
+      "word": "Max",
+      "start": 17.64,
+      "end": 17.78
+    },
+    {
+      "word": "Seems",
+      "start": 17.78,
+      "end": 18.74
+    },
+    {
+      "word": "to",
+      "start": 18.74,
+      "end": 18.92
+    },
+    {
+      "word": "be",
+      "start": 18.92,
+      "end": 19.02
+    },
+    {
+      "word": "fairly",
+      "start": 19.02,
+      "end": 19.22
+    },
+    {
+      "word": "constant",
+      "start": 19.22,
+      "end": 19.6
+    },
+    {
+      "word": "for",
+      "start": 19.6,
+      "end": 19.9
+    },
+    {
+      "word": "him",
+      "start": 19.9,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 34,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0254",
+  "text": "We need green 8 position 6 please. Green 8 position 6. Done. Thank you. Four burnouts please. Four burnouts. Last car is on the grid. Overtake enabled. Russell not taking one.",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.06
+    },
+    {
+      "word": "need",
+      "start": 0.06,
+      "end": 0.26
+    },
+    {
+      "word": "green",
+      "start": 0.26,
+      "end": 0.52
+    },
+    {
+      "word": "8",
+      "start": 0.52,
+      "end": 1.02
+    },
+    {
+      "word": "position",
+      "start": 1.02,
+      "end": 1.48
+    },
+    {
+      "word": "6",
+      "start": 1.48,
+      "end": 2.06
+    },
+    {
+      "word": "please.",
+      "start": 2.06,
+      "end": 2.38
+    },
+    {
+      "word": "Green",
+      "start": 3.12,
+      "end": 3.26
+    },
+    {
+      "word": "8",
+      "start": 3.26,
+      "end": 3.5
+    },
+    {
+      "word": "position",
+      "start": 3.5,
+      "end": 3.82
+    },
+    {
+      "word": "6.",
+      "start": 3.82,
+      "end": 4.26
+    },
+    {
+      "word": "Done.",
+      "start": 5.72,
+      "end": 6.44
+    },
+    {
+      "word": "Thank",
+      "start": 6.7,
+      "end": 6.84
+    },
+    {
+      "word": "you.",
+      "start": 6.84,
+      "end": 7.0
+    },
+    {
+      "word": "Four",
+      "start": 8.26,
+      "end": 8.98
+    },
+    {
+      "word": "burnouts",
+      "start": 8.98,
+      "end": 9.42
+    },
+    {
+      "word": "please.",
+      "start": 9.42,
+      "end": 9.78
+    },
+    {
+      "word": "Four",
+      "start": 10.14,
+      "end": 10.22
+    },
+    {
+      "word": "burnouts.",
+      "start": 10.22,
+      "end": 10.76
+    },
+    {
+      "word": "Last",
+      "start": 11.8,
+      "end": 12.16
+    },
+    {
+      "word": "car",
+      "start": 12.16,
+      "end": 12.48
+    },
+    {
+      "word": "is",
+      "start": 12.48,
+      "end": 12.7
+    },
+    {
+      "word": "on",
+      "start": 12.7,
+      "end": 12.86
+    },
+    {
+      "word": "the",
+      "start": 12.86,
+      "end": 12.96
+    },
+    {
+      "word": "grid.",
+      "start": 12.96,
+      "end": 13.18
+    },
+    {
+      "word": "Overtake",
+      "start": 14.96,
+      "end": 15.68
+    },
+    {
+      "word": "enabled.",
+      "start": 15.68,
+      "end": 16.12
+    },
+    {
+      "word": "Russell",
+      "start": 17.78,
+      "end": 18.5
+    },
+    {
+      "word": "not",
+      "start": 18.5,
+      "end": 18.76
+    },
+    {
+      "word": "taking",
+      "start": 18.76,
+      "end": 18.96
+    },
+    {
+      "word": "one.",
+      "start": 18.96,
+      "end": 19.12
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,85 @@
+{
+  "clip_id": "clip_0132",
+  "text": "Just with this majority of us that are around you, that promote a bit more.",
+  "words": [
+    {
+      "word": "Just",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "with",
+      "start": 0.14,
+      "end": 0.3
+    },
+    {
+      "word": "this",
+      "start": 0.3,
+      "end": 0.52
+    },
+    {
+      "word": "majority",
+      "start": 0.52,
+      "end": 0.86
+    },
+    {
+      "word": "of",
+      "start": 0.86,
+      "end": 1.1
+    },
+    {
+      "word": "us",
+      "start": 1.1,
+      "end": 1.4
+    },
+    {
+      "word": "that",
+      "start": 1.4,
+      "end": 1.66
+    },
+    {
+      "word": "are",
+      "start": 1.66,
+      "end": 1.84
+    },
+    {
+      "word": "around",
+      "start": 1.84,
+      "end": 2.24
+    },
+    {
+      "word": "you,",
+      "start": 2.24,
+      "end": 2.42
+    },
+    {
+      "word": "that",
+      "start": 2.68,
+      "end": 2.9
+    },
+    {
+      "word": "promote",
+      "start": 2.9,
+      "end": 3.24
+    },
+    {
+      "word": "a",
+      "start": 3.24,
+      "end": 3.82
+    },
+    {
+      "word": "bit",
+      "start": 3.82,
+      "end": 3.98
+    },
+    {
+      "word": "more.",
+      "start": 3.98,
+      "end": 4.56
+    }
+  ],
+  "language": "en",
+  "word_count": 15,
+  "is_empty": false,
+  "is_very_short": false
+}

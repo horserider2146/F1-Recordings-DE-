@@ -1,0 +1,215 @@
+{
+  "clip_id": "clip_0590",
+  "text": "A, think about your task. You have overtake. Don't have battery. Depth you on the back straight, stay on the left, stay on the left. It will power me. We are on it. Use boost on the main straight. Don't have.",
+  "words": [
+    {
+      "word": "A,",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "think",
+      "start": 0.46,
+      "end": 0.7
+    },
+    {
+      "word": "about",
+      "start": 0.7,
+      "end": 0.9
+    },
+    {
+      "word": "your",
+      "start": 0.9,
+      "end": 1.08
+    },
+    {
+      "word": "task.",
+      "start": 1.08,
+      "end": 1.4
+    },
+    {
+      "word": "You",
+      "start": 2.64,
+      "end": 3.12
+    },
+    {
+      "word": "have",
+      "start": 3.12,
+      "end": 3.3
+    },
+    {
+      "word": "overtake.",
+      "start": 3.3,
+      "end": 3.92
+    },
+    {
+      "word": "Don't",
+      "start": 5.28,
+      "end": 5.76
+    },
+    {
+      "word": "have",
+      "start": 5.76,
+      "end": 5.86
+    },
+    {
+      "word": "battery.",
+      "start": 5.86,
+      "end": 6.1
+    },
+    {
+      "word": "Depth",
+      "start": 7.76,
+      "end": 8.24
+    },
+    {
+      "word": "you",
+      "start": 8.24,
+      "end": 8.36
+    },
+    {
+      "word": "on",
+      "start": 8.36,
+      "end": 8.5
+    },
+    {
+      "word": "the",
+      "start": 8.5,
+      "end": 8.6
+    },
+    {
+      "word": "back",
+      "start": 8.6,
+      "end": 8.8
+    },
+    {
+      "word": "straight,",
+      "start": 8.8,
+      "end": 9.08
+    },
+    {
+      "word": "stay",
+      "start": 9.42,
+      "end": 9.68
+    },
+    {
+      "word": "on",
+      "start": 9.68,
+      "end": 9.88
+    },
+    {
+      "word": "the",
+      "start": 9.88,
+      "end": 9.98
+    },
+    {
+      "word": "left,",
+      "start": 9.98,
+      "end": 10.18
+    },
+    {
+      "word": "stay",
+      "start": 10.32,
+      "end": 10.58
+    },
+    {
+      "word": "on",
+      "start": 10.58,
+      "end": 10.74
+    },
+    {
+      "word": "the",
+      "start": 10.74,
+      "end": 10.84
+    },
+    {
+      "word": "left.",
+      "start": 10.84,
+      "end": 11.28
+    },
+    {
+      "word": "It",
+      "start": 12.14,
+      "end": 12.62
+    },
+    {
+      "word": "will",
+      "start": 12.62,
+      "end": 12.78
+    },
+    {
+      "word": "power",
+      "start": 12.78,
+      "end": 13.06
+    },
+    {
+      "word": "me.",
+      "start": 13.06,
+      "end": 13.3
+    },
+    {
+      "word": "We",
+      "start": 14.46,
+      "end": 14.66
+    },
+    {
+      "word": "are",
+      "start": 14.66,
+      "end": 14.76
+    },
+    {
+      "word": "on",
+      "start": 14.76,
+      "end": 14.88
+    },
+    {
+      "word": "it.",
+      "start": 14.88,
+      "end": 15.04
+    },
+    {
+      "word": "Use",
+      "start": 16.12,
+      "end": 16.52
+    },
+    {
+      "word": "boost",
+      "start": 16.52,
+      "end": 16.82
+    },
+    {
+      "word": "on",
+      "start": 16.82,
+      "end": 17.22
+    },
+    {
+      "word": "the",
+      "start": 17.22,
+      "end": 17.32
+    },
+    {
+      "word": "main",
+      "start": 17.32,
+      "end": 17.48
+    },
+    {
+      "word": "straight.",
+      "start": 17.48,
+      "end": 17.72
+    },
+    {
+      "word": "Don't",
+      "start": 18.92,
+      "end": 19.4
+    },
+    {
+      "word": "have.",
+      "start": 19.4,
+      "end": 19.58
+    }
+  ],
+  "language": "en",
+  "word_count": 41,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_0083",
+  "text": "It's a 12 other than that the lap was good. Negative on the dodge. Yeah, that's what you're talking about. OK, thank you for being on the face, please. Negative on the dodge. Can you get some face, please? Thank you. OK.",
+  "words": [
+    {
+      "word": "It's",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "a",
+      "start": 0.16,
+      "end": 0.24
+    },
+    {
+      "word": "12",
+      "start": 0.24,
+      "end": 1.42
+    },
+    {
+      "word": "other",
+      "start": 1.42,
+      "end": 2.4
+    },
+    {
+      "word": "than",
+      "start": 2.4,
+      "end": 2.6
+    },
+    {
+      "word": "that",
+      "start": 2.6,
+      "end": 2.78
+    },
+    {
+      "word": "the",
+      "start": 2.78,
+      "end": 2.94
+    },
+    {
+      "word": "lap",
+      "start": 2.94,
+      "end": 3.12
+    },
+    {
+      "word": "was",
+      "start": 3.12,
+      "end": 3.28
+    },
+    {
+      "word": "good.",
+      "start": 3.28,
+      "end": 3.96
+    },
+    {
+      "word": "Negative",
+      "start": 4.7,
+      "end": 4.92
+    },
+    {
+      "word": "on",
+      "start": 4.92,
+      "end": 5.16
+    },
+    {
+      "word": "the",
+      "start": 5.16,
+      "end": 5.22
+    },
+    {
+      "word": "dodge.",
+      "start": 5.22,
+      "end": 5.34
+    },
+    {
+      "word": "Yeah,",
+      "start": 6.24,
+      "end": 6.56
+    },
+    {
+      "word": "that's",
+      "start": 6.68,
+      "end": 6.78
+    },
+    {
+      "word": "what",
+      "start": 6.78,
+      "end": 6.88
+    },
+    {
+      "word": "you're",
+      "start": 6.88,
+      "end": 6.94
+    },
+    {
+      "word": "talking",
+      "start": 6.94,
+      "end": 7.04
+    },
+    {
+      "word": "about.",
+      "start": 7.04,
+      "end": 8.08
+    },
+    {
+      "word": "OK,",
+      "start": 9.14,
+      "end": 9.46
+    },
+    {
+      "word": "thank",
+      "start": 9.58,
+      "end": 9.68
+    },
+    {
+      "word": "you",
+      "start": 9.68,
+      "end": 9.84
+    },
+    {
+      "word": "for",
+      "start": 9.84,
+      "end": 9.9
+    },
+    {
+      "word": "being",
+      "start": 9.9,
+      "end": 10.0
+    },
+    {
+      "word": "on",
+      "start": 10.0,
+      "end": 10.1
+    },
+    {
+      "word": "the",
+      "start": 10.1,
+      "end": 10.16
+    },
+    {
+      "word": "face,",
+      "start": 10.16,
+      "end": 10.28
+    },
+    {
+      "word": "please.",
+      "start": 10.38,
+      "end": 10.46
+    },
+    {
+      "word": "Negative",
+      "start": 10.76,
+      "end": 10.92
+    },
+    {
+      "word": "on",
+      "start": 10.92,
+      "end": 11.16
+    },
+    {
+      "word": "the",
+      "start": 11.16,
+      "end": 11.22
+    },
+    {
+      "word": "dodge.",
+      "start": 11.22,
+      "end": 11.4
+    },
+    {
+      "word": "Can",
+      "start": 13.38,
+      "end": 13.7
+    },
+    {
+      "word": "you",
+      "start": 13.7,
+      "end": 14.02
+    },
+    {
+      "word": "get",
+      "start": 14.02,
+      "end": 14.46
+    },
+    {
+      "word": "some",
+      "start": 14.46,
+      "end": 14.62
+    },
+    {
+      "word": "face,",
+      "start": 14.62,
+      "end": 14.86
+    },
+    {
+      "word": "please?",
+      "start": 14.94,
+      "end": 15.02
+    },
+    {
+      "word": "Thank",
+      "start": 16.54,
+      "end": 16.72
+    },
+    {
+      "word": "you.",
+      "start": 16.72,
+      "end": 16.86
+    },
+    {
+      "word": "OK.",
+      "start": 18.96,
+      "end": 19.28
+    }
+  ],
+  "language": "en",
+  "word_count": 42,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,25 @@
+{
+  "clip_id": "clip_0122",
+  "text": "Take a peek",
+  "words": [
+    {
+      "word": "Take",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "a",
+      "start": 0.4,
+      "end": 0.54
+    },
+    {
+      "word": "peek",
+      "start": 0.54,
+      "end": 0.58
+    }
+  ],
+  "language": "en",
+  "word_count": 3,
+  "is_empty": false,
+  "is_very_short": false
+}

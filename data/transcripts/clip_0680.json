@@ -1,0 +1,95 @@
+{
+  "clip_id": "clip_0680",
+  "text": "It's 15 seconds. The steady throttle application is accepted. The PUS goal. Zero, one, two, three, seven,",
+  "words": [
+    {
+      "word": "It's",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "word": "15",
+      "start": 0.54,
+      "end": 1.02
+    },
+    {
+      "word": "seconds.",
+      "start": 1.02,
+      "end": 1.4
+    },
+    {
+      "word": "The",
+      "start": 3.06,
+      "end": 3.4
+    },
+    {
+      "word": "steady",
+      "start": 3.4,
+      "end": 4.26
+    },
+    {
+      "word": "throttle",
+      "start": 4.26,
+      "end": 4.54
+    },
+    {
+      "word": "application",
+      "start": 4.54,
+      "end": 5.06
+    },
+    {
+      "word": "is",
+      "start": 5.06,
+      "end": 5.32
+    },
+    {
+      "word": "accepted.",
+      "start": 5.32,
+      "end": 5.66
+    },
+    {
+      "word": "The",
+      "start": 5.98,
+      "end": 6.2
+    },
+    {
+      "word": "PUS",
+      "start": 6.2,
+      "end": 7.16
+    },
+    {
+      "word": "goal.",
+      "start": 7.16,
+      "end": 7.38
+    },
+    {
+      "word": "Zero,",
+      "start": 9.08,
+      "end": 9.54
+    },
+    {
+      "word": "one,",
+      "start": 10.02,
+      "end": 10.46
+    },
+    {
+      "word": "two,",
+      "start": 10.78,
+      "end": 11.56
+    },
+    {
+      "word": "three,",
+      "start": 11.7,
+      "end": 12.7
+    },
+    {
+      "word": "seven,",
+      "start": 16.1,
+      "end": 16.98
+    }
+  ],
+  "language": "en",
+  "word_count": 17,
+  "is_empty": false,
+  "is_very_short": false
+}

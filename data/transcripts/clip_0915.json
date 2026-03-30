@@ -1,0 +1,50 @@
+{
+  "clip_id": "clip_0915",
+  "text": "Okay, just watch for Hulkenberg 5 behind starting.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "just",
+      "start": 0.2,
+      "end": 0.26
+    },
+    {
+      "word": "watch",
+      "start": 0.26,
+      "end": 0.44
+    },
+    {
+      "word": "for",
+      "start": 0.44,
+      "end": 0.6
+    },
+    {
+      "word": "Hulkenberg",
+      "start": 0.6,
+      "end": 1.02
+    },
+    {
+      "word": "5",
+      "start": 1.02,
+      "end": 1.38
+    },
+    {
+      "word": "behind",
+      "start": 1.38,
+      "end": 1.72
+    },
+    {
+      "word": "starting.",
+      "start": 1.72,
+      "end": 2.08
+    }
+  ],
+  "language": "en",
+  "word_count": 8,
+  "is_empty": false,
+  "is_very_short": false
+}

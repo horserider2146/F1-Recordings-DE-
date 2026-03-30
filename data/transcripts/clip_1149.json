@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_1149",
+  "text": "Alright, we got five minutes to go.",
+  "words": [
+    {
+      "word": "Alright,",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "we",
+      "start": 0.2,
+      "end": 0.22
+    },
+    {
+      "word": "got",
+      "start": 0.22,
+      "end": 0.36
+    },
+    {
+      "word": "five",
+      "start": 0.36,
+      "end": 0.72
+    },
+    {
+      "word": "minutes",
+      "start": 0.72,
+      "end": 1.0
+    },
+    {
+      "word": "to",
+      "start": 1.0,
+      "end": 1.3
+    },
+    {
+      "word": "go.",
+      "start": 1.3,
+      "end": 1.48
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

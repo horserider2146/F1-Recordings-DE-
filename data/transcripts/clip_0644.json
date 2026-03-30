@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0644",
+  "text": "I don't think it's correct Yeah, I can't fix it You have RVD in front, click, second Open behind, five, all out Starts off RVD 5.5 in front You're good",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.06
+    },
+    {
+      "word": "don't",
+      "start": 0.06,
+      "end": 0.24
+    },
+    {
+      "word": "think",
+      "start": 0.24,
+      "end": 0.34
+    },
+    {
+      "word": "it's",
+      "start": 0.34,
+      "end": 0.54
+    },
+    {
+      "word": "correct",
+      "start": 0.54,
+      "end": 0.8
+    },
+    {
+      "word": "Yeah,",
+      "start": 2.28,
+      "end": 2.76
+    },
+    {
+      "word": "I",
+      "start": 2.84,
+      "end": 2.96
+    },
+    {
+      "word": "can't",
+      "start": 2.96,
+      "end": 3.16
+    },
+    {
+      "word": "fix",
+      "start": 3.16,
+      "end": 3.16
+    },
+    {
+      "word": "it",
+      "start": 3.16,
+      "end": 4.4
+    },
+    {
+      "word": "You",
+      "start": 4.4,
+      "end": 4.58
+    },
+    {
+      "word": "have",
+      "start": 4.58,
+      "end": 4.78
+    },
+    {
+      "word": "RVD",
+      "start": 4.78,
+      "end": 5.22
+    },
+    {
+      "word": "in",
+      "start": 5.22,
+      "end": 5.3
+    },
+    {
+      "word": "front,",
+      "start": 5.3,
+      "end": 5.52
+    },
+    {
+      "word": "click,",
+      "start": 5.66,
+      "end": 5.8
+    },
+    {
+      "word": "second",
+      "start": 5.92,
+      "end": 6.18
+    },
+    {
+      "word": "Open",
+      "start": 6.88,
+      "end": 7.36
+    },
+    {
+      "word": "behind,",
+      "start": 7.36,
+      "end": 7.7
+    },
+    {
+      "word": "five,",
+      "start": 8.06,
+      "end": 8.28
+    },
+    {
+      "word": "all",
+      "start": 8.54,
+      "end": 8.82
+    },
+    {
+      "word": "out",
+      "start": 8.82,
+      "end": 9.16
+    },
+    {
+      "word": "Starts",
+      "start": 13.1,
+      "end": 13.58
+    },
+    {
+      "word": "off",
+      "start": 13.58,
+      "end": 13.58
+    },
+    {
+      "word": "RVD",
+      "start": 15.2,
+      "end": 15.68
+    },
+    {
+      "word": "5",
+      "start": 15.68,
+      "end": 16.1
+    },
+    {
+      "word": ".5",
+      "start": 16.1,
+      "end": 16.54
+    },
+    {
+      "word": "in",
+      "start": 16.54,
+      "end": 16.66
+    },
+    {
+      "word": "front",
+      "start": 16.66,
+      "end": 17.02
+    },
+    {
+      "word": "You're",
+      "start": 18.52,
+      "end": 19.0
+    },
+    {
+      "word": "good",
+      "start": 19.0,
+      "end": 19.14
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,145 @@
+{
+  "clip_id": "clip_0100",
+  "text": "of 186 Alex 3545 back on flap and in turn readiness for Q-brakes Yeah, turn limited in turn 12 and then 7th number for turn readiness",
+  "words": [
+    {
+      "word": "of",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "186",
+      "start": 0.16,
+      "end": 0.88
+    },
+    {
+      "word": "Alex",
+      "start": 0.88,
+      "end": 1.82
+    },
+    {
+      "word": "3545",
+      "start": 1.82,
+      "end": 3.06
+    },
+    {
+      "word": "back",
+      "start": 3.06,
+      "end": 4.36
+    },
+    {
+      "word": "on",
+      "start": 4.36,
+      "end": 4.54
+    },
+    {
+      "word": "flap",
+      "start": 4.54,
+      "end": 4.9
+    },
+    {
+      "word": "and",
+      "start": 4.9,
+      "end": 5.48
+    },
+    {
+      "word": "in",
+      "start": 5.48,
+      "end": 5.64
+    },
+    {
+      "word": "turn",
+      "start": 5.64,
+      "end": 5.88
+    },
+    {
+      "word": "readiness",
+      "start": 5.88,
+      "end": 6.24
+    },
+    {
+      "word": "for",
+      "start": 6.24,
+      "end": 6.56
+    },
+    {
+      "word": "Q",
+      "start": 6.56,
+      "end": 6.72
+    },
+    {
+      "word": "-brakes",
+      "start": 6.72,
+      "end": 7.2
+    },
+    {
+      "word": "Yeah,",
+      "start": 8.94,
+      "end": 9.3
+    },
+    {
+      "word": "turn",
+      "start": 9.48,
+      "end": 9.64
+    },
+    {
+      "word": "limited",
+      "start": 9.64,
+      "end": 9.98
+    },
+    {
+      "word": "in",
+      "start": 11.16,
+      "end": 11.52
+    },
+    {
+      "word": "turn",
+      "start": 11.52,
+      "end": 11.8
+    },
+    {
+      "word": "12",
+      "start": 11.8,
+      "end": 12.86
+    },
+    {
+      "word": "and",
+      "start": 13.92,
+      "end": 14.28
+    },
+    {
+      "word": "then",
+      "start": 14.28,
+      "end": 14.84
+    },
+    {
+      "word": "7th",
+      "start": 16.72,
+      "end": 17.44
+    },
+    {
+      "word": "number",
+      "start": 17.44,
+      "end": 17.68
+    },
+    {
+      "word": "for",
+      "start": 17.68,
+      "end": 17.92
+    },
+    {
+      "word": "turn",
+      "start": 17.92,
+      "end": 18.06
+    },
+    {
+      "word": "readiness",
+      "start": 18.06,
+      "end": 18.42
+    }
+  ],
+  "language": "en",
+  "word_count": 26,
+  "is_empty": false,
+  "is_very_short": false
+}

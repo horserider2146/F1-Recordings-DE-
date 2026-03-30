@@ -1,0 +1,200 @@
+{
+  "clip_id": "clip_0821",
+  "text": "just do your out lap so 70 kph through here since on the move 220 turn 7 ok it's cleared 100 kph in turn 9 350 end of strip 411 all clear behind 80 kph in turn 11",
+  "words": [
+    {
+      "word": "just",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "do",
+      "start": 0.14,
+      "end": 0.34
+    },
+    {
+      "word": "your",
+      "start": 0.34,
+      "end": 0.46
+    },
+    {
+      "word": "out",
+      "start": 0.46,
+      "end": 0.6
+    },
+    {
+      "word": "lap",
+      "start": 0.6,
+      "end": 0.84
+    },
+    {
+      "word": "so",
+      "start": 1.86,
+      "end": 2.48
+    },
+    {
+      "word": "70",
+      "start": 2.48,
+      "end": 2.92
+    },
+    {
+      "word": "kph",
+      "start": 2.92,
+      "end": 3.26
+    },
+    {
+      "word": "through",
+      "start": 3.26,
+      "end": 3.56
+    },
+    {
+      "word": "here",
+      "start": 3.56,
+      "end": 3.88
+    },
+    {
+      "word": "since",
+      "start": 4.7,
+      "end": 5.32
+    },
+    {
+      "word": "on",
+      "start": 5.32,
+      "end": 5.5
+    },
+    {
+      "word": "the",
+      "start": 5.5,
+      "end": 5.56
+    },
+    {
+      "word": "move",
+      "start": 5.56,
+      "end": 5.82
+    },
+    {
+      "word": "220",
+      "start": 5.82,
+      "end": 6.3
+    },
+    {
+      "word": "turn",
+      "start": 6.3,
+      "end": 6.88
+    },
+    {
+      "word": "7",
+      "start": 6.88,
+      "end": 7.28
+    },
+    {
+      "word": "ok",
+      "start": 8.28,
+      "end": 8.9
+    },
+    {
+      "word": "it's",
+      "start": 8.9,
+      "end": 9.06
+    },
+    {
+      "word": "cleared",
+      "start": 9.06,
+      "end": 9.36
+    },
+    {
+      "word": "100",
+      "start": 9.93,
+      "end": 10.24
+    },
+    {
+      "word": "kph",
+      "start": 10.24,
+      "end": 11.22
+    },
+    {
+      "word": "in",
+      "start": 11.22,
+      "end": 11.4
+    },
+    {
+      "word": "turn",
+      "start": 11.4,
+      "end": 11.56
+    },
+    {
+      "word": "9",
+      "start": 11.56,
+      "end": 12.1
+    },
+    {
+      "word": "350",
+      "start": 13.42,
+      "end": 14.04
+    },
+    {
+      "word": "end",
+      "start": 14.04,
+      "end": 14.5
+    },
+    {
+      "word": "of",
+      "start": 14.5,
+      "end": 14.6
+    },
+    {
+      "word": "strip",
+      "start": 14.6,
+      "end": 14.76
+    },
+    {
+      "word": "411",
+      "start": 14.76,
+      "end": 15.36
+    },
+    {
+      "word": "all",
+      "start": 16.0,
+      "end": 16.58
+    },
+    {
+      "word": "clear",
+      "start": 16.58,
+      "end": 16.76
+    },
+    {
+      "word": "behind",
+      "start": 16.76,
+      "end": 17.12
+    },
+    {
+      "word": "80",
+      "start": 17.96,
+      "end": 18.58
+    },
+    {
+      "word": "kph",
+      "start": 18.58,
+      "end": 18.98
+    },
+    {
+      "word": "in",
+      "start": 18.98,
+      "end": 19.24
+    },
+    {
+      "word": "turn",
+      "start": 19.24,
+      "end": 19.32
+    },
+    {
+      "word": "11",
+      "start": 19.32,
+      "end": 19.62
+    }
+  ],
+  "language": "en",
+  "word_count": 38,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0708",
+  "text": "increase the lift off by around 50m, turn 14 and turn 1 easy on the brake pedal as well, those two corners 7, 37, 4 the same goes, it feels heavier and heavier stand by",
+  "words": [
+    {
+      "word": "increase",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "the",
+      "start": 0.16,
+      "end": 0.38
+    },
+    {
+      "word": "lift",
+      "start": 0.38,
+      "end": 0.56
+    },
+    {
+      "word": "off",
+      "start": 0.56,
+      "end": 0.78
+    },
+    {
+      "word": "by",
+      "start": 0.78,
+      "end": 1.32
+    },
+    {
+      "word": "around",
+      "start": 1.32,
+      "end": 1.5
+    },
+    {
+      "word": "50m,",
+      "start": 1.5,
+      "end": 2.24
+    },
+    {
+      "word": "turn",
+      "start": 2.54,
+      "end": 2.72
+    },
+    {
+      "word": "14",
+      "start": 2.72,
+      "end": 3.28
+    },
+    {
+      "word": "and",
+      "start": 3.28,
+      "end": 3.68
+    },
+    {
+      "word": "turn",
+      "start": 3.68,
+      "end": 3.94
+    },
+    {
+      "word": "1",
+      "start": 3.94,
+      "end": 4.3
+    },
+    {
+      "word": "easy",
+      "start": 4.3,
+      "end": 5.22
+    },
+    {
+      "word": "on",
+      "start": 5.22,
+      "end": 7.24
+    },
+    {
+      "word": "the",
+      "start": 7.24,
+      "end": 7.34
+    },
+    {
+      "word": "brake",
+      "start": 7.34,
+      "end": 7.5
+    },
+    {
+      "word": "pedal",
+      "start": 7.5,
+      "end": 7.9
+    },
+    {
+      "word": "as",
+      "start": 7.9,
+      "end": 8.02
+    },
+    {
+      "word": "well,",
+      "start": 8.02,
+      "end": 8.28
+    },
+    {
+      "word": "those",
+      "start": 8.3,
+      "end": 8.5
+    },
+    {
+      "word": "two",
+      "start": 8.5,
+      "end": 8.94
+    },
+    {
+      "word": "corners",
+      "start": 8.94,
+      "end": 9.24
+    },
+    {
+      "word": "7,",
+      "start": 9.24,
+      "end": 10.44
+    },
+    {
+      "word": "37,",
+      "start": 12.16,
+      "end": 12.76
+    },
+    {
+      "word": "4",
+      "start": 12.98,
+      "end": 13.3
+    },
+    {
+      "word": "the",
+      "start": 14.4,
+      "end": 15.0
+    },
+    {
+      "word": "same",
+      "start": 15.0,
+      "end": 15.6
+    },
+    {
+      "word": "goes,",
+      "start": 15.6,
+      "end": 15.94
+    },
+    {
+      "word": "it",
+      "start": 16.02,
+      "end": 16.16
+    },
+    {
+      "word": "feels",
+      "start": 16.16,
+      "end": 16.36
+    },
+    {
+      "word": "heavier",
+      "start": 16.36,
+      "end": 16.78
+    },
+    {
+      "word": "and",
+      "start": 16.78,
+      "end": 17.0
+    },
+    {
+      "word": "heavier",
+      "start": 17.0,
+      "end": 17.34
+    },
+    {
+      "word": "stand",
+      "start": 18.62,
+      "end": 19.22
+    },
+    {
+      "word": "by",
+      "start": 19.22,
+      "end": 19.46
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

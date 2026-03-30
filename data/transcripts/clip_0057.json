@@ -1,0 +1,245 @@
+{
+  "clip_id": "clip_0057",
+  "text": "traffic from maximum time we have 2 cars slow in the last sector after clearing it up we will have traffic exit 314 no one pushing behind keep the position ok push that corner just in 4 with opening copy on traffic just in 3, 0 opening",
+  "words": [
+    {
+      "word": "traffic",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "from",
+      "start": 0.14,
+      "end": 0.36
+    },
+    {
+      "word": "maximum",
+      "start": 0.36,
+      "end": 0.58
+    },
+    {
+      "word": "time",
+      "start": 0.58,
+      "end": 0.94
+    },
+    {
+      "word": "we",
+      "start": 0.94,
+      "end": 1.1
+    },
+    {
+      "word": "have",
+      "start": 1.1,
+      "end": 1.2
+    },
+    {
+      "word": "2",
+      "start": 1.2,
+      "end": 1.44
+    },
+    {
+      "word": "cars",
+      "start": 1.44,
+      "end": 1.6
+    },
+    {
+      "word": "slow",
+      "start": 1.6,
+      "end": 1.86
+    },
+    {
+      "word": "in",
+      "start": 1.86,
+      "end": 2.0
+    },
+    {
+      "word": "the",
+      "start": 2.0,
+      "end": 2.1
+    },
+    {
+      "word": "last",
+      "start": 2.1,
+      "end": 2.24
+    },
+    {
+      "word": "sector",
+      "start": 2.24,
+      "end": 2.48
+    },
+    {
+      "word": "after",
+      "start": 2.48,
+      "end": 2.66
+    },
+    {
+      "word": "clearing",
+      "start": 2.66,
+      "end": 2.9
+    },
+    {
+      "word": "it",
+      "start": 2.9,
+      "end": 2.98
+    },
+    {
+      "word": "up",
+      "start": 2.98,
+      "end": 3.2
+    },
+    {
+      "word": "we",
+      "start": 3.78,
+      "end": 4.26
+    },
+    {
+      "word": "will",
+      "start": 4.26,
+      "end": 4.38
+    },
+    {
+      "word": "have",
+      "start": 4.38,
+      "end": 4.46
+    },
+    {
+      "word": "traffic",
+      "start": 4.46,
+      "end": 4.72
+    },
+    {
+      "word": "exit",
+      "start": 4.72,
+      "end": 4.98
+    },
+    {
+      "word": "314",
+      "start": 4.98,
+      "end": 5.5
+    },
+    {
+      "word": "no",
+      "start": 6.94,
+      "end": 7.42
+    },
+    {
+      "word": "one",
+      "start": 7.42,
+      "end": 7.62
+    },
+    {
+      "word": "pushing",
+      "start": 7.62,
+      "end": 7.88
+    },
+    {
+      "word": "behind",
+      "start": 7.88,
+      "end": 8.18
+    },
+    {
+      "word": "keep",
+      "start": 8.18,
+      "end": 8.78
+    },
+    {
+      "word": "the",
+      "start": 8.78,
+      "end": 9.06
+    },
+    {
+      "word": "position",
+      "start": 9.06,
+      "end": 10.24
+    },
+    {
+      "word": "ok",
+      "start": 10.8,
+      "end": 11.04
+    },
+    {
+      "word": "push",
+      "start": 11.04,
+      "end": 12.28
+    },
+    {
+      "word": "that",
+      "start": 12.28,
+      "end": 12.42
+    },
+    {
+      "word": "corner",
+      "start": 12.42,
+      "end": 12.72
+    },
+    {
+      "word": "just",
+      "start": 12.72,
+      "end": 13.22
+    },
+    {
+      "word": "in",
+      "start": 13.22,
+      "end": 13.42
+    },
+    {
+      "word": "4",
+      "start": 13.42,
+      "end": 13.68
+    },
+    {
+      "word": "with",
+      "start": 13.68,
+      "end": 14.14
+    },
+    {
+      "word": "opening",
+      "start": 14.14,
+      "end": 14.48
+    },
+    {
+      "word": "copy",
+      "start": 14.98,
+      "end": 15.22
+    },
+    {
+      "word": "on",
+      "start": 15.22,
+      "end": 15.34
+    },
+    {
+      "word": "traffic",
+      "start": 15.34,
+      "end": 15.6
+    },
+    {
+      "word": "just",
+      "start": 17.28,
+      "end": 17.76
+    },
+    {
+      "word": "in",
+      "start": 17.76,
+      "end": 17.96
+    },
+    {
+      "word": "3,",
+      "start": 17.96,
+      "end": 18.18
+    },
+    {
+      "word": "0",
+      "start": 18.36,
+      "end": 18.58
+    },
+    {
+      "word": "opening",
+      "start": 18.58,
+      "end": 18.8
+    }
+  ],
+  "language": "en",
+  "word_count": 47,
+  "is_empty": false,
+  "is_very_short": false
+}

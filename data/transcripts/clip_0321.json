@@ -1,0 +1,120 @@
+{
+  "clip_id": "clip_0321",
+  "text": "I need to go on somewhere, or to the pits Ah, let's crawl it back home Got Lawson and Hajar Three seconds",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "need",
+      "start": 0.12,
+      "end": 0.22
+    },
+    {
+      "word": "to",
+      "start": 0.22,
+      "end": 0.32
+    },
+    {
+      "word": "go",
+      "start": 0.32,
+      "end": 0.44
+    },
+    {
+      "word": "on",
+      "start": 0.44,
+      "end": 0.58
+    },
+    {
+      "word": "somewhere,",
+      "start": 0.58,
+      "end": 0.96
+    },
+    {
+      "word": "or",
+      "start": 1.28,
+      "end": 1.32
+    },
+    {
+      "word": "to",
+      "start": 1.32,
+      "end": 1.54
+    },
+    {
+      "word": "the",
+      "start": 1.54,
+      "end": 1.64
+    },
+    {
+      "word": "pits",
+      "start": 1.64,
+      "end": 2.14
+    },
+    {
+      "word": "Ah,",
+      "start": 5.1,
+      "end": 5.54
+    },
+    {
+      "word": "let's",
+      "start": 5.6,
+      "end": 5.82
+    },
+    {
+      "word": "crawl",
+      "start": 5.82,
+      "end": 6.02
+    },
+    {
+      "word": "it",
+      "start": 6.02,
+      "end": 6.12
+    },
+    {
+      "word": "back",
+      "start": 6.12,
+      "end": 6.28
+    },
+    {
+      "word": "home",
+      "start": 6.28,
+      "end": 6.76
+    },
+    {
+      "word": "Got",
+      "start": 11.08,
+      "end": 11.52
+    },
+    {
+      "word": "Lawson",
+      "start": 11.52,
+      "end": 11.96
+    },
+    {
+      "word": "and",
+      "start": 11.96,
+      "end": 12.18
+    },
+    {
+      "word": "Hajar",
+      "start": 12.18,
+      "end": 12.74
+    },
+    {
+      "word": "Three",
+      "start": 13.62,
+      "end": 14.06
+    },
+    {
+      "word": "seconds",
+      "start": 14.06,
+      "end": 14.5
+    }
+  ],
+  "language": "en",
+  "word_count": 22,
+  "is_empty": false,
+  "is_very_short": false
+}

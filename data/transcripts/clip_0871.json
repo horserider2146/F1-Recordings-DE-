@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0871",
+  "text": "2.8, good job. P cars are going long on 14, so careful braking on 14. 3 to go, gap 2.4. Gap 2.5, good job. 2.3, good to go. That's 2.4.",
+  "words": [
+    {
+      "word": "2",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": ".8,",
+      "start": 0.16,
+      "end": 0.54
+    },
+    {
+      "word": "good",
+      "start": 0.62,
+      "end": 0.84
+    },
+    {
+      "word": "job.",
+      "start": 0.84,
+      "end": 1.14
+    },
+    {
+      "word": "P",
+      "start": 2.88,
+      "end": 3.44
+    },
+    {
+      "word": "cars",
+      "start": 3.44,
+      "end": 3.96
+    },
+    {
+      "word": "are",
+      "start": 3.96,
+      "end": 4.08
+    },
+    {
+      "word": "going",
+      "start": 4.08,
+      "end": 4.2
+    },
+    {
+      "word": "long",
+      "start": 4.2,
+      "end": 4.42
+    },
+    {
+      "word": "on",
+      "start": 4.42,
+      "end": 4.58
+    },
+    {
+      "word": "14,",
+      "start": 4.58,
+      "end": 4.9
+    },
+    {
+      "word": "so",
+      "start": 5.1,
+      "end": 5.2
+    },
+    {
+      "word": "careful",
+      "start": 5.2,
+      "end": 5.48
+    },
+    {
+      "word": "braking",
+      "start": 5.48,
+      "end": 5.8
+    },
+    {
+      "word": "on",
+      "start": 5.8,
+      "end": 5.98
+    },
+    {
+      "word": "14.",
+      "start": 5.98,
+      "end": 6.26
+    },
+    {
+      "word": "3",
+      "start": 6.9,
+      "end": 7.46
+    },
+    {
+      "word": "to",
+      "start": 7.46,
+      "end": 7.58
+    },
+    {
+      "word": "go,",
+      "start": 7.58,
+      "end": 7.76
+    },
+    {
+      "word": "gap",
+      "start": 7.88,
+      "end": 8.04
+    },
+    {
+      "word": "2",
+      "start": 8.04,
+      "end": 8.32
+    },
+    {
+      "word": ".4.",
+      "start": 8.32,
+      "end": 8.82
+    },
+    {
+      "word": "Gap",
+      "start": 9.9,
+      "end": 10.46
+    },
+    {
+      "word": "2",
+      "start": 10.46,
+      "end": 10.64
+    },
+    {
+      "word": ".5,",
+      "start": 10.64,
+      "end": 11.06
+    },
+    {
+      "word": "good",
+      "start": 11.14,
+      "end": 11.28
+    },
+    {
+      "word": "job.",
+      "start": 11.28,
+      "end": 11.54
+    },
+    {
+      "word": "2",
+      "start": 12.86,
+      "end": 13.42
+    },
+    {
+      "word": ".3,",
+      "start": 13.42,
+      "end": 13.98
+    },
+    {
+      "word": "good",
+      "start": 14.36,
+      "end": 14.56
+    },
+    {
+      "word": "to",
+      "start": 14.56,
+      "end": 14.66
+    },
+    {
+      "word": "go.",
+      "start": 14.66,
+      "end": 14.82
+    },
+    {
+      "word": "That's",
+      "start": 16.34,
+      "end": 16.9
+    },
+    {
+      "word": "2",
+      "start": 16.9,
+      "end": 17.06
+    },
+    {
+      "word": ".4.",
+      "start": 17.06,
+      "end": 17.56
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0880",
+  "text": "Me too, that's an incredible result. And again, another validation of all this hard work. Great job everyone, and even both is tonight. Maybe three. Push the boat out. Yeah, three this weekend.",
+  "words": [
+    {
+      "word": "Me",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "too,",
+      "start": 0.46,
+      "end": 0.66
+    },
+    {
+      "word": "that's",
+      "start": 0.9,
+      "end": 1.44
+    },
+    {
+      "word": "an",
+      "start": 1.44,
+      "end": 1.52
+    },
+    {
+      "word": "incredible",
+      "start": 1.52,
+      "end": 1.82
+    },
+    {
+      "word": "result.",
+      "start": 1.82,
+      "end": 2.3
+    },
+    {
+      "word": "And",
+      "start": 3.06,
+      "end": 3.44
+    },
+    {
+      "word": "again,",
+      "start": 3.44,
+      "end": 3.84
+    },
+    {
+      "word": "another",
+      "start": 4.08,
+      "end": 4.34
+    },
+    {
+      "word": "validation",
+      "start": 4.34,
+      "end": 4.8
+    },
+    {
+      "word": "of",
+      "start": 4.8,
+      "end": 5.06
+    },
+    {
+      "word": "all",
+      "start": 5.06,
+      "end": 5.18
+    },
+    {
+      "word": "this",
+      "start": 5.18,
+      "end": 5.32
+    },
+    {
+      "word": "hard",
+      "start": 5.32,
+      "end": 5.5
+    },
+    {
+      "word": "work.",
+      "start": 5.5,
+      "end": 5.7
+    },
+    {
+      "word": "Great",
+      "start": 6.48,
+      "end": 6.72
+    },
+    {
+      "word": "job",
+      "start": 6.72,
+      "end": 6.9
+    },
+    {
+      "word": "everyone,",
+      "start": 6.9,
+      "end": 7.18
+    },
+    {
+      "word": "and",
+      "start": 7.5,
+      "end": 7.52
+    },
+    {
+      "word": "even",
+      "start": 7.52,
+      "end": 7.76
+    },
+    {
+      "word": "both",
+      "start": 7.76,
+      "end": 7.98
+    },
+    {
+      "word": "is",
+      "start": 7.98,
+      "end": 8.28
+    },
+    {
+      "word": "tonight.",
+      "start": 8.28,
+      "end": 8.84
+    },
+    {
+      "word": "Maybe",
+      "start": 9.98,
+      "end": 10.46
+    },
+    {
+      "word": "three.",
+      "start": 10.46,
+      "end": 10.76
+    },
+    {
+      "word": "Push",
+      "start": 11.4,
+      "end": 11.58
+    },
+    {
+      "word": "the",
+      "start": 11.58,
+      "end": 11.7
+    },
+    {
+      "word": "boat",
+      "start": 11.7,
+      "end": 11.9
+    },
+    {
+      "word": "out.",
+      "start": 11.9,
+      "end": 12.04
+    },
+    {
+      "word": "Yeah,",
+      "start": 12.2,
+      "end": 12.36
+    },
+    {
+      "word": "three",
+      "start": 12.54,
+      "end": 12.8
+    },
+    {
+      "word": "this",
+      "start": 12.8,
+      "end": 13.5
+    },
+    {
+      "word": "weekend.",
+      "start": 13.5,
+      "end": 13.76
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

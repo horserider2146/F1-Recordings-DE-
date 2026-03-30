@@ -1,0 +1,35 @@
+{
+  "clip_id": "clip_0432",
+  "text": "So we've got George P2.",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "we've",
+      "start": 0.44,
+      "end": 0.68
+    },
+    {
+      "word": "got",
+      "start": 0.68,
+      "end": 0.9
+    },
+    {
+      "word": "George",
+      "start": 0.9,
+      "end": 1.8
+    },
+    {
+      "word": "P2.",
+      "start": 1.8,
+      "end": 2.3
+    }
+  ],
+  "language": "en",
+  "word_count": 5,
+  "is_empty": false,
+  "is_very_short": false
+}

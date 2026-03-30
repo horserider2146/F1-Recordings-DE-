@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_0344",
+  "text": "Check the bright side of the floor as well.",
+  "words": [
+    {
+      "word": "Check",
+      "start": 0.0,
+      "end": 0.7
+    },
+    {
+      "word": "the",
+      "start": 0.7,
+      "end": 0.92
+    },
+    {
+      "word": "bright",
+      "start": 0.92,
+      "end": 1.22
+    },
+    {
+      "word": "side",
+      "start": 1.22,
+      "end": 1.48
+    },
+    {
+      "word": "of",
+      "start": 1.48,
+      "end": 2.04
+    },
+    {
+      "word": "the",
+      "start": 2.04,
+      "end": 2.12
+    },
+    {
+      "word": "floor",
+      "start": 2.12,
+      "end": 2.48
+    },
+    {
+      "word": "as",
+      "start": 2.48,
+      "end": 2.76
+    },
+    {
+      "word": "well.",
+      "start": 2.76,
+      "end": 2.98
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

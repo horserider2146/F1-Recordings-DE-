@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0602",
+  "text": "Let's see a double yellow. Overtake available, watch debris. And earlier full throttle out of 12. Stay with him if you can. If you're doing well. Overtake available. I have no power. Fear keeping something.",
+  "words": [
+    {
+      "word": "Let's",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "see",
+      "start": 0.22,
+      "end": 0.3
+    },
+    {
+      "word": "a",
+      "start": 0.3,
+      "end": 0.4
+    },
+    {
+      "word": "double",
+      "start": 0.4,
+      "end": 0.56
+    },
+    {
+      "word": "yellow.",
+      "start": 0.56,
+      "end": 0.8
+    },
+    {
+      "word": "Overtake",
+      "start": 1.12,
+      "end": 1.64
+    },
+    {
+      "word": "available,",
+      "start": 1.64,
+      "end": 2.94
+    },
+    {
+      "word": "watch",
+      "start": 3.32,
+      "end": 3.46
+    },
+    {
+      "word": "debris.",
+      "start": 3.46,
+      "end": 3.74
+    },
+    {
+      "word": "And",
+      "start": 5.44,
+      "end": 5.74
+    },
+    {
+      "word": "earlier",
+      "start": 5.74,
+      "end": 6.18
+    },
+    {
+      "word": "full",
+      "start": 6.18,
+      "end": 6.72
+    },
+    {
+      "word": "throttle",
+      "start": 6.72,
+      "end": 7.14
+    },
+    {
+      "word": "out",
+      "start": 7.14,
+      "end": 7.54
+    },
+    {
+      "word": "of",
+      "start": 7.54,
+      "end": 7.74
+    },
+    {
+      "word": "12.",
+      "start": 7.74,
+      "end": 7.96
+    },
+    {
+      "word": "Stay",
+      "start": 9.02,
+      "end": 9.24
+    },
+    {
+      "word": "with",
+      "start": 9.24,
+      "end": 9.4
+    },
+    {
+      "word": "him",
+      "start": 9.4,
+      "end": 9.56
+    },
+    {
+      "word": "if",
+      "start": 9.56,
+      "end": 9.7
+    },
+    {
+      "word": "you",
+      "start": 9.7,
+      "end": 9.8
+    },
+    {
+      "word": "can.",
+      "start": 9.8,
+      "end": 10.02
+    },
+    {
+      "word": "If",
+      "start": 10.7,
+      "end": 10.76
+    },
+    {
+      "word": "you're",
+      "start": 10.76,
+      "end": 10.92
+    },
+    {
+      "word": "doing",
+      "start": 10.92,
+      "end": 11.08
+    },
+    {
+      "word": "well.",
+      "start": 11.08,
+      "end": 11.3
+    },
+    {
+      "word": "Overtake",
+      "start": 12.4,
+      "end": 13.0
+    },
+    {
+      "word": "available.",
+      "start": 13.0,
+      "end": 13.3
+    },
+    {
+      "word": "I",
+      "start": 14.06,
+      "end": 14.36
+    },
+    {
+      "word": "have",
+      "start": 14.36,
+      "end": 14.64
+    },
+    {
+      "word": "no",
+      "start": 14.64,
+      "end": 14.8
+    },
+    {
+      "word": "power.",
+      "start": 14.8,
+      "end": 15.16
+    },
+    {
+      "word": "Fear",
+      "start": 16.48,
+      "end": 17.08
+    },
+    {
+      "word": "keeping",
+      "start": 17.08,
+      "end": 17.68
+    },
+    {
+      "word": "something.",
+      "start": 17.68,
+      "end": 18.1
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

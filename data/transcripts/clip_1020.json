@@ -1,0 +1,60 @@
+{
+  "clip_id": "clip_1020",
+  "text": "from Lewis Hamilton and he retakes seconds. Shalekler gets by.",
+  "words": [
+    {
+      "word": "from",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "Lewis",
+      "start": 0.34,
+      "end": 0.7
+    },
+    {
+      "word": "Hamilton",
+      "start": 0.7,
+      "end": 1.2
+    },
+    {
+      "word": "and",
+      "start": 1.2,
+      "end": 3.26
+    },
+    {
+      "word": "he",
+      "start": 3.26,
+      "end": 3.36
+    },
+    {
+      "word": "retakes",
+      "start": 3.36,
+      "end": 3.98
+    },
+    {
+      "word": "seconds.",
+      "start": 3.98,
+      "end": 4.6
+    },
+    {
+      "word": "Shalekler",
+      "start": 7.36,
+      "end": 8.48
+    },
+    {
+      "word": "gets",
+      "start": 8.48,
+      "end": 8.78
+    },
+    {
+      "word": "by.",
+      "start": 8.78,
+      "end": 9.16
+    }
+  ],
+  "language": "en",
+  "word_count": 10,
+  "is_empty": false,
+  "is_very_short": false
+}

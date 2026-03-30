@@ -1,0 +1,120 @@
+{
+  "clip_id": "clip_1049",
+  "text": "on the back street. Copy that, Saku. And we are boxing, box, box, box. Way bridge, way bridge. We'll be ignition off.",
+  "words": [
+    {
+      "word": "on",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "the",
+      "start": 0.18,
+      "end": 0.32
+    },
+    {
+      "word": "back",
+      "start": 0.32,
+      "end": 0.94
+    },
+    {
+      "word": "street.",
+      "start": 0.94,
+      "end": 3.3
+    },
+    {
+      "word": "Copy",
+      "start": 5.34,
+      "end": 5.76
+    },
+    {
+      "word": "that,",
+      "start": 5.76,
+      "end": 6.02
+    },
+    {
+      "word": "Saku.",
+      "start": 6.18,
+      "end": 6.32
+    },
+    {
+      "word": "And",
+      "start": 8.14,
+      "end": 8.56
+    },
+    {
+      "word": "we",
+      "start": 8.56,
+      "end": 8.68
+    },
+    {
+      "word": "are",
+      "start": 8.68,
+      "end": 8.78
+    },
+    {
+      "word": "boxing,",
+      "start": 8.78,
+      "end": 9.08
+    },
+    {
+      "word": "box,",
+      "start": 9.32,
+      "end": 9.44
+    },
+    {
+      "word": "box,",
+      "start": 9.54,
+      "end": 9.66
+    },
+    {
+      "word": "box.",
+      "start": 9.76,
+      "end": 9.94
+    },
+    {
+      "word": "Way",
+      "start": 12.0,
+      "end": 12.42
+    },
+    {
+      "word": "bridge,",
+      "start": 12.42,
+      "end": 12.62
+    },
+    {
+      "word": "way",
+      "start": 12.8,
+      "end": 12.92
+    },
+    {
+      "word": "bridge.",
+      "start": 12.92,
+      "end": 13.28
+    },
+    {
+      "word": "We'll",
+      "start": 14.98,
+      "end": 15.32
+    },
+    {
+      "word": "be",
+      "start": 15.32,
+      "end": 15.44
+    },
+    {
+      "word": "ignition",
+      "start": 15.44,
+      "end": 15.88
+    },
+    {
+      "word": "off.",
+      "start": 15.88,
+      "end": 16.1
+    }
+  ],
+  "language": "en",
+  "word_count": 22,
+  "is_empty": false,
+  "is_very_short": false
+}

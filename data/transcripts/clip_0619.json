@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_0619",
+  "text": "We are three minutes to green.",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "are",
+      "start": 0.16,
+      "end": 0.4
+    },
+    {
+      "word": "three",
+      "start": 0.4,
+      "end": 0.88
+    },
+    {
+      "word": "minutes",
+      "start": 0.88,
+      "end": 1.38
+    },
+    {
+      "word": "to",
+      "start": 1.38,
+      "end": 2.02
+    },
+    {
+      "word": "green.",
+      "start": 2.02,
+      "end": 2.18
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

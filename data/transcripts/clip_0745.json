@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_0745",
+  "text": "Yeah, it's just more closed than under the absolute grid. That's all. Did somebody set intentional?",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "it's",
+      "start": 0.28,
+      "end": 0.34
+    },
+    {
+      "word": "just",
+      "start": 0.34,
+      "end": 0.5
+    },
+    {
+      "word": "more",
+      "start": 0.5,
+      "end": 1.16
+    },
+    {
+      "word": "closed",
+      "start": 1.16,
+      "end": 1.76
+    },
+    {
+      "word": "than",
+      "start": 1.76,
+      "end": 2.0
+    },
+    {
+      "word": "under",
+      "start": 2.0,
+      "end": 2.36
+    },
+    {
+      "word": "the",
+      "start": 2.36,
+      "end": 2.42
+    },
+    {
+      "word": "absolute",
+      "start": 2.42,
+      "end": 2.64
+    },
+    {
+      "word": "grid.",
+      "start": 2.64,
+      "end": 3.52
+    },
+    {
+      "word": "That's",
+      "start": 3.52,
+      "end": 3.8
+    },
+    {
+      "word": "all.",
+      "start": 3.8,
+      "end": 3.88
+    },
+    {
+      "word": "Did",
+      "start": 4.3,
+      "end": 4.5
+    },
+    {
+      "word": "somebody",
+      "start": 4.5,
+      "end": 4.88
+    },
+    {
+      "word": "set",
+      "start": 4.88,
+      "end": 5.32
+    },
+    {
+      "word": "intentional?",
+      "start": 5.32,
+      "end": 5.64
+    }
+  ],
+  "language": "en",
+  "word_count": 16,
+  "is_empty": false,
+  "is_very_short": false
+}

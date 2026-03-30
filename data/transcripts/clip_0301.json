@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_0301",
+  "text": "Okay, slow button please, slow button on. A fail, eat, poor, fail. Fail, eat, poor, fail.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 4.64,
+      "end": 5.24
+    },
+    {
+      "word": "slow",
+      "start": 5.38,
+      "end": 5.78
+    },
+    {
+      "word": "button",
+      "start": 5.78,
+      "end": 6.06
+    },
+    {
+      "word": "please,",
+      "start": 6.06,
+      "end": 6.34
+    },
+    {
+      "word": "slow",
+      "start": 6.48,
+      "end": 6.64
+    },
+    {
+      "word": "button",
+      "start": 6.64,
+      "end": 6.86
+    },
+    {
+      "word": "on.",
+      "start": 6.86,
+      "end": 7.1
+    },
+    {
+      "word": "A",
+      "start": 12.38,
+      "end": 12.98
+    },
+    {
+      "word": "fail,",
+      "start": 12.98,
+      "end": 13.52
+    },
+    {
+      "word": "eat,",
+      "start": 13.88,
+      "end": 14.24
+    },
+    {
+      "word": "poor,",
+      "start": 14.54,
+      "end": 14.8
+    },
+    {
+      "word": "fail.",
+      "start": 15.04,
+      "end": 15.24
+    },
+    {
+      "word": "Fail,",
+      "start": 15.72,
+      "end": 16.08
+    },
+    {
+      "word": "eat,",
+      "start": 16.44,
+      "end": 16.76
+    },
+    {
+      "word": "poor,",
+      "start": 17.08,
+      "end": 17.26
+    },
+    {
+      "word": "fail.",
+      "start": 17.44,
+      "end": 17.66
+    }
+  ],
+  "language": "en",
+  "word_count": 16,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0406",
+  "text": "Just make sure you use the car before you hop out.",
+  "words": [
+    {
+      "word": "Just",
+      "start": 1.52,
+      "end": 1.88
+    },
+    {
+      "word": "make",
+      "start": 1.88,
+      "end": 2.04
+    },
+    {
+      "word": "sure",
+      "start": 2.04,
+      "end": 2.2
+    },
+    {
+      "word": "you",
+      "start": 2.2,
+      "end": 2.38
+    },
+    {
+      "word": "use",
+      "start": 2.38,
+      "end": 2.78
+    },
+    {
+      "word": "the",
+      "start": 2.78,
+      "end": 2.84
+    },
+    {
+      "word": "car",
+      "start": 2.84,
+      "end": 3.22
+    },
+    {
+      "word": "before",
+      "start": 3.22,
+      "end": 3.54
+    },
+    {
+      "word": "you",
+      "start": 3.54,
+      "end": 3.66
+    },
+    {
+      "word": "hop",
+      "start": 3.66,
+      "end": 3.8
+    },
+    {
+      "word": "out.",
+      "start": 3.8,
+      "end": 3.98
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

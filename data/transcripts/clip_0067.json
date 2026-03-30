@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_0067",
+  "text": "1.5 I just push in 3 ok what's the score? is that 2 behind pushing? is that 1.5 coming now? ok next one no risk no risk 7 pushing start off offset 0 tp 1",
+  "words": [
+    {
+      "word": "1",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": ".5",
+      "start": 0.48,
+      "end": 0.48
+    },
+    {
+      "word": "I",
+      "start": 0.48,
+      "end": 0.98
+    },
+    {
+      "word": "just",
+      "start": 0.98,
+      "end": 2.62
+    },
+    {
+      "word": "push",
+      "start": 2.62,
+      "end": 2.86
+    },
+    {
+      "word": "in",
+      "start": 2.86,
+      "end": 2.98
+    },
+    {
+      "word": "3",
+      "start": 2.98,
+      "end": 3.26
+    },
+    {
+      "word": "ok",
+      "start": 5.14,
+      "end": 5.7
+    },
+    {
+      "word": "what's",
+      "start": 5.7,
+      "end": 6.02
+    },
+    {
+      "word": "the",
+      "start": 6.02,
+      "end": 6.06
+    },
+    {
+      "word": "score?",
+      "start": 6.06,
+      "end": 6.22
+    },
+    {
+      "word": "is",
+      "start": 6.3,
+      "end": 6.4
+    },
+    {
+      "word": "that",
+      "start": 6.4,
+      "end": 6.54
+    },
+    {
+      "word": "2",
+      "start": 6.54,
+      "end": 6.86
+    },
+    {
+      "word": "behind",
+      "start": 6.86,
+      "end": 7.14
+    },
+    {
+      "word": "pushing?",
+      "start": 7.14,
+      "end": 7.42
+    },
+    {
+      "word": "is",
+      "start": 8.82,
+      "end": 9.38
+    },
+    {
+      "word": "that",
+      "start": 9.38,
+      "end": 9.48
+    },
+    {
+      "word": "1",
+      "start": 9.48,
+      "end": 9.7
+    },
+    {
+      "word": ".5",
+      "start": 9.7,
+      "end": 10.1
+    },
+    {
+      "word": "coming",
+      "start": 10.1,
+      "end": 10.36
+    },
+    {
+      "word": "now?",
+      "start": 10.36,
+      "end": 10.58
+    },
+    {
+      "word": "ok",
+      "start": 11.58,
+      "end": 12.14
+    },
+    {
+      "word": "next",
+      "start": 12.14,
+      "end": 12.32
+    },
+    {
+      "word": "one",
+      "start": 12.32,
+      "end": 12.5
+    },
+    {
+      "word": "no",
+      "start": 12.5,
+      "end": 12.64
+    },
+    {
+      "word": "risk",
+      "start": 12.64,
+      "end": 12.82
+    },
+    {
+      "word": "no",
+      "start": 12.82,
+      "end": 13.82
+    },
+    {
+      "word": "risk",
+      "start": 13.82,
+      "end": 15.08
+    },
+    {
+      "word": "7",
+      "start": 15.08,
+      "end": 15.34
+    },
+    {
+      "word": "pushing",
+      "start": 15.34,
+      "end": 15.66
+    },
+    {
+      "word": "start",
+      "start": 15.66,
+      "end": 16.1
+    },
+    {
+      "word": "off",
+      "start": 16.1,
+      "end": 16.48
+    },
+    {
+      "word": "offset",
+      "start": 16.48,
+      "end": 17.08
+    },
+    {
+      "word": "0",
+      "start": 17.08,
+      "end": 17.36
+    },
+    {
+      "word": "tp",
+      "start": 19.34,
+      "end": 19.9
+    },
+    {
+      "word": "1",
+      "start": 19.9,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

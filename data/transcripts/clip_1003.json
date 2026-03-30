@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_1003",
+  "text": "I'm going to let him... I'm going to let him live.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "going",
+      "start": 0.26,
+      "end": 0.38
+    },
+    {
+      "word": "to",
+      "start": 0.38,
+      "end": 0.56
+    },
+    {
+      "word": "let",
+      "start": 0.56,
+      "end": 0.58
+    },
+    {
+      "word": "him...",
+      "start": 0.58,
+      "end": 1.0
+    },
+    {
+      "word": "I'm",
+      "start": 2.78,
+      "end": 3.1
+    },
+    {
+      "word": "going",
+      "start": 3.1,
+      "end": 3.18
+    },
+    {
+      "word": "to",
+      "start": 3.18,
+      "end": 3.24
+    },
+    {
+      "word": "let",
+      "start": 3.24,
+      "end": 3.38
+    },
+    {
+      "word": "him",
+      "start": 3.38,
+      "end": 3.5
+    },
+    {
+      "word": "live.",
+      "start": 3.5,
+      "end": 3.72
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

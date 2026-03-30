@@ -1,0 +1,80 @@
+{
+  "clip_id": "clip_0984",
+  "text": "I would get it. Still very good effort. Where did Franco finish? Franco finished.",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "word": "would",
+      "start": 0.08,
+      "end": 0.24
+    },
+    {
+      "word": "get",
+      "start": 0.24,
+      "end": 0.42
+    },
+    {
+      "word": "it.",
+      "start": 0.42,
+      "end": 0.68
+    },
+    {
+      "word": "Still",
+      "start": 2.12,
+      "end": 2.68
+    },
+    {
+      "word": "very",
+      "start": 2.68,
+      "end": 3.24
+    },
+    {
+      "word": "good",
+      "start": 3.24,
+      "end": 3.4
+    },
+    {
+      "word": "effort.",
+      "start": 3.4,
+      "end": 3.68
+    },
+    {
+      "word": "Where",
+      "start": 3.8,
+      "end": 3.92
+    },
+    {
+      "word": "did",
+      "start": 3.92,
+      "end": 4.02
+    },
+    {
+      "word": "Franco",
+      "start": 4.02,
+      "end": 4.3
+    },
+    {
+      "word": "finish?",
+      "start": 4.3,
+      "end": 4.66
+    },
+    {
+      "word": "Franco",
+      "start": 5.86,
+      "end": 6.42
+    },
+    {
+      "word": "finished.",
+      "start": 6.42,
+      "end": 6.98
+    }
+  ],
+  "language": "en",
+  "word_count": 14,
+  "is_empty": false,
+  "is_very_short": false
+}

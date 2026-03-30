@@ -1,0 +1,230 @@
+{
+  "clip_id": "clip_0431",
+  "text": "Just a car that splits again. It's used down that delta. There you'll be, it's pit lane. So watch the white line. Nice work, Jimmy. That's a whole position, mate. Yeah, let's go, man. Woo! Yeah, that was a decent lap. No, good effort.",
+  "words": [
+    {
+      "word": "Just",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "a",
+      "start": 0.2,
+      "end": 0.32
+    },
+    {
+      "word": "car",
+      "start": 0.32,
+      "end": 0.56
+    },
+    {
+      "word": "that",
+      "start": 0.56,
+      "end": 0.68
+    },
+    {
+      "word": "splits",
+      "start": 0.68,
+      "end": 0.98
+    },
+    {
+      "word": "again.",
+      "start": 0.98,
+      "end": 1.38
+    },
+    {
+      "word": "It's",
+      "start": 2.84,
+      "end": 3.2
+    },
+    {
+      "word": "used",
+      "start": 3.2,
+      "end": 3.28
+    },
+    {
+      "word": "down",
+      "start": 3.28,
+      "end": 3.52
+    },
+    {
+      "word": "that",
+      "start": 3.52,
+      "end": 3.68
+    },
+    {
+      "word": "delta.",
+      "start": 3.68,
+      "end": 3.94
+    },
+    {
+      "word": "There",
+      "start": 5.4,
+      "end": 5.76
+    },
+    {
+      "word": "you'll",
+      "start": 5.76,
+      "end": 5.9
+    },
+    {
+      "word": "be,",
+      "start": 5.9,
+      "end": 5.98
+    },
+    {
+      "word": "it's",
+      "start": 6.1,
+      "end": 6.28
+    },
+    {
+      "word": "pit",
+      "start": 6.28,
+      "end": 6.4
+    },
+    {
+      "word": "lane.",
+      "start": 6.4,
+      "end": 6.56
+    },
+    {
+      "word": "So",
+      "start": 7.92,
+      "end": 8.28
+    },
+    {
+      "word": "watch",
+      "start": 8.28,
+      "end": 8.48
+    },
+    {
+      "word": "the",
+      "start": 8.48,
+      "end": 8.64
+    },
+    {
+      "word": "white",
+      "start": 8.64,
+      "end": 8.82
+    },
+    {
+      "word": "line.",
+      "start": 8.82,
+      "end": 9.04
+    },
+    {
+      "word": "Nice",
+      "start": 10.06,
+      "end": 10.32
+    },
+    {
+      "word": "work,",
+      "start": 10.32,
+      "end": 10.5
+    },
+    {
+      "word": "Jimmy.",
+      "start": 10.62,
+      "end": 10.68
+    },
+    {
+      "word": "That's",
+      "start": 11.46,
+      "end": 11.82
+    },
+    {
+      "word": "a",
+      "start": 11.82,
+      "end": 11.88
+    },
+    {
+      "word": "whole",
+      "start": 11.88,
+      "end": 12.06
+    },
+    {
+      "word": "position,",
+      "start": 12.06,
+      "end": 12.34
+    },
+    {
+      "word": "mate.",
+      "start": 12.48,
+      "end": 12.64
+    },
+    {
+      "word": "Yeah,",
+      "start": 14.0,
+      "end": 14.36
+    },
+    {
+      "word": "let's",
+      "start": 14.46,
+      "end": 14.64
+    },
+    {
+      "word": "go,",
+      "start": 14.64,
+      "end": 14.78
+    },
+    {
+      "word": "man.",
+      "start": 14.84,
+      "end": 14.96
+    },
+    {
+      "word": "Woo!",
+      "start": 15.98,
+      "end": 16.14
+    },
+    {
+      "word": "Yeah,",
+      "start": 17.3,
+      "end": 17.64
+    },
+    {
+      "word": "that",
+      "start": 17.72,
+      "end": 17.76
+    },
+    {
+      "word": "was",
+      "start": 17.76,
+      "end": 17.92
+    },
+    {
+      "word": "a",
+      "start": 17.92,
+      "end": 18.04
+    },
+    {
+      "word": "decent",
+      "start": 18.04,
+      "end": 18.22
+    },
+    {
+      "word": "lap.",
+      "start": 18.22,
+      "end": 18.5
+    },
+    {
+      "word": "No,",
+      "start": 19.54,
+      "end": 19.66
+    },
+    {
+      "word": "good",
+      "start": 19.82,
+      "end": 19.82
+    },
+    {
+      "word": "effort.",
+      "start": 19.82,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 44,
+  "is_empty": false,
+  "is_very_short": false
+}

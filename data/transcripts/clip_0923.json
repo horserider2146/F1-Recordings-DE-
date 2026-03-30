@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_0923",
+  "text": "They pull enough in front of the garage. You've got Hamilton five behind. Hamilton time lap five. Great mode down to six, no weaving. Hamilton not pushing behind the car. Hamilton clear behind. Straight mode to six, no weaving. Steady on track. Portion on track.",
+  "words": [
+    {
+      "word": "They",
+      "start": 0.68,
+      "end": 1.14
+    },
+    {
+      "word": "pull",
+      "start": 1.14,
+      "end": 1.48
+    },
+    {
+      "word": "enough",
+      "start": 1.48,
+      "end": 1.64
+    },
+    {
+      "word": "in",
+      "start": 1.64,
+      "end": 1.84
+    },
+    {
+      "word": "front",
+      "start": 1.84,
+      "end": 2.06
+    },
+    {
+      "word": "of",
+      "start": 2.06,
+      "end": 2.18
+    },
+    {
+      "word": "the",
+      "start": 2.18,
+      "end": 2.26
+    },
+    {
+      "word": "garage.",
+      "start": 2.26,
+      "end": 2.46
+    },
+    {
+      "word": "You've",
+      "start": 3.74,
+      "end": 4.2
+    },
+    {
+      "word": "got",
+      "start": 4.2,
+      "end": 4.32
+    },
+    {
+      "word": "Hamilton",
+      "start": 4.32,
+      "end": 4.7
+    },
+    {
+      "word": "five",
+      "start": 4.7,
+      "end": 5.28
+    },
+    {
+      "word": "behind.",
+      "start": 5.28,
+      "end": 5.68
+    },
+    {
+      "word": "Hamilton",
+      "start": 6.06,
+      "end": 6.2
+    },
+    {
+      "word": "time",
+      "start": 6.2,
+      "end": 6.5
+    },
+    {
+      "word": "lap",
+      "start": 6.5,
+      "end": 6.68
+    },
+    {
+      "word": "five.",
+      "start": 6.68,
+      "end": 7.02
+    },
+    {
+      "word": "Great",
+      "start": 8.12,
+      "end": 8.58
+    },
+    {
+      "word": "mode",
+      "start": 8.58,
+      "end": 8.8
+    },
+    {
+      "word": "down",
+      "start": 8.8,
+      "end": 9.0
+    },
+    {
+      "word": "to",
+      "start": 9.0,
+      "end": 9.16
+    },
+    {
+      "word": "six,",
+      "start": 9.16,
+      "end": 9.44
+    },
+    {
+      "word": "no",
+      "start": 9.58,
+      "end": 9.68
+    },
+    {
+      "word": "weaving.",
+      "start": 9.68,
+      "end": 9.88
+    },
+    {
+      "word": "Hamilton",
+      "start": 10.06,
+      "end": 10.26
+    },
+    {
+      "word": "not",
+      "start": 10.26,
+      "end": 10.7
+    },
+    {
+      "word": "pushing",
+      "start": 10.7,
+      "end": 11.06
+    },
+    {
+      "word": "behind",
+      "start": 11.06,
+      "end": 11.32
+    },
+    {
+      "word": "the",
+      "start": 11.32,
+      "end": 11.46
+    },
+    {
+      "word": "car.",
+      "start": 11.46,
+      "end": 11.6
+    },
+    {
+      "word": "Hamilton",
+      "start": 11.88,
+      "end": 12.34
+    },
+    {
+      "word": "clear",
+      "start": 12.34,
+      "end": 12.64
+    },
+    {
+      "word": "behind.",
+      "start": 12.64,
+      "end": 12.88
+    },
+    {
+      "word": "Straight",
+      "start": 13.06,
+      "end": 13.3
+    },
+    {
+      "word": "mode",
+      "start": 13.3,
+      "end": 13.48
+    },
+    {
+      "word": "to",
+      "start": 13.48,
+      "end": 13.62
+    },
+    {
+      "word": "six,",
+      "start": 13.62,
+      "end": 13.9
+    },
+    {
+      "word": "no",
+      "start": 14.26,
+      "end": 14.36
+    },
+    {
+      "word": "weaving.",
+      "start": 14.36,
+      "end": 14.64
+    },
+    {
+      "word": "Steady",
+      "start": 15.6,
+      "end": 16.06
+    },
+    {
+      "word": "on",
+      "start": 16.06,
+      "end": 16.2
+    },
+    {
+      "word": "track.",
+      "start": 16.2,
+      "end": 16.4
+    },
+    {
+      "word": "Portion",
+      "start": 18.7,
+      "end": 19.16
+    },
+    {
+      "word": "on",
+      "start": 19.16,
+      "end": 19.3
+    },
+    {
+      "word": "track.",
+      "start": 19.3,
+      "end": 19.56
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

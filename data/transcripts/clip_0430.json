@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_0430",
+  "text": "So we'll box box, so strap 13. So George is out and running. Just wait for other cars to complete their laps. So the car will be George. He is currently at 21 seconds.",
+  "words": [
+    {
+      "word": "So",
+      "start": 2.48,
+      "end": 3.08
+    },
+    {
+      "word": "we'll",
+      "start": 3.08,
+      "end": 3.66
+    },
+    {
+      "word": "box",
+      "start": 3.66,
+      "end": 3.94
+    },
+    {
+      "word": "box,",
+      "start": 3.94,
+      "end": 4.18
+    },
+    {
+      "word": "so",
+      "start": 4.32,
+      "end": 4.5
+    },
+    {
+      "word": "strap",
+      "start": 4.5,
+      "end": 4.68
+    },
+    {
+      "word": "13.",
+      "start": 4.68,
+      "end": 5.14
+    },
+    {
+      "word": "So",
+      "start": 6.3,
+      "end": 6.64
+    },
+    {
+      "word": "George",
+      "start": 6.64,
+      "end": 6.98
+    },
+    {
+      "word": "is",
+      "start": 6.98,
+      "end": 7.28
+    },
+    {
+      "word": "out",
+      "start": 7.28,
+      "end": 7.58
+    },
+    {
+      "word": "and",
+      "start": 7.58,
+      "end": 7.84
+    },
+    {
+      "word": "running.",
+      "start": 7.84,
+      "end": 8.08
+    },
+    {
+      "word": "Just",
+      "start": 10.02,
+      "end": 10.4
+    },
+    {
+      "word": "wait",
+      "start": 10.4,
+      "end": 10.56
+    },
+    {
+      "word": "for",
+      "start": 10.56,
+      "end": 10.7
+    },
+    {
+      "word": "other",
+      "start": 10.7,
+      "end": 10.88
+    },
+    {
+      "word": "cars",
+      "start": 10.88,
+      "end": 11.08
+    },
+    {
+      "word": "to",
+      "start": 11.08,
+      "end": 11.26
+    },
+    {
+      "word": "complete",
+      "start": 11.26,
+      "end": 11.54
+    },
+    {
+      "word": "their",
+      "start": 11.54,
+      "end": 11.7
+    },
+    {
+      "word": "laps.",
+      "start": 11.7,
+      "end": 11.92
+    },
+    {
+      "word": "So",
+      "start": 13.12,
+      "end": 13.5
+    },
+    {
+      "word": "the",
+      "start": 13.5,
+      "end": 13.88
+    },
+    {
+      "word": "car",
+      "start": 13.88,
+      "end": 14.42
+    },
+    {
+      "word": "will",
+      "start": 14.42,
+      "end": 14.66
+    },
+    {
+      "word": "be",
+      "start": 14.66,
+      "end": 14.92
+    },
+    {
+      "word": "George.",
+      "start": 14.92,
+      "end": 15.36
+    },
+    {
+      "word": "He",
+      "start": 15.84,
+      "end": 16.16
+    },
+    {
+      "word": "is",
+      "start": 16.16,
+      "end": 16.3
+    },
+    {
+      "word": "currently",
+      "start": 16.3,
+      "end": 16.7
+    },
+    {
+      "word": "at",
+      "start": 16.7,
+      "end": 16.94
+    },
+    {
+      "word": "21",
+      "start": 16.94,
+      "end": 17.44
+    },
+    {
+      "word": "seconds.",
+      "start": 17.44,
+      "end": 17.92
+    }
+  ],
+  "language": "en",
+  "word_count": 34,
+  "is_empty": false,
+  "is_very_short": false
+}

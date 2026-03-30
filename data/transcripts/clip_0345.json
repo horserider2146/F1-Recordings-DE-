@@ -1,0 +1,110 @@
+{
+  "clip_id": "clip_0345",
+  "text": "as if the front left pressure is like 5 psi too low or I've lost 2% of error balance.",
+  "words": [
+    {
+      "word": "as",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "if",
+      "start": 0.14,
+      "end": 0.28
+    },
+    {
+      "word": "the",
+      "start": 0.28,
+      "end": 0.4
+    },
+    {
+      "word": "front",
+      "start": 0.4,
+      "end": 0.58
+    },
+    {
+      "word": "left",
+      "start": 0.58,
+      "end": 0.76
+    },
+    {
+      "word": "pressure",
+      "start": 0.76,
+      "end": 1.16
+    },
+    {
+      "word": "is",
+      "start": 1.16,
+      "end": 1.42
+    },
+    {
+      "word": "like",
+      "start": 1.42,
+      "end": 1.66
+    },
+    {
+      "word": "5",
+      "start": 1.66,
+      "end": 1.92
+    },
+    {
+      "word": "psi",
+      "start": 1.92,
+      "end": 2.26
+    },
+    {
+      "word": "too",
+      "start": 2.26,
+      "end": 2.54
+    },
+    {
+      "word": "low",
+      "start": 2.54,
+      "end": 2.82
+    },
+    {
+      "word": "or",
+      "start": 2.82,
+      "end": 3.64
+    },
+    {
+      "word": "I've",
+      "start": 3.64,
+      "end": 3.86
+    },
+    {
+      "word": "lost",
+      "start": 3.86,
+      "end": 4.04
+    },
+    {
+      "word": "2",
+      "start": 4.04,
+      "end": 4.28
+    },
+    {
+      "word": "%",
+      "start": 4.28,
+      "end": 4.46
+    },
+    {
+      "word": "of",
+      "start": 4.46,
+      "end": 4.62
+    },
+    {
+      "word": "error",
+      "start": 4.62,
+      "end": 4.76
+    },
+    {
+      "word": "balance.",
+      "start": 4.76,
+      "end": 5.02
+    }
+  ],
+  "language": "en",
+  "word_count": 19,
+  "is_empty": false,
+  "is_very_short": false
+}

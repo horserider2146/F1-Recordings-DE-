@@ -1,0 +1,115 @@
+{
+  "clip_id": "clip_0491",
+  "text": "info. There was some oil dropped on grid slots which they cleaned up but there might be some dust on the...",
+  "words": [
+    {
+      "word": "info.",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "There",
+      "start": 1.06,
+      "end": 1.22
+    },
+    {
+      "word": "was",
+      "start": 1.22,
+      "end": 1.4
+    },
+    {
+      "word": "some",
+      "start": 1.4,
+      "end": 1.64
+    },
+    {
+      "word": "oil",
+      "start": 1.64,
+      "end": 2.6
+    },
+    {
+      "word": "dropped",
+      "start": 2.6,
+      "end": 2.96
+    },
+    {
+      "word": "on",
+      "start": 2.96,
+      "end": 3.2
+    },
+    {
+      "word": "grid",
+      "start": 3.2,
+      "end": 3.42
+    },
+    {
+      "word": "slots",
+      "start": 3.42,
+      "end": 3.68
+    },
+    {
+      "word": "which",
+      "start": 3.68,
+      "end": 4.0
+    },
+    {
+      "word": "they",
+      "start": 4.0,
+      "end": 4.14
+    },
+    {
+      "word": "cleaned",
+      "start": 4.14,
+      "end": 4.4
+    },
+    {
+      "word": "up",
+      "start": 4.4,
+      "end": 4.64
+    },
+    {
+      "word": "but",
+      "start": 4.64,
+      "end": 4.72
+    },
+    {
+      "word": "there",
+      "start": 4.72,
+      "end": 4.84
+    },
+    {
+      "word": "might",
+      "start": 4.84,
+      "end": 4.94
+    },
+    {
+      "word": "be",
+      "start": 4.94,
+      "end": 5.1
+    },
+    {
+      "word": "some",
+      "start": 5.1,
+      "end": 5.24
+    },
+    {
+      "word": "dust",
+      "start": 5.24,
+      "end": 5.56
+    },
+    {
+      "word": "on",
+      "start": 5.56,
+      "end": 5.8
+    },
+    {
+      "word": "the...",
+      "start": 5.8,
+      "end": 5.98
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

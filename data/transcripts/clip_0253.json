@@ -1,0 +1,135 @@
+{
+  "clip_id": "clip_0253",
+  "text": "the end of the lap. 15 seconds, 10 seconds, 5 seconds. When you can green 8, position 5, position 6, correction, green 8, position 6.",
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "end",
+      "start": 0.14,
+      "end": 0.24
+    },
+    {
+      "word": "of",
+      "start": 0.24,
+      "end": 0.32
+    },
+    {
+      "word": "the",
+      "start": 0.32,
+      "end": 0.4
+    },
+    {
+      "word": "lap.",
+      "start": 0.4,
+      "end": 0.64
+    },
+    {
+      "word": "15",
+      "start": 2.02,
+      "end": 2.94
+    },
+    {
+      "word": "seconds,",
+      "start": 2.94,
+      "end": 3.44
+    },
+    {
+      "word": "10",
+      "start": 4.1,
+      "end": 5.18
+    },
+    {
+      "word": "seconds,",
+      "start": 5.18,
+      "end": 5.68
+    },
+    {
+      "word": "5",
+      "start": 6.36,
+      "end": 7.46
+    },
+    {
+      "word": "seconds.",
+      "start": 7.46,
+      "end": 7.82
+    },
+    {
+      "word": "When",
+      "start": 8.92,
+      "end": 9.18
+    },
+    {
+      "word": "you",
+      "start": 9.18,
+      "end": 9.32
+    },
+    {
+      "word": "can",
+      "start": 9.32,
+      "end": 9.6
+    },
+    {
+      "word": "green",
+      "start": 9.6,
+      "end": 10.08
+    },
+    {
+      "word": "8,",
+      "start": 10.08,
+      "end": 11.02
+    },
+    {
+      "word": "position",
+      "start": 11.38,
+      "end": 12.14
+    },
+    {
+      "word": "5,",
+      "start": 12.14,
+      "end": 13.22
+    },
+    {
+      "word": "position",
+      "start": 14.84,
+      "end": 15.4
+    },
+    {
+      "word": "6,",
+      "start": 15.4,
+      "end": 15.86
+    },
+    {
+      "word": "correction,",
+      "start": 16.04,
+      "end": 16.3
+    },
+    {
+      "word": "green",
+      "start": 16.6,
+      "end": 16.74
+    },
+    {
+      "word": "8,",
+      "start": 16.74,
+      "end": 17.1
+    },
+    {
+      "word": "position",
+      "start": 17.2,
+      "end": 17.52
+    },
+    {
+      "word": "6.",
+      "start": 17.52,
+      "end": 17.98
+    }
+  ],
+  "language": "en",
+  "word_count": 25,
+  "is_empty": false,
+  "is_very_short": false
+}

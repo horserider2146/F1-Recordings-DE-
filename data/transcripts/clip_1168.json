@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_1168",
+  "text": "safety car. Okay, let's just stick to the Delta. Alright, let's try to stay close to zero on the Delta. Alright, that's where we're going to box this now. Just our box blocks. Okay, exit is clear.",
+  "words": [
+    {
+      "word": "safety",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "car.",
+      "start": 0.42,
+      "end": 0.74
+    },
+    {
+      "word": "Okay,",
+      "start": 1.4,
+      "end": 1.5
+    },
+    {
+      "word": "let's",
+      "start": 1.56,
+      "end": 2.16
+    },
+    {
+      "word": "just",
+      "start": 2.16,
+      "end": 3.22
+    },
+    {
+      "word": "stick",
+      "start": 3.22,
+      "end": 3.62
+    },
+    {
+      "word": "to",
+      "start": 3.62,
+      "end": 3.82
+    },
+    {
+      "word": "the",
+      "start": 3.82,
+      "end": 3.94
+    },
+    {
+      "word": "Delta.",
+      "start": 3.94,
+      "end": 4.22
+    },
+    {
+      "word": "Alright,",
+      "start": 6.08,
+      "end": 6.6
+    },
+    {
+      "word": "let's",
+      "start": 6.7,
+      "end": 6.84
+    },
+    {
+      "word": "try",
+      "start": 6.84,
+      "end": 7.04
+    },
+    {
+      "word": "to",
+      "start": 7.04,
+      "end": 7.26
+    },
+    {
+      "word": "stay",
+      "start": 7.26,
+      "end": 8.32
+    },
+    {
+      "word": "close",
+      "start": 8.32,
+      "end": 8.78
+    },
+    {
+      "word": "to",
+      "start": 8.78,
+      "end": 8.98
+    },
+    {
+      "word": "zero",
+      "start": 8.98,
+      "end": 9.18
+    },
+    {
+      "word": "on",
+      "start": 9.18,
+      "end": 9.38
+    },
+    {
+      "word": "the",
+      "start": 9.38,
+      "end": 9.46
+    },
+    {
+      "word": "Delta.",
+      "start": 9.46,
+      "end": 9.72
+    },
+    {
+      "word": "Alright,",
+      "start": 11.12,
+      "end": 11.64
+    },
+    {
+      "word": "that's",
+      "start": 11.78,
+      "end": 11.9
+    },
+    {
+      "word": "where",
+      "start": 11.9,
+      "end": 11.98
+    },
+    {
+      "word": "we're",
+      "start": 11.98,
+      "end": 12.88
+    },
+    {
+      "word": "going",
+      "start": 12.88,
+      "end": 13.36
+    },
+    {
+      "word": "to",
+      "start": 13.36,
+      "end": 13.44
+    },
+    {
+      "word": "box",
+      "start": 13.44,
+      "end": 13.64
+    },
+    {
+      "word": "this",
+      "start": 13.64,
+      "end": 13.88
+    },
+    {
+      "word": "now.",
+      "start": 13.88,
+      "end": 14.14
+    },
+    {
+      "word": "Just",
+      "start": 15.92,
+      "end": 16.14
+    },
+    {
+      "word": "our",
+      "start": 16.14,
+      "end": 16.26
+    },
+    {
+      "word": "box",
+      "start": 16.26,
+      "end": 16.52
+    },
+    {
+      "word": "blocks.",
+      "start": 16.52,
+      "end": 16.74
+    },
+    {
+      "word": "Okay,",
+      "start": 18.32,
+      "end": 18.66
+    },
+    {
+      "word": "exit",
+      "start": 18.74,
+      "end": 19.18
+    },
+    {
+      "word": "is",
+      "start": 19.18,
+      "end": 19.46
+    },
+    {
+      "word": "clear.",
+      "start": 19.46,
+      "end": 19.74
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

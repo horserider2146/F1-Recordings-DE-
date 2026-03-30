@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0893",
+  "text": "32.7, track of the car behind now 5 seconds on the push lap. Weaving down to 11, Franco 4th. Franco 3 behind all that we've done so far. Let's push the track now to 13. Franco 2 behind, behind.",
+  "words": [
+    {
+      "word": "32",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": ".7,",
+      "start": 0.36,
+      "end": 0.84
+    },
+    {
+      "word": "track",
+      "start": 2.38,
+      "end": 2.86
+    },
+    {
+      "word": "of",
+      "start": 2.86,
+      "end": 2.96
+    },
+    {
+      "word": "the",
+      "start": 2.96,
+      "end": 3.04
+    },
+    {
+      "word": "car",
+      "start": 3.04,
+      "end": 3.16
+    },
+    {
+      "word": "behind",
+      "start": 3.16,
+      "end": 3.3
+    },
+    {
+      "word": "now",
+      "start": 3.3,
+      "end": 3.48
+    },
+    {
+      "word": "5",
+      "start": 3.48,
+      "end": 3.8
+    },
+    {
+      "word": "seconds",
+      "start": 3.8,
+      "end": 4.14
+    },
+    {
+      "word": "on",
+      "start": 4.14,
+      "end": 4.34
+    },
+    {
+      "word": "the",
+      "start": 4.34,
+      "end": 4.42
+    },
+    {
+      "word": "push",
+      "start": 4.42,
+      "end": 4.56
+    },
+    {
+      "word": "lap.",
+      "start": 4.56,
+      "end": 4.74
+    },
+    {
+      "word": "Weaving",
+      "start": 6.42,
+      "end": 6.88
+    },
+    {
+      "word": "down",
+      "start": 6.88,
+      "end": 7.08
+    },
+    {
+      "word": "to",
+      "start": 7.08,
+      "end": 7.2
+    },
+    {
+      "word": "11,",
+      "start": 7.2,
+      "end": 7.46
+    },
+    {
+      "word": "Franco",
+      "start": 7.68,
+      "end": 7.86
+    },
+    {
+      "word": "4th.",
+      "start": 7.86,
+      "end": 8.66
+    },
+    {
+      "word": "Franco",
+      "start": 10.54,
+      "end": 11.0
+    },
+    {
+      "word": "3",
+      "start": 11.0,
+      "end": 11.46
+    },
+    {
+      "word": "behind",
+      "start": 11.46,
+      "end": 11.98
+    },
+    {
+      "word": "all",
+      "start": 11.98,
+      "end": 12.2
+    },
+    {
+      "word": "that",
+      "start": 12.2,
+      "end": 12.32
+    },
+    {
+      "word": "we've",
+      "start": 12.32,
+      "end": 12.48
+    },
+    {
+      "word": "done",
+      "start": 12.48,
+      "end": 12.5
+    },
+    {
+      "word": "so",
+      "start": 12.5,
+      "end": 12.7
+    },
+    {
+      "word": "far.",
+      "start": 12.7,
+      "end": 13.04
+    },
+    {
+      "word": "Let's",
+      "start": 14.0,
+      "end": 14.46
+    },
+    {
+      "word": "push",
+      "start": 14.46,
+      "end": 14.68
+    },
+    {
+      "word": "the",
+      "start": 14.68,
+      "end": 14.9
+    },
+    {
+      "word": "track",
+      "start": 14.9,
+      "end": 15.1
+    },
+    {
+      "word": "now",
+      "start": 15.1,
+      "end": 15.3
+    },
+    {
+      "word": "to",
+      "start": 15.3,
+      "end": 15.42
+    },
+    {
+      "word": "13.",
+      "start": 15.42,
+      "end": 15.84
+    },
+    {
+      "word": "Franco",
+      "start": 17.14,
+      "end": 17.6
+    },
+    {
+      "word": "2",
+      "start": 17.6,
+      "end": 17.92
+    },
+    {
+      "word": "behind,",
+      "start": 17.92,
+      "end": 18.36
+    },
+    {
+      "word": "behind.",
+      "start": 18.6,
+      "end": 18.82
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

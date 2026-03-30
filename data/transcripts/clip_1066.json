@@ -1,0 +1,60 @@
+{
+  "clip_id": "clip_1066",
+  "text": "Remember, we will start the engine, then pit limiter on.",
+  "words": [
+    {
+      "word": "Remember,",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "we",
+      "start": 0.64,
+      "end": 0.94
+    },
+    {
+      "word": "will",
+      "start": 0.94,
+      "end": 1.04
+    },
+    {
+      "word": "start",
+      "start": 1.04,
+      "end": 1.32
+    },
+    {
+      "word": "the",
+      "start": 1.32,
+      "end": 1.54
+    },
+    {
+      "word": "engine,",
+      "start": 1.54,
+      "end": 1.88
+    },
+    {
+      "word": "then",
+      "start": 2.06,
+      "end": 2.12
+    },
+    {
+      "word": "pit",
+      "start": 2.12,
+      "end": 2.34
+    },
+    {
+      "word": "limiter",
+      "start": 2.34,
+      "end": 2.68
+    },
+    {
+      "word": "on.",
+      "start": 2.68,
+      "end": 2.82
+    }
+  ],
+  "language": "en",
+  "word_count": 10,
+  "is_empty": false,
+  "is_very_short": false
+}

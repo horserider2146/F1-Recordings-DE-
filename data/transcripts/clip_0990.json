@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_0990",
+  "text": "The clock just backs up Lewis in the race. I'm sorry, there wasn't a field. Come on, mate, we've reported him. I am supposed to be on your side, Max, trying to give you some help. The Chinese Grand Prix is underway!",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "clock",
+      "start": 0.5,
+      "end": 0.7
+    },
+    {
+      "word": "just",
+      "start": 0.7,
+      "end": 0.98
+    },
+    {
+      "word": "backs",
+      "start": 0.98,
+      "end": 1.22
+    },
+    {
+      "word": "up",
+      "start": 1.22,
+      "end": 1.5
+    },
+    {
+      "word": "Lewis",
+      "start": 1.5,
+      "end": 1.84
+    },
+    {
+      "word": "in",
+      "start": 1.84,
+      "end": 2.38
+    },
+    {
+      "word": "the",
+      "start": 2.38,
+      "end": 2.5
+    },
+    {
+      "word": "race.",
+      "start": 2.5,
+      "end": 2.92
+    },
+    {
+      "word": "I'm",
+      "start": 3.54,
+      "end": 3.78
+    },
+    {
+      "word": "sorry,",
+      "start": 3.78,
+      "end": 4.02
+    },
+    {
+      "word": "there",
+      "start": 4.12,
+      "end": 4.18
+    },
+    {
+      "word": "wasn't",
+      "start": 4.18,
+      "end": 4.44
+    },
+    {
+      "word": "a",
+      "start": 4.44,
+      "end": 4.56
+    },
+    {
+      "word": "field.",
+      "start": 4.56,
+      "end": 4.66
+    },
+    {
+      "word": "Come",
+      "start": 4.82,
+      "end": 4.92
+    },
+    {
+      "word": "on,",
+      "start": 4.92,
+      "end": 5.02
+    },
+    {
+      "word": "mate,",
+      "start": 5.08,
+      "end": 5.22
+    },
+    {
+      "word": "we've",
+      "start": 5.24,
+      "end": 5.46
+    },
+    {
+      "word": "reported",
+      "start": 5.46,
+      "end": 5.74
+    },
+    {
+      "word": "him.",
+      "start": 5.74,
+      "end": 5.98
+    },
+    {
+      "word": "I",
+      "start": 6.44,
+      "end": 6.72
+    },
+    {
+      "word": "am",
+      "start": 6.72,
+      "end": 6.9
+    },
+    {
+      "word": "supposed",
+      "start": 6.9,
+      "end": 7.16
+    },
+    {
+      "word": "to",
+      "start": 7.16,
+      "end": 7.34
+    },
+    {
+      "word": "be",
+      "start": 7.34,
+      "end": 7.42
+    },
+    {
+      "word": "on",
+      "start": 7.42,
+      "end": 7.48
+    },
+    {
+      "word": "your",
+      "start": 7.48,
+      "end": 7.58
+    },
+    {
+      "word": "side,",
+      "start": 7.58,
+      "end": 7.82
+    },
+    {
+      "word": "Max,",
+      "start": 7.82,
+      "end": 8.04
+    },
+    {
+      "word": "trying",
+      "start": 8.2,
+      "end": 8.44
+    },
+    {
+      "word": "to",
+      "start": 8.44,
+      "end": 8.56
+    },
+    {
+      "word": "give",
+      "start": 8.56,
+      "end": 8.7
+    },
+    {
+      "word": "you",
+      "start": 8.7,
+      "end": 8.78
+    },
+    {
+      "word": "some",
+      "start": 8.78,
+      "end": 8.88
+    },
+    {
+      "word": "help.",
+      "start": 8.88,
+      "end": 9.16
+    },
+    {
+      "word": "The",
+      "start": 11.62,
+      "end": 12.1
+    },
+    {
+      "word": "Chinese",
+      "start": 12.1,
+      "end": 12.58
+    },
+    {
+      "word": "Grand",
+      "start": 12.58,
+      "end": 12.96
+    },
+    {
+      "word": "Prix",
+      "start": 12.96,
+      "end": 13.42
+    },
+    {
+      "word": "is",
+      "start": 13.42,
+      "end": 14.0
+    },
+    {
+      "word": "underway!",
+      "start": 14.0,
+      "end": 14.56
+    }
+  ],
+  "language": "en",
+  "word_count": 42,
+  "is_empty": false,
+  "is_very_short": false
+}

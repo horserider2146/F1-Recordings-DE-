@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0539",
+  "text": "The car who's in 13 is Bistappen. The car will come up quick. Then 5 seconds to Bistappen. There's only one car ahead to go now. Bistappen is approaching 14. And we'll box this up, keep the revs up.",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "car",
+      "start": 0.12,
+      "end": 0.3
+    },
+    {
+      "word": "who's",
+      "start": 0.3,
+      "end": 0.54
+    },
+    {
+      "word": "in",
+      "start": 0.54,
+      "end": 0.64
+    },
+    {
+      "word": "13",
+      "start": 0.64,
+      "end": 1.02
+    },
+    {
+      "word": "is",
+      "start": 1.02,
+      "end": 1.36
+    },
+    {
+      "word": "Bistappen.",
+      "start": 1.36,
+      "end": 1.94
+    },
+    {
+      "word": "The",
+      "start": 3.2,
+      "end": 3.66
+    },
+    {
+      "word": "car",
+      "start": 3.66,
+      "end": 3.88
+    },
+    {
+      "word": "will",
+      "start": 3.88,
+      "end": 4.08
+    },
+    {
+      "word": "come",
+      "start": 4.08,
+      "end": 4.3
+    },
+    {
+      "word": "up",
+      "start": 4.3,
+      "end": 4.46
+    },
+    {
+      "word": "quick.",
+      "start": 4.46,
+      "end": 4.78
+    },
+    {
+      "word": "Then",
+      "start": 6.22,
+      "end": 6.68
+    },
+    {
+      "word": "5",
+      "start": 6.68,
+      "end": 7.04
+    },
+    {
+      "word": "seconds",
+      "start": 7.04,
+      "end": 7.36
+    },
+    {
+      "word": "to",
+      "start": 7.36,
+      "end": 7.56
+    },
+    {
+      "word": "Bistappen.",
+      "start": 7.56,
+      "end": 8.16
+    },
+    {
+      "word": "There's",
+      "start": 10.24,
+      "end": 10.7
+    },
+    {
+      "word": "only",
+      "start": 10.7,
+      "end": 10.82
+    },
+    {
+      "word": "one",
+      "start": 10.82,
+      "end": 11.1
+    },
+    {
+      "word": "car",
+      "start": 11.1,
+      "end": 11.38
+    },
+    {
+      "word": "ahead",
+      "start": 11.38,
+      "end": 11.54
+    },
+    {
+      "word": "to",
+      "start": 11.54,
+      "end": 11.72
+    },
+    {
+      "word": "go",
+      "start": 11.72,
+      "end": 11.88
+    },
+    {
+      "word": "now.",
+      "start": 11.88,
+      "end": 12.08
+    },
+    {
+      "word": "Bistappen",
+      "start": 14.16,
+      "end": 14.62
+    },
+    {
+      "word": "is",
+      "start": 14.62,
+      "end": 14.72
+    },
+    {
+      "word": "approaching",
+      "start": 14.72,
+      "end": 15.0
+    },
+    {
+      "word": "14.",
+      "start": 15.0,
+      "end": 15.52
+    },
+    {
+      "word": "And",
+      "start": 17.18,
+      "end": 17.64
+    },
+    {
+      "word": "we'll",
+      "start": 17.64,
+      "end": 17.84
+    },
+    {
+      "word": "box",
+      "start": 17.84,
+      "end": 18.06
+    },
+    {
+      "word": "this",
+      "start": 18.06,
+      "end": 18.28
+    },
+    {
+      "word": "up,",
+      "start": 18.28,
+      "end": 18.48
+    },
+    {
+      "word": "keep",
+      "start": 18.64,
+      "end": 18.74
+    },
+    {
+      "word": "the",
+      "start": 18.74,
+      "end": 18.9
+    },
+    {
+      "word": "revs",
+      "start": 18.9,
+      "end": 19.12
+    },
+    {
+      "word": "up.",
+      "start": 19.12,
+      "end": 19.24
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

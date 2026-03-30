@@ -1,0 +1,140 @@
+{
+  "clip_id": "clip_0867",
+  "text": "9, 11 to go Ollie, suggest EV6, Gazzly, Gazzly 3.1, 10 to go, Max meter back to the pits, Gazzly 3.5, 9 to go.",
+  "words": [
+    {
+      "word": "9,",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "11",
+      "start": 0.48,
+      "end": 2.0
+    },
+    {
+      "word": "to",
+      "start": 2.0,
+      "end": 2.32
+    },
+    {
+      "word": "go",
+      "start": 2.32,
+      "end": 2.44
+    },
+    {
+      "word": "Ollie,",
+      "start": 2.44,
+      "end": 2.76
+    },
+    {
+      "word": "suggest",
+      "start": 3.74,
+      "end": 4.18
+    },
+    {
+      "word": "EV6,",
+      "start": 4.18,
+      "end": 5.08
+    },
+    {
+      "word": "Gazzly,",
+      "start": 5.64,
+      "end": 7.6
+    },
+    {
+      "word": "Gazzly",
+      "start": 8.74,
+      "end": 9.5
+    },
+    {
+      "word": "3",
+      "start": 9.5,
+      "end": 9.76
+    },
+    {
+      "word": ".1,",
+      "start": 9.76,
+      "end": 10.22
+    },
+    {
+      "word": "10",
+      "start": 11.62,
+      "end": 12.0
+    },
+    {
+      "word": "to",
+      "start": 12.0,
+      "end": 12.18
+    },
+    {
+      "word": "go,",
+      "start": 12.18,
+      "end": 12.4
+    },
+    {
+      "word": "Max",
+      "start": 13.3,
+      "end": 13.86
+    },
+    {
+      "word": "meter",
+      "start": 13.86,
+      "end": 14.06
+    },
+    {
+      "word": "back",
+      "start": 14.06,
+      "end": 14.3
+    },
+    {
+      "word": "to",
+      "start": 14.3,
+      "end": 14.44
+    },
+    {
+      "word": "the",
+      "start": 14.44,
+      "end": 14.52
+    },
+    {
+      "word": "pits,",
+      "start": 14.52,
+      "end": 14.7
+    },
+    {
+      "word": "Gazzly",
+      "start": 15.82,
+      "end": 16.62
+    },
+    {
+      "word": "3",
+      "start": 16.62,
+      "end": 16.86
+    },
+    {
+      "word": ".5,",
+      "start": 16.86,
+      "end": 17.4
+    },
+    {
+      "word": "9",
+      "start": 18.12,
+      "end": 19.32
+    },
+    {
+      "word": "to",
+      "start": 19.32,
+      "end": 19.58
+    },
+    {
+      "word": "go.",
+      "start": 19.58,
+      "end": 19.74
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

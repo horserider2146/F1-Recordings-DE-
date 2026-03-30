@@ -1,0 +1,260 @@
+{
+  "clip_id": "clip_0048",
+  "text": "I'm today with 4th looking from 6th nothing around it same for the other car what was the flap of it? Flaps okay, I'm happy to leave it like this Copy Box, box I'm in turn pushing 4th Box, box I'm in turn pushing 4.5th Box, box Watch for",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "today",
+      "start": 0.12,
+      "end": 0.28
+    },
+    {
+      "word": "with",
+      "start": 0.28,
+      "end": 0.52
+    },
+    {
+      "word": "4th",
+      "start": 0.52,
+      "end": 0.8
+    },
+    {
+      "word": "looking",
+      "start": 0.8,
+      "end": 1.0
+    },
+    {
+      "word": "from",
+      "start": 1.0,
+      "end": 1.18
+    },
+    {
+      "word": "6th",
+      "start": 1.18,
+      "end": 1.66
+    },
+    {
+      "word": "nothing",
+      "start": 1.66,
+      "end": 1.88
+    },
+    {
+      "word": "around",
+      "start": 1.88,
+      "end": 2.08
+    },
+    {
+      "word": "it",
+      "start": 2.08,
+      "end": 2.3
+    },
+    {
+      "word": "same",
+      "start": 2.3,
+      "end": 2.48
+    },
+    {
+      "word": "for",
+      "start": 2.48,
+      "end": 2.68
+    },
+    {
+      "word": "the",
+      "start": 2.68,
+      "end": 2.78
+    },
+    {
+      "word": "other",
+      "start": 2.78,
+      "end": 2.88
+    },
+    {
+      "word": "car",
+      "start": 2.88,
+      "end": 3.12
+    },
+    {
+      "word": "what",
+      "start": 3.58,
+      "end": 3.98
+    },
+    {
+      "word": "was",
+      "start": 3.98,
+      "end": 4.12
+    },
+    {
+      "word": "the",
+      "start": 4.12,
+      "end": 4.24
+    },
+    {
+      "word": "flap",
+      "start": 4.24,
+      "end": 4.38
+    },
+    {
+      "word": "of",
+      "start": 4.38,
+      "end": 4.56
+    },
+    {
+      "word": "it?",
+      "start": 4.56,
+      "end": 5.36
+    },
+    {
+      "word": "Flaps",
+      "start": 6.12,
+      "end": 6.52
+    },
+    {
+      "word": "okay,",
+      "start": 6.52,
+      "end": 6.78
+    },
+    {
+      "word": "I'm",
+      "start": 6.9,
+      "end": 7.36
+    },
+    {
+      "word": "happy",
+      "start": 7.36,
+      "end": 7.46
+    },
+    {
+      "word": "to",
+      "start": 7.46,
+      "end": 7.56
+    },
+    {
+      "word": "leave",
+      "start": 7.56,
+      "end": 7.7
+    },
+    {
+      "word": "it",
+      "start": 7.7,
+      "end": 7.76
+    },
+    {
+      "word": "like",
+      "start": 7.76,
+      "end": 7.9
+    },
+    {
+      "word": "this",
+      "start": 7.9,
+      "end": 8.48
+    },
+    {
+      "word": "Copy",
+      "start": 8.88,
+      "end": 9.08
+    },
+    {
+      "word": "Box,",
+      "start": 9.88,
+      "end": 10.28
+    },
+    {
+      "word": "box",
+      "start": 10.44,
+      "end": 10.62
+    },
+    {
+      "word": "I'm",
+      "start": 12.08,
+      "end": 12.48
+    },
+    {
+      "word": "in",
+      "start": 12.48,
+      "end": 12.6
+    },
+    {
+      "word": "turn",
+      "start": 12.6,
+      "end": 12.78
+    },
+    {
+      "word": "pushing",
+      "start": 12.78,
+      "end": 13.0
+    },
+    {
+      "word": "4th",
+      "start": 13.0,
+      "end": 14.04
+    },
+    {
+      "word": "Box,",
+      "start": 14.04,
+      "end": 14.46
+    },
+    {
+      "word": "box",
+      "start": 14.46,
+      "end": 15.0
+    },
+    {
+      "word": "I'm",
+      "start": 16.4,
+      "end": 16.8
+    },
+    {
+      "word": "in",
+      "start": 16.8,
+      "end": 16.92
+    },
+    {
+      "word": "turn",
+      "start": 16.92,
+      "end": 17.06
+    },
+    {
+      "word": "pushing",
+      "start": 17.06,
+      "end": 17.32
+    },
+    {
+      "word": "4",
+      "start": 17.32,
+      "end": 17.64
+    },
+    {
+      "word": ".5th",
+      "start": 17.64,
+      "end": 18.26
+    },
+    {
+      "word": "Box,",
+      "start": 18.26,
+      "end": 18.44
+    },
+    {
+      "word": "box",
+      "start": 18.6,
+      "end": 19.0
+    },
+    {
+      "word": "Watch",
+      "start": 19.52,
+      "end": 19.8
+    },
+    {
+      "word": "for",
+      "start": 19.8,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 49,
+  "is_empty": false,
+  "is_very_short": false
+}

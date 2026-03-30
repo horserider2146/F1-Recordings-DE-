@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0339",
+  "text": "Second. Scrapped to 2.7.5. Roger. Got major understeer, top one. Got a hatchart at 8.7 seconds. Let's have a look at the settings. Got dip high speed available. Got a hatchart at 5.",
+  "words": [
+    {
+      "word": "Second.",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "Scrapped",
+      "start": 1.98,
+      "end": 2.62
+    },
+    {
+      "word": "to",
+      "start": 2.62,
+      "end": 2.82
+    },
+    {
+      "word": "2",
+      "start": 2.82,
+      "end": 3.0
+    },
+    {
+      "word": ".7",
+      "start": 3.0,
+      "end": 3.76
+    },
+    {
+      "word": ".5.",
+      "start": 3.76,
+      "end": 4.3
+    },
+    {
+      "word": "Roger.",
+      "start": 5.98,
+      "end": 6.3
+    },
+    {
+      "word": "Got",
+      "start": 6.66,
+      "end": 6.78
+    },
+    {
+      "word": "major",
+      "start": 6.78,
+      "end": 7.14
+    },
+    {
+      "word": "understeer,",
+      "start": 7.14,
+      "end": 7.72
+    },
+    {
+      "word": "top",
+      "start": 7.76,
+      "end": 7.88
+    },
+    {
+      "word": "one.",
+      "start": 7.88,
+      "end": 8.16
+    },
+    {
+      "word": "Got",
+      "start": 9.04,
+      "end": 9.22
+    },
+    {
+      "word": "a",
+      "start": 9.22,
+      "end": 9.46
+    },
+    {
+      "word": "hatchart",
+      "start": 9.46,
+      "end": 9.8
+    },
+    {
+      "word": "at",
+      "start": 9.8,
+      "end": 9.98
+    },
+    {
+      "word": "8",
+      "start": 9.98,
+      "end": 10.36
+    },
+    {
+      "word": ".7",
+      "start": 10.36,
+      "end": 12.62
+    },
+    {
+      "word": "seconds.",
+      "start": 12.62,
+      "end": 13.06
+    },
+    {
+      "word": "Let's",
+      "start": 13.66,
+      "end": 13.8
+    },
+    {
+      "word": "have",
+      "start": 13.8,
+      "end": 13.88
+    },
+    {
+      "word": "a",
+      "start": 13.88,
+      "end": 13.98
+    },
+    {
+      "word": "look",
+      "start": 13.98,
+      "end": 14.08
+    },
+    {
+      "word": "at",
+      "start": 14.08,
+      "end": 14.2
+    },
+    {
+      "word": "the",
+      "start": 14.2,
+      "end": 14.26
+    },
+    {
+      "word": "settings.",
+      "start": 14.26,
+      "end": 14.54
+    },
+    {
+      "word": "Got",
+      "start": 16.02,
+      "end": 16.44
+    },
+    {
+      "word": "dip",
+      "start": 16.44,
+      "end": 16.58
+    },
+    {
+      "word": "high",
+      "start": 16.58,
+      "end": 16.76
+    },
+    {
+      "word": "speed",
+      "start": 16.76,
+      "end": 16.94
+    },
+    {
+      "word": "available.",
+      "start": 16.94,
+      "end": 17.46
+    },
+    {
+      "word": "Got",
+      "start": 17.82,
+      "end": 17.9
+    },
+    {
+      "word": "a",
+      "start": 17.9,
+      "end": 18.08
+    },
+    {
+      "word": "hatchart",
+      "start": 18.08,
+      "end": 18.44
+    },
+    {
+      "word": "at",
+      "start": 18.44,
+      "end": 18.64
+    },
+    {
+      "word": "5.",
+      "start": 18.64,
+      "end": 19.16
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

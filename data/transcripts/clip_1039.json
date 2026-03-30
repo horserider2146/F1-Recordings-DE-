@@ -1,0 +1,260 @@
+{
+  "clip_id": "clip_1039",
+  "text": "Kled as smart as we wanted. Thank you. Fantastic job. Fantastic job guys. Really well done. Really cool for the hard work. We gotta keep up. Keep pushing. Back at my Ronello, we got work to do but I believe in you. Let's keep pushing. Close the Ferrari. Thank you.",
+  "words": [
+    {
+      "word": "Kled",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "as",
+      "start": 0.5,
+      "end": 0.68
+    },
+    {
+      "word": "smart",
+      "start": 0.68,
+      "end": 0.94
+    },
+    {
+      "word": "as",
+      "start": 0.94,
+      "end": 1.42
+    },
+    {
+      "word": "we",
+      "start": 1.42,
+      "end": 1.54
+    },
+    {
+      "word": "wanted.",
+      "start": 1.54,
+      "end": 1.84
+    },
+    {
+      "word": "Thank",
+      "start": 2.18,
+      "end": 2.42
+    },
+    {
+      "word": "you.",
+      "start": 2.42,
+      "end": 2.72
+    },
+    {
+      "word": "Fantastic",
+      "start": 3.66,
+      "end": 4.14
+    },
+    {
+      "word": "job.",
+      "start": 4.14,
+      "end": 4.54
+    },
+    {
+      "word": "Fantastic",
+      "start": 5.0,
+      "end": 5.48
+    },
+    {
+      "word": "job",
+      "start": 5.48,
+      "end": 5.82
+    },
+    {
+      "word": "guys.",
+      "start": 5.82,
+      "end": 6.04
+    },
+    {
+      "word": "Really",
+      "start": 6.46,
+      "end": 6.64
+    },
+    {
+      "word": "well",
+      "start": 6.64,
+      "end": 6.84
+    },
+    {
+      "word": "done.",
+      "start": 6.84,
+      "end": 7.04
+    },
+    {
+      "word": "Really",
+      "start": 7.64,
+      "end": 7.88
+    },
+    {
+      "word": "cool",
+      "start": 7.88,
+      "end": 8.22
+    },
+    {
+      "word": "for",
+      "start": 8.22,
+      "end": 8.36
+    },
+    {
+      "word": "the",
+      "start": 8.36,
+      "end": 8.44
+    },
+    {
+      "word": "hard",
+      "start": 8.44,
+      "end": 8.62
+    },
+    {
+      "word": "work.",
+      "start": 8.62,
+      "end": 8.86
+    },
+    {
+      "word": "We",
+      "start": 9.24,
+      "end": 9.32
+    },
+    {
+      "word": "gotta",
+      "start": 9.32,
+      "end": 9.46
+    },
+    {
+      "word": "keep",
+      "start": 9.46,
+      "end": 9.66
+    },
+    {
+      "word": "up.",
+      "start": 9.66,
+      "end": 9.9
+    },
+    {
+      "word": "Keep",
+      "start": 10.34,
+      "end": 10.6
+    },
+    {
+      "word": "pushing.",
+      "start": 10.6,
+      "end": 10.92
+    },
+    {
+      "word": "Back",
+      "start": 11.56,
+      "end": 11.92
+    },
+    {
+      "word": "at",
+      "start": 11.92,
+      "end": 12.06
+    },
+    {
+      "word": "my",
+      "start": 12.06,
+      "end": 12.14
+    },
+    {
+      "word": "Ronello,",
+      "start": 12.14,
+      "end": 12.46
+    },
+    {
+      "word": "we",
+      "start": 12.62,
+      "end": 12.66
+    },
+    {
+      "word": "got",
+      "start": 12.66,
+      "end": 12.8
+    },
+    {
+      "word": "work",
+      "start": 12.8,
+      "end": 12.98
+    },
+    {
+      "word": "to",
+      "start": 12.98,
+      "end": 13.12
+    },
+    {
+      "word": "do",
+      "start": 13.12,
+      "end": 13.24
+    },
+    {
+      "word": "but",
+      "start": 13.24,
+      "end": 13.44
+    },
+    {
+      "word": "I",
+      "start": 13.44,
+      "end": 14.08
+    },
+    {
+      "word": "believe",
+      "start": 14.08,
+      "end": 14.26
+    },
+    {
+      "word": "in",
+      "start": 14.26,
+      "end": 14.4
+    },
+    {
+      "word": "you.",
+      "start": 14.4,
+      "end": 14.56
+    },
+    {
+      "word": "Let's",
+      "start": 14.88,
+      "end": 14.98
+    },
+    {
+      "word": "keep",
+      "start": 14.98,
+      "end": 15.06
+    },
+    {
+      "word": "pushing.",
+      "start": 15.06,
+      "end": 15.34
+    },
+    {
+      "word": "Close",
+      "start": 15.78,
+      "end": 15.86
+    },
+    {
+      "word": "the",
+      "start": 15.86,
+      "end": 15.98
+    },
+    {
+      "word": "Ferrari.",
+      "start": 15.98,
+      "end": 16.16
+    },
+    {
+      "word": "Thank",
+      "start": 16.76,
+      "end": 17.02
+    },
+    {
+      "word": "you.",
+      "start": 17.02,
+      "end": 17.22
+    }
+  ],
+  "language": "en",
+  "word_count": 50,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_1191",
+  "text": "Checker the car behind 17 seconds back, we have 9 laps remaining He stopped our, what's the why, so what's at the back? Checker is having some issues Checker is having deployment issues, they're trying to get...",
+  "words": [
+    {
+      "word": "Checker",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "the",
+      "start": 0.24,
+      "end": 0.36
+    },
+    {
+      "word": "car",
+      "start": 0.36,
+      "end": 0.5
+    },
+    {
+      "word": "behind",
+      "start": 0.5,
+      "end": 0.8
+    },
+    {
+      "word": "17",
+      "start": 0.8,
+      "end": 1.4
+    },
+    {
+      "word": "seconds",
+      "start": 1.4,
+      "end": 1.88
+    },
+    {
+      "word": "back,",
+      "start": 1.88,
+      "end": 2.26
+    },
+    {
+      "word": "we",
+      "start": 2.58,
+      "end": 2.68
+    },
+    {
+      "word": "have",
+      "start": 2.68,
+      "end": 2.84
+    },
+    {
+      "word": "9",
+      "start": 2.84,
+      "end": 3.16
+    },
+    {
+      "word": "laps",
+      "start": 3.16,
+      "end": 3.74
+    },
+    {
+      "word": "remaining",
+      "start": 3.74,
+      "end": 4.24
+    },
+    {
+      "word": "He",
+      "start": 6.96,
+      "end": 7.52
+    },
+    {
+      "word": "stopped",
+      "start": 7.52,
+      "end": 7.98
+    },
+    {
+      "word": "our,",
+      "start": 7.98,
+      "end": 8.34
+    },
+    {
+      "word": "what's",
+      "start": 8.64,
+      "end": 8.92
+    },
+    {
+      "word": "the",
+      "start": 8.92,
+      "end": 9.1
+    },
+    {
+      "word": "why,",
+      "start": 9.1,
+      "end": 9.34
+    },
+    {
+      "word": "so",
+      "start": 9.54,
+      "end": 9.7
+    },
+    {
+      "word": "what's",
+      "start": 9.7,
+      "end": 10.18
+    },
+    {
+      "word": "at",
+      "start": 10.18,
+      "end": 10.48
+    },
+    {
+      "word": "the",
+      "start": 10.48,
+      "end": 10.56
+    },
+    {
+      "word": "back?",
+      "start": 10.56,
+      "end": 10.74
+    },
+    {
+      "word": "Checker",
+      "start": 12.72,
+      "end": 13.28
+    },
+    {
+      "word": "is",
+      "start": 13.28,
+      "end": 13.5
+    },
+    {
+      "word": "having",
+      "start": 13.5,
+      "end": 13.74
+    },
+    {
+      "word": "some",
+      "start": 13.74,
+      "end": 13.92
+    },
+    {
+      "word": "issues",
+      "start": 13.92,
+      "end": 14.3
+    },
+    {
+      "word": "Checker",
+      "start": 17.88,
+      "end": 18.44
+    },
+    {
+      "word": "is",
+      "start": 18.44,
+      "end": 18.52
+    },
+    {
+      "word": "having",
+      "start": 18.52,
+      "end": 18.68
+    },
+    {
+      "word": "deployment",
+      "start": 18.68,
+      "end": 19.04
+    },
+    {
+      "word": "issues,",
+      "start": 19.04,
+      "end": 19.42
+    },
+    {
+      "word": "they're",
+      "start": 19.58,
+      "end": 19.68
+    },
+    {
+      "word": "trying",
+      "start": 19.68,
+      "end": 19.82
+    },
+    {
+      "word": "to",
+      "start": 19.82,
+      "end": 19.98
+    },
+    {
+      "word": "get...",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

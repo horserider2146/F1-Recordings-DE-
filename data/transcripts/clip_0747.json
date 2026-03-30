@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0747",
+  "text": "the two cars behind you, Colopinto and Ocon are on par.",
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "two",
+      "start": 0.12,
+      "end": 0.32
+    },
+    {
+      "word": "cars",
+      "start": 0.32,
+      "end": 0.64
+    },
+    {
+      "word": "behind",
+      "start": 0.64,
+      "end": 1.06
+    },
+    {
+      "word": "you,",
+      "start": 1.06,
+      "end": 1.44
+    },
+    {
+      "word": "Colopinto",
+      "start": 1.52,
+      "end": 2.12
+    },
+    {
+      "word": "and",
+      "start": 2.12,
+      "end": 2.6
+    },
+    {
+      "word": "Ocon",
+      "start": 2.6,
+      "end": 3.02
+    },
+    {
+      "word": "are",
+      "start": 3.02,
+      "end": 3.5
+    },
+    {
+      "word": "on",
+      "start": 3.5,
+      "end": 3.68
+    },
+    {
+      "word": "par.",
+      "start": 3.68,
+      "end": 3.92
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

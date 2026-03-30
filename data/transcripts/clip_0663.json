@@ -1,0 +1,290 @@
+{
+  "clip_id": "clip_0663",
+  "text": "And yeah, our launch in front of you is from the start and Hülkenberg in P8 is also from the start. Some cool parts about what you can. Safety car will be in this lap. Mode 11 slow mode off. Charge on. Mode 4 in the background. You can go offset minus 1. And for the...",
+  "words": [
+    {
+      "word": "And",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "word": "yeah,",
+      "start": 0.08,
+      "end": 0.2
+    },
+    {
+      "word": "our",
+      "start": 0.28,
+      "end": 0.38
+    },
+    {
+      "word": "launch",
+      "start": 0.38,
+      "end": 0.56
+    },
+    {
+      "word": "in",
+      "start": 0.56,
+      "end": 0.72
+    },
+    {
+      "word": "front",
+      "start": 0.72,
+      "end": 0.86
+    },
+    {
+      "word": "of",
+      "start": 0.86,
+      "end": 1.02
+    },
+    {
+      "word": "you",
+      "start": 1.02,
+      "end": 1.2
+    },
+    {
+      "word": "is",
+      "start": 1.2,
+      "end": 1.52
+    },
+    {
+      "word": "from",
+      "start": 1.52,
+      "end": 1.74
+    },
+    {
+      "word": "the",
+      "start": 1.74,
+      "end": 1.9
+    },
+    {
+      "word": "start",
+      "start": 1.9,
+      "end": 2.1
+    },
+    {
+      "word": "and",
+      "start": 2.1,
+      "end": 2.26
+    },
+    {
+      "word": "Hülkenberg",
+      "start": 2.26,
+      "end": 2.8
+    },
+    {
+      "word": "in",
+      "start": 2.8,
+      "end": 2.92
+    },
+    {
+      "word": "P8",
+      "start": 2.92,
+      "end": 3.26
+    },
+    {
+      "word": "is",
+      "start": 3.26,
+      "end": 3.42
+    },
+    {
+      "word": "also",
+      "start": 3.42,
+      "end": 3.6
+    },
+    {
+      "word": "from",
+      "start": 3.6,
+      "end": 3.8
+    },
+    {
+      "word": "the",
+      "start": 3.8,
+      "end": 3.9
+    },
+    {
+      "word": "start.",
+      "start": 3.9,
+      "end": 4.14
+    },
+    {
+      "word": "Some",
+      "start": 5.18,
+      "end": 5.64
+    },
+    {
+      "word": "cool",
+      "start": 5.64,
+      "end": 5.88
+    },
+    {
+      "word": "parts",
+      "start": 5.88,
+      "end": 6.06
+    },
+    {
+      "word": "about",
+      "start": 6.06,
+      "end": 6.24
+    },
+    {
+      "word": "what",
+      "start": 6.24,
+      "end": 6.34
+    },
+    {
+      "word": "you",
+      "start": 6.34,
+      "end": 6.4
+    },
+    {
+      "word": "can.",
+      "start": 6.4,
+      "end": 6.58
+    },
+    {
+      "word": "Safety",
+      "start": 7.8,
+      "end": 8.26
+    },
+    {
+      "word": "car",
+      "start": 8.26,
+      "end": 8.56
+    },
+    {
+      "word": "will",
+      "start": 8.56,
+      "end": 8.7
+    },
+    {
+      "word": "be",
+      "start": 8.7,
+      "end": 8.84
+    },
+    {
+      "word": "in",
+      "start": 8.84,
+      "end": 9.08
+    },
+    {
+      "word": "this",
+      "start": 9.08,
+      "end": 9.4
+    },
+    {
+      "word": "lap.",
+      "start": 9.4,
+      "end": 9.66
+    },
+    {
+      "word": "Mode",
+      "start": 11.64,
+      "end": 12.1
+    },
+    {
+      "word": "11",
+      "start": 12.1,
+      "end": 12.56
+    },
+    {
+      "word": "slow",
+      "start": 12.56,
+      "end": 12.84
+    },
+    {
+      "word": "mode",
+      "start": 12.84,
+      "end": 13.04
+    },
+    {
+      "word": "off.",
+      "start": 13.04,
+      "end": 13.36
+    },
+    {
+      "word": "Charge",
+      "start": 13.82,
+      "end": 14.14
+    },
+    {
+      "word": "on.",
+      "start": 14.14,
+      "end": 14.54
+    },
+    {
+      "word": "Mode",
+      "start": 15.14,
+      "end": 15.42
+    },
+    {
+      "word": "4",
+      "start": 15.42,
+      "end": 15.66
+    },
+    {
+      "word": "in",
+      "start": 15.66,
+      "end": 15.76
+    },
+    {
+      "word": "the",
+      "start": 15.76,
+      "end": 15.84
+    },
+    {
+      "word": "background.",
+      "start": 15.84,
+      "end": 16.18
+    },
+    {
+      "word": "You",
+      "start": 17.1,
+      "end": 17.5
+    },
+    {
+      "word": "can",
+      "start": 17.5,
+      "end": 17.64
+    },
+    {
+      "word": "go",
+      "start": 17.64,
+      "end": 17.76
+    },
+    {
+      "word": "offset",
+      "start": 17.76,
+      "end": 18.08
+    },
+    {
+      "word": "minus",
+      "start": 18.08,
+      "end": 18.42
+    },
+    {
+      "word": "1.",
+      "start": 18.42,
+      "end": 18.88
+    },
+    {
+      "word": "And",
+      "start": 19.4,
+      "end": 19.68
+    },
+    {
+      "word": "for",
+      "start": 19.68,
+      "end": 19.88
+    },
+    {
+      "word": "the...",
+      "start": 19.88,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 56,
+  "is_empty": false,
+  "is_very_short": false
+}

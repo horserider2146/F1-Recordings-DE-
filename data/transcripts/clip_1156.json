@@ -1,0 +1,75 @@
+{
+  "clip_id": "clip_1156",
+  "text": "Come back around with the stuff still here on the left hand side.",
+  "words": [
+    {
+      "word": "Come",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "back",
+      "start": 0.12,
+      "end": 0.3
+    },
+    {
+      "word": "around",
+      "start": 0.3,
+      "end": 0.52
+    },
+    {
+      "word": "with",
+      "start": 0.52,
+      "end": 0.7
+    },
+    {
+      "word": "the",
+      "start": 0.7,
+      "end": 0.84
+    },
+    {
+      "word": "stuff",
+      "start": 0.84,
+      "end": 1.0
+    },
+    {
+      "word": "still",
+      "start": 1.0,
+      "end": 1.26
+    },
+    {
+      "word": "here",
+      "start": 1.26,
+      "end": 1.54
+    },
+    {
+      "word": "on",
+      "start": 1.54,
+      "end": 1.9
+    },
+    {
+      "word": "the",
+      "start": 1.9,
+      "end": 1.98
+    },
+    {
+      "word": "left",
+      "start": 1.98,
+      "end": 2.08
+    },
+    {
+      "word": "hand",
+      "start": 2.08,
+      "end": 2.26
+    },
+    {
+      "word": "side.",
+      "start": 2.26,
+      "end": 2.5
+    }
+  ],
+  "language": "en",
+  "word_count": 13,
+  "is_empty": false,
+  "is_very_short": false
+}

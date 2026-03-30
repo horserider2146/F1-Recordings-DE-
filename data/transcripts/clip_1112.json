@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_1112",
+  "text": "And he's followed one second behind you, if there's Leclerc. The road should be back. And blue flags for Leclerc. Ah, what are these not learning? Again man! I'm not a palger! Every time I shift up.",
+  "words": [
+    {
+      "word": "And",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "he's",
+      "start": 0.14,
+      "end": 0.3
+    },
+    {
+      "word": "followed",
+      "start": 0.3,
+      "end": 0.52
+    },
+    {
+      "word": "one",
+      "start": 0.52,
+      "end": 0.78
+    },
+    {
+      "word": "second",
+      "start": 0.78,
+      "end": 1.08
+    },
+    {
+      "word": "behind",
+      "start": 1.08,
+      "end": 1.42
+    },
+    {
+      "word": "you,",
+      "start": 1.42,
+      "end": 1.72
+    },
+    {
+      "word": "if",
+      "start": 1.96,
+      "end": 2.18
+    },
+    {
+      "word": "there's",
+      "start": 2.18,
+      "end": 2.46
+    },
+    {
+      "word": "Leclerc.",
+      "start": 2.46,
+      "end": 3.22
+    },
+    {
+      "word": "The",
+      "start": 4.48,
+      "end": 4.74
+    },
+    {
+      "word": "road",
+      "start": 4.74,
+      "end": 4.94
+    },
+    {
+      "word": "should",
+      "start": 4.94,
+      "end": 5.12
+    },
+    {
+      "word": "be",
+      "start": 5.12,
+      "end": 5.38
+    },
+    {
+      "word": "back.",
+      "start": 5.38,
+      "end": 5.56
+    },
+    {
+      "word": "And",
+      "start": 7.3,
+      "end": 7.62
+    },
+    {
+      "word": "blue",
+      "start": 7.62,
+      "end": 7.88
+    },
+    {
+      "word": "flags",
+      "start": 7.88,
+      "end": 8.16
+    },
+    {
+      "word": "for",
+      "start": 8.16,
+      "end": 8.38
+    },
+    {
+      "word": "Leclerc.",
+      "start": 8.38,
+      "end": 8.8
+    },
+    {
+      "word": "Ah,",
+      "start": 10.48,
+      "end": 10.98
+    },
+    {
+      "word": "what",
+      "start": 11.1,
+      "end": 11.22
+    },
+    {
+      "word": "are",
+      "start": 11.22,
+      "end": 11.32
+    },
+    {
+      "word": "these",
+      "start": 11.32,
+      "end": 11.48
+    },
+    {
+      "word": "not",
+      "start": 11.48,
+      "end": 11.64
+    },
+    {
+      "word": "learning?",
+      "start": 11.64,
+      "end": 11.86
+    },
+    {
+      "word": "Again",
+      "start": 14.8,
+      "end": 15.32
+    },
+    {
+      "word": "man!",
+      "start": 15.32,
+      "end": 15.74
+    },
+    {
+      "word": "I'm",
+      "start": 16.5,
+      "end": 16.78
+    },
+    {
+      "word": "not",
+      "start": 16.78,
+      "end": 16.82
+    },
+    {
+      "word": "a",
+      "start": 16.82,
+      "end": 16.96
+    },
+    {
+      "word": "palger!",
+      "start": 16.96,
+      "end": 17.36
+    },
+    {
+      "word": "Every",
+      "start": 18.22,
+      "end": 18.48
+    },
+    {
+      "word": "time",
+      "start": 18.48,
+      "end": 18.72
+    },
+    {
+      "word": "I",
+      "start": 18.72,
+      "end": 18.88
+    },
+    {
+      "word": "shift",
+      "start": 18.88,
+      "end": 19.04
+    },
+    {
+      "word": "up.",
+      "start": 19.04,
+      "end": 19.26
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

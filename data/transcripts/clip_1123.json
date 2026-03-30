@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_1123",
+  "text": "We hope everyone to finish both cars. Yeah, well done. Now it's time to really close the gap. I'll just go in some points soon. Well done everyone, good job. Yeah, take the pickup. Do not exceed 120 kmph.",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": "hope",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "everyone",
+      "start": 0.16,
+      "end": 0.46
+    },
+    {
+      "word": "to",
+      "start": 0.46,
+      "end": 0.76
+    },
+    {
+      "word": "finish",
+      "start": 0.76,
+      "end": 0.96
+    },
+    {
+      "word": "both",
+      "start": 0.96,
+      "end": 1.28
+    },
+    {
+      "word": "cars.",
+      "start": 1.28,
+      "end": 1.64
+    },
+    {
+      "word": "Yeah,",
+      "start": 3.34,
+      "end": 3.82
+    },
+    {
+      "word": "well",
+      "start": 3.82,
+      "end": 4.3
+    },
+    {
+      "word": "done.",
+      "start": 4.3,
+      "end": 4.54
+    },
+    {
+      "word": "Now",
+      "start": 6.06,
+      "end": 6.54
+    },
+    {
+      "word": "it's",
+      "start": 6.54,
+      "end": 6.72
+    },
+    {
+      "word": "time",
+      "start": 6.72,
+      "end": 6.86
+    },
+    {
+      "word": "to",
+      "start": 6.86,
+      "end": 7.08
+    },
+    {
+      "word": "really",
+      "start": 7.08,
+      "end": 7.82
+    },
+    {
+      "word": "close",
+      "start": 7.82,
+      "end": 8.02
+    },
+    {
+      "word": "the",
+      "start": 8.02,
+      "end": 8.14
+    },
+    {
+      "word": "gap.",
+      "start": 8.14,
+      "end": 8.36
+    },
+    {
+      "word": "I'll",
+      "start": 9.58,
+      "end": 9.9
+    },
+    {
+      "word": "just",
+      "start": 9.9,
+      "end": 10.02
+    },
+    {
+      "word": "go",
+      "start": 10.02,
+      "end": 10.14
+    },
+    {
+      "word": "in",
+      "start": 10.14,
+      "end": 10.22
+    },
+    {
+      "word": "some",
+      "start": 10.22,
+      "end": 10.4
+    },
+    {
+      "word": "points",
+      "start": 10.4,
+      "end": 10.68
+    },
+    {
+      "word": "soon.",
+      "start": 10.68,
+      "end": 11.24
+    },
+    {
+      "word": "Well",
+      "start": 12.1,
+      "end": 12.32
+    },
+    {
+      "word": "done",
+      "start": 12.32,
+      "end": 12.46
+    },
+    {
+      "word": "everyone,",
+      "start": 12.46,
+      "end": 12.74
+    },
+    {
+      "word": "good",
+      "start": 12.94,
+      "end": 13.06
+    },
+    {
+      "word": "job.",
+      "start": 13.06,
+      "end": 13.3
+    },
+    {
+      "word": "Yeah,",
+      "start": 15.0,
+      "end": 15.46
+    },
+    {
+      "word": "take",
+      "start": 15.56,
+      "end": 15.66
+    },
+    {
+      "word": "the",
+      "start": 15.66,
+      "end": 15.8
+    },
+    {
+      "word": "pickup.",
+      "start": 15.8,
+      "end": 16.08
+    },
+    {
+      "word": "Do",
+      "start": 16.52,
+      "end": 16.74
+    },
+    {
+      "word": "not",
+      "start": 16.74,
+      "end": 16.96
+    },
+    {
+      "word": "exceed",
+      "start": 16.96,
+      "end": 17.24
+    },
+    {
+      "word": "120",
+      "start": 17.24,
+      "end": 17.72
+    },
+    {
+      "word": "kmph.",
+      "start": 17.72,
+      "end": 18.38
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,125 @@
+{
+  "clip_id": "clip_0809",
+  "text": "22 21 220 kph turn 7, Russell 9 behind I got 100 kph in turn 9, Russell 7, Russell 5 I got 173",
+  "words": [
+    {
+      "word": "22",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "21",
+      "start": 1.96,
+      "end": 2.88
+    },
+    {
+      "word": "220",
+      "start": 4.3,
+      "end": 5.22
+    },
+    {
+      "word": "kph",
+      "start": 5.22,
+      "end": 5.66
+    },
+    {
+      "word": "turn",
+      "start": 5.66,
+      "end": 5.96
+    },
+    {
+      "word": "7,",
+      "start": 5.96,
+      "end": 6.32
+    },
+    {
+      "word": "Russell",
+      "start": 6.48,
+      "end": 6.64
+    },
+    {
+      "word": "9",
+      "start": 6.64,
+      "end": 6.98
+    },
+    {
+      "word": "behind",
+      "start": 6.98,
+      "end": 7.62
+    },
+    {
+      "word": "I",
+      "start": 8.86,
+      "end": 9.78
+    },
+    {
+      "word": "got",
+      "start": 9.78,
+      "end": 10.46
+    },
+    {
+      "word": "100",
+      "start": 10.46,
+      "end": 10.9
+    },
+    {
+      "word": "kph",
+      "start": 10.9,
+      "end": 11.46
+    },
+    {
+      "word": "in",
+      "start": 11.46,
+      "end": 11.68
+    },
+    {
+      "word": "turn",
+      "start": 11.68,
+      "end": 11.82
+    },
+    {
+      "word": "9,",
+      "start": 11.82,
+      "end": 12.26
+    },
+    {
+      "word": "Russell",
+      "start": 12.48,
+      "end": 13.44
+    },
+    {
+      "word": "7,",
+      "start": 13.44,
+      "end": 13.96
+    },
+    {
+      "word": "Russell",
+      "start": 14.88,
+      "end": 15.92
+    },
+    {
+      "word": "5",
+      "start": 15.92,
+      "end": 16.4
+    },
+    {
+      "word": "I",
+      "start": 18.32,
+      "end": 18.78
+    },
+    {
+      "word": "got",
+      "start": 18.78,
+      "end": 18.96
+    },
+    {
+      "word": "173",
+      "start": 18.96,
+      "end": 19.92
+    }
+  ],
+  "language": "en",
+  "word_count": 23,
+  "is_empty": false,
+  "is_very_short": false
+}

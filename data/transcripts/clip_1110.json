@@ -1,0 +1,125 @@
+{
+  "clip_id": "clip_1110",
+  "text": "So both you and Bottas now have overtake 1.2, 1.2 Yeah, we see that we see that Yeah, what's going on?",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "word": "both",
+      "start": 0.54,
+      "end": 0.82
+    },
+    {
+      "word": "you",
+      "start": 0.82,
+      "end": 1.08
+    },
+    {
+      "word": "and",
+      "start": 1.08,
+      "end": 1.4
+    },
+    {
+      "word": "Bottas",
+      "start": 1.4,
+      "end": 1.84
+    },
+    {
+      "word": "now",
+      "start": 1.84,
+      "end": 2.06
+    },
+    {
+      "word": "have",
+      "start": 2.06,
+      "end": 2.3
+    },
+    {
+      "word": "overtake",
+      "start": 2.3,
+      "end": 2.82
+    },
+    {
+      "word": "1",
+      "start": 5.86,
+      "end": 6.34
+    },
+    {
+      "word": ".2,",
+      "start": 6.34,
+      "end": 6.82
+    },
+    {
+      "word": "1",
+      "start": 6.98,
+      "end": 7.18
+    },
+    {
+      "word": ".2",
+      "start": 7.18,
+      "end": 7.6
+    },
+    {
+      "word": "Yeah,",
+      "start": 15.1,
+      "end": 15.58
+    },
+    {
+      "word": "we",
+      "start": 15.58,
+      "end": 16.06
+    },
+    {
+      "word": "see",
+      "start": 16.06,
+      "end": 16.26
+    },
+    {
+      "word": "that",
+      "start": 16.26,
+      "end": 16.46
+    },
+    {
+      "word": "we",
+      "start": 16.46,
+      "end": 16.66
+    },
+    {
+      "word": "see",
+      "start": 16.66,
+      "end": 16.82
+    },
+    {
+      "word": "that",
+      "start": 16.82,
+      "end": 17.02
+    },
+    {
+      "word": "Yeah,",
+      "start": 18.84,
+      "end": 19.32
+    },
+    {
+      "word": "what's",
+      "start": 19.34,
+      "end": 19.58
+    },
+    {
+      "word": "going",
+      "start": 19.58,
+      "end": 19.72
+    },
+    {
+      "word": "on?",
+      "start": 19.72,
+      "end": 19.92
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

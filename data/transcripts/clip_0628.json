@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_0628",
+  "text": "Ocon 7 behind, Ocon 5, Ocon 3, Berman 9, Ocon behind you now, Berman is 5. Some full throttle way you can, you should be in place with Berman behind you now.",
+  "words": [
+    {
+      "word": "Ocon",
+      "start": 1.92,
+      "end": 2.54
+    },
+    {
+      "word": "7",
+      "start": 2.54,
+      "end": 2.88
+    },
+    {
+      "word": "behind,",
+      "start": 2.88,
+      "end": 3.28
+    },
+    {
+      "word": "Ocon",
+      "start": 3.98,
+      "end": 4.94
+    },
+    {
+      "word": "5,",
+      "start": 4.94,
+      "end": 5.32
+    },
+    {
+      "word": "Ocon",
+      "start": 7.02,
+      "end": 7.52
+    },
+    {
+      "word": "3,",
+      "start": 7.52,
+      "end": 7.98
+    },
+    {
+      "word": "Berman",
+      "start": 8.44,
+      "end": 8.6
+    },
+    {
+      "word": "9,",
+      "start": 8.6,
+      "end": 9.12
+    },
+    {
+      "word": "Ocon",
+      "start": 10.24,
+      "end": 11.0
+    },
+    {
+      "word": "behind",
+      "start": 11.0,
+      "end": 11.3
+    },
+    {
+      "word": "you",
+      "start": 11.3,
+      "end": 11.48
+    },
+    {
+      "word": "now,",
+      "start": 11.48,
+      "end": 11.66
+    },
+    {
+      "word": "Berman",
+      "start": 12.26,
+      "end": 13.7
+    },
+    {
+      "word": "is",
+      "start": 13.7,
+      "end": 13.92
+    },
+    {
+      "word": "5.",
+      "start": 13.92,
+      "end": 14.36
+    },
+    {
+      "word": "Some",
+      "start": 15.9,
+      "end": 16.36
+    },
+    {
+      "word": "full",
+      "start": 16.36,
+      "end": 16.56
+    },
+    {
+      "word": "throttle",
+      "start": 16.56,
+      "end": 16.82
+    },
+    {
+      "word": "way",
+      "start": 16.82,
+      "end": 17.06
+    },
+    {
+      "word": "you",
+      "start": 17.06,
+      "end": 17.18
+    },
+    {
+      "word": "can,",
+      "start": 17.18,
+      "end": 17.38
+    },
+    {
+      "word": "you",
+      "start": 17.5,
+      "end": 17.56
+    },
+    {
+      "word": "should",
+      "start": 17.56,
+      "end": 17.72
+    },
+    {
+      "word": "be",
+      "start": 17.72,
+      "end": 17.86
+    },
+    {
+      "word": "in",
+      "start": 17.86,
+      "end": 17.94
+    },
+    {
+      "word": "place",
+      "start": 17.94,
+      "end": 18.18
+    },
+    {
+      "word": "with",
+      "start": 18.18,
+      "end": 18.42
+    },
+    {
+      "word": "Berman",
+      "start": 18.42,
+      "end": 18.66
+    },
+    {
+      "word": "behind",
+      "start": 18.66,
+      "end": 18.98
+    },
+    {
+      "word": "you",
+      "start": 18.98,
+      "end": 19.12
+    },
+    {
+      "word": "now.",
+      "start": 19.12,
+      "end": 19.28
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

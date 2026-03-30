@@ -1,0 +1,135 @@
+{
+  "clip_id": "clip_0730",
+  "text": "Car behind Hamilton, two seconds is opening now. Okay, let's box this lap. Worma feels good from my side like this. Wormcar and no traffic.",
+  "words": [
+    {
+      "word": "Car",
+      "start": 0.0,
+      "end": 0.64
+    },
+    {
+      "word": "behind",
+      "start": 0.64,
+      "end": 1.0
+    },
+    {
+      "word": "Hamilton,",
+      "start": 1.0,
+      "end": 1.42
+    },
+    {
+      "word": "two",
+      "start": 1.68,
+      "end": 1.9
+    },
+    {
+      "word": "seconds",
+      "start": 1.9,
+      "end": 2.22
+    },
+    {
+      "word": "is",
+      "start": 2.22,
+      "end": 2.6
+    },
+    {
+      "word": "opening",
+      "start": 2.6,
+      "end": 2.96
+    },
+    {
+      "word": "now.",
+      "start": 2.96,
+      "end": 3.26
+    },
+    {
+      "word": "Okay,",
+      "start": 5.0,
+      "end": 5.48
+    },
+    {
+      "word": "let's",
+      "start": 5.58,
+      "end": 5.82
+    },
+    {
+      "word": "box",
+      "start": 5.82,
+      "end": 6.06
+    },
+    {
+      "word": "this",
+      "start": 6.06,
+      "end": 6.3
+    },
+    {
+      "word": "lap.",
+      "start": 6.3,
+      "end": 6.52
+    },
+    {
+      "word": "Worma",
+      "start": 8.3,
+      "end": 8.78
+    },
+    {
+      "word": "feels",
+      "start": 8.78,
+      "end": 9.0
+    },
+    {
+      "word": "good",
+      "start": 9.0,
+      "end": 9.22
+    },
+    {
+      "word": "from",
+      "start": 9.22,
+      "end": 9.38
+    },
+    {
+      "word": "my",
+      "start": 9.38,
+      "end": 9.54
+    },
+    {
+      "word": "side",
+      "start": 9.54,
+      "end": 9.78
+    },
+    {
+      "word": "like",
+      "start": 9.78,
+      "end": 9.96
+    },
+    {
+      "word": "this.",
+      "start": 9.96,
+      "end": 10.18
+    },
+    {
+      "word": "Wormcar",
+      "start": 11.08,
+      "end": 11.56
+    },
+    {
+      "word": "and",
+      "start": 11.56,
+      "end": 11.76
+    },
+    {
+      "word": "no",
+      "start": 11.76,
+      "end": 11.88
+    },
+    {
+      "word": "traffic.",
+      "start": 11.88,
+      "end": 12.06
+    }
+  ],
+  "language": "en",
+  "word_count": 25,
+  "is_empty": false,
+  "is_very_short": false
+}

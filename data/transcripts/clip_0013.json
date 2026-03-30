@@ -1,0 +1,125 @@
+{
+  "clip_id": "clip_0013",
+  "text": "with mid six entry nine that mid six I'll track the home this is good out the box little bit of pushing behind",
+  "words": [
+    {
+      "word": "with",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "word": "mid",
+      "start": 0.52,
+      "end": 0.82
+    },
+    {
+      "word": "six",
+      "start": 0.82,
+      "end": 1.18
+    },
+    {
+      "word": "entry",
+      "start": 1.18,
+      "end": 1.66
+    },
+    {
+      "word": "nine",
+      "start": 1.66,
+      "end": 2.08
+    },
+    {
+      "word": "that",
+      "start": 2.08,
+      "end": 2.42
+    },
+    {
+      "word": "mid",
+      "start": 2.42,
+      "end": 2.64
+    },
+    {
+      "word": "six",
+      "start": 2.64,
+      "end": 3.26
+    },
+    {
+      "word": "I'll",
+      "start": 4.3,
+      "end": 5.1
+    },
+    {
+      "word": "track",
+      "start": 5.1,
+      "end": 5.28
+    },
+    {
+      "word": "the",
+      "start": 5.28,
+      "end": 5.46
+    },
+    {
+      "word": "home",
+      "start": 5.46,
+      "end": 5.92
+    },
+    {
+      "word": "this",
+      "start": 7.24,
+      "end": 8.04
+    },
+    {
+      "word": "is",
+      "start": 8.04,
+      "end": 8.84
+    },
+    {
+      "word": "good",
+      "start": 8.84,
+      "end": 8.94
+    },
+    {
+      "word": "out",
+      "start": 8.94,
+      "end": 9.32
+    },
+    {
+      "word": "the",
+      "start": 9.32,
+      "end": 9.42
+    },
+    {
+      "word": "box",
+      "start": 9.42,
+      "end": 9.7
+    },
+    {
+      "word": "little",
+      "start": 13.58,
+      "end": 14.38
+    },
+    {
+      "word": "bit",
+      "start": 14.38,
+      "end": 15.18
+    },
+    {
+      "word": "of",
+      "start": 15.18,
+      "end": 15.18
+    },
+    {
+      "word": "pushing",
+      "start": 15.18,
+      "end": 15.46
+    },
+    {
+      "word": "behind",
+      "start": 15.46,
+      "end": 16.22
+    }
+  ],
+  "language": "en",
+  "word_count": 23,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0894",
+  "text": "We're leaving down to 14. Back to 1.5. One second. Big gap behind it. Two cars are going front. Just Hamilton's going front now. Six seconds. So, heart throttle. Look for the red lights. Strat 2 when you're ready.",
+  "words": [
+    {
+      "word": "We're",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "leaving",
+      "start": 0.36,
+      "end": 0.36
+    },
+    {
+      "word": "down",
+      "start": 0.36,
+      "end": 0.6
+    },
+    {
+      "word": "to",
+      "start": 0.6,
+      "end": 0.78
+    },
+    {
+      "word": "14.",
+      "start": 0.78,
+      "end": 1.1
+    },
+    {
+      "word": "Back",
+      "start": 2.28,
+      "end": 2.78
+    },
+    {
+      "word": "to",
+      "start": 2.78,
+      "end": 2.88
+    },
+    {
+      "word": "1",
+      "start": 2.88,
+      "end": 3.06
+    },
+    {
+      "word": ".5.",
+      "start": 3.06,
+      "end": 3.48
+    },
+    {
+      "word": "One",
+      "start": 4.96,
+      "end": 5.34
+    },
+    {
+      "word": "second.",
+      "start": 5.34,
+      "end": 5.68
+    },
+    {
+      "word": "Big",
+      "start": 7.38,
+      "end": 7.76
+    },
+    {
+      "word": "gap",
+      "start": 7.76,
+      "end": 7.94
+    },
+    {
+      "word": "behind",
+      "start": 7.94,
+      "end": 8.24
+    },
+    {
+      "word": "it.",
+      "start": 8.24,
+      "end": 8.42
+    },
+    {
+      "word": "Two",
+      "start": 9.74,
+      "end": 10.24
+    },
+    {
+      "word": "cars",
+      "start": 10.24,
+      "end": 10.5
+    },
+    {
+      "word": "are",
+      "start": 10.5,
+      "end": 10.66
+    },
+    {
+      "word": "going",
+      "start": 10.66,
+      "end": 10.8
+    },
+    {
+      "word": "front.",
+      "start": 10.8,
+      "end": 11.08
+    },
+    {
+      "word": "Just",
+      "start": 11.84,
+      "end": 12.2
+    },
+    {
+      "word": "Hamilton's",
+      "start": 12.2,
+      "end": 12.68
+    },
+    {
+      "word": "going",
+      "start": 12.68,
+      "end": 12.8
+    },
+    {
+      "word": "front",
+      "start": 12.8,
+      "end": 13.04
+    },
+    {
+      "word": "now.",
+      "start": 13.04,
+      "end": 13.22
+    },
+    {
+      "word": "Six",
+      "start": 13.34,
+      "end": 13.46
+    },
+    {
+      "word": "seconds.",
+      "start": 13.46,
+      "end": 13.82
+    },
+    {
+      "word": "So,",
+      "start": 15.22,
+      "end": 15.72
+    },
+    {
+      "word": "heart",
+      "start": 15.84,
+      "end": 16.14
+    },
+    {
+      "word": "throttle.",
+      "start": 16.14,
+      "end": 16.46
+    },
+    {
+      "word": "Look",
+      "start": 16.6,
+      "end": 16.68
+    },
+    {
+      "word": "for",
+      "start": 16.68,
+      "end": 16.8
+    },
+    {
+      "word": "the",
+      "start": 16.8,
+      "end": 16.88
+    },
+    {
+      "word": "red",
+      "start": 16.88,
+      "end": 17.02
+    },
+    {
+      "word": "lights.",
+      "start": 17.02,
+      "end": 17.26
+    },
+    {
+      "word": "Strat",
+      "start": 17.32,
+      "end": 17.54
+    },
+    {
+      "word": "2",
+      "start": 17.54,
+      "end": 18.28
+    },
+    {
+      "word": "when",
+      "start": 18.28,
+      "end": 18.5
+    },
+    {
+      "word": "you're",
+      "start": 18.5,
+      "end": 18.64
+    },
+    {
+      "word": "ready.",
+      "start": 18.64,
+      "end": 18.82
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

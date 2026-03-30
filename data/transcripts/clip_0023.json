@@ -1,0 +1,30 @@
+{
+  "clip_id": "clip_0023",
+  "text": "and boss guys, P18",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "boss",
+      "start": 0.38,
+      "end": 0.72
+    },
+    {
+      "word": "guys,",
+      "start": 1.66,
+      "end": 2.04
+    },
+    {
+      "word": "P18",
+      "start": 2.36,
+      "end": 2.86
+    }
+  ],
+  "language": "en",
+  "word_count": 4,
+  "is_empty": false,
+  "is_very_short": false
+}

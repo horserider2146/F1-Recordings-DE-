@@ -1,0 +1,35 @@
+{
+  "clip_id": "clip_0901",
+  "text": "P2 now please, P2 now.",
+  "words": [
+    {
+      "word": "P2",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "now",
+      "start": 0.42,
+      "end": 0.68
+    },
+    {
+      "word": "please,",
+      "start": 0.68,
+      "end": 1.0
+    },
+    {
+      "word": "P2",
+      "start": 1.2,
+      "end": 1.68
+    },
+    {
+      "word": "now.",
+      "start": 1.68,
+      "end": 2.06
+    }
+  ],
+  "language": "en",
+  "word_count": 5,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,160 @@
+{
+  "clip_id": "clip_1116",
+  "text": "We are happy to save less in the front left Seven laps to go Blue flags for Gasly And let him go So the car behind you is now on",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "word": "are",
+      "start": 0.66,
+      "end": 0.76
+    },
+    {
+      "word": "happy",
+      "start": 0.76,
+      "end": 1.02
+    },
+    {
+      "word": "to",
+      "start": 1.02,
+      "end": 1.18
+    },
+    {
+      "word": "save",
+      "start": 1.18,
+      "end": 1.52
+    },
+    {
+      "word": "less",
+      "start": 1.52,
+      "end": 1.86
+    },
+    {
+      "word": "in",
+      "start": 1.86,
+      "end": 2.26
+    },
+    {
+      "word": "the",
+      "start": 2.26,
+      "end": 2.42
+    },
+    {
+      "word": "front",
+      "start": 2.42,
+      "end": 2.92
+    },
+    {
+      "word": "left",
+      "start": 2.92,
+      "end": 3.25
+    },
+    {
+      "word": "Seven",
+      "start": 6.18,
+      "end": 6.84
+    },
+    {
+      "word": "laps",
+      "start": 6.84,
+      "end": 7.08
+    },
+    {
+      "word": "to",
+      "start": 7.08,
+      "end": 7.26
+    },
+    {
+      "word": "go",
+      "start": 7.26,
+      "end": 7.36
+    },
+    {
+      "word": "Blue",
+      "start": 11.36,
+      "end": 12.02
+    },
+    {
+      "word": "flags",
+      "start": 12.02,
+      "end": 12.32
+    },
+    {
+      "word": "for",
+      "start": 12.32,
+      "end": 12.54
+    },
+    {
+      "word": "Gasly",
+      "start": 12.54,
+      "end": 12.94
+    },
+    {
+      "word": "And",
+      "start": 14.12,
+      "end": 14.78
+    },
+    {
+      "word": "let",
+      "start": 14.78,
+      "end": 14.94
+    },
+    {
+      "word": "him",
+      "start": 14.94,
+      "end": 15.08
+    },
+    {
+      "word": "go",
+      "start": 15.08,
+      "end": 15.28
+    },
+    {
+      "word": "So",
+      "start": 16.0,
+      "end": 16.66
+    },
+    {
+      "word": "the",
+      "start": 16.66,
+      "end": 16.92
+    },
+    {
+      "word": "car",
+      "start": 16.92,
+      "end": 17.26
+    },
+    {
+      "word": "behind",
+      "start": 17.26,
+      "end": 17.6
+    },
+    {
+      "word": "you",
+      "start": 17.6,
+      "end": 17.94
+    },
+    {
+      "word": "is",
+      "start": 17.94,
+      "end": 18.68
+    },
+    {
+      "word": "now",
+      "start": 18.68,
+      "end": 19.0
+    },
+    {
+      "word": "on",
+      "start": 19.0,
+      "end": 19.24
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

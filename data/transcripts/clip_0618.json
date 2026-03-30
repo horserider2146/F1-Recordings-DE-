@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0618",
+  "text": "We join the queue and switch off.",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "join",
+      "start": 0.1,
+      "end": 0.36
+    },
+    {
+      "word": "the",
+      "start": 0.36,
+      "end": 0.52
+    },
+    {
+      "word": "queue",
+      "start": 0.52,
+      "end": 0.78
+    },
+    {
+      "word": "and",
+      "start": 0.78,
+      "end": 1.76
+    },
+    {
+      "word": "switch",
+      "start": 1.76,
+      "end": 2.34
+    },
+    {
+      "word": "off.",
+      "start": 2.34,
+      "end": 2.6
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0461",
+  "text": "Lewis 37-0, Leclerc 36-8, George 36-5 Gap at 2.5 Lewis Leclerc and George in a tight group and Leclerc now car behind at 3.4 Gap at 3.8 for Arisa Bachelet",
+  "words": [
+    {
+      "word": "Lewis",
+      "start": 0.0,
+      "end": 0.7
+    },
+    {
+      "word": "37",
+      "start": 0.7,
+      "end": 0.96
+    },
+    {
+      "word": "-0,",
+      "start": 0.96,
+      "end": 1.64
+    },
+    {
+      "word": "Leclerc",
+      "start": 1.78,
+      "end": 2.0
+    },
+    {
+      "word": "36",
+      "start": 2.0,
+      "end": 2.56
+    },
+    {
+      "word": "-8,",
+      "start": 2.56,
+      "end": 3.12
+    },
+    {
+      "word": "George",
+      "start": 3.42,
+      "end": 3.6
+    },
+    {
+      "word": "36",
+      "start": 3.6,
+      "end": 3.92
+    },
+    {
+      "word": "-5",
+      "start": 3.92,
+      "end": 4.58
+    },
+    {
+      "word": "Gap",
+      "start": 5.98,
+      "end": 6.62
+    },
+    {
+      "word": "at",
+      "start": 6.62,
+      "end": 6.78
+    },
+    {
+      "word": "2",
+      "start": 6.78,
+      "end": 7.02
+    },
+    {
+      "word": ".5",
+      "start": 7.02,
+      "end": 7.62
+    },
+    {
+      "word": "Lewis",
+      "start": 8.66,
+      "end": 9.3
+    },
+    {
+      "word": "Leclerc",
+      "start": 9.3,
+      "end": 9.94
+    },
+    {
+      "word": "and",
+      "start": 9.94,
+      "end": 10.12
+    },
+    {
+      "word": "George",
+      "start": 10.12,
+      "end": 10.44
+    },
+    {
+      "word": "in",
+      "start": 10.44,
+      "end": 10.82
+    },
+    {
+      "word": "a",
+      "start": 10.82,
+      "end": 10.92
+    },
+    {
+      "word": "tight",
+      "start": 10.92,
+      "end": 11.08
+    },
+    {
+      "word": "group",
+      "start": 11.08,
+      "end": 11.3
+    },
+    {
+      "word": "and",
+      "start": 11.3,
+      "end": 11.92
+    },
+    {
+      "word": "Leclerc",
+      "start": 11.92,
+      "end": 12.96
+    },
+    {
+      "word": "now",
+      "start": 12.96,
+      "end": 13.08
+    },
+    {
+      "word": "car",
+      "start": 13.08,
+      "end": 13.34
+    },
+    {
+      "word": "behind",
+      "start": 13.34,
+      "end": 13.68
+    },
+    {
+      "word": "at",
+      "start": 13.68,
+      "end": 13.86
+    },
+    {
+      "word": "3",
+      "start": 13.86,
+      "end": 14.38
+    },
+    {
+      "word": ".4",
+      "start": 14.38,
+      "end": 14.96
+    },
+    {
+      "word": "Gap",
+      "start": 16.84,
+      "end": 17.48
+    },
+    {
+      "word": "at",
+      "start": 17.48,
+      "end": 17.58
+    },
+    {
+      "word": "3",
+      "start": 17.58,
+      "end": 17.78
+    },
+    {
+      "word": ".8",
+      "start": 17.78,
+      "end": 18.18
+    },
+    {
+      "word": "for",
+      "start": 18.18,
+      "end": 18.46
+    },
+    {
+      "word": "Arisa",
+      "start": 18.46,
+      "end": 18.72
+    },
+    {
+      "word": "Bachelet",
+      "start": 18.72,
+      "end": 19.24
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

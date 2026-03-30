@@ -1,0 +1,335 @@
+{
+  "clip_id": "clip_0970",
+  "text": "I lost, right? Out of 10th gear. Understood, we're looking. One 10th, quicker sector one, two 10ths, quicker sector two, the max that time. Keep out. I can't hear you, can't hear you. Okay, may drive, we'll go, just head down and focus. Three 10ths quicker than the staff in sector two that time. Keep out. The oversteering 14 is all torque delivery. Half the...",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "lost,",
+      "start": 0.1,
+      "end": 0.26
+    },
+    {
+      "word": "right?",
+      "start": 0.4,
+      "end": 0.58
+    },
+    {
+      "word": "Out",
+      "start": 1.02,
+      "end": 1.24
+    },
+    {
+      "word": "of",
+      "start": 1.24,
+      "end": 1.36
+    },
+    {
+      "word": "10th",
+      "start": 1.36,
+      "end": 1.68
+    },
+    {
+      "word": "gear.",
+      "start": 1.68,
+      "end": 1.8
+    },
+    {
+      "word": "Understood,",
+      "start": 2.48,
+      "end": 2.84
+    },
+    {
+      "word": "we're",
+      "start": 3.1,
+      "end": 3.24
+    },
+    {
+      "word": "looking.",
+      "start": 3.24,
+      "end": 3.42
+    },
+    {
+      "word": "One",
+      "start": 4.1,
+      "end": 4.38
+    },
+    {
+      "word": "10th,",
+      "start": 4.38,
+      "end": 4.74
+    },
+    {
+      "word": "quicker",
+      "start": 4.74,
+      "end": 4.86
+    },
+    {
+      "word": "sector",
+      "start": 4.86,
+      "end": 5.1
+    },
+    {
+      "word": "one,",
+      "start": 5.1,
+      "end": 5.48
+    },
+    {
+      "word": "two",
+      "start": 5.66,
+      "end": 5.82
+    },
+    {
+      "word": "10ths,",
+      "start": 5.82,
+      "end": 6.12
+    },
+    {
+      "word": "quicker",
+      "start": 6.12,
+      "end": 6.24
+    },
+    {
+      "word": "sector",
+      "start": 6.24,
+      "end": 6.52
+    },
+    {
+      "word": "two,",
+      "start": 6.52,
+      "end": 6.8
+    },
+    {
+      "word": "the",
+      "start": 6.88,
+      "end": 6.9
+    },
+    {
+      "word": "max",
+      "start": 6.9,
+      "end": 7.08
+    },
+    {
+      "word": "that",
+      "start": 7.08,
+      "end": 7.24
+    },
+    {
+      "word": "time.",
+      "start": 7.24,
+      "end": 7.48
+    },
+    {
+      "word": "Keep",
+      "start": 7.68,
+      "end": 7.72
+    },
+    {
+      "word": "out.",
+      "start": 7.72,
+      "end": 7.84
+    },
+    {
+      "word": "I",
+      "start": 7.84,
+      "end": 7.98
+    },
+    {
+      "word": "can't",
+      "start": 7.98,
+      "end": 8.22
+    },
+    {
+      "word": "hear",
+      "start": 8.22,
+      "end": 8.38
+    },
+    {
+      "word": "you,",
+      "start": 8.38,
+      "end": 8.6
+    },
+    {
+      "word": "can't",
+      "start": 8.62,
+      "end": 9.04
+    },
+    {
+      "word": "hear",
+      "start": 9.04,
+      "end": 9.18
+    },
+    {
+      "word": "you.",
+      "start": 9.18,
+      "end": 9.38
+    },
+    {
+      "word": "Okay,",
+      "start": 10.16,
+      "end": 10.54
+    },
+    {
+      "word": "may",
+      "start": 10.58,
+      "end": 10.64
+    },
+    {
+      "word": "drive,",
+      "start": 10.64,
+      "end": 10.88
+    },
+    {
+      "word": "we'll",
+      "start": 10.98,
+      "end": 11.04
+    },
+    {
+      "word": "go,",
+      "start": 11.04,
+      "end": 11.14
+    },
+    {
+      "word": "just",
+      "start": 11.32,
+      "end": 11.36
+    },
+    {
+      "word": "head",
+      "start": 11.36,
+      "end": 11.5
+    },
+    {
+      "word": "down",
+      "start": 11.5,
+      "end": 11.68
+    },
+    {
+      "word": "and",
+      "start": 11.68,
+      "end": 11.76
+    },
+    {
+      "word": "focus.",
+      "start": 11.76,
+      "end": 12.0
+    },
+    {
+      "word": "Three",
+      "start": 12.86,
+      "end": 13.24
+    },
+    {
+      "word": "10ths",
+      "start": 13.24,
+      "end": 13.62
+    },
+    {
+      "word": "quicker",
+      "start": 13.62,
+      "end": 13.86
+    },
+    {
+      "word": "than",
+      "start": 13.86,
+      "end": 14.28
+    },
+    {
+      "word": "the",
+      "start": 14.28,
+      "end": 14.42
+    },
+    {
+      "word": "staff",
+      "start": 14.42,
+      "end": 14.62
+    },
+    {
+      "word": "in",
+      "start": 14.62,
+      "end": 14.78
+    },
+    {
+      "word": "sector",
+      "start": 14.78,
+      "end": 14.96
+    },
+    {
+      "word": "two",
+      "start": 14.96,
+      "end": 15.28
+    },
+    {
+      "word": "that",
+      "start": 15.28,
+      "end": 15.44
+    },
+    {
+      "word": "time.",
+      "start": 15.44,
+      "end": 15.66
+    },
+    {
+      "word": "Keep",
+      "start": 15.82,
+      "end": 15.92
+    },
+    {
+      "word": "out.",
+      "start": 15.92,
+      "end": 16.12
+    },
+    {
+      "word": "The",
+      "start": 16.86,
+      "end": 17.04
+    },
+    {
+      "word": "oversteering",
+      "start": 17.04,
+      "end": 17.42
+    },
+    {
+      "word": "14",
+      "start": 17.42,
+      "end": 17.7
+    },
+    {
+      "word": "is",
+      "start": 17.7,
+      "end": 17.94
+    },
+    {
+      "word": "all",
+      "start": 17.94,
+      "end": 18.12
+    },
+    {
+      "word": "torque",
+      "start": 18.12,
+      "end": 18.34
+    },
+    {
+      "word": "delivery.",
+      "start": 18.34,
+      "end": 18.64
+    },
+    {
+      "word": "Half",
+      "start": 19.5,
+      "end": 19.88
+    },
+    {
+      "word": "the...",
+      "start": 19.88,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 65,
+  "is_empty": false,
+  "is_very_short": false
+}

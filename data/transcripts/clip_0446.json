@@ -1,0 +1,240 @@
+{
+  "clip_id": "clip_0446",
+  "text": "So, car behind me stayed out. Conflict, so, or car behind me, George. Just leave back on pace, that mixed me forward, so it was looking good there, Kimmy. Yeah, I mean, I was back for it a bit. Just to... ...shave the tyre. Yeah, copy.",
+  "words": [
+    {
+      "word": "So,",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "car",
+      "start": 0.6,
+      "end": 0.8
+    },
+    {
+      "word": "behind",
+      "start": 0.8,
+      "end": 0.98
+    },
+    {
+      "word": "me",
+      "start": 0.98,
+      "end": 1.2
+    },
+    {
+      "word": "stayed",
+      "start": 1.2,
+      "end": 1.48
+    },
+    {
+      "word": "out.",
+      "start": 1.48,
+      "end": 1.8
+    },
+    {
+      "word": "Conflict,",
+      "start": 4.08,
+      "end": 4.48
+    },
+    {
+      "word": "so,",
+      "start": 4.64,
+      "end": 4.64
+    },
+    {
+      "word": "or",
+      "start": 4.76,
+      "end": 4.78
+    },
+    {
+      "word": "car",
+      "start": 4.78,
+      "end": 4.86
+    },
+    {
+      "word": "behind",
+      "start": 4.86,
+      "end": 5.18
+    },
+    {
+      "word": "me,",
+      "start": 5.18,
+      "end": 5.38
+    },
+    {
+      "word": "George.",
+      "start": 5.42,
+      "end": 5.72
+    },
+    {
+      "word": "Just",
+      "start": 6.82,
+      "end": 7.22
+    },
+    {
+      "word": "leave",
+      "start": 7.22,
+      "end": 7.34
+    },
+    {
+      "word": "back",
+      "start": 7.34,
+      "end": 7.5
+    },
+    {
+      "word": "on",
+      "start": 7.5,
+      "end": 7.6
+    },
+    {
+      "word": "pace,",
+      "start": 7.6,
+      "end": 7.86
+    },
+    {
+      "word": "that",
+      "start": 7.98,
+      "end": 8.04
+    },
+    {
+      "word": "mixed",
+      "start": 8.04,
+      "end": 8.24
+    },
+    {
+      "word": "me",
+      "start": 8.24,
+      "end": 8.4
+    },
+    {
+      "word": "forward,",
+      "start": 8.4,
+      "end": 8.74
+    },
+    {
+      "word": "so",
+      "start": 8.88,
+      "end": 8.96
+    },
+    {
+      "word": "it",
+      "start": 8.96,
+      "end": 9.06
+    },
+    {
+      "word": "was",
+      "start": 9.06,
+      "end": 9.06
+    },
+    {
+      "word": "looking",
+      "start": 9.06,
+      "end": 9.26
+    },
+    {
+      "word": "good",
+      "start": 9.26,
+      "end": 9.46
+    },
+    {
+      "word": "there,",
+      "start": 9.46,
+      "end": 9.7
+    },
+    {
+      "word": "Kimmy.",
+      "start": 9.76,
+      "end": 9.96
+    },
+    {
+      "word": "Yeah,",
+      "start": 11.86,
+      "end": 12.26
+    },
+    {
+      "word": "I",
+      "start": 12.36,
+      "end": 12.4
+    },
+    {
+      "word": "mean,",
+      "start": 12.4,
+      "end": 12.46
+    },
+    {
+      "word": "I",
+      "start": 12.56,
+      "end": 12.6
+    },
+    {
+      "word": "was",
+      "start": 12.6,
+      "end": 12.76
+    },
+    {
+      "word": "back",
+      "start": 12.76,
+      "end": 12.98
+    },
+    {
+      "word": "for",
+      "start": 12.98,
+      "end": 13.42
+    },
+    {
+      "word": "it",
+      "start": 13.42,
+      "end": 13.56
+    },
+    {
+      "word": "a",
+      "start": 13.56,
+      "end": 13.58
+    },
+    {
+      "word": "bit.",
+      "start": 13.58,
+      "end": 13.78
+    },
+    {
+      "word": "Just",
+      "start": 15.76,
+      "end": 16.16
+    },
+    {
+      "word": "to...",
+      "start": 16.16,
+      "end": 16.56
+    },
+    {
+      "word": "...shave",
+      "start": 16.56,
+      "end": 16.66
+    },
+    {
+      "word": "the",
+      "start": 16.66,
+      "end": 16.82
+    },
+    {
+      "word": "tyre.",
+      "start": 16.82,
+      "end": 17.08
+    },
+    {
+      "word": "Yeah,",
+      "start": 17.64,
+      "end": 17.86
+    },
+    {
+      "word": "copy.",
+      "start": 17.98,
+      "end": 18.16
+    }
+  ],
+  "language": "en",
+  "word_count": 46,
+  "is_empty": false,
+  "is_very_short": false
+}

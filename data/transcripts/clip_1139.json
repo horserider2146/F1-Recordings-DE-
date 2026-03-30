@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_1139",
+  "text": "OK, main time to gain with his minimum speed at turn 9. Alright, so once in the pit lane, we'll stop on the box, where the mechanics are. This certain mode slow is correct, because the battery is empty now.",
+  "words": [
+    {
+      "word": "OK,",
+      "start": 0.0,
+      "end": 0.8
+    },
+    {
+      "word": "main",
+      "start": 2.44,
+      "end": 3.0
+    },
+    {
+      "word": "time",
+      "start": 3.0,
+      "end": 3.3
+    },
+    {
+      "word": "to",
+      "start": 3.3,
+      "end": 3.46
+    },
+    {
+      "word": "gain",
+      "start": 3.46,
+      "end": 3.68
+    },
+    {
+      "word": "with",
+      "start": 3.68,
+      "end": 3.9
+    },
+    {
+      "word": "his",
+      "start": 3.9,
+      "end": 4.38
+    },
+    {
+      "word": "minimum",
+      "start": 4.38,
+      "end": 4.62
+    },
+    {
+      "word": "speed",
+      "start": 4.62,
+      "end": 4.98
+    },
+    {
+      "word": "at",
+      "start": 4.98,
+      "end": 5.26
+    },
+    {
+      "word": "turn",
+      "start": 5.26,
+      "end": 5.46
+    },
+    {
+      "word": "9.",
+      "start": 5.46,
+      "end": 5.92
+    },
+    {
+      "word": "Alright,",
+      "start": 8.02,
+      "end": 8.54
+    },
+    {
+      "word": "so",
+      "start": 8.7,
+      "end": 8.78
+    },
+    {
+      "word": "once",
+      "start": 8.78,
+      "end": 8.96
+    },
+    {
+      "word": "in",
+      "start": 8.96,
+      "end": 9.1
+    },
+    {
+      "word": "the",
+      "start": 9.1,
+      "end": 9.18
+    },
+    {
+      "word": "pit",
+      "start": 9.18,
+      "end": 9.32
+    },
+    {
+      "word": "lane,",
+      "start": 9.32,
+      "end": 9.54
+    },
+    {
+      "word": "we'll",
+      "start": 9.72,
+      "end": 9.86
+    },
+    {
+      "word": "stop",
+      "start": 9.86,
+      "end": 10.1
+    },
+    {
+      "word": "on",
+      "start": 10.1,
+      "end": 10.38
+    },
+    {
+      "word": "the",
+      "start": 10.38,
+      "end": 10.46
+    },
+    {
+      "word": "box,",
+      "start": 10.46,
+      "end": 10.68
+    },
+    {
+      "word": "where",
+      "start": 11.04,
+      "end": 11.34
+    },
+    {
+      "word": "the",
+      "start": 11.34,
+      "end": 11.46
+    },
+    {
+      "word": "mechanics",
+      "start": 11.46,
+      "end": 11.74
+    },
+    {
+      "word": "are.",
+      "start": 11.74,
+      "end": 12.08
+    },
+    {
+      "word": "This",
+      "start": 13.88,
+      "end": 14.14
+    },
+    {
+      "word": "certain",
+      "start": 14.14,
+      "end": 14.38
+    },
+    {
+      "word": "mode",
+      "start": 14.38,
+      "end": 14.64
+    },
+    {
+      "word": "slow",
+      "start": 14.64,
+      "end": 15.28
+    },
+    {
+      "word": "is",
+      "start": 15.28,
+      "end": 15.58
+    },
+    {
+      "word": "correct,",
+      "start": 15.58,
+      "end": 15.88
+    },
+    {
+      "word": "because",
+      "start": 16.14,
+      "end": 16.44
+    },
+    {
+      "word": "the",
+      "start": 16.44,
+      "end": 17.42
+    },
+    {
+      "word": "battery",
+      "start": 17.42,
+      "end": 17.64
+    },
+    {
+      "word": "is",
+      "start": 17.64,
+      "end": 17.82
+    },
+    {
+      "word": "empty",
+      "start": 17.82,
+      "end": 18.0
+    },
+    {
+      "word": "now.",
+      "start": 18.0,
+      "end": 18.18
+    }
+  ],
+  "language": "en",
+  "word_count": 40,
+  "is_empty": false,
+  "is_very_short": false
+}

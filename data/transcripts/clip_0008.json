@@ -1,0 +1,430 @@
+{
+  "clip_id": "clip_0008",
+  "text": "I'm going to reset one second. I'm going to hit it five and a half again. I'm going to push it. I'm going to do six. I'm going to do five and a half. I'm going to do five and a half. I'm going to do six. I'm going to speed up. I'm going to try to switch to soft. I'm going to do five and a half. I'm going to do five and a half. I'm going to do five and a half.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 0.84
+    },
+    {
+      "word": "going",
+      "start": 0.84,
+      "end": 0.92
+    },
+    {
+      "word": "to",
+      "start": 0.92,
+      "end": 1.46
+    },
+    {
+      "word": "reset",
+      "start": 1.46,
+      "end": 1.82
+    },
+    {
+      "word": "one",
+      "start": 1.82,
+      "end": 2.02
+    },
+    {
+      "word": "second.",
+      "start": 2.02,
+      "end": 2.38
+    },
+    {
+      "word": "I'm",
+      "start": 2.84,
+      "end": 3.02
+    },
+    {
+      "word": "going",
+      "start": 3.02,
+      "end": 3.12
+    },
+    {
+      "word": "to",
+      "start": 3.12,
+      "end": 3.12
+    },
+    {
+      "word": "hit",
+      "start": 3.12,
+      "end": 3.22
+    },
+    {
+      "word": "it",
+      "start": 3.22,
+      "end": 3.32
+    },
+    {
+      "word": "five",
+      "start": 3.32,
+      "end": 3.74
+    },
+    {
+      "word": "and",
+      "start": 3.74,
+      "end": 3.86
+    },
+    {
+      "word": "a",
+      "start": 3.86,
+      "end": 3.9
+    },
+    {
+      "word": "half",
+      "start": 3.9,
+      "end": 4.06
+    },
+    {
+      "word": "again.",
+      "start": 4.06,
+      "end": 4.32
+    },
+    {
+      "word": "I'm",
+      "start": 5.32,
+      "end": 5.32
+    },
+    {
+      "word": "going",
+      "start": 5.32,
+      "end": 5.32
+    },
+    {
+      "word": "to",
+      "start": 5.32,
+      "end": 6.22
+    },
+    {
+      "word": "push",
+      "start": 6.22,
+      "end": 6.36
+    },
+    {
+      "word": "it.",
+      "start": 6.36,
+      "end": 6.54
+    },
+    {
+      "word": "I'm",
+      "start": 8.34,
+      "end": 8.78
+    },
+    {
+      "word": "going",
+      "start": 8.78,
+      "end": 8.8
+    },
+    {
+      "word": "to",
+      "start": 8.8,
+      "end": 9.2
+    },
+    {
+      "word": "do",
+      "start": 9.2,
+      "end": 9.2
+    },
+    {
+      "word": "six.",
+      "start": 9.2,
+      "end": 9.54
+    },
+    {
+      "word": "I'm",
+      "start": 9.98,
+      "end": 10.42
+    },
+    {
+      "word": "going",
+      "start": 10.42,
+      "end": 10.42
+    },
+    {
+      "word": "to",
+      "start": 10.42,
+      "end": 10.76
+    },
+    {
+      "word": "do",
+      "start": 10.76,
+      "end": 10.76
+    },
+    {
+      "word": "five",
+      "start": 10.76,
+      "end": 10.76
+    },
+    {
+      "word": "and",
+      "start": 10.76,
+      "end": 10.76
+    },
+    {
+      "word": "a",
+      "start": 10.76,
+      "end": 10.76
+    },
+    {
+      "word": "half.",
+      "start": 10.76,
+      "end": 11.32
+    },
+    {
+      "word": "I'm",
+      "start": 11.32,
+      "end": 11.64
+    },
+    {
+      "word": "going",
+      "start": 11.64,
+      "end": 11.64
+    },
+    {
+      "word": "to",
+      "start": 11.64,
+      "end": 11.74
+    },
+    {
+      "word": "do",
+      "start": 11.74,
+      "end": 11.74
+    },
+    {
+      "word": "five",
+      "start": 11.74,
+      "end": 12.36
+    },
+    {
+      "word": "and",
+      "start": 12.36,
+      "end": 12.68
+    },
+    {
+      "word": "a",
+      "start": 12.68,
+      "end": 12.68
+    },
+    {
+      "word": "half.",
+      "start": 12.68,
+      "end": 12.68
+    },
+    {
+      "word": "I'm",
+      "start": 12.68,
+      "end": 12.78
+    },
+    {
+      "word": "going",
+      "start": 12.78,
+      "end": 14.02
+    },
+    {
+      "word": "to",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "do",
+      "start": 14.02,
+      "end": 14.06
+    },
+    {
+      "word": "six.",
+      "start": 14.06,
+      "end": 14.06
+    },
+    {
+      "word": "I'm",
+      "start": 14.06,
+      "end": 14.06
+    },
+    {
+      "word": "going",
+      "start": 14.06,
+      "end": 14.06
+    },
+    {
+      "word": "to",
+      "start": 14.06,
+      "end": 14.06
+    },
+    {
+      "word": "speed",
+      "start": 14.06,
+      "end": 14.06
+    },
+    {
+      "word": "up.",
+      "start": 14.06,
+      "end": 14.38
+    },
+    {
+      "word": "I'm",
+      "start": 14.88,
+      "end": 14.9
+    },
+    {
+      "word": "going",
+      "start": 14.9,
+      "end": 15.04
+    },
+    {
+      "word": "to",
+      "start": 15.04,
+      "end": 15.22
+    },
+    {
+      "word": "try",
+      "start": 15.22,
+      "end": 15.54
+    },
+    {
+      "word": "to",
+      "start": 15.54,
+      "end": 15.7
+    },
+    {
+      "word": "switch",
+      "start": 15.7,
+      "end": 15.8
+    },
+    {
+      "word": "to",
+      "start": 15.8,
+      "end": 16.02
+    },
+    {
+      "word": "soft.",
+      "start": 16.02,
+      "end": 16.28
+    },
+    {
+      "word": "I'm",
+      "start": 16.74,
+      "end": 17.18
+    },
+    {
+      "word": "going",
+      "start": 17.18,
+      "end": 17.4
+    },
+    {
+      "word": "to",
+      "start": 17.4,
+      "end": 18.02
+    },
+    {
+      "word": "do",
+      "start": 18.02,
+      "end": 18.12
+    },
+    {
+      "word": "five",
+      "start": 18.12,
+      "end": 18.28
+    },
+    {
+      "word": "and",
+      "start": 18.28,
+      "end": 18.62
+    },
+    {
+      "word": "a",
+      "start": 18.62,
+      "end": 18.74
+    },
+    {
+      "word": "half.",
+      "start": 18.74,
+      "end": 18.86
+    },
+    {
+      "word": "I'm",
+      "start": 18.86,
+      "end": 18.86
+    },
+    {
+      "word": "going",
+      "start": 18.86,
+      "end": 18.86
+    },
+    {
+      "word": "to",
+      "start": 18.86,
+      "end": 18.86
+    },
+    {
+      "word": "do",
+      "start": 18.86,
+      "end": 18.86
+    },
+    {
+      "word": "five",
+      "start": 18.86,
+      "end": 18.96
+    },
+    {
+      "word": "and",
+      "start": 18.96,
+      "end": 19.14
+    },
+    {
+      "word": "a",
+      "start": 19.14,
+      "end": 19.22
+    },
+    {
+      "word": "half.",
+      "start": 19.22,
+      "end": 19.48
+    },
+    {
+      "word": "I'm",
+      "start": 19.62,
+      "end": 19.68
+    },
+    {
+      "word": "going",
+      "start": 19.68,
+      "end": 19.86
+    },
+    {
+      "word": "to",
+      "start": 19.86,
+      "end": 19.98
+    },
+    {
+      "word": "do",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "five",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "and",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "a",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "half.",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 84,
+  "is_empty": false,
+  "is_very_short": false
+}

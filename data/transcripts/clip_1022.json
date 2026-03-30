@@ -1,0 +1,155 @@
+{
+  "clip_id": "clip_1022",
+  "text": "Okay, we have gas coming now, watch out. Okay, we're good. Hold us three behind. Alright, bring two lanes, I'll be rest. Bam, they're just mopping all the reds.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 5.94,
+      "end": 6.32
+    },
+    {
+      "word": "we",
+      "start": 6.44,
+      "end": 6.44
+    },
+    {
+      "word": "have",
+      "start": 6.44,
+      "end": 6.52
+    },
+    {
+      "word": "gas",
+      "start": 6.52,
+      "end": 6.72
+    },
+    {
+      "word": "coming",
+      "start": 6.72,
+      "end": 6.96
+    },
+    {
+      "word": "now,",
+      "start": 6.96,
+      "end": 7.22
+    },
+    {
+      "word": "watch",
+      "start": 7.34,
+      "end": 7.52
+    },
+    {
+      "word": "out.",
+      "start": 7.52,
+      "end": 7.72
+    },
+    {
+      "word": "Okay,",
+      "start": 8.82,
+      "end": 9.2
+    },
+    {
+      "word": "we're",
+      "start": 9.28,
+      "end": 9.34
+    },
+    {
+      "word": "good.",
+      "start": 9.34,
+      "end": 9.48
+    },
+    {
+      "word": "Hold",
+      "start": 10.92,
+      "end": 11.3
+    },
+    {
+      "word": "us",
+      "start": 11.3,
+      "end": 11.46
+    },
+    {
+      "word": "three",
+      "start": 11.46,
+      "end": 11.68
+    },
+    {
+      "word": "behind.",
+      "start": 11.68,
+      "end": 11.9
+    },
+    {
+      "word": "Alright,",
+      "start": 13.44,
+      "end": 13.82
+    },
+    {
+      "word": "bring",
+      "start": 13.92,
+      "end": 14.02
+    },
+    {
+      "word": "two",
+      "start": 14.02,
+      "end": 14.2
+    },
+    {
+      "word": "lanes,",
+      "start": 14.2,
+      "end": 14.38
+    },
+    {
+      "word": "I'll",
+      "start": 14.44,
+      "end": 14.58
+    },
+    {
+      "word": "be",
+      "start": 14.58,
+      "end": 14.68
+    },
+    {
+      "word": "rest.",
+      "start": 14.68,
+      "end": 14.96
+    },
+    {
+      "word": "Bam,",
+      "start": 18.24,
+      "end": 18.62
+    },
+    {
+      "word": "they're",
+      "start": 18.7,
+      "end": 18.84
+    },
+    {
+      "word": "just",
+      "start": 18.84,
+      "end": 18.92
+    },
+    {
+      "word": "mopping",
+      "start": 18.92,
+      "end": 19.3
+    },
+    {
+      "word": "all",
+      "start": 19.3,
+      "end": 19.5
+    },
+    {
+      "word": "the",
+      "start": 19.5,
+      "end": 19.6
+    },
+    {
+      "word": "reds.",
+      "start": 19.6,
+      "end": 19.84
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

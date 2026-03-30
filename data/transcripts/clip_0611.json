@@ -1,0 +1,200 @@
+{
+  "clip_id": "clip_0611",
+  "text": "3 seconds 6 times to go when you cross the line 210 faster than Charles, 4x4, apex 16, the rest is good Got behind 3.3 And watch for braking 1014, Charles behind you is locking a lot",
+  "words": [
+    {
+      "word": "3",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "seconds",
+      "start": 0.36,
+      "end": 0.68
+    },
+    {
+      "word": "6",
+      "start": 2.1,
+      "end": 2.66
+    },
+    {
+      "word": "times",
+      "start": 2.66,
+      "end": 2.92
+    },
+    {
+      "word": "to",
+      "start": 2.92,
+      "end": 3.1
+    },
+    {
+      "word": "go",
+      "start": 3.1,
+      "end": 3.3
+    },
+    {
+      "word": "when",
+      "start": 3.3,
+      "end": 3.56
+    },
+    {
+      "word": "you",
+      "start": 3.56,
+      "end": 3.66
+    },
+    {
+      "word": "cross",
+      "start": 3.66,
+      "end": 3.82
+    },
+    {
+      "word": "the",
+      "start": 3.82,
+      "end": 3.94
+    },
+    {
+      "word": "line",
+      "start": 3.94,
+      "end": 4.64
+    },
+    {
+      "word": "210",
+      "start": 5.62,
+      "end": 6.18
+    },
+    {
+      "word": "faster",
+      "start": 6.18,
+      "end": 6.72
+    },
+    {
+      "word": "than",
+      "start": 6.72,
+      "end": 7.0
+    },
+    {
+      "word": "Charles,",
+      "start": 7.0,
+      "end": 7.28
+    },
+    {
+      "word": "4x4,",
+      "start": 7.62,
+      "end": 8.18
+    },
+    {
+      "word": "apex",
+      "start": 8.42,
+      "end": 8.9
+    },
+    {
+      "word": "16,",
+      "start": 8.9,
+      "end": 9.5
+    },
+    {
+      "word": "the",
+      "start": 9.76,
+      "end": 10.42
+    },
+    {
+      "word": "rest",
+      "start": 10.42,
+      "end": 10.62
+    },
+    {
+      "word": "is",
+      "start": 10.62,
+      "end": 10.74
+    },
+    {
+      "word": "good",
+      "start": 10.74,
+      "end": 11.12
+    },
+    {
+      "word": "Got",
+      "start": 12.32,
+      "end": 12.88
+    },
+    {
+      "word": "behind",
+      "start": 12.88,
+      "end": 13.24
+    },
+    {
+      "word": "3",
+      "start": 13.24,
+      "end": 13.76
+    },
+    {
+      "word": ".3",
+      "start": 13.76,
+      "end": 14.34
+    },
+    {
+      "word": "And",
+      "start": 15.5,
+      "end": 16.06
+    },
+    {
+      "word": "watch",
+      "start": 16.06,
+      "end": 16.3
+    },
+    {
+      "word": "for",
+      "start": 16.3,
+      "end": 16.5
+    },
+    {
+      "word": "braking",
+      "start": 16.5,
+      "end": 16.76
+    },
+    {
+      "word": "1014,",
+      "start": 16.76,
+      "end": 17.74
+    },
+    {
+      "word": "Charles",
+      "start": 18.02,
+      "end": 18.3
+    },
+    {
+      "word": "behind",
+      "start": 18.3,
+      "end": 18.6
+    },
+    {
+      "word": "you",
+      "start": 18.6,
+      "end": 18.8
+    },
+    {
+      "word": "is",
+      "start": 18.8,
+      "end": 18.96
+    },
+    {
+      "word": "locking",
+      "start": 18.96,
+      "end": 19.22
+    },
+    {
+      "word": "a",
+      "start": 19.22,
+      "end": 19.4
+    },
+    {
+      "word": "lot",
+      "start": 19.4,
+      "end": 19.54
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

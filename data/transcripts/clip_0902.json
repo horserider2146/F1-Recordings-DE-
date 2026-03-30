@@ -1,0 +1,120 @@
+{
+  "clip_id": "clip_0902",
+  "text": "the sprint for the virtual mirror is not working on the car. I don't have visibility on that A then I slide.",
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "sprint",
+      "start": 0.12,
+      "end": 0.26
+    },
+    {
+      "word": "for",
+      "start": 0.26,
+      "end": 0.46
+    },
+    {
+      "word": "the",
+      "start": 0.46,
+      "end": 0.5
+    },
+    {
+      "word": "virtual",
+      "start": 0.5,
+      "end": 0.84
+    },
+    {
+      "word": "mirror",
+      "start": 0.84,
+      "end": 1.24
+    },
+    {
+      "word": "is",
+      "start": 1.24,
+      "end": 1.68
+    },
+    {
+      "word": "not",
+      "start": 1.68,
+      "end": 2.04
+    },
+    {
+      "word": "working",
+      "start": 2.04,
+      "end": 2.5
+    },
+    {
+      "word": "on",
+      "start": 2.5,
+      "end": 2.72
+    },
+    {
+      "word": "the",
+      "start": 2.72,
+      "end": 2.78
+    },
+    {
+      "word": "car.",
+      "start": 2.78,
+      "end": 3.12
+    },
+    {
+      "word": "I",
+      "start": 3.56,
+      "end": 3.72
+    },
+    {
+      "word": "don't",
+      "start": 3.72,
+      "end": 3.92
+    },
+    {
+      "word": "have",
+      "start": 3.92,
+      "end": 3.98
+    },
+    {
+      "word": "visibility",
+      "start": 3.98,
+      "end": 4.32
+    },
+    {
+      "word": "on",
+      "start": 4.32,
+      "end": 4.7
+    },
+    {
+      "word": "that",
+      "start": 4.7,
+      "end": 4.8
+    },
+    {
+      "word": "A",
+      "start": 4.8,
+      "end": 4.92
+    },
+    {
+      "word": "then",
+      "start": 4.92,
+      "end": 5.04
+    },
+    {
+      "word": "I",
+      "start": 5.04,
+      "end": 5.16
+    },
+    {
+      "word": "slide.",
+      "start": 5.16,
+      "end": 5.32
+    }
+  ],
+  "language": "en",
+  "word_count": 22,
+  "is_empty": false,
+  "is_very_short": false
+}

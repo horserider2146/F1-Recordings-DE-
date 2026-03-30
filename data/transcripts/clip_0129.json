@@ -1,0 +1,80 @@
+{
+  "clip_id": "clip_0129",
+  "text": "I'll bite and notice that was on hard, but he's not in the plane.",
+  "words": [
+    {
+      "word": "I'll",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "bite",
+      "start": 0.18,
+      "end": 0.36
+    },
+    {
+      "word": "and",
+      "start": 0.36,
+      "end": 0.64
+    },
+    {
+      "word": "notice",
+      "start": 0.64,
+      "end": 1.02
+    },
+    {
+      "word": "that",
+      "start": 1.02,
+      "end": 1.24
+    },
+    {
+      "word": "was",
+      "start": 1.24,
+      "end": 1.38
+    },
+    {
+      "word": "on",
+      "start": 1.38,
+      "end": 1.54
+    },
+    {
+      "word": "hard,",
+      "start": 1.54,
+      "end": 1.82
+    },
+    {
+      "word": "but",
+      "start": 1.92,
+      "end": 2.02
+    },
+    {
+      "word": "he's",
+      "start": 2.02,
+      "end": 2.16
+    },
+    {
+      "word": "not",
+      "start": 2.16,
+      "end": 2.32
+    },
+    {
+      "word": "in",
+      "start": 2.32,
+      "end": 2.94
+    },
+    {
+      "word": "the",
+      "start": 2.94,
+      "end": 3.02
+    },
+    {
+      "word": "plane.",
+      "start": 3.02,
+      "end": 3.2
+    }
+  ],
+  "language": "en",
+  "word_count": 14,
+  "is_empty": false,
+  "is_very_short": false
+}

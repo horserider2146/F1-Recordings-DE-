@@ -1,0 +1,20 @@
+{
+  "clip_id": "clip_0451",
+  "text": "be removed.",
+  "words": [
+    {
+      "word": "be",
+      "start": 17.02,
+      "end": 18.42
+    },
+    {
+      "word": "removed.",
+      "start": 18.42,
+      "end": 19.82
+    }
+  ],
+  "language": "en",
+  "word_count": 2,
+  "is_empty": false,
+  "is_very_short": true
+}

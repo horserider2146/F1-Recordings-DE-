@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_0112",
+  "text": "go out, we're going to break through the plane there will be no hold just slowly on the wall slowly on the wall but no hold I would like to save again make your gap 3,4,3,2 fill your gap now",
+  "words": [
+    {
+      "word": "go",
+      "start": 0.62,
+      "end": 1.06
+    },
+    {
+      "word": "out,",
+      "start": 1.06,
+      "end": 1.38
+    },
+    {
+      "word": "we're",
+      "start": 1.6,
+      "end": 1.76
+    },
+    {
+      "word": "going",
+      "start": 1.76,
+      "end": 1.82
+    },
+    {
+      "word": "to",
+      "start": 1.82,
+      "end": 1.88
+    },
+    {
+      "word": "break",
+      "start": 1.88,
+      "end": 2.04
+    },
+    {
+      "word": "through",
+      "start": 2.04,
+      "end": 2.2
+    },
+    {
+      "word": "the",
+      "start": 2.2,
+      "end": 2.3
+    },
+    {
+      "word": "plane",
+      "start": 2.3,
+      "end": 2.54
+    },
+    {
+      "word": "there",
+      "start": 4.16,
+      "end": 4.6
+    },
+    {
+      "word": "will",
+      "start": 4.6,
+      "end": 4.68
+    },
+    {
+      "word": "be",
+      "start": 4.68,
+      "end": 4.76
+    },
+    {
+      "word": "no",
+      "start": 4.76,
+      "end": 5.02
+    },
+    {
+      "word": "hold",
+      "start": 5.02,
+      "end": 5.46
+    },
+    {
+      "word": "just",
+      "start": 6.16,
+      "end": 6.6
+    },
+    {
+      "word": "slowly",
+      "start": 6.6,
+      "end": 7.04
+    },
+    {
+      "word": "on",
+      "start": 7.04,
+      "end": 7.2
+    },
+    {
+      "word": "the",
+      "start": 7.2,
+      "end": 7.3
+    },
+    {
+      "word": "wall",
+      "start": 7.3,
+      "end": 7.52
+    },
+    {
+      "word": "slowly",
+      "start": 7.52,
+      "end": 8.06
+    },
+    {
+      "word": "on",
+      "start": 8.06,
+      "end": 8.54
+    },
+    {
+      "word": "the",
+      "start": 8.54,
+      "end": 8.62
+    },
+    {
+      "word": "wall",
+      "start": 8.62,
+      "end": 8.76
+    },
+    {
+      "word": "but",
+      "start": 8.76,
+      "end": 8.92
+    },
+    {
+      "word": "no",
+      "start": 8.92,
+      "end": 9.14
+    },
+    {
+      "word": "hold",
+      "start": 9.14,
+      "end": 10.4
+    },
+    {
+      "word": "I",
+      "start": 10.4,
+      "end": 10.7
+    },
+    {
+      "word": "would",
+      "start": 10.7,
+      "end": 10.96
+    },
+    {
+      "word": "like",
+      "start": 10.96,
+      "end": 11.12
+    },
+    {
+      "word": "to",
+      "start": 11.12,
+      "end": 11.3
+    },
+    {
+      "word": "save",
+      "start": 11.3,
+      "end": 11.6
+    },
+    {
+      "word": "again",
+      "start": 11.6,
+      "end": 11.92
+    },
+    {
+      "word": "make",
+      "start": 12.84,
+      "end": 13.28
+    },
+    {
+      "word": "your",
+      "start": 13.28,
+      "end": 13.42
+    },
+    {
+      "word": "gap",
+      "start": 13.42,
+      "end": 13.56
+    },
+    {
+      "word": "3",
+      "start": 13.56,
+      "end": 13.82
+    },
+    {
+      "word": ",4",
+      "start": 13.82,
+      "end": 14.06
+    },
+    {
+      "word": ",3",
+      "start": 14.06,
+      "end": 14.24
+    },
+    {
+      "word": ",2",
+      "start": 14.24,
+      "end": 14.52
+    },
+    {
+      "word": "fill",
+      "start": 14.52,
+      "end": 14.96
+    },
+    {
+      "word": "your",
+      "start": 14.96,
+      "end": 15.08
+    },
+    {
+      "word": "gap",
+      "start": 15.08,
+      "end": 15.28
+    },
+    {
+      "word": "now",
+      "start": 15.28,
+      "end": 16.28
+    }
+  ],
+  "language": "en",
+  "word_count": 40,
+  "is_empty": false,
+  "is_very_short": false
+}

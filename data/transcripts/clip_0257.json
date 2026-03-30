@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_0257",
+  "text": "Switch position yellow Brake balance plus one, rear locking phase two Mode FW suggested Radio 4",
+  "words": [
+    {
+      "word": "Switch",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "position",
+      "start": 0.34,
+      "end": 1.04
+    },
+    {
+      "word": "yellow",
+      "start": 1.04,
+      "end": 1.62
+    },
+    {
+      "word": "Brake",
+      "start": 3.72,
+      "end": 4.16
+    },
+    {
+      "word": "balance",
+      "start": 4.16,
+      "end": 4.42
+    },
+    {
+      "word": "plus",
+      "start": 4.42,
+      "end": 4.72
+    },
+    {
+      "word": "one,",
+      "start": 4.72,
+      "end": 5.04
+    },
+    {
+      "word": "rear",
+      "start": 5.22,
+      "end": 5.56
+    },
+    {
+      "word": "locking",
+      "start": 5.56,
+      "end": 5.86
+    },
+    {
+      "word": "phase",
+      "start": 5.86,
+      "end": 6.24
+    },
+    {
+      "word": "two",
+      "start": 6.24,
+      "end": 6.86
+    },
+    {
+      "word": "Mode",
+      "start": 8.12,
+      "end": 8.56
+    },
+    {
+      "word": "FW",
+      "start": 8.56,
+      "end": 9.06
+    },
+    {
+      "word": "suggested",
+      "start": 9.06,
+      "end": 9.5
+    },
+    {
+      "word": "Radio",
+      "start": 13.18,
+      "end": 13.62
+    },
+    {
+      "word": "4",
+      "start": 13.62,
+      "end": 14.34
+    }
+  ],
+  "language": "en",
+  "word_count": 16,
+  "is_empty": false,
+  "is_very_short": false
+}

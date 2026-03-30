@@ -1,0 +1,345 @@
+{
+  "clip_id": "clip_0954",
+  "text": "There is no action required in the new vehicle. Okay mate, so where we are with cars. So Hülkenberg in front did not stop 10 left-hold cars. You've got Leclerc in front of him who did. And then Limblad didn't stop on 10 left-hold cars. So we're currently P9. Four cars in front did not stop. So we've got double yellow at turn two now.",
+  "words": [
+    {
+      "word": "There",
+      "start": 0.0,
+      "end": 0.06
+    },
+    {
+      "word": "is",
+      "start": 0.06,
+      "end": 0.14
+    },
+    {
+      "word": "no",
+      "start": 0.14,
+      "end": 0.34
+    },
+    {
+      "word": "action",
+      "start": 0.34,
+      "end": 0.62
+    },
+    {
+      "word": "required",
+      "start": 0.62,
+      "end": 1.0
+    },
+    {
+      "word": "in",
+      "start": 1.0,
+      "end": 1.24
+    },
+    {
+      "word": "the",
+      "start": 1.24,
+      "end": 1.36
+    },
+    {
+      "word": "new",
+      "start": 1.36,
+      "end": 1.5
+    },
+    {
+      "word": "vehicle.",
+      "start": 1.5,
+      "end": 1.68
+    },
+    {
+      "word": "Okay",
+      "start": 2.28,
+      "end": 2.5
+    },
+    {
+      "word": "mate,",
+      "start": 2.5,
+      "end": 2.64
+    },
+    {
+      "word": "so",
+      "start": 2.74,
+      "end": 2.8
+    },
+    {
+      "word": "where",
+      "start": 2.8,
+      "end": 2.96
+    },
+    {
+      "word": "we",
+      "start": 2.96,
+      "end": 3.1
+    },
+    {
+      "word": "are",
+      "start": 3.1,
+      "end": 3.24
+    },
+    {
+      "word": "with",
+      "start": 3.24,
+      "end": 3.36
+    },
+    {
+      "word": "cars.",
+      "start": 3.36,
+      "end": 3.6
+    },
+    {
+      "word": "So",
+      "start": 3.84,
+      "end": 3.86
+    },
+    {
+      "word": "Hülkenberg",
+      "start": 3.86,
+      "end": 4.4
+    },
+    {
+      "word": "in",
+      "start": 4.4,
+      "end": 4.54
+    },
+    {
+      "word": "front",
+      "start": 4.54,
+      "end": 4.74
+    },
+    {
+      "word": "did",
+      "start": 4.74,
+      "end": 4.98
+    },
+    {
+      "word": "not",
+      "start": 4.98,
+      "end": 5.16
+    },
+    {
+      "word": "stop",
+      "start": 5.16,
+      "end": 5.44
+    },
+    {
+      "word": "10",
+      "start": 5.44,
+      "end": 5.82
+    },
+    {
+      "word": "left",
+      "start": 5.82,
+      "end": 5.96
+    },
+    {
+      "word": "-hold",
+      "start": 5.96,
+      "end": 6.14
+    },
+    {
+      "word": "cars.",
+      "start": 6.14,
+      "end": 6.5
+    },
+    {
+      "word": "You've",
+      "start": 7.04,
+      "end": 7.28
+    },
+    {
+      "word": "got",
+      "start": 7.28,
+      "end": 7.32
+    },
+    {
+      "word": "Leclerc",
+      "start": 7.32,
+      "end": 7.78
+    },
+    {
+      "word": "in",
+      "start": 7.78,
+      "end": 7.84
+    },
+    {
+      "word": "front",
+      "start": 7.84,
+      "end": 8.02
+    },
+    {
+      "word": "of",
+      "start": 8.02,
+      "end": 8.18
+    },
+    {
+      "word": "him",
+      "start": 8.18,
+      "end": 8.34
+    },
+    {
+      "word": "who",
+      "start": 8.34,
+      "end": 8.46
+    },
+    {
+      "word": "did.",
+      "start": 8.46,
+      "end": 8.74
+    },
+    {
+      "word": "And",
+      "start": 9.44,
+      "end": 9.66
+    },
+    {
+      "word": "then",
+      "start": 9.66,
+      "end": 9.78
+    },
+    {
+      "word": "Limblad",
+      "start": 9.78,
+      "end": 10.4
+    },
+    {
+      "word": "didn't",
+      "start": 10.4,
+      "end": 10.86
+    },
+    {
+      "word": "stop",
+      "start": 10.86,
+      "end": 11.02
+    },
+    {
+      "word": "on",
+      "start": 11.02,
+      "end": 11.58
+    },
+    {
+      "word": "10",
+      "start": 11.58,
+      "end": 11.8
+    },
+    {
+      "word": "left",
+      "start": 11.8,
+      "end": 11.92
+    },
+    {
+      "word": "-hold",
+      "start": 11.92,
+      "end": 12.14
+    },
+    {
+      "word": "cars.",
+      "start": 12.14,
+      "end": 12.36
+    },
+    {
+      "word": "So",
+      "start": 12.48,
+      "end": 12.56
+    },
+    {
+      "word": "we're",
+      "start": 12.56,
+      "end": 12.7
+    },
+    {
+      "word": "currently",
+      "start": 12.7,
+      "end": 12.94
+    },
+    {
+      "word": "P9.",
+      "start": 12.94,
+      "end": 13.46
+    },
+    {
+      "word": "Four",
+      "start": 14.08,
+      "end": 14.38
+    },
+    {
+      "word": "cars",
+      "start": 14.38,
+      "end": 14.68
+    },
+    {
+      "word": "in",
+      "start": 14.68,
+      "end": 14.86
+    },
+    {
+      "word": "front",
+      "start": 14.86,
+      "end": 15.04
+    },
+    {
+      "word": "did",
+      "start": 15.04,
+      "end": 15.26
+    },
+    {
+      "word": "not",
+      "start": 15.26,
+      "end": 15.44
+    },
+    {
+      "word": "stop.",
+      "start": 15.44,
+      "end": 15.66
+    },
+    {
+      "word": "So",
+      "start": 16.5,
+      "end": 16.94
+    },
+    {
+      "word": "we've",
+      "start": 16.94,
+      "end": 17.2
+    },
+    {
+      "word": "got",
+      "start": 17.2,
+      "end": 17.3
+    },
+    {
+      "word": "double",
+      "start": 17.3,
+      "end": 17.64
+    },
+    {
+      "word": "yellow",
+      "start": 17.64,
+      "end": 17.94
+    },
+    {
+      "word": "at",
+      "start": 17.94,
+      "end": 18.24
+    },
+    {
+      "word": "turn",
+      "start": 18.24,
+      "end": 18.52
+    },
+    {
+      "word": "two",
+      "start": 18.52,
+      "end": 18.98
+    },
+    {
+      "word": "now.",
+      "start": 18.98,
+      "end": 19.4
+    }
+  ],
+  "language": "en",
+  "word_count": 65,
+  "is_empty": false,
+  "is_very_short": false
+}

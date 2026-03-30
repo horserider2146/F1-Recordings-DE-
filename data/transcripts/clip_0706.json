@@ -1,0 +1,155 @@
+{
+  "clip_id": "clip_0706",
+  "text": "Stay online on this main straight please. Stay left in every hotline. In good 14 position 1 when you can, Max. When you can. Hey, my fucking face, mate!",
+  "words": [
+    {
+      "word": "Stay",
+      "start": 1.1,
+      "end": 1.66
+    },
+    {
+      "word": "online",
+      "start": 1.66,
+      "end": 2.14
+    },
+    {
+      "word": "on",
+      "start": 2.14,
+      "end": 2.42
+    },
+    {
+      "word": "this",
+      "start": 2.42,
+      "end": 2.6
+    },
+    {
+      "word": "main",
+      "start": 2.6,
+      "end": 2.82
+    },
+    {
+      "word": "straight",
+      "start": 2.82,
+      "end": 3.06
+    },
+    {
+      "word": "please.",
+      "start": 3.06,
+      "end": 3.4
+    },
+    {
+      "word": "Stay",
+      "start": 3.68,
+      "end": 3.86
+    },
+    {
+      "word": "left",
+      "start": 3.86,
+      "end": 4.26
+    },
+    {
+      "word": "in",
+      "start": 4.26,
+      "end": 5.12
+    },
+    {
+      "word": "every",
+      "start": 5.12,
+      "end": 5.22
+    },
+    {
+      "word": "hotline.",
+      "start": 5.22,
+      "end": 6.06
+    },
+    {
+      "word": "In",
+      "start": 8.34,
+      "end": 8.9
+    },
+    {
+      "word": "good",
+      "start": 8.9,
+      "end": 9.06
+    },
+    {
+      "word": "14",
+      "start": 9.06,
+      "end": 9.52
+    },
+    {
+      "word": "position",
+      "start": 9.52,
+      "end": 9.98
+    },
+    {
+      "word": "1",
+      "start": 9.98,
+      "end": 10.4
+    },
+    {
+      "word": "when",
+      "start": 10.4,
+      "end": 10.7
+    },
+    {
+      "word": "you",
+      "start": 10.7,
+      "end": 10.88
+    },
+    {
+      "word": "can,",
+      "start": 10.88,
+      "end": 11.1
+    },
+    {
+      "word": "Max.",
+      "start": 11.2,
+      "end": 11.34
+    },
+    {
+      "word": "When",
+      "start": 12.3,
+      "end": 12.44
+    },
+    {
+      "word": "you",
+      "start": 12.44,
+      "end": 12.6
+    },
+    {
+      "word": "can.",
+      "start": 12.6,
+      "end": 12.86
+    },
+    {
+      "word": "Hey,",
+      "start": 13.98,
+      "end": 14.54
+    },
+    {
+      "word": "my",
+      "start": 14.62,
+      "end": 14.72
+    },
+    {
+      "word": "fucking",
+      "start": 14.72,
+      "end": 15.0
+    },
+    {
+      "word": "face,",
+      "start": 15.0,
+      "end": 15.32
+    },
+    {
+      "word": "mate!",
+      "start": 15.46,
+      "end": 15.56
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

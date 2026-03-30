@@ -1,0 +1,145 @@
+{
+  "clip_id": "clip_0995",
+  "text": "left rear. Copy that tires look okay, pressure is good. No major issues with the car at the moment, just north your tire, watch your front left.",
+  "words": [
+    {
+      "word": "left",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "rear.",
+      "start": 0.32,
+      "end": 0.68
+    },
+    {
+      "word": "Copy",
+      "start": 1.18,
+      "end": 1.58
+    },
+    {
+      "word": "that",
+      "start": 1.58,
+      "end": 1.88
+    },
+    {
+      "word": "tires",
+      "start": 1.88,
+      "end": 2.44
+    },
+    {
+      "word": "look",
+      "start": 2.44,
+      "end": 2.7
+    },
+    {
+      "word": "okay,",
+      "start": 2.7,
+      "end": 3.04
+    },
+    {
+      "word": "pressure",
+      "start": 3.2,
+      "end": 3.42
+    },
+    {
+      "word": "is",
+      "start": 3.42,
+      "end": 3.6
+    },
+    {
+      "word": "good.",
+      "start": 3.6,
+      "end": 4.0
+    },
+    {
+      "word": "No",
+      "start": 9.2,
+      "end": 9.72
+    },
+    {
+      "word": "major",
+      "start": 9.72,
+      "end": 9.9
+    },
+    {
+      "word": "issues",
+      "start": 9.9,
+      "end": 10.18
+    },
+    {
+      "word": "with",
+      "start": 10.18,
+      "end": 10.36
+    },
+    {
+      "word": "the",
+      "start": 10.36,
+      "end": 10.48
+    },
+    {
+      "word": "car",
+      "start": 10.48,
+      "end": 10.66
+    },
+    {
+      "word": "at",
+      "start": 10.66,
+      "end": 10.76
+    },
+    {
+      "word": "the",
+      "start": 10.76,
+      "end": 10.78
+    },
+    {
+      "word": "moment,",
+      "start": 10.78,
+      "end": 11.04
+    },
+    {
+      "word": "just",
+      "start": 11.28,
+      "end": 11.52
+    },
+    {
+      "word": "north",
+      "start": 11.52,
+      "end": 11.8
+    },
+    {
+      "word": "your",
+      "start": 11.8,
+      "end": 12.0
+    },
+    {
+      "word": "tire,",
+      "start": 12.0,
+      "end": 12.32
+    },
+    {
+      "word": "watch",
+      "start": 12.66,
+      "end": 12.82
+    },
+    {
+      "word": "your",
+      "start": 12.82,
+      "end": 12.96
+    },
+    {
+      "word": "front",
+      "start": 12.96,
+      "end": 13.18
+    },
+    {
+      "word": "left.",
+      "start": 13.18,
+      "end": 13.46
+    }
+  ],
+  "language": "en",
+  "word_count": 27,
+  "is_empty": false,
+  "is_very_short": false
+}

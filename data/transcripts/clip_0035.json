@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_0035",
+  "text": "Yep, then. How long it took me? 50 seconds to go in, for your opinion, Tensu.",
+  "words": [
+    {
+      "word": "Yep,",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "then.",
+      "start": 0.36,
+      "end": 0.46
+    },
+    {
+      "word": "How",
+      "start": 1.84,
+      "end": 2.2
+    },
+    {
+      "word": "long",
+      "start": 2.2,
+      "end": 2.34
+    },
+    {
+      "word": "it",
+      "start": 2.34,
+      "end": 2.46
+    },
+    {
+      "word": "took",
+      "start": 2.46,
+      "end": 2.58
+    },
+    {
+      "word": "me?",
+      "start": 2.58,
+      "end": 2.74
+    },
+    {
+      "word": "50",
+      "start": 3.9,
+      "end": 4.26
+    },
+    {
+      "word": "seconds",
+      "start": 4.26,
+      "end": 4.52
+    },
+    {
+      "word": "to",
+      "start": 4.52,
+      "end": 4.7
+    },
+    {
+      "word": "go",
+      "start": 4.7,
+      "end": 4.78
+    },
+    {
+      "word": "in,",
+      "start": 4.78,
+      "end": 4.9
+    },
+    {
+      "word": "for",
+      "start": 5.14,
+      "end": 5.26
+    },
+    {
+      "word": "your",
+      "start": 5.26,
+      "end": 5.36
+    },
+    {
+      "word": "opinion,",
+      "start": 5.36,
+      "end": 5.54
+    },
+    {
+      "word": "Tensu.",
+      "start": 5.62,
+      "end": 5.82
+    }
+  ],
+  "language": "en",
+  "word_count": 16,
+  "is_empty": false,
+  "is_very_short": false
+}

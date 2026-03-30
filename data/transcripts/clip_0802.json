@@ -1,0 +1,130 @@
+{
+  "clip_id": "clip_0802",
+  "text": "Yeah, only last lap. Yeah, you did 57. There's quite a lot of rear locking, so I wouldn't go any more rearwish than that.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "only",
+      "start": 0.22,
+      "end": 0.32
+    },
+    {
+      "word": "last",
+      "start": 0.32,
+      "end": 0.64
+    },
+    {
+      "word": "lap.",
+      "start": 0.64,
+      "end": 1.26
+    },
+    {
+      "word": "Yeah,",
+      "start": 1.68,
+      "end": 1.78
+    },
+    {
+      "word": "you",
+      "start": 1.84,
+      "end": 1.9
+    },
+    {
+      "word": "did",
+      "start": 1.9,
+      "end": 2.04
+    },
+    {
+      "word": "57.",
+      "start": 2.04,
+      "end": 2.5
+    },
+    {
+      "word": "There's",
+      "start": 2.72,
+      "end": 2.84
+    },
+    {
+      "word": "quite",
+      "start": 2.84,
+      "end": 3.0
+    },
+    {
+      "word": "a",
+      "start": 3.0,
+      "end": 3.14
+    },
+    {
+      "word": "lot",
+      "start": 3.14,
+      "end": 3.24
+    },
+    {
+      "word": "of",
+      "start": 3.24,
+      "end": 3.34
+    },
+    {
+      "word": "rear",
+      "start": 3.34,
+      "end": 3.48
+    },
+    {
+      "word": "locking,",
+      "start": 3.48,
+      "end": 3.78
+    },
+    {
+      "word": "so",
+      "start": 3.92,
+      "end": 4.02
+    },
+    {
+      "word": "I",
+      "start": 4.02,
+      "end": 4.1
+    },
+    {
+      "word": "wouldn't",
+      "start": 4.1,
+      "end": 4.32
+    },
+    {
+      "word": "go",
+      "start": 4.32,
+      "end": 4.4
+    },
+    {
+      "word": "any",
+      "start": 4.4,
+      "end": 4.5
+    },
+    {
+      "word": "more",
+      "start": 4.5,
+      "end": 4.62
+    },
+    {
+      "word": "rearwish",
+      "start": 4.62,
+      "end": 5.0
+    },
+    {
+      "word": "than",
+      "start": 5.0,
+      "end": 5.16
+    },
+    {
+      "word": "that.",
+      "start": 5.16,
+      "end": 5.32
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

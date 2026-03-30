@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0243",
+  "text": "You are currently P2. Antonelli 32-3. Yeah, I've got a bit of traffic. All's good luck. Norris 4 understood. Places to improve turn 2, half at 10. Norris 3 pushing.",
+  "words": [
+    {
+      "word": "You",
+      "start": 0.92,
+      "end": 1.66
+    },
+    {
+      "word": "are",
+      "start": 1.66,
+      "end": 1.76
+    },
+    {
+      "word": "currently",
+      "start": 1.76,
+      "end": 2.06
+    },
+    {
+      "word": "P2.",
+      "start": 2.06,
+      "end": 2.74
+    },
+    {
+      "word": "Antonelli",
+      "start": 4.7,
+      "end": 5.44
+    },
+    {
+      "word": "32",
+      "start": 5.44,
+      "end": 6.18
+    },
+    {
+      "word": "-3.",
+      "start": 6.18,
+      "end": 6.62
+    },
+    {
+      "word": "Yeah,",
+      "start": 7.68,
+      "end": 7.96
+    },
+    {
+      "word": "I've",
+      "start": 8.14,
+      "end": 8.32
+    },
+    {
+      "word": "got",
+      "start": 8.32,
+      "end": 8.46
+    },
+    {
+      "word": "a",
+      "start": 8.46,
+      "end": 8.6
+    },
+    {
+      "word": "bit",
+      "start": 8.6,
+      "end": 8.72
+    },
+    {
+      "word": "of",
+      "start": 8.72,
+      "end": 8.88
+    },
+    {
+      "word": "traffic.",
+      "start": 8.88,
+      "end": 9.26
+    },
+    {
+      "word": "All's",
+      "start": 10.18,
+      "end": 10.5
+    },
+    {
+      "word": "good",
+      "start": 10.5,
+      "end": 10.6
+    },
+    {
+      "word": "luck.",
+      "start": 10.6,
+      "end": 10.98
+    },
+    {
+      "word": "Norris",
+      "start": 11.96,
+      "end": 12.56
+    },
+    {
+      "word": "4",
+      "start": 12.56,
+      "end": 13.14
+    },
+    {
+      "word": "understood.",
+      "start": 13.14,
+      "end": 14.0
+    },
+    {
+      "word": "Places",
+      "start": 15.34,
+      "end": 16.08
+    },
+    {
+      "word": "to",
+      "start": 16.08,
+      "end": 16.26
+    },
+    {
+      "word": "improve",
+      "start": 16.26,
+      "end": 16.56
+    },
+    {
+      "word": "turn",
+      "start": 16.56,
+      "end": 16.86
+    },
+    {
+      "word": "2,",
+      "start": 16.86,
+      "end": 17.22
+    },
+    {
+      "word": "half",
+      "start": 17.42,
+      "end": 17.56
+    },
+    {
+      "word": "at",
+      "start": 17.56,
+      "end": 17.72
+    },
+    {
+      "word": "10.",
+      "start": 17.72,
+      "end": 17.94
+    },
+    {
+      "word": "Norris",
+      "start": 18.34,
+      "end": 18.88
+    },
+    {
+      "word": "3",
+      "start": 18.88,
+      "end": 19.38
+    },
+    {
+      "word": "pushing.",
+      "start": 19.38,
+      "end": 19.78
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

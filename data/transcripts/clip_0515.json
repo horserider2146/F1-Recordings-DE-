@@ -1,0 +1,285 @@
+{
+  "clip_id": "clip_0515",
+  "text": "We'll have SLM off and weaving, SLM off and weaving. To maximize the energy into the tires, SLM off and strong weaving. Same again here. Lots of strong weaving, SLM off, strong weaving. Keep working that weaving, that's good. Keep doing the weaving, no one pushing behind. We'll make a gap later in the lap.",
+  "words": [
+    {
+      "word": "We'll",
+      "start": 0.0,
+      "end": 0.62
+    },
+    {
+      "word": "have",
+      "start": 0.62,
+      "end": 0.74
+    },
+    {
+      "word": "SLM",
+      "start": 0.74,
+      "end": 1.26
+    },
+    {
+      "word": "off",
+      "start": 1.26,
+      "end": 1.46
+    },
+    {
+      "word": "and",
+      "start": 1.46,
+      "end": 1.6
+    },
+    {
+      "word": "weaving,",
+      "start": 1.6,
+      "end": 1.88
+    },
+    {
+      "word": "SLM",
+      "start": 2.1,
+      "end": 2.5
+    },
+    {
+      "word": "off",
+      "start": 2.5,
+      "end": 2.8
+    },
+    {
+      "word": "and",
+      "start": 2.8,
+      "end": 3.0
+    },
+    {
+      "word": "weaving.",
+      "start": 3.0,
+      "end": 3.3
+    },
+    {
+      "word": "To",
+      "start": 3.7,
+      "end": 4.08
+    },
+    {
+      "word": "maximize",
+      "start": 4.08,
+      "end": 4.46
+    },
+    {
+      "word": "the",
+      "start": 4.46,
+      "end": 4.82
+    },
+    {
+      "word": "energy",
+      "start": 4.82,
+      "end": 5.1
+    },
+    {
+      "word": "into",
+      "start": 5.1,
+      "end": 5.28
+    },
+    {
+      "word": "the",
+      "start": 5.28,
+      "end": 5.38
+    },
+    {
+      "word": "tires,",
+      "start": 5.38,
+      "end": 5.64
+    },
+    {
+      "word": "SLM",
+      "start": 5.88,
+      "end": 6.3
+    },
+    {
+      "word": "off",
+      "start": 6.3,
+      "end": 6.52
+    },
+    {
+      "word": "and",
+      "start": 6.52,
+      "end": 6.66
+    },
+    {
+      "word": "strong",
+      "start": 6.66,
+      "end": 6.94
+    },
+    {
+      "word": "weaving.",
+      "start": 6.94,
+      "end": 7.28
+    },
+    {
+      "word": "Same",
+      "start": 8.74,
+      "end": 9.18
+    },
+    {
+      "word": "again",
+      "start": 9.18,
+      "end": 9.42
+    },
+    {
+      "word": "here.",
+      "start": 9.42,
+      "end": 9.72
+    },
+    {
+      "word": "Lots",
+      "start": 10.26,
+      "end": 10.44
+    },
+    {
+      "word": "of",
+      "start": 10.44,
+      "end": 10.58
+    },
+    {
+      "word": "strong",
+      "start": 10.58,
+      "end": 10.88
+    },
+    {
+      "word": "weaving,",
+      "start": 10.88,
+      "end": 11.22
+    },
+    {
+      "word": "SLM",
+      "start": 11.48,
+      "end": 11.84
+    },
+    {
+      "word": "off,",
+      "start": 11.84,
+      "end": 12.0
+    },
+    {
+      "word": "strong",
+      "start": 12.04,
+      "end": 12.26
+    },
+    {
+      "word": "weaving.",
+      "start": 12.26,
+      "end": 12.6
+    },
+    {
+      "word": "Keep",
+      "start": 14.9,
+      "end": 15.34
+    },
+    {
+      "word": "working",
+      "start": 15.34,
+      "end": 15.54
+    },
+    {
+      "word": "that",
+      "start": 15.54,
+      "end": 15.74
+    },
+    {
+      "word": "weaving,",
+      "start": 15.74,
+      "end": 15.98
+    },
+    {
+      "word": "that's",
+      "start": 16.16,
+      "end": 16.34
+    },
+    {
+      "word": "good.",
+      "start": 16.34,
+      "end": 16.52
+    },
+    {
+      "word": "Keep",
+      "start": 16.7,
+      "end": 16.8
+    },
+    {
+      "word": "doing",
+      "start": 16.8,
+      "end": 16.98
+    },
+    {
+      "word": "the",
+      "start": 16.98,
+      "end": 17.12
+    },
+    {
+      "word": "weaving,",
+      "start": 17.12,
+      "end": 17.34
+    },
+    {
+      "word": "no",
+      "start": 17.5,
+      "end": 17.62
+    },
+    {
+      "word": "one",
+      "start": 17.62,
+      "end": 17.74
+    },
+    {
+      "word": "pushing",
+      "start": 17.74,
+      "end": 18.0
+    },
+    {
+      "word": "behind.",
+      "start": 18.0,
+      "end": 18.4
+    },
+    {
+      "word": "We'll",
+      "start": 18.78,
+      "end": 18.9
+    },
+    {
+      "word": "make",
+      "start": 18.9,
+      "end": 19.02
+    },
+    {
+      "word": "a",
+      "start": 19.02,
+      "end": 19.16
+    },
+    {
+      "word": "gap",
+      "start": 19.16,
+      "end": 19.32
+    },
+    {
+      "word": "later",
+      "start": 19.32,
+      "end": 19.6
+    },
+    {
+      "word": "in",
+      "start": 19.6,
+      "end": 19.74
+    },
+    {
+      "word": "the",
+      "start": 19.74,
+      "end": 19.82
+    },
+    {
+      "word": "lap.",
+      "start": 19.82,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 55,
+  "is_empty": false,
+  "is_very_short": false
+}

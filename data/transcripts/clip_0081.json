@@ -1,0 +1,290 @@
+{
+  "clip_id": "clip_0081",
+  "text": "After that, we start off, put the one, put the second, put the third, put the third in the head, and we are set to be on. Listen, it's very good. Off, set zero, and we're leaving second half of the train, to put up in the last corner, but keep the pace of the corner.",
+  "words": [
+    {
+      "word": "After",
+      "start": 1.94,
+      "end": 2.34
+    },
+    {
+      "word": "that,",
+      "start": 2.34,
+      "end": 2.54
+    },
+    {
+      "word": "we",
+      "start": 2.72,
+      "end": 2.88
+    },
+    {
+      "word": "start",
+      "start": 2.88,
+      "end": 3.58
+    },
+    {
+      "word": "off,",
+      "start": 3.58,
+      "end": 3.9
+    },
+    {
+      "word": "put",
+      "start": 4.3,
+      "end": 4.6
+    },
+    {
+      "word": "the",
+      "start": 4.6,
+      "end": 4.88
+    },
+    {
+      "word": "one,",
+      "start": 4.88,
+      "end": 5.14
+    },
+    {
+      "word": "put",
+      "start": 5.92,
+      "end": 6.2
+    },
+    {
+      "word": "the",
+      "start": 6.2,
+      "end": 6.32
+    },
+    {
+      "word": "second,",
+      "start": 6.32,
+      "end": 6.48
+    },
+    {
+      "word": "put",
+      "start": 7.18,
+      "end": 8.14
+    },
+    {
+      "word": "the",
+      "start": 8.14,
+      "end": 8.14
+    },
+    {
+      "word": "third,",
+      "start": 8.14,
+      "end": 8.14
+    },
+    {
+      "word": "put",
+      "start": 8.14,
+      "end": 8.36
+    },
+    {
+      "word": "the",
+      "start": 8.36,
+      "end": 8.56
+    },
+    {
+      "word": "third",
+      "start": 8.56,
+      "end": 8.74
+    },
+    {
+      "word": "in",
+      "start": 8.74,
+      "end": 9.22
+    },
+    {
+      "word": "the",
+      "start": 9.22,
+      "end": 9.3
+    },
+    {
+      "word": "head,",
+      "start": 9.3,
+      "end": 9.48
+    },
+    {
+      "word": "and",
+      "start": 9.96,
+      "end": 10.08
+    },
+    {
+      "word": "we",
+      "start": 10.08,
+      "end": 10.12
+    },
+    {
+      "word": "are",
+      "start": 10.12,
+      "end": 10.24
+    },
+    {
+      "word": "set",
+      "start": 10.24,
+      "end": 10.48
+    },
+    {
+      "word": "to",
+      "start": 10.48,
+      "end": 10.62
+    },
+    {
+      "word": "be",
+      "start": 10.62,
+      "end": 10.68
+    },
+    {
+      "word": "on.",
+      "start": 10.68,
+      "end": 10.78
+    },
+    {
+      "word": "Listen,",
+      "start": 11.32,
+      "end": 11.72
+    },
+    {
+      "word": "it's",
+      "start": 11.88,
+      "end": 11.94
+    },
+    {
+      "word": "very",
+      "start": 11.94,
+      "end": 12.18
+    },
+    {
+      "word": "good.",
+      "start": 12.18,
+      "end": 12.54
+    },
+    {
+      "word": "Off,",
+      "start": 13.44,
+      "end": 13.84
+    },
+    {
+      "word": "set",
+      "start": 13.92,
+      "end": 14.0
+    },
+    {
+      "word": "zero,",
+      "start": 14.0,
+      "end": 14.26
+    },
+    {
+      "word": "and",
+      "start": 14.84,
+      "end": 14.92
+    },
+    {
+      "word": "we're",
+      "start": 14.92,
+      "end": 15.22
+    },
+    {
+      "word": "leaving",
+      "start": 15.22,
+      "end": 15.34
+    },
+    {
+      "word": "second",
+      "start": 15.34,
+      "end": 15.64
+    },
+    {
+      "word": "half",
+      "start": 15.64,
+      "end": 15.9
+    },
+    {
+      "word": "of",
+      "start": 15.9,
+      "end": 16.04
+    },
+    {
+      "word": "the",
+      "start": 16.04,
+      "end": 16.2
+    },
+    {
+      "word": "train,",
+      "start": 16.2,
+      "end": 16.4
+    },
+    {
+      "word": "to",
+      "start": 16.9,
+      "end": 16.98
+    },
+    {
+      "word": "put",
+      "start": 16.98,
+      "end": 17.16
+    },
+    {
+      "word": "up",
+      "start": 17.16,
+      "end": 17.52
+    },
+    {
+      "word": "in",
+      "start": 17.52,
+      "end": 17.72
+    },
+    {
+      "word": "the",
+      "start": 17.72,
+      "end": 17.82
+    },
+    {
+      "word": "last",
+      "start": 17.82,
+      "end": 17.94
+    },
+    {
+      "word": "corner,",
+      "start": 17.94,
+      "end": 18.18
+    },
+    {
+      "word": "but",
+      "start": 18.54,
+      "end": 18.62
+    },
+    {
+      "word": "keep",
+      "start": 18.62,
+      "end": 18.78
+    },
+    {
+      "word": "the",
+      "start": 18.78,
+      "end": 18.94
+    },
+    {
+      "word": "pace",
+      "start": 18.94,
+      "end": 19.16
+    },
+    {
+      "word": "of",
+      "start": 19.16,
+      "end": 19.3
+    },
+    {
+      "word": "the",
+      "start": 19.3,
+      "end": 19.36
+    },
+    {
+      "word": "corner.",
+      "start": 19.36,
+      "end": 19.54
+    }
+  ],
+  "language": "en",
+  "word_count": 56,
+  "is_empty": false,
+  "is_very_short": false
+}

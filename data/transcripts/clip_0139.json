@@ -1,0 +1,120 @@
+{
+  "clip_id": "clip_0139",
+  "text": "go race go race go race go race when you can go race when you can that's kind of how you link",
+  "words": [
+    {
+      "word": "go",
+      "start": 3.24,
+      "end": 3.92
+    },
+    {
+      "word": "race",
+      "start": 3.92,
+      "end": 4.28
+    },
+    {
+      "word": "go",
+      "start": 4.28,
+      "end": 4.6
+    },
+    {
+      "word": "race",
+      "start": 4.6,
+      "end": 5.0
+    },
+    {
+      "word": "go",
+      "start": 8.38,
+      "end": 9.06
+    },
+    {
+      "word": "race",
+      "start": 9.06,
+      "end": 9.74
+    },
+    {
+      "word": "go",
+      "start": 9.74,
+      "end": 10.04
+    },
+    {
+      "word": "race",
+      "start": 10.04,
+      "end": 10.28
+    },
+    {
+      "word": "when",
+      "start": 10.28,
+      "end": 10.42
+    },
+    {
+      "word": "you",
+      "start": 10.42,
+      "end": 10.52
+    },
+    {
+      "word": "can",
+      "start": 10.52,
+      "end": 10.78
+    },
+    {
+      "word": "go",
+      "start": 10.78,
+      "end": 11.98
+    },
+    {
+      "word": "race",
+      "start": 11.98,
+      "end": 16.28
+    },
+    {
+      "word": "when",
+      "start": 16.28,
+      "end": 16.46
+    },
+    {
+      "word": "you",
+      "start": 16.46,
+      "end": 17.86
+    },
+    {
+      "word": "can",
+      "start": 17.86,
+      "end": 18.2
+    },
+    {
+      "word": "that's",
+      "start": 18.54,
+      "end": 18.98
+    },
+    {
+      "word": "kind",
+      "start": 18.98,
+      "end": 19.12
+    },
+    {
+      "word": "of",
+      "start": 19.12,
+      "end": 19.26
+    },
+    {
+      "word": "how",
+      "start": 19.26,
+      "end": 19.36
+    },
+    {
+      "word": "you",
+      "start": 19.36,
+      "end": 19.58
+    },
+    {
+      "word": "link",
+      "start": 19.58,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 22,
+  "is_empty": false,
+  "is_very_short": false
+}

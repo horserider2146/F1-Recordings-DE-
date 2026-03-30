@@ -1,0 +1,250 @@
+{
+  "clip_id": "clip_1134",
+  "text": "0.5 to Russell. The car behind it is a JAR. He's on a slow lap. So the next car pushing is Bortoletto. He's still 9 seconds back. So let's focus on the tires. We're happy with what you're doing with tires on the Outlap. Still watching Bortoletto.",
+  "words": [
+    {
+      "word": "0",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": ".5",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "to",
+      "start": 0.4,
+      "end": 0.58
+    },
+    {
+      "word": "Russell.",
+      "start": 0.58,
+      "end": 0.84
+    },
+    {
+      "word": "The",
+      "start": 2.2,
+      "end": 2.7
+    },
+    {
+      "word": "car",
+      "start": 2.7,
+      "end": 3.2
+    },
+    {
+      "word": "behind",
+      "start": 3.2,
+      "end": 3.42
+    },
+    {
+      "word": "it",
+      "start": 3.42,
+      "end": 3.54
+    },
+    {
+      "word": "is",
+      "start": 3.54,
+      "end": 3.74
+    },
+    {
+      "word": "a",
+      "start": 3.74,
+      "end": 3.96
+    },
+    {
+      "word": "JAR.",
+      "start": 3.96,
+      "end": 4.34
+    },
+    {
+      "word": "He's",
+      "start": 4.48,
+      "end": 4.64
+    },
+    {
+      "word": "on",
+      "start": 4.64,
+      "end": 4.72
+    },
+    {
+      "word": "a",
+      "start": 4.72,
+      "end": 4.8
+    },
+    {
+      "word": "slow",
+      "start": 4.8,
+      "end": 5.02
+    },
+    {
+      "word": "lap.",
+      "start": 5.02,
+      "end": 5.22
+    },
+    {
+      "word": "So",
+      "start": 5.44,
+      "end": 5.46
+    },
+    {
+      "word": "the",
+      "start": 5.46,
+      "end": 5.56
+    },
+    {
+      "word": "next",
+      "start": 5.56,
+      "end": 5.72
+    },
+    {
+      "word": "car",
+      "start": 5.72,
+      "end": 5.92
+    },
+    {
+      "word": "pushing",
+      "start": 5.92,
+      "end": 6.24
+    },
+    {
+      "word": "is",
+      "start": 6.24,
+      "end": 6.58
+    },
+    {
+      "word": "Bortoletto.",
+      "start": 6.58,
+      "end": 7.26
+    },
+    {
+      "word": "He's",
+      "start": 7.86,
+      "end": 8.08
+    },
+    {
+      "word": "still",
+      "start": 8.08,
+      "end": 8.5
+    },
+    {
+      "word": "9",
+      "start": 8.5,
+      "end": 10.98
+    },
+    {
+      "word": "seconds",
+      "start": 10.98,
+      "end": 11.34
+    },
+    {
+      "word": "back.",
+      "start": 11.34,
+      "end": 11.64
+    },
+    {
+      "word": "So",
+      "start": 12.56,
+      "end": 12.9
+    },
+    {
+      "word": "let's",
+      "start": 12.9,
+      "end": 13.18
+    },
+    {
+      "word": "focus",
+      "start": 13.18,
+      "end": 13.42
+    },
+    {
+      "word": "on",
+      "start": 13.42,
+      "end": 13.64
+    },
+    {
+      "word": "the",
+      "start": 13.64,
+      "end": 13.74
+    },
+    {
+      "word": "tires.",
+      "start": 13.74,
+      "end": 14.02
+    },
+    {
+      "word": "We're",
+      "start": 16.0,
+      "end": 16.34
+    },
+    {
+      "word": "happy",
+      "start": 16.34,
+      "end": 16.54
+    },
+    {
+      "word": "with",
+      "start": 16.54,
+      "end": 16.74
+    },
+    {
+      "word": "what",
+      "start": 16.74,
+      "end": 16.86
+    },
+    {
+      "word": "you're",
+      "start": 16.86,
+      "end": 16.98
+    },
+    {
+      "word": "doing",
+      "start": 16.98,
+      "end": 17.14
+    },
+    {
+      "word": "with",
+      "start": 17.14,
+      "end": 17.32
+    },
+    {
+      "word": "tires",
+      "start": 17.32,
+      "end": 17.62
+    },
+    {
+      "word": "on",
+      "start": 17.62,
+      "end": 17.98
+    },
+    {
+      "word": "the",
+      "start": 17.98,
+      "end": 18.14
+    },
+    {
+      "word": "Outlap.",
+      "start": 18.14,
+      "end": 18.5
+    },
+    {
+      "word": "Still",
+      "start": 18.9,
+      "end": 19.26
+    },
+    {
+      "word": "watching",
+      "start": 19.26,
+      "end": 19.58
+    },
+    {
+      "word": "Bortoletto.",
+      "start": 19.58,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 47,
+  "is_empty": false,
+  "is_very_short": false
+}

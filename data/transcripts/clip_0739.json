@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_0739",
+  "text": "And now we are P11, Gasly P8 with a 33.28. And next car pushing is Norris 11 seconds. Norris nine seconds, in fact, will be clear in front. You can push. Car behind Gasly one second.",
+  "words": [
+    {
+      "word": "And",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "now",
+      "start": 0.18,
+      "end": 0.32
+    },
+    {
+      "word": "we",
+      "start": 0.32,
+      "end": 0.5
+    },
+    {
+      "word": "are",
+      "start": 0.5,
+      "end": 0.66
+    },
+    {
+      "word": "P11,",
+      "start": 0.66,
+      "end": 1.8
+    },
+    {
+      "word": "Gasly",
+      "start": 1.98,
+      "end": 2.44
+    },
+    {
+      "word": "P8",
+      "start": 2.44,
+      "end": 2.86
+    },
+    {
+      "word": "with",
+      "start": 2.86,
+      "end": 3.18
+    },
+    {
+      "word": "a",
+      "start": 3.18,
+      "end": 3.36
+    },
+    {
+      "word": "33",
+      "start": 3.36,
+      "end": 3.82
+    },
+    {
+      "word": ".28.",
+      "start": 3.82,
+      "end": 4.82
+    },
+    {
+      "word": "And",
+      "start": 6.96,
+      "end": 7.1
+    },
+    {
+      "word": "next",
+      "start": 7.1,
+      "end": 7.38
+    },
+    {
+      "word": "car",
+      "start": 7.38,
+      "end": 7.58
+    },
+    {
+      "word": "pushing",
+      "start": 7.58,
+      "end": 7.88
+    },
+    {
+      "word": "is",
+      "start": 7.88,
+      "end": 8.22
+    },
+    {
+      "word": "Norris",
+      "start": 8.22,
+      "end": 8.78
+    },
+    {
+      "word": "11",
+      "start": 8.78,
+      "end": 9.2
+    },
+    {
+      "word": "seconds.",
+      "start": 9.2,
+      "end": 9.64
+    },
+    {
+      "word": "Norris",
+      "start": 11.74,
+      "end": 12.26
+    },
+    {
+      "word": "nine",
+      "start": 12.26,
+      "end": 12.5
+    },
+    {
+      "word": "seconds,",
+      "start": 12.5,
+      "end": 13.0
+    },
+    {
+      "word": "in",
+      "start": 13.24,
+      "end": 13.36
+    },
+    {
+      "word": "fact,",
+      "start": 13.36,
+      "end": 13.54
+    },
+    {
+      "word": "will",
+      "start": 13.64,
+      "end": 13.74
+    },
+    {
+      "word": "be",
+      "start": 13.74,
+      "end": 13.86
+    },
+    {
+      "word": "clear",
+      "start": 13.86,
+      "end": 14.12
+    },
+    {
+      "word": "in",
+      "start": 14.12,
+      "end": 14.3
+    },
+    {
+      "word": "front.",
+      "start": 14.3,
+      "end": 14.46
+    },
+    {
+      "word": "You",
+      "start": 16.08,
+      "end": 16.22
+    },
+    {
+      "word": "can",
+      "start": 16.22,
+      "end": 16.36
+    },
+    {
+      "word": "push.",
+      "start": 16.36,
+      "end": 16.58
+    },
+    {
+      "word": "Car",
+      "start": 17.9,
+      "end": 18.42
+    },
+    {
+      "word": "behind",
+      "start": 18.42,
+      "end": 18.7
+    },
+    {
+      "word": "Gasly",
+      "start": 18.7,
+      "end": 19.28
+    },
+    {
+      "word": "one",
+      "start": 19.28,
+      "end": 19.5
+    },
+    {
+      "word": "second.",
+      "start": 19.5,
+      "end": 19.86
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}

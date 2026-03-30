@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_0545",
+  "text": "6th Hamilton in 7th Hamilton in 9th Russell is slow out of 13th Hamilton in turn 11th There's one car ahead to go Russell slow ahead of you Hamilton just leaving 13th",
+  "words": [
+    {
+      "word": "6th",
+      "start": 1.38,
+      "end": 2.04
+    },
+    {
+      "word": "Hamilton",
+      "start": 2.04,
+      "end": 2.24
+    },
+    {
+      "word": "in",
+      "start": 2.24,
+      "end": 2.7
+    },
+    {
+      "word": "7th",
+      "start": 2.7,
+      "end": 4.02
+    },
+    {
+      "word": "Hamilton",
+      "start": 4.79,
+      "end": 5.12
+    },
+    {
+      "word": "in",
+      "start": 5.12,
+      "end": 5.6
+    },
+    {
+      "word": "9th",
+      "start": 5.6,
+      "end": 6.0
+    },
+    {
+      "word": "Russell",
+      "start": 6.52,
+      "end": 6.76
+    },
+    {
+      "word": "is",
+      "start": 6.76,
+      "end": 7.12
+    },
+    {
+      "word": "slow",
+      "start": 7.12,
+      "end": 7.4
+    },
+    {
+      "word": "out",
+      "start": 7.4,
+      "end": 7.7
+    },
+    {
+      "word": "of",
+      "start": 7.7,
+      "end": 7.8
+    },
+    {
+      "word": "13th",
+      "start": 7.8,
+      "end": 8.13
+    },
+    {
+      "word": "Hamilton",
+      "start": 9.36,
+      "end": 9.84
+    },
+    {
+      "word": "in",
+      "start": 9.84,
+      "end": 10.38
+    },
+    {
+      "word": "turn",
+      "start": 10.38,
+      "end": 10.52
+    },
+    {
+      "word": "11th",
+      "start": 10.52,
+      "end": 11.38
+    },
+    {
+      "word": "There's",
+      "start": 11.38,
+      "end": 11.52
+    },
+    {
+      "word": "one",
+      "start": 11.52,
+      "end": 11.76
+    },
+    {
+      "word": "car",
+      "start": 11.76,
+      "end": 12.04
+    },
+    {
+      "word": "ahead",
+      "start": 12.04,
+      "end": 12.26
+    },
+    {
+      "word": "to",
+      "start": 12.26,
+      "end": 12.42
+    },
+    {
+      "word": "go",
+      "start": 12.42,
+      "end": 12.64
+    },
+    {
+      "word": "Russell",
+      "start": 13.64,
+      "end": 14.3
+    },
+    {
+      "word": "slow",
+      "start": 14.3,
+      "end": 14.68
+    },
+    {
+      "word": "ahead",
+      "start": 14.68,
+      "end": 14.98
+    },
+    {
+      "word": "of",
+      "start": 14.98,
+      "end": 15.12
+    },
+    {
+      "word": "you",
+      "start": 15.12,
+      "end": 15.3
+    },
+    {
+      "word": "Hamilton",
+      "start": 16.76,
+      "end": 17.42
+    },
+    {
+      "word": "just",
+      "start": 17.42,
+      "end": 17.8
+    },
+    {
+      "word": "leaving",
+      "start": 17.8,
+      "end": 18.06
+    },
+    {
+      "word": "13th",
+      "start": 18.06,
+      "end": 18.94
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

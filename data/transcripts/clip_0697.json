@@ -1,0 +1,60 @@
+{
+  "clip_id": "clip_0697",
+  "text": "Yes, correct, man. Piaz Sri was world off the grid.",
+  "words": [
+    {
+      "word": "Yes,",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "correct,",
+      "start": 0.44,
+      "end": 0.62
+    },
+    {
+      "word": "man.",
+      "start": 0.78,
+      "end": 0.84
+    },
+    {
+      "word": "Piaz",
+      "start": 1.16,
+      "end": 1.52
+    },
+    {
+      "word": "Sri",
+      "start": 1.52,
+      "end": 1.6
+    },
+    {
+      "word": "was",
+      "start": 1.6,
+      "end": 1.8
+    },
+    {
+      "word": "world",
+      "start": 1.8,
+      "end": 2.0
+    },
+    {
+      "word": "off",
+      "start": 2.0,
+      "end": 2.18
+    },
+    {
+      "word": "the",
+      "start": 2.18,
+      "end": 2.3
+    },
+    {
+      "word": "grid.",
+      "start": 2.3,
+      "end": 2.46
+    }
+  ],
+  "language": "en",
+  "word_count": 10,
+  "is_empty": false,
+  "is_very_short": false
+}

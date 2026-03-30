@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_0777",
+  "text": "the overtake range 16. Good job. Consider engine braking plus two. Consider entry minus one and high speed 10. 5 laps remaining. 5 laps. 10, 3 minus 1. 10, 3 minus 1. Consider EB plus two. And two laps remaining. Far behind the lens blade.",
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "overtake",
+      "start": 0.22,
+      "end": 0.66
+    },
+    {
+      "word": "range",
+      "start": 0.66,
+      "end": 0.9
+    },
+    {
+      "word": "16.",
+      "start": 0.9,
+      "end": 1.5
+    },
+    {
+      "word": "Good",
+      "start": 2.22,
+      "end": 2.52
+    },
+    {
+      "word": "job.",
+      "start": 2.52,
+      "end": 2.96
+    },
+    {
+      "word": "Consider",
+      "start": 3.54,
+      "end": 4.04
+    },
+    {
+      "word": "engine",
+      "start": 4.04,
+      "end": 4.34
+    },
+    {
+      "word": "braking",
+      "start": 4.34,
+      "end": 4.68
+    },
+    {
+      "word": "plus",
+      "start": 4.68,
+      "end": 5.06
+    },
+    {
+      "word": "two.",
+      "start": 5.06,
+      "end": 5.36
+    },
+    {
+      "word": "Consider",
+      "start": 6.2,
+      "end": 6.8
+    },
+    {
+      "word": "entry",
+      "start": 6.8,
+      "end": 7.2
+    },
+    {
+      "word": "minus",
+      "start": 7.2,
+      "end": 7.58
+    },
+    {
+      "word": "one",
+      "start": 7.58,
+      "end": 7.98
+    },
+    {
+      "word": "and",
+      "start": 7.98,
+      "end": 8.52
+    },
+    {
+      "word": "high",
+      "start": 8.52,
+      "end": 8.76
+    },
+    {
+      "word": "speed",
+      "start": 8.76,
+      "end": 9.0
+    },
+    {
+      "word": "10.",
+      "start": 9.0,
+      "end": 9.38
+    },
+    {
+      "word": "5",
+      "start": 10.06,
+      "end": 10.66
+    },
+    {
+      "word": "laps",
+      "start": 10.66,
+      "end": 10.9
+    },
+    {
+      "word": "remaining.",
+      "start": 10.9,
+      "end": 11.26
+    },
+    {
+      "word": "5",
+      "start": 11.68,
+      "end": 11.8
+    },
+    {
+      "word": "laps.",
+      "start": 11.8,
+      "end": 12.1
+    },
+    {
+      "word": "10,",
+      "start": 12.7,
+      "end": 12.92
+    },
+    {
+      "word": "3",
+      "start": 12.96,
+      "end": 13.12
+    },
+    {
+      "word": "minus",
+      "start": 13.12,
+      "end": 13.36
+    },
+    {
+      "word": "1.",
+      "start": 13.36,
+      "end": 13.66
+    },
+    {
+      "word": "10,",
+      "start": 13.9,
+      "end": 14.04
+    },
+    {
+      "word": "3",
+      "start": 14.1,
+      "end": 14.22
+    },
+    {
+      "word": "minus",
+      "start": 14.22,
+      "end": 14.38
+    },
+    {
+      "word": "1.",
+      "start": 14.38,
+      "end": 14.64
+    },
+    {
+      "word": "Consider",
+      "start": 15.0,
+      "end": 15.46
+    },
+    {
+      "word": "EB",
+      "start": 15.46,
+      "end": 15.86
+    },
+    {
+      "word": "plus",
+      "start": 15.86,
+      "end": 16.34
+    },
+    {
+      "word": "two.",
+      "start": 16.34,
+      "end": 16.72
+    },
+    {
+      "word": "And",
+      "start": 17.18,
+      "end": 17.52
+    },
+    {
+      "word": "two",
+      "start": 17.52,
+      "end": 17.76
+    },
+    {
+      "word": "laps",
+      "start": 17.76,
+      "end": 17.96
+    },
+    {
+      "word": "remaining.",
+      "start": 17.96,
+      "end": 18.34
+    },
+    {
+      "word": "Far",
+      "start": 18.56,
+      "end": 18.8
+    },
+    {
+      "word": "behind",
+      "start": 18.8,
+      "end": 19.06
+    },
+    {
+      "word": "the",
+      "start": 19.06,
+      "end": 19.22
+    },
+    {
+      "word": "lens",
+      "start": 19.22,
+      "end": 19.42
+    },
+    {
+      "word": "blade.",
+      "start": 19.42,
+      "end": 19.62
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

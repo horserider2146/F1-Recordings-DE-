@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_1063",
+  "text": "Maximum softness around soft, it lasts on the heart.",
+  "words": [
+    {
+      "word": "Maximum",
+      "start": 0.0,
+      "end": 0.7
+    },
+    {
+      "word": "softness",
+      "start": 0.7,
+      "end": 1.06
+    },
+    {
+      "word": "around",
+      "start": 1.06,
+      "end": 1.26
+    },
+    {
+      "word": "soft,",
+      "start": 1.26,
+      "end": 1.64
+    },
+    {
+      "word": "it",
+      "start": 2.14,
+      "end": 2.42
+    },
+    {
+      "word": "lasts",
+      "start": 2.42,
+      "end": 2.68
+    },
+    {
+      "word": "on",
+      "start": 2.68,
+      "end": 2.98
+    },
+    {
+      "word": "the",
+      "start": 2.98,
+      "end": 3.14
+    },
+    {
+      "word": "heart.",
+      "start": 3.14,
+      "end": 3.3
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

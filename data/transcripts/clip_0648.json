@@ -1,0 +1,50 @@
+{
+  "clip_id": "clip_0648",
+  "text": "This was P14, unfortunately with that yellow plug.",
+  "words": [
+    {
+      "word": "This",
+      "start": 0.0,
+      "end": 0.62
+    },
+    {
+      "word": "was",
+      "start": 0.62,
+      "end": 0.9
+    },
+    {
+      "word": "P14,",
+      "start": 0.9,
+      "end": 1.52
+    },
+    {
+      "word": "unfortunately",
+      "start": 2.08,
+      "end": 2.54
+    },
+    {
+      "word": "with",
+      "start": 2.54,
+      "end": 3.0
+    },
+    {
+      "word": "that",
+      "start": 3.0,
+      "end": 3.2
+    },
+    {
+      "word": "yellow",
+      "start": 3.2,
+      "end": 3.48
+    },
+    {
+      "word": "plug.",
+      "start": 3.48,
+      "end": 3.7
+    }
+  ],
+  "language": "en",
+  "word_count": 8,
+  "is_empty": false,
+  "is_very_short": false
+}

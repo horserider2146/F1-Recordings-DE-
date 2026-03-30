@@ -1,0 +1,255 @@
+{
+  "clip_id": "clip_1179",
+  "text": "of derating, the gap is now 1.9 behind. Good mate, you're doing a good job. For info, safety car window is open. Alright, with the deployment, check was last last, that was a 40.5 Alonzo behind him, doing 39.7. 30 laps remaining, 3-0, 30 laps.",
+  "words": [
+    {
+      "word": "of",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "derating,",
+      "start": 0.1,
+      "end": 0.5
+    },
+    {
+      "word": "the",
+      "start": 0.52,
+      "end": 0.7
+    },
+    {
+      "word": "gap",
+      "start": 0.7,
+      "end": 0.8
+    },
+    {
+      "word": "is",
+      "start": 0.8,
+      "end": 0.96
+    },
+    {
+      "word": "now",
+      "start": 0.96,
+      "end": 1.12
+    },
+    {
+      "word": "1",
+      "start": 1.12,
+      "end": 1.4
+    },
+    {
+      "word": ".9",
+      "start": 1.4,
+      "end": 1.96
+    },
+    {
+      "word": "behind.",
+      "start": 1.96,
+      "end": 2.32
+    },
+    {
+      "word": "Good",
+      "start": 2.6,
+      "end": 2.84
+    },
+    {
+      "word": "mate,",
+      "start": 2.84,
+      "end": 3.78
+    },
+    {
+      "word": "you're",
+      "start": 4.0,
+      "end": 4.08
+    },
+    {
+      "word": "doing",
+      "start": 4.08,
+      "end": 4.16
+    },
+    {
+      "word": "a",
+      "start": 4.16,
+      "end": 4.24
+    },
+    {
+      "word": "good",
+      "start": 4.24,
+      "end": 4.32
+    },
+    {
+      "word": "job.",
+      "start": 4.32,
+      "end": 4.54
+    },
+    {
+      "word": "For",
+      "start": 5.62,
+      "end": 6.04
+    },
+    {
+      "word": "info,",
+      "start": 6.04,
+      "end": 6.34
+    },
+    {
+      "word": "safety",
+      "start": 6.54,
+      "end": 6.7
+    },
+    {
+      "word": "car",
+      "start": 6.7,
+      "end": 7.06
+    },
+    {
+      "word": "window",
+      "start": 7.06,
+      "end": 7.3
+    },
+    {
+      "word": "is",
+      "start": 7.3,
+      "end": 7.62
+    },
+    {
+      "word": "open.",
+      "start": 7.62,
+      "end": 7.98
+    },
+    {
+      "word": "Alright,",
+      "start": 9.28,
+      "end": 9.7
+    },
+    {
+      "word": "with",
+      "start": 9.84,
+      "end": 9.92
+    },
+    {
+      "word": "the",
+      "start": 9.92,
+      "end": 10.06
+    },
+    {
+      "word": "deployment,",
+      "start": 10.06,
+      "end": 10.42
+    },
+    {
+      "word": "check",
+      "start": 10.68,
+      "end": 10.78
+    },
+    {
+      "word": "was",
+      "start": 10.78,
+      "end": 10.92
+    },
+    {
+      "word": "last",
+      "start": 10.92,
+      "end": 11.1
+    },
+    {
+      "word": "last,",
+      "start": 11.1,
+      "end": 11.24
+    },
+    {
+      "word": "that",
+      "start": 11.28,
+      "end": 11.3
+    },
+    {
+      "word": "was",
+      "start": 11.3,
+      "end": 11.44
+    },
+    {
+      "word": "a",
+      "start": 11.44,
+      "end": 11.54
+    },
+    {
+      "word": "40",
+      "start": 11.54,
+      "end": 11.76
+    },
+    {
+      "word": ".5",
+      "start": 11.76,
+      "end": 12.38
+    },
+    {
+      "word": "Alonzo",
+      "start": 12.38,
+      "end": 13.0
+    },
+    {
+      "word": "behind",
+      "start": 13.0,
+      "end": 13.26
+    },
+    {
+      "word": "him,",
+      "start": 13.26,
+      "end": 13.6
+    },
+    {
+      "word": "doing",
+      "start": 13.7,
+      "end": 13.88
+    },
+    {
+      "word": "39",
+      "start": 13.88,
+      "end": 14.54
+    },
+    {
+      "word": ".7.",
+      "start": 14.54,
+      "end": 15.08
+    },
+    {
+      "word": "30",
+      "start": 16.54,
+      "end": 17.02
+    },
+    {
+      "word": "laps",
+      "start": 17.02,
+      "end": 17.52
+    },
+    {
+      "word": "remaining,",
+      "start": 17.52,
+      "end": 17.98
+    },
+    {
+      "word": "3",
+      "start": 18.34,
+      "end": 18.52
+    },
+    {
+      "word": "-0,",
+      "start": 18.52,
+      "end": 18.86
+    },
+    {
+      "word": "30",
+      "start": 19.1,
+      "end": 19.42
+    },
+    {
+      "word": "laps.",
+      "start": 19.42,
+      "end": 19.72
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

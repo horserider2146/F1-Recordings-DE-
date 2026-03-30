@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_1027",
+  "text": "I'm sorry. I'm sorry. I'm sorry.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 2.06
+    },
+    {
+      "word": "sorry.",
+      "start": 2.06,
+      "end": 2.06
+    },
+    {
+      "word": "I'm",
+      "start": 2.78,
+      "end": 3.76
+    },
+    {
+      "word": "sorry.",
+      "start": 3.76,
+      "end": 3.76
+    },
+    {
+      "word": "I'm",
+      "start": 4.36,
+      "end": 4.82
+    },
+    {
+      "word": "sorry.",
+      "start": 4.82,
+      "end": 10.0
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

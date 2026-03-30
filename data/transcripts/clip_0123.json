@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0123",
+  "text": "and you want back to B2 and right-file instruction get the power point on your phone and you stop it ok go ahead just seat tight, VP17 if there is anything happen",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "you",
+      "start": 0.28,
+      "end": 0.6
+    },
+    {
+      "word": "want",
+      "start": 0.6,
+      "end": 0.72
+    },
+    {
+      "word": "back",
+      "start": 0.72,
+      "end": 0.88
+    },
+    {
+      "word": "to",
+      "start": 0.88,
+      "end": 1.04
+    },
+    {
+      "word": "B2",
+      "start": 1.04,
+      "end": 1.4
+    },
+    {
+      "word": "and",
+      "start": 1.93,
+      "end": 2.16
+    },
+    {
+      "word": "right",
+      "start": 2.16,
+      "end": 2.32
+    },
+    {
+      "word": "-file",
+      "start": 2.32,
+      "end": 2.5
+    },
+    {
+      "word": "instruction",
+      "start": 2.5,
+      "end": 2.9
+    },
+    {
+      "word": "get",
+      "start": 4.24,
+      "end": 4.7
+    },
+    {
+      "word": "the",
+      "start": 4.7,
+      "end": 4.88
+    },
+    {
+      "word": "power",
+      "start": 4.88,
+      "end": 5.08
+    },
+    {
+      "word": "point",
+      "start": 5.08,
+      "end": 5.34
+    },
+    {
+      "word": "on",
+      "start": 5.34,
+      "end": 5.42
+    },
+    {
+      "word": "your",
+      "start": 5.42,
+      "end": 5.46
+    },
+    {
+      "word": "phone",
+      "start": 5.46,
+      "end": 5.72
+    },
+    {
+      "word": "and",
+      "start": 6.76,
+      "end": 7.22
+    },
+    {
+      "word": "you",
+      "start": 7.22,
+      "end": 7.68
+    },
+    {
+      "word": "stop",
+      "start": 7.68,
+      "end": 7.86
+    },
+    {
+      "word": "it",
+      "start": 7.86,
+      "end": 8.08
+    },
+    {
+      "word": "ok",
+      "start": 8.08,
+      "end": 8.34
+    },
+    {
+      "word": "go",
+      "start": 8.34,
+      "end": 8.54
+    },
+    {
+      "word": "ahead",
+      "start": 8.54,
+      "end": 8.8
+    },
+    {
+      "word": "just",
+      "start": 10.62,
+      "end": 11.08
+    },
+    {
+      "word": "seat",
+      "start": 11.08,
+      "end": 11.36
+    },
+    {
+      "word": "tight,",
+      "start": 11.36,
+      "end": 11.56
+    },
+    {
+      "word": "VP17",
+      "start": 11.64,
+      "end": 12.3
+    },
+    {
+      "word": "if",
+      "start": 12.3,
+      "end": 12.82
+    },
+    {
+      "word": "there",
+      "start": 12.82,
+      "end": 12.98
+    },
+    {
+      "word": "is",
+      "start": 12.98,
+      "end": 13.04
+    },
+    {
+      "word": "anything",
+      "start": 13.04,
+      "end": 13.26
+    },
+    {
+      "word": "happen",
+      "start": 13.26,
+      "end": 13.5
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

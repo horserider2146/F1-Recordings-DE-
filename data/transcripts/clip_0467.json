@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0467",
+  "text": "Double yellow, now turn two, we are in a safe car window, safe car window. Yellow has cleared, step returns two three, keeping out for it. George, 36.1, we have about 7.6. If you give us feedback.",
+  "words": [
+    {
+      "word": "Double",
+      "start": 0.6,
+      "end": 1.16
+    },
+    {
+      "word": "yellow,",
+      "start": 1.16,
+      "end": 1.44
+    },
+    {
+      "word": "now",
+      "start": 1.78,
+      "end": 2.0
+    },
+    {
+      "word": "turn",
+      "start": 2.0,
+      "end": 2.2
+    },
+    {
+      "word": "two,",
+      "start": 2.2,
+      "end": 2.5
+    },
+    {
+      "word": "we",
+      "start": 2.64,
+      "end": 2.68
+    },
+    {
+      "word": "are",
+      "start": 2.68,
+      "end": 2.8
+    },
+    {
+      "word": "in",
+      "start": 2.8,
+      "end": 2.94
+    },
+    {
+      "word": "a",
+      "start": 2.94,
+      "end": 3.0
+    },
+    {
+      "word": "safe",
+      "start": 3.0,
+      "end": 3.14
+    },
+    {
+      "word": "car",
+      "start": 3.14,
+      "end": 3.4
+    },
+    {
+      "word": "window,",
+      "start": 3.4,
+      "end": 3.66
+    },
+    {
+      "word": "safe",
+      "start": 3.84,
+      "end": 4.12
+    },
+    {
+      "word": "car",
+      "start": 4.12,
+      "end": 4.4
+    },
+    {
+      "word": "window.",
+      "start": 4.4,
+      "end": 5.32
+    },
+    {
+      "word": "Yellow",
+      "start": 6.08,
+      "end": 6.64
+    },
+    {
+      "word": "has",
+      "start": 6.64,
+      "end": 6.86
+    },
+    {
+      "word": "cleared,",
+      "start": 6.86,
+      "end": 7.14
+    },
+    {
+      "word": "step",
+      "start": 8.58,
+      "end": 8.96
+    },
+    {
+      "word": "returns",
+      "start": 8.96,
+      "end": 9.32
+    },
+    {
+      "word": "two",
+      "start": 9.32,
+      "end": 9.72
+    },
+    {
+      "word": "three,",
+      "start": 9.72,
+      "end": 10.0
+    },
+    {
+      "word": "keeping",
+      "start": 10.22,
+      "end": 10.44
+    },
+    {
+      "word": "out",
+      "start": 10.44,
+      "end": 10.64
+    },
+    {
+      "word": "for",
+      "start": 10.64,
+      "end": 10.82
+    },
+    {
+      "word": "it.",
+      "start": 10.82,
+      "end": 11.1
+    },
+    {
+      "word": "George,",
+      "start": 13.22,
+      "end": 13.78
+    },
+    {
+      "word": "36",
+      "start": 13.78,
+      "end": 14.34
+    },
+    {
+      "word": ".1,",
+      "start": 14.34,
+      "end": 14.8
+    },
+    {
+      "word": "we",
+      "start": 15.4,
+      "end": 15.54
+    },
+    {
+      "word": "have",
+      "start": 15.54,
+      "end": 15.88
+    },
+    {
+      "word": "about",
+      "start": 15.88,
+      "end": 16.08
+    },
+    {
+      "word": "7",
+      "start": 16.08,
+      "end": 16.36
+    },
+    {
+      "word": ".6.",
+      "start": 16.36,
+      "end": 16.9
+    },
+    {
+      "word": "If",
+      "start": 18.64,
+      "end": 19.2
+    },
+    {
+      "word": "you",
+      "start": 19.2,
+      "end": 19.34
+    },
+    {
+      "word": "give",
+      "start": 19.34,
+      "end": 19.44
+    },
+    {
+      "word": "us",
+      "start": 19.44,
+      "end": 19.58
+    },
+    {
+      "word": "feedback.",
+      "start": 19.58,
+      "end": 19.86
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

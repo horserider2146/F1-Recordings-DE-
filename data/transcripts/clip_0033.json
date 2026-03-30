@@ -1,0 +1,160 @@
+{
+  "clip_id": "clip_0033",
+  "text": "The target is to stick to the plan, but just in case, that's available. I didn't hear the second part, what's available, what's the plan if things don't go well.",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "target",
+      "start": 0.1,
+      "end": 0.32
+    },
+    {
+      "word": "is",
+      "start": 0.32,
+      "end": 0.58
+    },
+    {
+      "word": "to",
+      "start": 0.58,
+      "end": 0.78
+    },
+    {
+      "word": "stick",
+      "start": 0.78,
+      "end": 1.1
+    },
+    {
+      "word": "to",
+      "start": 1.1,
+      "end": 1.22
+    },
+    {
+      "word": "the",
+      "start": 1.22,
+      "end": 1.3
+    },
+    {
+      "word": "plan,",
+      "start": 1.3,
+      "end": 1.48
+    },
+    {
+      "word": "but",
+      "start": 1.88,
+      "end": 2.02
+    },
+    {
+      "word": "just",
+      "start": 2.02,
+      "end": 2.24
+    },
+    {
+      "word": "in",
+      "start": 2.24,
+      "end": 2.38
+    },
+    {
+      "word": "case,",
+      "start": 2.38,
+      "end": 2.56
+    },
+    {
+      "word": "that's",
+      "start": 2.8,
+      "end": 3.0
+    },
+    {
+      "word": "available.",
+      "start": 3.0,
+      "end": 3.24
+    },
+    {
+      "word": "I",
+      "start": 4.4,
+      "end": 4.74
+    },
+    {
+      "word": "didn't",
+      "start": 4.74,
+      "end": 5.02
+    },
+    {
+      "word": "hear",
+      "start": 5.02,
+      "end": 5.14
+    },
+    {
+      "word": "the",
+      "start": 5.14,
+      "end": 5.44
+    },
+    {
+      "word": "second",
+      "start": 5.44,
+      "end": 6.1
+    },
+    {
+      "word": "part,",
+      "start": 6.1,
+      "end": 6.4
+    },
+    {
+      "word": "what's",
+      "start": 6.58,
+      "end": 6.76
+    },
+    {
+      "word": "available,",
+      "start": 6.76,
+      "end": 7.04
+    },
+    {
+      "word": "what's",
+      "start": 7.32,
+      "end": 7.52
+    },
+    {
+      "word": "the",
+      "start": 7.52,
+      "end": 7.6
+    },
+    {
+      "word": "plan",
+      "start": 7.6,
+      "end": 7.84
+    },
+    {
+      "word": "if",
+      "start": 7.84,
+      "end": 8.02
+    },
+    {
+      "word": "things",
+      "start": 8.02,
+      "end": 8.2
+    },
+    {
+      "word": "don't",
+      "start": 8.2,
+      "end": 8.46
+    },
+    {
+      "word": "go",
+      "start": 8.46,
+      "end": 8.56
+    },
+    {
+      "word": "well.",
+      "start": 8.56,
+      "end": 8.74
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,75 @@
+{
+  "clip_id": "clip_0371",
+  "text": "Latest truck temp was 26 degrees, speed raise was 28 at the beginning.",
+  "words": [
+    {
+      "word": "Latest",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "truck",
+      "start": 0.42,
+      "end": 0.74
+    },
+    {
+      "word": "temp",
+      "start": 0.74,
+      "end": 1.02
+    },
+    {
+      "word": "was",
+      "start": 1.02,
+      "end": 1.28
+    },
+    {
+      "word": "26",
+      "start": 1.28,
+      "end": 2.1
+    },
+    {
+      "word": "degrees,",
+      "start": 2.1,
+      "end": 2.6
+    },
+    {
+      "word": "speed",
+      "start": 3.26,
+      "end": 3.58
+    },
+    {
+      "word": "raise",
+      "start": 3.58,
+      "end": 3.94
+    },
+    {
+      "word": "was",
+      "start": 3.94,
+      "end": 4.14
+    },
+    {
+      "word": "28",
+      "start": 4.14,
+      "end": 4.88
+    },
+    {
+      "word": "at",
+      "start": 4.88,
+      "end": 5.1
+    },
+    {
+      "word": "the",
+      "start": 5.1,
+      "end": 5.16
+    },
+    {
+      "word": "beginning.",
+      "start": 5.16,
+      "end": 5.28
+    }
+  ],
+  "language": "en",
+  "word_count": 13,
+  "is_empty": false,
+  "is_very_short": false
+}

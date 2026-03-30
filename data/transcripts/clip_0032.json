@@ -1,0 +1,150 @@
+{
+  "clip_id": "clip_0032",
+  "text": "If you have an issue with tires, and you make a mistake or something bad happens on lap 1, we can convert to a build, push, call, push.",
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "you",
+      "start": 0.2,
+      "end": 0.86
+    },
+    {
+      "word": "have",
+      "start": 0.86,
+      "end": 0.98
+    },
+    {
+      "word": "an",
+      "start": 0.98,
+      "end": 1.08
+    },
+    {
+      "word": "issue",
+      "start": 1.08,
+      "end": 1.26
+    },
+    {
+      "word": "with",
+      "start": 1.26,
+      "end": 1.46
+    },
+    {
+      "word": "tires,",
+      "start": 1.46,
+      "end": 1.7
+    },
+    {
+      "word": "and",
+      "start": 2.28,
+      "end": 2.58
+    },
+    {
+      "word": "you",
+      "start": 2.58,
+      "end": 2.7
+    },
+    {
+      "word": "make",
+      "start": 2.7,
+      "end": 2.82
+    },
+    {
+      "word": "a",
+      "start": 2.82,
+      "end": 2.9
+    },
+    {
+      "word": "mistake",
+      "start": 2.9,
+      "end": 3.12
+    },
+    {
+      "word": "or",
+      "start": 3.12,
+      "end": 3.36
+    },
+    {
+      "word": "something",
+      "start": 3.36,
+      "end": 3.6
+    },
+    {
+      "word": "bad",
+      "start": 3.6,
+      "end": 3.9
+    },
+    {
+      "word": "happens",
+      "start": 3.9,
+      "end": 4.22
+    },
+    {
+      "word": "on",
+      "start": 4.22,
+      "end": 4.34
+    },
+    {
+      "word": "lap",
+      "start": 4.34,
+      "end": 4.54
+    },
+    {
+      "word": "1,",
+      "start": 4.54,
+      "end": 4.74
+    },
+    {
+      "word": "we",
+      "start": 5.36,
+      "end": 5.5
+    },
+    {
+      "word": "can",
+      "start": 5.5,
+      "end": 5.66
+    },
+    {
+      "word": "convert",
+      "start": 5.66,
+      "end": 5.96
+    },
+    {
+      "word": "to",
+      "start": 5.96,
+      "end": 6.2
+    },
+    {
+      "word": "a",
+      "start": 6.2,
+      "end": 6.32
+    },
+    {
+      "word": "build,",
+      "start": 6.32,
+      "end": 6.5
+    },
+    {
+      "word": "push,",
+      "start": 6.62,
+      "end": 6.84
+    },
+    {
+      "word": "call,",
+      "start": 6.94,
+      "end": 7.0
+    },
+    {
+      "word": "push.",
+      "start": 7.06,
+      "end": 7.18
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

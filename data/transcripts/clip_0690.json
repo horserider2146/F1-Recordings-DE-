@@ -1,0 +1,85 @@
+{
+  "clip_id": "clip_0690",
+  "text": "I'm not looking at Fox Max Zero one two three Seven seven through turn 16",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "not",
+      "start": 0.36,
+      "end": 0.48
+    },
+    {
+      "word": "looking",
+      "start": 0.48,
+      "end": 0.62
+    },
+    {
+      "word": "at",
+      "start": 0.62,
+      "end": 1.02
+    },
+    {
+      "word": "Fox",
+      "start": 4.1,
+      "end": 5.5
+    },
+    {
+      "word": "Max",
+      "start": 5.5,
+      "end": 6.44
+    },
+    {
+      "word": "Zero",
+      "start": 8.34,
+      "end": 9.04
+    },
+    {
+      "word": "one",
+      "start": 9.04,
+      "end": 10.08
+    },
+    {
+      "word": "two",
+      "start": 10.08,
+      "end": 11.16
+    },
+    {
+      "word": "three",
+      "start": 11.16,
+      "end": 12.28
+    },
+    {
+      "word": "Seven",
+      "start": 16.0,
+      "end": 16.74
+    },
+    {
+      "word": "seven",
+      "start": 16.74,
+      "end": 18.14
+    },
+    {
+      "word": "through",
+      "start": 18.14,
+      "end": 18.6
+    },
+    {
+      "word": "turn",
+      "start": 18.6,
+      "end": 18.82
+    },
+    {
+      "word": "16",
+      "start": 18.82,
+      "end": 19.32
+    }
+  ],
+  "language": "en",
+  "word_count": 15,
+  "is_empty": false,
+  "is_very_short": false
+}

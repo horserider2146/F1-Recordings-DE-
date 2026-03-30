@@ -1,0 +1,85 @@
+{
+  "clip_id": "clip_0886",
+  "text": "Sorry, please, quick one. So one minute 45 to go. We've got SM boards back.",
+  "words": [
+    {
+      "word": "Sorry,",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "please,",
+      "start": 0.36,
+      "end": 0.48
+    },
+    {
+      "word": "quick",
+      "start": 0.64,
+      "end": 0.8
+    },
+    {
+      "word": "one.",
+      "start": 0.8,
+      "end": 0.98
+    },
+    {
+      "word": "So",
+      "start": 1.14,
+      "end": 1.24
+    },
+    {
+      "word": "one",
+      "start": 1.24,
+      "end": 1.48
+    },
+    {
+      "word": "minute",
+      "start": 1.48,
+      "end": 1.64
+    },
+    {
+      "word": "45",
+      "start": 1.64,
+      "end": 2.16
+    },
+    {
+      "word": "to",
+      "start": 2.16,
+      "end": 2.66
+    },
+    {
+      "word": "go.",
+      "start": 2.66,
+      "end": 2.88
+    },
+    {
+      "word": "We've",
+      "start": 3.26,
+      "end": 3.7
+    },
+    {
+      "word": "got",
+      "start": 3.7,
+      "end": 3.92
+    },
+    {
+      "word": "SM",
+      "start": 3.92,
+      "end": 4.8
+    },
+    {
+      "word": "boards",
+      "start": 4.8,
+      "end": 5.26
+    },
+    {
+      "word": "back.",
+      "start": 5.26,
+      "end": 5.64
+    }
+  ],
+  "language": "en",
+  "word_count": 15,
+  "is_empty": false,
+  "is_very_short": false
+}

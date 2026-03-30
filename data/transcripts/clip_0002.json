@@ -1,0 +1,35 @@
+{
+  "clip_id": "clip_0002",
+  "text": "Just let me know about.",
+  "words": [
+    {
+      "word": "Just",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "let",
+      "start": 0.4,
+      "end": 0.82
+    },
+    {
+      "word": "me",
+      "start": 0.82,
+      "end": 0.96
+    },
+    {
+      "word": "know",
+      "start": 0.96,
+      "end": 1.1
+    },
+    {
+      "word": "about.",
+      "start": 1.1,
+      "end": 1.26
+    }
+  ],
+  "language": "en",
+  "word_count": 5,
+  "is_empty": false,
+  "is_very_short": false
+}

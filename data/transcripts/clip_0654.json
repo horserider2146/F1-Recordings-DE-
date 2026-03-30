@@ -1,0 +1,280 @@
+{
+  "clip_id": "clip_0654",
+  "text": "You will be offset minus one, push toggle on and slow mode off. Remind the foot on brake, remind it to go when the blue lights come, last car on the grid. Boost available if you want. Mode 6, this is P7. We start managing the tires now. In front of you, color pinto.",
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "will",
+      "start": 0.32,
+      "end": 0.4
+    },
+    {
+      "word": "be",
+      "start": 0.4,
+      "end": 0.5
+    },
+    {
+      "word": "offset",
+      "start": 0.5,
+      "end": 0.8
+    },
+    {
+      "word": "minus",
+      "start": 0.8,
+      "end": 1.06
+    },
+    {
+      "word": "one,",
+      "start": 1.06,
+      "end": 1.4
+    },
+    {
+      "word": "push",
+      "start": 2.0,
+      "end": 2.88
+    },
+    {
+      "word": "toggle",
+      "start": 2.88,
+      "end": 3.1
+    },
+    {
+      "word": "on",
+      "start": 3.1,
+      "end": 3.38
+    },
+    {
+      "word": "and",
+      "start": 3.38,
+      "end": 4.14
+    },
+    {
+      "word": "slow",
+      "start": 4.14,
+      "end": 4.46
+    },
+    {
+      "word": "mode",
+      "start": 4.46,
+      "end": 4.72
+    },
+    {
+      "word": "off.",
+      "start": 4.72,
+      "end": 5.04
+    },
+    {
+      "word": "Remind",
+      "start": 5.64,
+      "end": 6.04
+    },
+    {
+      "word": "the",
+      "start": 6.04,
+      "end": 6.14
+    },
+    {
+      "word": "foot",
+      "start": 6.14,
+      "end": 6.34
+    },
+    {
+      "word": "on",
+      "start": 6.34,
+      "end": 6.44
+    },
+    {
+      "word": "brake,",
+      "start": 6.44,
+      "end": 6.64
+    },
+    {
+      "word": "remind",
+      "start": 7.2,
+      "end": 7.56
+    },
+    {
+      "word": "it",
+      "start": 7.56,
+      "end": 7.76
+    },
+    {
+      "word": "to",
+      "start": 7.76,
+      "end": 7.9
+    },
+    {
+      "word": "go",
+      "start": 7.9,
+      "end": 8.08
+    },
+    {
+      "word": "when",
+      "start": 8.08,
+      "end": 9.2
+    },
+    {
+      "word": "the",
+      "start": 9.2,
+      "end": 9.32
+    },
+    {
+      "word": "blue",
+      "start": 9.32,
+      "end": 9.48
+    },
+    {
+      "word": "lights",
+      "start": 9.48,
+      "end": 9.68
+    },
+    {
+      "word": "come,",
+      "start": 9.68,
+      "end": 10.04
+    },
+    {
+      "word": "last",
+      "start": 10.66,
+      "end": 10.98
+    },
+    {
+      "word": "car",
+      "start": 10.98,
+      "end": 11.16
+    },
+    {
+      "word": "on",
+      "start": 11.16,
+      "end": 11.24
+    },
+    {
+      "word": "the",
+      "start": 11.24,
+      "end": 11.32
+    },
+    {
+      "word": "grid.",
+      "start": 11.32,
+      "end": 11.5
+    },
+    {
+      "word": "Boost",
+      "start": 12.08,
+      "end": 12.46
+    },
+    {
+      "word": "available",
+      "start": 12.46,
+      "end": 12.78
+    },
+    {
+      "word": "if",
+      "start": 12.78,
+      "end": 13.06
+    },
+    {
+      "word": "you",
+      "start": 13.06,
+      "end": 13.16
+    },
+    {
+      "word": "want.",
+      "start": 13.16,
+      "end": 13.32
+    },
+    {
+      "word": "Mode",
+      "start": 13.62,
+      "end": 13.82
+    },
+    {
+      "word": "6,",
+      "start": 13.82,
+      "end": 14.2
+    },
+    {
+      "word": "this",
+      "start": 14.94,
+      "end": 15.16
+    },
+    {
+      "word": "is",
+      "start": 15.16,
+      "end": 15.58
+    },
+    {
+      "word": "P7.",
+      "start": 15.58,
+      "end": 16.22
+    },
+    {
+      "word": "We",
+      "start": 16.82,
+      "end": 16.98
+    },
+    {
+      "word": "start",
+      "start": 16.98,
+      "end": 17.28
+    },
+    {
+      "word": "managing",
+      "start": 17.28,
+      "end": 17.8
+    },
+    {
+      "word": "the",
+      "start": 17.8,
+      "end": 18.0
+    },
+    {
+      "word": "tires",
+      "start": 18.0,
+      "end": 18.22
+    },
+    {
+      "word": "now.",
+      "start": 18.22,
+      "end": 18.54
+    },
+    {
+      "word": "In",
+      "start": 19.08,
+      "end": 19.14
+    },
+    {
+      "word": "front",
+      "start": 19.14,
+      "end": 19.28
+    },
+    {
+      "word": "of",
+      "start": 19.28,
+      "end": 19.4
+    },
+    {
+      "word": "you,",
+      "start": 19.4,
+      "end": 19.5
+    },
+    {
+      "word": "color",
+      "start": 19.56,
+      "end": 19.64
+    },
+    {
+      "word": "pinto.",
+      "start": 19.64,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 54,
+  "is_empty": false,
+  "is_very_short": false
+}

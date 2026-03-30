@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_1071",
+  "text": "You see you are in strat 2, we want strat 3. I was in strat 3. Now you are good, now you are good. Lance is 4.3 ahead of you. Red is latched. So Valterie and Lance are lapping 41.8.",
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "see",
+      "start": 0.12,
+      "end": 0.12
+    },
+    {
+      "word": "you",
+      "start": 0.12,
+      "end": 0.28
+    },
+    {
+      "word": "are",
+      "start": 0.28,
+      "end": 0.38
+    },
+    {
+      "word": "in",
+      "start": 0.38,
+      "end": 0.44
+    },
+    {
+      "word": "strat",
+      "start": 0.44,
+      "end": 0.6
+    },
+    {
+      "word": "2,",
+      "start": 0.6,
+      "end": 0.96
+    },
+    {
+      "word": "we",
+      "start": 1.1,
+      "end": 1.2
+    },
+    {
+      "word": "want",
+      "start": 1.2,
+      "end": 1.38
+    },
+    {
+      "word": "strat",
+      "start": 1.38,
+      "end": 1.64
+    },
+    {
+      "word": "3.",
+      "start": 1.64,
+      "end": 2.02
+    },
+    {
+      "word": "I",
+      "start": 3.48,
+      "end": 3.96
+    },
+    {
+      "word": "was",
+      "start": 3.96,
+      "end": 4.44
+    },
+    {
+      "word": "in",
+      "start": 4.44,
+      "end": 4.6
+    },
+    {
+      "word": "strat",
+      "start": 4.6,
+      "end": 4.84
+    },
+    {
+      "word": "3.",
+      "start": 4.84,
+      "end": 5.12
+    },
+    {
+      "word": "Now",
+      "start": 7.04,
+      "end": 7.24
+    },
+    {
+      "word": "you",
+      "start": 7.24,
+      "end": 7.34
+    },
+    {
+      "word": "are",
+      "start": 7.34,
+      "end": 7.4
+    },
+    {
+      "word": "good,",
+      "start": 7.4,
+      "end": 7.6
+    },
+    {
+      "word": "now",
+      "start": 7.7,
+      "end": 7.82
+    },
+    {
+      "word": "you",
+      "start": 7.82,
+      "end": 7.94
+    },
+    {
+      "word": "are",
+      "start": 7.94,
+      "end": 7.96
+    },
+    {
+      "word": "good.",
+      "start": 7.96,
+      "end": 8.1
+    },
+    {
+      "word": "Lance",
+      "start": 11.22,
+      "end": 11.7
+    },
+    {
+      "word": "is",
+      "start": 11.7,
+      "end": 12.0
+    },
+    {
+      "word": "4",
+      "start": 12.0,
+      "end": 12.3
+    },
+    {
+      "word": ".3",
+      "start": 12.3,
+      "end": 12.66
+    },
+    {
+      "word": "ahead",
+      "start": 12.66,
+      "end": 12.84
+    },
+    {
+      "word": "of",
+      "start": 12.84,
+      "end": 12.98
+    },
+    {
+      "word": "you.",
+      "start": 12.98,
+      "end": 13.16
+    },
+    {
+      "word": "Red",
+      "start": 14.84,
+      "end": 15.32
+    },
+    {
+      "word": "is",
+      "start": 15.32,
+      "end": 15.46
+    },
+    {
+      "word": "latched.",
+      "start": 15.46,
+      "end": 15.76
+    },
+    {
+      "word": "So",
+      "start": 16.8,
+      "end": 17.0
+    },
+    {
+      "word": "Valterie",
+      "start": 17.0,
+      "end": 17.7
+    },
+    {
+      "word": "and",
+      "start": 17.7,
+      "end": 17.84
+    },
+    {
+      "word": "Lance",
+      "start": 17.84,
+      "end": 18.08
+    },
+    {
+      "word": "are",
+      "start": 18.08,
+      "end": 18.36
+    },
+    {
+      "word": "lapping",
+      "start": 18.36,
+      "end": 18.66
+    },
+    {
+      "word": "41",
+      "start": 18.66,
+      "end": 19.18
+    },
+    {
+      "word": ".8.",
+      "start": 19.18,
+      "end": 19.64
+    }
+  ],
+  "language": "en",
+  "word_count": 40,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_0162",
+  "text": "I'm going to go to the next level. Chop, you can go to the next level. You do not have to go to the one house. I'm going to head of you, to set the tires. I'm going to head you to the other house.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 2.7,
+      "end": 3.1
+    },
+    {
+      "word": "going",
+      "start": 3.1,
+      "end": 3.1
+    },
+    {
+      "word": "to",
+      "start": 3.1,
+      "end": 3.1
+    },
+    {
+      "word": "go",
+      "start": 3.1,
+      "end": 3.24
+    },
+    {
+      "word": "to",
+      "start": 3.24,
+      "end": 3.42
+    },
+    {
+      "word": "the",
+      "start": 3.42,
+      "end": 3.48
+    },
+    {
+      "word": "next",
+      "start": 3.48,
+      "end": 3.48
+    },
+    {
+      "word": "level.",
+      "start": 3.48,
+      "end": 3.76
+    },
+    {
+      "word": "Chop,",
+      "start": 5.92,
+      "end": 6.32
+    },
+    {
+      "word": "you",
+      "start": 6.52,
+      "end": 6.62
+    },
+    {
+      "word": "can",
+      "start": 6.62,
+      "end": 6.84
+    },
+    {
+      "word": "go",
+      "start": 6.84,
+      "end": 7.0
+    },
+    {
+      "word": "to",
+      "start": 7.0,
+      "end": 7.18
+    },
+    {
+      "word": "the",
+      "start": 7.18,
+      "end": 7.3
+    },
+    {
+      "word": "next",
+      "start": 7.3,
+      "end": 7.44
+    },
+    {
+      "word": "level.",
+      "start": 7.44,
+      "end": 7.74
+    },
+    {
+      "word": "You",
+      "start": 8.12,
+      "end": 8.26
+    },
+    {
+      "word": "do",
+      "start": 8.26,
+      "end": 8.42
+    },
+    {
+      "word": "not",
+      "start": 8.42,
+      "end": 8.62
+    },
+    {
+      "word": "have",
+      "start": 8.62,
+      "end": 8.86
+    },
+    {
+      "word": "to",
+      "start": 8.86,
+      "end": 9.0
+    },
+    {
+      "word": "go",
+      "start": 9.0,
+      "end": 9.34
+    },
+    {
+      "word": "to",
+      "start": 9.34,
+      "end": 9.56
+    },
+    {
+      "word": "the",
+      "start": 9.56,
+      "end": 9.66
+    },
+    {
+      "word": "one",
+      "start": 9.66,
+      "end": 9.86
+    },
+    {
+      "word": "house.",
+      "start": 9.86,
+      "end": 10.04
+    },
+    {
+      "word": "I'm",
+      "start": 13.0,
+      "end": 13.4
+    },
+    {
+      "word": "going",
+      "start": 13.4,
+      "end": 13.8
+    },
+    {
+      "word": "to",
+      "start": 13.8,
+      "end": 13.96
+    },
+    {
+      "word": "head",
+      "start": 13.96,
+      "end": 14.1
+    },
+    {
+      "word": "of",
+      "start": 14.1,
+      "end": 14.26
+    },
+    {
+      "word": "you,",
+      "start": 14.26,
+      "end": 14.4
+    },
+    {
+      "word": "to",
+      "start": 14.64,
+      "end": 14.78
+    },
+    {
+      "word": "set",
+      "start": 14.78,
+      "end": 15.04
+    },
+    {
+      "word": "the",
+      "start": 15.04,
+      "end": 15.28
+    },
+    {
+      "word": "tires.",
+      "start": 15.28,
+      "end": 15.76
+    },
+    {
+      "word": "I'm",
+      "start": 17.58,
+      "end": 17.98
+    },
+    {
+      "word": "going",
+      "start": 17.98,
+      "end": 18.38
+    },
+    {
+      "word": "to",
+      "start": 18.38,
+      "end": 18.38
+    },
+    {
+      "word": "head",
+      "start": 18.38,
+      "end": 18.38
+    },
+    {
+      "word": "you",
+      "start": 18.38,
+      "end": 18.58
+    },
+    {
+      "word": "to",
+      "start": 18.58,
+      "end": 18.72
+    },
+    {
+      "word": "the",
+      "start": 18.72,
+      "end": 18.74
+    },
+    {
+      "word": "other",
+      "start": 18.74,
+      "end": 18.94
+    },
+    {
+      "word": "house.",
+      "start": 18.94,
+      "end": 19.0
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

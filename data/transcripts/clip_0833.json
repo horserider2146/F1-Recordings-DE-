@@ -1,0 +1,230 @@
+{
+  "clip_id": "clip_0833",
+  "text": "So we should get off and get on tomorrow. Box box. Antonelli P1, Russell P2, then Hammer from the 3rd, Gaspery Norris, Gasly, Mstappen and Hajar. We got to the ferry. Flurred at 32.4, he did a 33.2 so he had 10th.",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.96,
+      "end": 1.44
+    },
+    {
+      "word": "we",
+      "start": 1.44,
+      "end": 1.68
+    },
+    {
+      "word": "should",
+      "start": 1.68,
+      "end": 1.74
+    },
+    {
+      "word": "get",
+      "start": 1.74,
+      "end": 1.9
+    },
+    {
+      "word": "off",
+      "start": 1.9,
+      "end": 2.04
+    },
+    {
+      "word": "and",
+      "start": 2.04,
+      "end": 2.32
+    },
+    {
+      "word": "get",
+      "start": 2.32,
+      "end": 2.44
+    },
+    {
+      "word": "on",
+      "start": 2.44,
+      "end": 2.58
+    },
+    {
+      "word": "tomorrow.",
+      "start": 2.58,
+      "end": 2.82
+    },
+    {
+      "word": "Box",
+      "start": 3.4,
+      "end": 3.74
+    },
+    {
+      "word": "box.",
+      "start": 3.74,
+      "end": 4.2
+    },
+    {
+      "word": "Antonelli",
+      "start": 5.44,
+      "end": 5.92
+    },
+    {
+      "word": "P1,",
+      "start": 5.92,
+      "end": 6.4
+    },
+    {
+      "word": "Russell",
+      "start": 6.48,
+      "end": 6.68
+    },
+    {
+      "word": "P2,",
+      "start": 6.68,
+      "end": 7.18
+    },
+    {
+      "word": "then",
+      "start": 7.34,
+      "end": 7.46
+    },
+    {
+      "word": "Hammer",
+      "start": 7.46,
+      "end": 7.7
+    },
+    {
+      "word": "from",
+      "start": 7.7,
+      "end": 7.92
+    },
+    {
+      "word": "the",
+      "start": 7.92,
+      "end": 8.04
+    },
+    {
+      "word": "3rd,",
+      "start": 8.04,
+      "end": 8.34
+    },
+    {
+      "word": "Gaspery",
+      "start": 8.4,
+      "end": 8.84
+    },
+    {
+      "word": "Norris,",
+      "start": 8.84,
+      "end": 9.22
+    },
+    {
+      "word": "Gasly,",
+      "start": 9.3,
+      "end": 9.62
+    },
+    {
+      "word": "Mstappen",
+      "start": 9.7,
+      "end": 10.14
+    },
+    {
+      "word": "and",
+      "start": 10.14,
+      "end": 10.32
+    },
+    {
+      "word": "Hajar.",
+      "start": 10.32,
+      "end": 10.72
+    },
+    {
+      "word": "We",
+      "start": 12.0,
+      "end": 12.48
+    },
+    {
+      "word": "got",
+      "start": 12.48,
+      "end": 12.62
+    },
+    {
+      "word": "to",
+      "start": 12.62,
+      "end": 12.78
+    },
+    {
+      "word": "the",
+      "start": 12.78,
+      "end": 12.88
+    },
+    {
+      "word": "ferry.",
+      "start": 12.88,
+      "end": 13.1
+    },
+    {
+      "word": "Flurred",
+      "start": 14.8,
+      "end": 15.28
+    },
+    {
+      "word": "at",
+      "start": 15.28,
+      "end": 15.38
+    },
+    {
+      "word": "32",
+      "start": 15.38,
+      "end": 15.96
+    },
+    {
+      "word": ".4,",
+      "start": 15.96,
+      "end": 16.6
+    },
+    {
+      "word": "he",
+      "start": 16.88,
+      "end": 16.96
+    },
+    {
+      "word": "did",
+      "start": 16.96,
+      "end": 17.06
+    },
+    {
+      "word": "a",
+      "start": 17.06,
+      "end": 17.16
+    },
+    {
+      "word": "33",
+      "start": 17.16,
+      "end": 17.68
+    },
+    {
+      "word": ".2",
+      "start": 17.68,
+      "end": 18.3
+    },
+    {
+      "word": "so",
+      "start": 18.3,
+      "end": 18.48
+    },
+    {
+      "word": "he",
+      "start": 18.48,
+      "end": 18.7
+    },
+    {
+      "word": "had",
+      "start": 18.7,
+      "end": 18.76
+    },
+    {
+      "word": "10th.",
+      "start": 18.76,
+      "end": 19.16
+    }
+  ],
+  "language": "en",
+  "word_count": 42,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0532",
+  "text": "5, 6, 5, 4, 3, 2, 1",
+  "words": [
+    {
+      "word": "5,",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "6,",
+      "start": 0.46,
+      "end": 0.72
+    },
+    {
+      "word": "5,",
+      "start": 0.8,
+      "end": 1.22
+    },
+    {
+      "word": "4,",
+      "start": 1.42,
+      "end": 2.06
+    },
+    {
+      "word": "3,",
+      "start": 2.18,
+      "end": 3.08
+    },
+    {
+      "word": "2,",
+      "start": 3.32,
+      "end": 3.98
+    },
+    {
+      "word": "1",
+      "start": 4.56,
+      "end": 4.9
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

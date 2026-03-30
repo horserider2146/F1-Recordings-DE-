@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_0941",
+  "text": "When he comes to stop P1 and MP0. Alright, good job. Let's make it work tomorrow.",
+  "words": [
+    {
+      "word": "When",
+      "start": 0.54,
+      "end": 0.96
+    },
+    {
+      "word": "he",
+      "start": 0.96,
+      "end": 1.08
+    },
+    {
+      "word": "comes",
+      "start": 1.08,
+      "end": 1.2
+    },
+    {
+      "word": "to",
+      "start": 1.2,
+      "end": 1.36
+    },
+    {
+      "word": "stop",
+      "start": 1.36,
+      "end": 1.58
+    },
+    {
+      "word": "P1",
+      "start": 1.58,
+      "end": 2.6
+    },
+    {
+      "word": "and",
+      "start": 2.6,
+      "end": 2.76
+    },
+    {
+      "word": "MP0.",
+      "start": 2.76,
+      "end": 3.2
+    },
+    {
+      "word": "Alright,",
+      "start": 5.24,
+      "end": 5.66
+    },
+    {
+      "word": "good",
+      "start": 5.8,
+      "end": 5.88
+    },
+    {
+      "word": "job.",
+      "start": 5.88,
+      "end": 6.1
+    },
+    {
+      "word": "Let's",
+      "start": 10.2,
+      "end": 10.62
+    },
+    {
+      "word": "make",
+      "start": 10.62,
+      "end": 10.72
+    },
+    {
+      "word": "it",
+      "start": 10.72,
+      "end": 10.88
+    },
+    {
+      "word": "work",
+      "start": 10.88,
+      "end": 11.08
+    },
+    {
+      "word": "tomorrow.",
+      "start": 11.08,
+      "end": 11.34
+    }
+  ],
+  "language": "en",
+  "word_count": 16,
+  "is_empty": false,
+  "is_very_short": false
+}

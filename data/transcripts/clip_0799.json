@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0799",
+  "text": "Exit 11. How was the balance Oli? Balance is good, I think I could have had 0.2 for the first push. Second push, starting at a bit or less. It's box. Box.",
+  "words": [
+    {
+      "word": "Exit",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "word": "11.",
+      "start": 0.58,
+      "end": 0.84
+    },
+    {
+      "word": "How",
+      "start": 3.3,
+      "end": 3.66
+    },
+    {
+      "word": "was",
+      "start": 3.66,
+      "end": 3.8
+    },
+    {
+      "word": "the",
+      "start": 3.8,
+      "end": 3.92
+    },
+    {
+      "word": "balance",
+      "start": 3.92,
+      "end": 4.18
+    },
+    {
+      "word": "Oli?",
+      "start": 4.18,
+      "end": 4.42
+    },
+    {
+      "word": "Balance",
+      "start": 6.12,
+      "end": 6.64
+    },
+    {
+      "word": "is",
+      "start": 6.64,
+      "end": 6.86
+    },
+    {
+      "word": "good,",
+      "start": 6.86,
+      "end": 7.08
+    },
+    {
+      "word": "I",
+      "start": 7.18,
+      "end": 7.28
+    },
+    {
+      "word": "think",
+      "start": 7.28,
+      "end": 7.42
+    },
+    {
+      "word": "I",
+      "start": 7.42,
+      "end": 7.6
+    },
+    {
+      "word": "could",
+      "start": 7.6,
+      "end": 7.72
+    },
+    {
+      "word": "have",
+      "start": 7.72,
+      "end": 7.9
+    },
+    {
+      "word": "had",
+      "start": 7.9,
+      "end": 8.1
+    },
+    {
+      "word": "0",
+      "start": 8.72,
+      "end": 9.24
+    },
+    {
+      "word": ".2",
+      "start": 9.24,
+      "end": 9.68
+    },
+    {
+      "word": "for",
+      "start": 9.68,
+      "end": 10.04
+    },
+    {
+      "word": "the",
+      "start": 10.04,
+      "end": 10.18
+    },
+    {
+      "word": "first",
+      "start": 10.18,
+      "end": 10.4
+    },
+    {
+      "word": "push.",
+      "start": 10.4,
+      "end": 10.62
+    },
+    {
+      "word": "Second",
+      "start": 11.26,
+      "end": 11.78
+    },
+    {
+      "word": "push,",
+      "start": 11.78,
+      "end": 12.22
+    },
+    {
+      "word": "starting",
+      "start": 12.46,
+      "end": 12.76
+    },
+    {
+      "word": "at",
+      "start": 12.76,
+      "end": 13.02
+    },
+    {
+      "word": "a",
+      "start": 13.02,
+      "end": 13.1
+    },
+    {
+      "word": "bit",
+      "start": 13.1,
+      "end": 13.18
+    },
+    {
+      "word": "or",
+      "start": 13.18,
+      "end": 13.34
+    },
+    {
+      "word": "less.",
+      "start": 13.34,
+      "end": 13.6
+    },
+    {
+      "word": "It's",
+      "start": 16.82,
+      "end": 17.34
+    },
+    {
+      "word": "box.",
+      "start": 17.34,
+      "end": 17.52
+    },
+    {
+      "word": "Box.",
+      "start": 18.86,
+      "end": 19.38
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

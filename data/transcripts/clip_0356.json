@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_0356",
+  "text": "on a lap is Leclerc 6, 5, 4, 3, 2 seconds, Norris is out lap, let's... 11-0, you okay with me? You running the end of your first mug here? Lewis, A-form is fine, Lewis on a lap at 5.",
+  "words": [
+    {
+      "word": "on",
+      "start": 0.8,
+      "end": 1.24
+    },
+    {
+      "word": "a",
+      "start": 1.24,
+      "end": 1.28
+    },
+    {
+      "word": "lap",
+      "start": 1.28,
+      "end": 1.44
+    },
+    {
+      "word": "is",
+      "start": 1.44,
+      "end": 1.74
+    },
+    {
+      "word": "Leclerc",
+      "start": 1.74,
+      "end": 2.72
+    },
+    {
+      "word": "6,",
+      "start": 2.72,
+      "end": 3.3
+    },
+    {
+      "word": "5,",
+      "start": 3.58,
+      "end": 4.8
+    },
+    {
+      "word": "4,",
+      "start": 5.44,
+      "end": 6.24
+    },
+    {
+      "word": "3,",
+      "start": 6.44,
+      "end": 7.66
+    },
+    {
+      "word": "2",
+      "start": 7.86,
+      "end": 9.14
+    },
+    {
+      "word": "seconds,",
+      "start": 9.14,
+      "end": 9.52
+    },
+    {
+      "word": "Norris",
+      "start": 10.08,
+      "end": 11.9
+    },
+    {
+      "word": "is",
+      "start": 11.9,
+      "end": 12.06
+    },
+    {
+      "word": "out",
+      "start": 12.06,
+      "end": 12.3
+    },
+    {
+      "word": "lap,",
+      "start": 12.3,
+      "end": 12.6
+    },
+    {
+      "word": "let's...",
+      "start": 12.92,
+      "end": 13.24
+    },
+    {
+      "word": "11",
+      "start": 13.24,
+      "end": 13.52
+    },
+    {
+      "word": "-0,",
+      "start": 13.52,
+      "end": 13.7
+    },
+    {
+      "word": "you",
+      "start": 13.82,
+      "end": 13.9
+    },
+    {
+      "word": "okay",
+      "start": 13.9,
+      "end": 14.0
+    },
+    {
+      "word": "with",
+      "start": 14.0,
+      "end": 14.24
+    },
+    {
+      "word": "me?",
+      "start": 14.24,
+      "end": 14.42
+    },
+    {
+      "word": "You",
+      "start": 14.62,
+      "end": 14.64
+    },
+    {
+      "word": "running",
+      "start": 14.64,
+      "end": 14.74
+    },
+    {
+      "word": "the",
+      "start": 14.74,
+      "end": 14.94
+    },
+    {
+      "word": "end",
+      "start": 14.94,
+      "end": 15.06
+    },
+    {
+      "word": "of",
+      "start": 15.06,
+      "end": 15.18
+    },
+    {
+      "word": "your",
+      "start": 15.18,
+      "end": 15.26
+    },
+    {
+      "word": "first",
+      "start": 15.26,
+      "end": 15.42
+    },
+    {
+      "word": "mug",
+      "start": 15.42,
+      "end": 15.6
+    },
+    {
+      "word": "here?",
+      "start": 15.6,
+      "end": 15.82
+    },
+    {
+      "word": "Lewis,",
+      "start": 15.98,
+      "end": 16.2
+    },
+    {
+      "word": "A",
+      "start": 16.64,
+      "end": 17.14
+    },
+    {
+      "word": "-form",
+      "start": 17.14,
+      "end": 17.28
+    },
+    {
+      "word": "is",
+      "start": 17.28,
+      "end": 17.42
+    },
+    {
+      "word": "fine,",
+      "start": 17.42,
+      "end": 17.68
+    },
+    {
+      "word": "Lewis",
+      "start": 18.0,
+      "end": 18.22
+    },
+    {
+      "word": "on",
+      "start": 18.22,
+      "end": 18.56
+    },
+    {
+      "word": "a",
+      "start": 18.56,
+      "end": 18.66
+    },
+    {
+      "word": "lap",
+      "start": 18.66,
+      "end": 18.88
+    },
+    {
+      "word": "at",
+      "start": 18.88,
+      "end": 19.08
+    },
+    {
+      "word": "5.",
+      "start": 19.08,
+      "end": 19.6
+    }
+  ],
+  "language": "en",
+  "word_count": 40,
+  "is_empty": false,
+  "is_very_short": false
+}

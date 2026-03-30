@@ -1,0 +1,145 @@
+{
+  "clip_id": "clip_0705",
+  "text": "So, same car is in this lap. Now have slow off. And then when the train goes, there's more to do. So, you're on the braking. Copy.",
+  "words": [
+    {
+      "word": "So,",
+      "start": 1.46,
+      "end": 1.98
+    },
+    {
+      "word": "same",
+      "start": 2.02,
+      "end": 2.26
+    },
+    {
+      "word": "car",
+      "start": 2.26,
+      "end": 2.52
+    },
+    {
+      "word": "is",
+      "start": 2.52,
+      "end": 2.64
+    },
+    {
+      "word": "in",
+      "start": 2.64,
+      "end": 2.74
+    },
+    {
+      "word": "this",
+      "start": 2.74,
+      "end": 2.9
+    },
+    {
+      "word": "lap.",
+      "start": 2.9,
+      "end": 3.12
+    },
+    {
+      "word": "Now",
+      "start": 5.04,
+      "end": 5.56
+    },
+    {
+      "word": "have",
+      "start": 5.56,
+      "end": 5.74
+    },
+    {
+      "word": "slow",
+      "start": 5.74,
+      "end": 6.04
+    },
+    {
+      "word": "off.",
+      "start": 6.04,
+      "end": 6.48
+    },
+    {
+      "word": "And",
+      "start": 8.18,
+      "end": 8.32
+    },
+    {
+      "word": "then",
+      "start": 8.32,
+      "end": 8.42
+    },
+    {
+      "word": "when",
+      "start": 8.42,
+      "end": 8.58
+    },
+    {
+      "word": "the",
+      "start": 8.58,
+      "end": 8.68
+    },
+    {
+      "word": "train",
+      "start": 8.68,
+      "end": 8.88
+    },
+    {
+      "word": "goes,",
+      "start": 8.88,
+      "end": 9.14
+    },
+    {
+      "word": "there's",
+      "start": 9.96,
+      "end": 10.48
+    },
+    {
+      "word": "more",
+      "start": 10.48,
+      "end": 10.66
+    },
+    {
+      "word": "to",
+      "start": 10.66,
+      "end": 10.84
+    },
+    {
+      "word": "do.",
+      "start": 10.84,
+      "end": 10.96
+    },
+    {
+      "word": "So,",
+      "start": 11.98,
+      "end": 12.5
+    },
+    {
+      "word": "you're",
+      "start": 12.7,
+      "end": 13.16
+    },
+    {
+      "word": "on",
+      "start": 13.16,
+      "end": 13.38
+    },
+    {
+      "word": "the",
+      "start": 13.38,
+      "end": 14.1
+    },
+    {
+      "word": "braking.",
+      "start": 14.1,
+      "end": 16.02
+    },
+    {
+      "word": "Copy.",
+      "start": 18.5,
+      "end": 19.02
+    }
+  ],
+  "language": "en",
+  "word_count": 27,
+  "is_empty": false,
+  "is_very_short": false
+}

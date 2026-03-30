@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0377",
+  "text": "3, yeah ahead of the book 0.5, the book will have overtake ahead, give entry, give high speed available, ahead of the list is 0.9, and the list will have overtake, yeah 0.8.",
+  "words": [
+    {
+      "word": "3,",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "yeah",
+      "start": 1.78,
+      "end": 2.02
+    },
+    {
+      "word": "ahead",
+      "start": 2.02,
+      "end": 2.34
+    },
+    {
+      "word": "of",
+      "start": 2.34,
+      "end": 2.44
+    },
+    {
+      "word": "the",
+      "start": 2.44,
+      "end": 2.52
+    },
+    {
+      "word": "book",
+      "start": 2.52,
+      "end": 2.74
+    },
+    {
+      "word": "0",
+      "start": 2.74,
+      "end": 3.04
+    },
+    {
+      "word": ".5,",
+      "start": 3.04,
+      "end": 3.82
+    },
+    {
+      "word": "the",
+      "start": 4.1,
+      "end": 5.36
+    },
+    {
+      "word": "book",
+      "start": 5.36,
+      "end": 5.48
+    },
+    {
+      "word": "will",
+      "start": 5.48,
+      "end": 5.72
+    },
+    {
+      "word": "have",
+      "start": 5.72,
+      "end": 5.96
+    },
+    {
+      "word": "overtake",
+      "start": 5.96,
+      "end": 6.48
+    },
+    {
+      "word": "ahead,",
+      "start": 6.48,
+      "end": 6.74
+    },
+    {
+      "word": "give",
+      "start": 7.26,
+      "end": 8.64
+    },
+    {
+      "word": "entry,",
+      "start": 8.64,
+      "end": 9.14
+    },
+    {
+      "word": "give",
+      "start": 9.38,
+      "end": 9.48
+    },
+    {
+      "word": "high",
+      "start": 9.48,
+      "end": 9.82
+    },
+    {
+      "word": "speed",
+      "start": 9.82,
+      "end": 10.08
+    },
+    {
+      "word": "available,",
+      "start": 10.08,
+      "end": 10.7
+    },
+    {
+      "word": "ahead",
+      "start": 12.58,
+      "end": 12.82
+    },
+    {
+      "word": "of",
+      "start": 12.82,
+      "end": 12.96
+    },
+    {
+      "word": "the",
+      "start": 12.96,
+      "end": 13.0
+    },
+    {
+      "word": "list",
+      "start": 13.0,
+      "end": 13.2
+    },
+    {
+      "word": "is",
+      "start": 13.2,
+      "end": 13.36
+    },
+    {
+      "word": "0",
+      "start": 13.36,
+      "end": 13.56
+    },
+    {
+      "word": ".9,",
+      "start": 13.56,
+      "end": 14.32
+    },
+    {
+      "word": "and",
+      "start": 15.26,
+      "end": 15.84
+    },
+    {
+      "word": "the",
+      "start": 15.84,
+      "end": 15.96
+    },
+    {
+      "word": "list",
+      "start": 15.96,
+      "end": 16.12
+    },
+    {
+      "word": "will",
+      "start": 16.12,
+      "end": 16.42
+    },
+    {
+      "word": "have",
+      "start": 16.42,
+      "end": 16.64
+    },
+    {
+      "word": "overtake,",
+      "start": 16.64,
+      "end": 17.1
+    },
+    {
+      "word": "yeah",
+      "start": 18.62,
+      "end": 19.06
+    },
+    {
+      "word": "0",
+      "start": 19.06,
+      "end": 19.36
+    },
+    {
+      "word": ".8.",
+      "start": 19.36,
+      "end": 19.72
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

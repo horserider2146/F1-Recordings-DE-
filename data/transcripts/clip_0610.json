@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0610",
+  "text": "Time! Gap behind, 3.2, 3.2 you are doing well, exit 16 to improve. Early entry 16, 2.8 behind. Rest is fine. Early braking in 6, suggest. In 3 seconds, take up behind.",
+  "words": [
+    {
+      "word": "Time!",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "Gap",
+      "start": 1.08,
+      "end": 1.46
+    },
+    {
+      "word": "behind,",
+      "start": 1.46,
+      "end": 1.9
+    },
+    {
+      "word": "3",
+      "start": 2.38,
+      "end": 2.62
+    },
+    {
+      "word": ".2,",
+      "start": 2.62,
+      "end": 3.08
+    },
+    {
+      "word": "3",
+      "start": 3.3,
+      "end": 3.46
+    },
+    {
+      "word": ".2",
+      "start": 3.46,
+      "end": 3.9
+    },
+    {
+      "word": "you",
+      "start": 3.9,
+      "end": 4.08
+    },
+    {
+      "word": "are",
+      "start": 4.08,
+      "end": 4.18
+    },
+    {
+      "word": "doing",
+      "start": 4.18,
+      "end": 4.3
+    },
+    {
+      "word": "well,",
+      "start": 4.3,
+      "end": 4.62
+    },
+    {
+      "word": "exit",
+      "start": 4.8,
+      "end": 5.2
+    },
+    {
+      "word": "16",
+      "start": 5.2,
+      "end": 5.64
+    },
+    {
+      "word": "to",
+      "start": 5.64,
+      "end": 5.96
+    },
+    {
+      "word": "improve.",
+      "start": 5.96,
+      "end": 6.36
+    },
+    {
+      "word": "Early",
+      "start": 8.68,
+      "end": 9.06
+    },
+    {
+      "word": "entry",
+      "start": 9.06,
+      "end": 9.38
+    },
+    {
+      "word": "16,",
+      "start": 9.38,
+      "end": 9.82
+    },
+    {
+      "word": "2",
+      "start": 10.34,
+      "end": 10.62
+    },
+    {
+      "word": ".8",
+      "start": 10.62,
+      "end": 11.0
+    },
+    {
+      "word": "behind.",
+      "start": 11.0,
+      "end": 11.4
+    },
+    {
+      "word": "Rest",
+      "start": 12.26,
+      "end": 13.0
+    },
+    {
+      "word": "is",
+      "start": 13.0,
+      "end": 13.18
+    },
+    {
+      "word": "fine.",
+      "start": 13.18,
+      "end": 13.42
+    },
+    {
+      "word": "Early",
+      "start": 14.82,
+      "end": 15.2
+    },
+    {
+      "word": "braking",
+      "start": 15.2,
+      "end": 15.58
+    },
+    {
+      "word": "in",
+      "start": 15.58,
+      "end": 15.8
+    },
+    {
+      "word": "6,",
+      "start": 15.8,
+      "end": 16.1
+    },
+    {
+      "word": "suggest.",
+      "start": 16.36,
+      "end": 16.58
+    },
+    {
+      "word": "In",
+      "start": 17.74,
+      "end": 18.5
+    },
+    {
+      "word": "3",
+      "start": 18.5,
+      "end": 18.74
+    },
+    {
+      "word": "seconds,",
+      "start": 18.74,
+      "end": 19.14
+    },
+    {
+      "word": "take",
+      "start": 19.38,
+      "end": 19.48
+    },
+    {
+      "word": "up",
+      "start": 19.48,
+      "end": 19.68
+    },
+    {
+      "word": "behind.",
+      "start": 19.68,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

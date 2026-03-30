@@ -1,0 +1,145 @@
+{
+  "clip_id": "clip_0173",
+  "text": "Stay to 3 now. Stay to 2. It's too much for the tyre. Even for Plan B equation? Yep. Okay. Try Plan A. 30, 3, 2, go.",
+  "words": [
+    {
+      "word": "Stay",
+      "start": 1.16,
+      "end": 1.68
+    },
+    {
+      "word": "to",
+      "start": 1.68,
+      "end": 1.84
+    },
+    {
+      "word": "3",
+      "start": 1.84,
+      "end": 2.1
+    },
+    {
+      "word": "now.",
+      "start": 2.1,
+      "end": 2.38
+    },
+    {
+      "word": "Stay",
+      "start": 3.42,
+      "end": 3.9
+    },
+    {
+      "word": "to",
+      "start": 3.9,
+      "end": 4.08
+    },
+    {
+      "word": "2.",
+      "start": 4.08,
+      "end": 4.4
+    },
+    {
+      "word": "It's",
+      "start": 4.78,
+      "end": 5.0
+    },
+    {
+      "word": "too",
+      "start": 5.0,
+      "end": 5.12
+    },
+    {
+      "word": "much",
+      "start": 5.12,
+      "end": 5.3
+    },
+    {
+      "word": "for",
+      "start": 5.3,
+      "end": 5.5
+    },
+    {
+      "word": "the",
+      "start": 5.5,
+      "end": 5.62
+    },
+    {
+      "word": "tyre.",
+      "start": 5.62,
+      "end": 5.8
+    },
+    {
+      "word": "Even",
+      "start": 7.54,
+      "end": 8.06
+    },
+    {
+      "word": "for",
+      "start": 8.06,
+      "end": 8.34
+    },
+    {
+      "word": "Plan",
+      "start": 8.34,
+      "end": 8.5
+    },
+    {
+      "word": "B",
+      "start": 8.5,
+      "end": 8.68
+    },
+    {
+      "word": "equation?",
+      "start": 8.68,
+      "end": 8.94
+    },
+    {
+      "word": "Yep.",
+      "start": 10.02,
+      "end": 10.34
+    },
+    {
+      "word": "Okay.",
+      "start": 11.04,
+      "end": 11.16
+    },
+    {
+      "word": "Try",
+      "start": 14.52,
+      "end": 15.04
+    },
+    {
+      "word": "Plan",
+      "start": 15.04,
+      "end": 15.36
+    },
+    {
+      "word": "A.",
+      "start": 15.36,
+      "end": 15.6
+    },
+    {
+      "word": "30,",
+      "start": 18.56,
+      "end": 19.08
+    },
+    {
+      "word": "3,",
+      "start": 19.2,
+      "end": 19.32
+    },
+    {
+      "word": "2,",
+      "start": 19.4,
+      "end": 19.48
+    },
+    {
+      "word": "go.",
+      "start": 19.56,
+      "end": 19.64
+    }
+  ],
+  "language": "en",
+  "word_count": 27,
+  "is_empty": false,
+  "is_very_short": false
+}

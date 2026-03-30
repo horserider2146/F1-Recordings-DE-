@@ -1,0 +1,200 @@
+{
+  "clip_id": "clip_1088",
+  "text": "why are you still no yeah we see we see that we see that why was that so we see that and we are looking into it should be sold should be sold now no overtake this lap",
+  "words": [
+    {
+      "word": "why",
+      "start": 0.72,
+      "end": 1.18
+    },
+    {
+      "word": "are",
+      "start": 1.18,
+      "end": 1.32
+    },
+    {
+      "word": "you",
+      "start": 1.32,
+      "end": 1.44
+    },
+    {
+      "word": "still",
+      "start": 1.44,
+      "end": 1.58
+    },
+    {
+      "word": "no",
+      "start": 1.58,
+      "end": 1.8
+    },
+    {
+      "word": "yeah",
+      "start": 1.8,
+      "end": 2.22
+    },
+    {
+      "word": "we",
+      "start": 2.22,
+      "end": 2.38
+    },
+    {
+      "word": "see",
+      "start": 2.38,
+      "end": 2.54
+    },
+    {
+      "word": "we",
+      "start": 2.54,
+      "end": 2.7
+    },
+    {
+      "word": "see",
+      "start": 2.7,
+      "end": 2.92
+    },
+    {
+      "word": "that",
+      "start": 2.92,
+      "end": 3.16
+    },
+    {
+      "word": "we",
+      "start": 3.16,
+      "end": 3.8
+    },
+    {
+      "word": "see",
+      "start": 3.8,
+      "end": 4.06
+    },
+    {
+      "word": "that",
+      "start": 4.06,
+      "end": 4.28
+    },
+    {
+      "word": "why",
+      "start": 4.28,
+      "end": 4.84
+    },
+    {
+      "word": "was",
+      "start": 4.84,
+      "end": 5.56
+    },
+    {
+      "word": "that",
+      "start": 5.56,
+      "end": 7.34
+    },
+    {
+      "word": "so",
+      "start": 9.12,
+      "end": 9.58
+    },
+    {
+      "word": "we",
+      "start": 9.58,
+      "end": 9.78
+    },
+    {
+      "word": "see",
+      "start": 9.78,
+      "end": 10.04
+    },
+    {
+      "word": "that",
+      "start": 10.04,
+      "end": 10.26
+    },
+    {
+      "word": "and",
+      "start": 10.26,
+      "end": 10.66
+    },
+    {
+      "word": "we",
+      "start": 10.66,
+      "end": 10.84
+    },
+    {
+      "word": "are",
+      "start": 10.84,
+      "end": 11.06
+    },
+    {
+      "word": "looking",
+      "start": 11.06,
+      "end": 11.32
+    },
+    {
+      "word": "into",
+      "start": 11.32,
+      "end": 11.62
+    },
+    {
+      "word": "it",
+      "start": 11.62,
+      "end": 11.82
+    },
+    {
+      "word": "should",
+      "start": 11.82,
+      "end": 13.38
+    },
+    {
+      "word": "be",
+      "start": 13.38,
+      "end": 13.56
+    },
+    {
+      "word": "sold",
+      "start": 13.56,
+      "end": 13.9
+    },
+    {
+      "word": "should",
+      "start": 13.9,
+      "end": 14.2
+    },
+    {
+      "word": "be",
+      "start": 14.2,
+      "end": 14.38
+    },
+    {
+      "word": "sold",
+      "start": 14.38,
+      "end": 14.58
+    },
+    {
+      "word": "now",
+      "start": 14.58,
+      "end": 15.12
+    },
+    {
+      "word": "no",
+      "start": 15.12,
+      "end": 17.36
+    },
+    {
+      "word": "overtake",
+      "start": 17.36,
+      "end": 17.82
+    },
+    {
+      "word": "this",
+      "start": 17.82,
+      "end": 18.0
+    },
+    {
+      "word": "lap",
+      "start": 18.0,
+      "end": 18.2
+    }
+  ],
+  "language": "en",
+  "word_count": 38,
+  "is_empty": false,
+  "is_very_short": false
+}

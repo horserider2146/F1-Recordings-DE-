@@ -1,0 +1,5 @@
+.claude/
+__pycache__/
+*.pyc
+data/raw_video/
+data/raw_audio/

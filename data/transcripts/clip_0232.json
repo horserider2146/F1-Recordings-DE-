@@ -1,0 +1,140 @@
+{
+  "clip_id": "clip_0232",
+  "text": "6.6 ahead Russell 10 Hamilton 5 behind Same wind and track temp Update me of Gaffin Russell Russell 11.9 And Gaffin Holt of Russell",
+  "words": [
+    {
+      "word": "6",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": ".6",
+      "start": 0.4,
+      "end": 1.28
+    },
+    {
+      "word": "ahead",
+      "start": 1.28,
+      "end": 1.58
+    },
+    {
+      "word": "Russell",
+      "start": 2.84,
+      "end": 3.64
+    },
+    {
+      "word": "10",
+      "start": 3.64,
+      "end": 4.22
+    },
+    {
+      "word": "Hamilton",
+      "start": 5.68,
+      "end": 6.08
+    },
+    {
+      "word": "5",
+      "start": 6.08,
+      "end": 6.56
+    },
+    {
+      "word": "behind",
+      "start": 6.56,
+      "end": 6.96
+    },
+    {
+      "word": "Same",
+      "start": 8.88,
+      "end": 9.68
+    },
+    {
+      "word": "wind",
+      "start": 9.68,
+      "end": 10.0
+    },
+    {
+      "word": "and",
+      "start": 10.0,
+      "end": 10.18
+    },
+    {
+      "word": "track",
+      "start": 10.18,
+      "end": 10.4
+    },
+    {
+      "word": "temp",
+      "start": 10.4,
+      "end": 10.96
+    },
+    {
+      "word": "Update",
+      "start": 12.08,
+      "end": 12.88
+    },
+    {
+      "word": "me",
+      "start": 12.88,
+      "end": 13.2
+    },
+    {
+      "word": "of",
+      "start": 13.2,
+      "end": 13.4
+    },
+    {
+      "word": "Gaffin",
+      "start": 13.4,
+      "end": 13.7
+    },
+    {
+      "word": "Russell",
+      "start": 13.7,
+      "end": 14.02
+    },
+    {
+      "word": "Russell",
+      "start": 14.02,
+      "end": 14.9
+    },
+    {
+      "word": "11",
+      "start": 14.9,
+      "end": 15.48
+    },
+    {
+      "word": ".9",
+      "start": 15.48,
+      "end": 16.1
+    },
+    {
+      "word": "And",
+      "start": 17.72,
+      "end": 18.12
+    },
+    {
+      "word": "Gaffin",
+      "start": 18.12,
+      "end": 18.5
+    },
+    {
+      "word": "Holt",
+      "start": 18.5,
+      "end": 18.72
+    },
+    {
+      "word": "of",
+      "start": 18.72,
+      "end": 18.86
+    },
+    {
+      "word": "Russell",
+      "start": 18.86,
+      "end": 19.04
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

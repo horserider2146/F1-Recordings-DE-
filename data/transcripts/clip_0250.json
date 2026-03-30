@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_0250",
+  "text": "We come into the pit lane.",
+  "words": [
+    {
+      "word": "We",
+      "start": 3.42,
+      "end": 3.9
+    },
+    {
+      "word": "come",
+      "start": 3.9,
+      "end": 4.14
+    },
+    {
+      "word": "into",
+      "start": 4.14,
+      "end": 4.66
+    },
+    {
+      "word": "the",
+      "start": 4.66,
+      "end": 4.82
+    },
+    {
+      "word": "pit",
+      "start": 4.82,
+      "end": 4.96
+    },
+    {
+      "word": "lane.",
+      "start": 4.96,
+      "end": 5.14
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

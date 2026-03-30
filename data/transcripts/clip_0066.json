@@ -1,0 +1,305 @@
+{
+  "clip_id": "clip_0066",
+  "text": "We have had your pushing 10, but we have put the attitude in this course. At your 10, there is 20, so push it. The lead is at the face for the front tires and the weaving. We would like reading on the second half of the back straight and quarter in the last corner. At your pushing 10.",
+  "words": [
+    {
+      "word": "We",
+      "start": 1.36,
+      "end": 1.76
+    },
+    {
+      "word": "have",
+      "start": 1.76,
+      "end": 1.92
+    },
+    {
+      "word": "had",
+      "start": 1.92,
+      "end": 2.12
+    },
+    {
+      "word": "your",
+      "start": 2.12,
+      "end": 2.22
+    },
+    {
+      "word": "pushing",
+      "start": 2.22,
+      "end": 2.48
+    },
+    {
+      "word": "10,",
+      "start": 2.48,
+      "end": 2.76
+    },
+    {
+      "word": "but",
+      "start": 3.18,
+      "end": 3.28
+    },
+    {
+      "word": "we",
+      "start": 3.28,
+      "end": 3.42
+    },
+    {
+      "word": "have",
+      "start": 3.42,
+      "end": 3.5
+    },
+    {
+      "word": "put",
+      "start": 3.5,
+      "end": 3.68
+    },
+    {
+      "word": "the",
+      "start": 3.68,
+      "end": 3.84
+    },
+    {
+      "word": "attitude",
+      "start": 3.84,
+      "end": 4.06
+    },
+    {
+      "word": "in",
+      "start": 4.06,
+      "end": 4.22
+    },
+    {
+      "word": "this",
+      "start": 4.22,
+      "end": 4.44
+    },
+    {
+      "word": "course.",
+      "start": 4.44,
+      "end": 4.6
+    },
+    {
+      "word": "At",
+      "start": 4.9,
+      "end": 5.06
+    },
+    {
+      "word": "your",
+      "start": 5.06,
+      "end": 5.44
+    },
+    {
+      "word": "10,",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "word": "there",
+      "start": 6.32,
+      "end": 6.42
+    },
+    {
+      "word": "is",
+      "start": 6.42,
+      "end": 6.58
+    },
+    {
+      "word": "20,",
+      "start": 6.58,
+      "end": 6.92
+    },
+    {
+      "word": "so",
+      "start": 7.26,
+      "end": 7.48
+    },
+    {
+      "word": "push",
+      "start": 7.48,
+      "end": 7.7
+    },
+    {
+      "word": "it.",
+      "start": 7.7,
+      "end": 7.84
+    },
+    {
+      "word": "The",
+      "start": 9.58,
+      "end": 9.98
+    },
+    {
+      "word": "lead",
+      "start": 9.98,
+      "end": 10.12
+    },
+    {
+      "word": "is",
+      "start": 10.12,
+      "end": 10.24
+    },
+    {
+      "word": "at",
+      "start": 10.24,
+      "end": 10.32
+    },
+    {
+      "word": "the",
+      "start": 10.32,
+      "end": 10.38
+    },
+    {
+      "word": "face",
+      "start": 10.38,
+      "end": 10.62
+    },
+    {
+      "word": "for",
+      "start": 10.62,
+      "end": 10.82
+    },
+    {
+      "word": "the",
+      "start": 10.82,
+      "end": 10.92
+    },
+    {
+      "word": "front",
+      "start": 10.92,
+      "end": 11.08
+    },
+    {
+      "word": "tires",
+      "start": 11.08,
+      "end": 11.36
+    },
+    {
+      "word": "and",
+      "start": 11.36,
+      "end": 11.5
+    },
+    {
+      "word": "the",
+      "start": 11.5,
+      "end": 11.62
+    },
+    {
+      "word": "weaving.",
+      "start": 11.62,
+      "end": 11.76
+    },
+    {
+      "word": "We",
+      "start": 13.42,
+      "end": 13.82
+    },
+    {
+      "word": "would",
+      "start": 13.82,
+      "end": 13.96
+    },
+    {
+      "word": "like",
+      "start": 13.96,
+      "end": 14.1
+    },
+    {
+      "word": "reading",
+      "start": 14.1,
+      "end": 14.36
+    },
+    {
+      "word": "on",
+      "start": 14.36,
+      "end": 14.6
+    },
+    {
+      "word": "the",
+      "start": 14.6,
+      "end": 14.7
+    },
+    {
+      "word": "second",
+      "start": 14.7,
+      "end": 15.02
+    },
+    {
+      "word": "half",
+      "start": 15.02,
+      "end": 15.34
+    },
+    {
+      "word": "of",
+      "start": 15.34,
+      "end": 15.52
+    },
+    {
+      "word": "the",
+      "start": 15.52,
+      "end": 15.66
+    },
+    {
+      "word": "back",
+      "start": 15.66,
+      "end": 15.82
+    },
+    {
+      "word": "straight",
+      "start": 15.82,
+      "end": 16.08
+    },
+    {
+      "word": "and",
+      "start": 16.08,
+      "end": 16.38
+    },
+    {
+      "word": "quarter",
+      "start": 16.38,
+      "end": 16.68
+    },
+    {
+      "word": "in",
+      "start": 16.68,
+      "end": 17.02
+    },
+    {
+      "word": "the",
+      "start": 17.02,
+      "end": 17.14
+    },
+    {
+      "word": "last",
+      "start": 17.14,
+      "end": 17.28
+    },
+    {
+      "word": "corner.",
+      "start": 17.28,
+      "end": 17.48
+    },
+    {
+      "word": "At",
+      "start": 18.98,
+      "end": 19.38
+    },
+    {
+      "word": "your",
+      "start": 19.38,
+      "end": 19.52
+    },
+    {
+      "word": "pushing",
+      "start": 19.52,
+      "end": 19.8
+    },
+    {
+      "word": "10.",
+      "start": 19.8,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 59,
+  "is_empty": false,
+  "is_very_short": false
+}

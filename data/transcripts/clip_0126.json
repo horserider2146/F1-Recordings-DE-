@@ -1,0 +1,115 @@
+{
+  "clip_id": "clip_0126",
+  "text": "around you a majority of other starter so we give you only the medium starter medium starter behind you both aspirates",
+  "words": [
+    {
+      "word": "around",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "you",
+      "start": 0.22,
+      "end": 0.48
+    },
+    {
+      "word": "a",
+      "start": 0.48,
+      "end": 0.62
+    },
+    {
+      "word": "majority",
+      "start": 0.62,
+      "end": 0.9
+    },
+    {
+      "word": "of",
+      "start": 0.9,
+      "end": 1.16
+    },
+    {
+      "word": "other",
+      "start": 1.16,
+      "end": 1.52
+    },
+    {
+      "word": "starter",
+      "start": 1.52,
+      "end": 2.04
+    },
+    {
+      "word": "so",
+      "start": 2.04,
+      "end": 2.78
+    },
+    {
+      "word": "we",
+      "start": 2.78,
+      "end": 2.96
+    },
+    {
+      "word": "give",
+      "start": 2.96,
+      "end": 3.16
+    },
+    {
+      "word": "you",
+      "start": 3.16,
+      "end": 3.3
+    },
+    {
+      "word": "only",
+      "start": 3.3,
+      "end": 3.52
+    },
+    {
+      "word": "the",
+      "start": 3.52,
+      "end": 3.68
+    },
+    {
+      "word": "medium",
+      "start": 3.68,
+      "end": 3.9
+    },
+    {
+      "word": "starter",
+      "start": 3.9,
+      "end": 4.22
+    },
+    {
+      "word": "medium",
+      "start": 4.82,
+      "end": 5.34
+    },
+    {
+      "word": "starter",
+      "start": 5.34,
+      "end": 5.7
+    },
+    {
+      "word": "behind",
+      "start": 5.7,
+      "end": 6.0
+    },
+    {
+      "word": "you",
+      "start": 6.0,
+      "end": 6.2
+    },
+    {
+      "word": "both",
+      "start": 6.2,
+      "end": 6.5
+    },
+    {
+      "word": "aspirates",
+      "start": 6.5,
+      "end": 7.06
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

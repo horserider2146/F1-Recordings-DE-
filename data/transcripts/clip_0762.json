@@ -1,0 +1,325 @@
+{
+  "clip_id": "clip_0762",
+  "text": "They're just pulling away from us in every exit. Yeah, Nico, a lot of this is just related to if we are in overtake range or not. It should be better this lap if we are in range now. All the guys in front are in range. Yeah, I know you don't understand that, but stay in range for that further protein exit.",
+  "words": [
+    {
+      "word": "They're",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "word": "just",
+      "start": 0.66,
+      "end": 0.86
+    },
+    {
+      "word": "pulling",
+      "start": 0.86,
+      "end": 1.58
+    },
+    {
+      "word": "away",
+      "start": 1.58,
+      "end": 1.86
+    },
+    {
+      "word": "from",
+      "start": 1.86,
+      "end": 2.06
+    },
+    {
+      "word": "us",
+      "start": 2.06,
+      "end": 2.3
+    },
+    {
+      "word": "in",
+      "start": 2.3,
+      "end": 2.4
+    },
+    {
+      "word": "every",
+      "start": 2.4,
+      "end": 2.62
+    },
+    {
+      "word": "exit.",
+      "start": 2.62,
+      "end": 2.94
+    },
+    {
+      "word": "Yeah,",
+      "start": 3.52,
+      "end": 3.64
+    },
+    {
+      "word": "Nico,",
+      "start": 3.7,
+      "end": 3.8
+    },
+    {
+      "word": "a",
+      "start": 3.96,
+      "end": 3.98
+    },
+    {
+      "word": "lot",
+      "start": 3.98,
+      "end": 4.08
+    },
+    {
+      "word": "of",
+      "start": 4.08,
+      "end": 4.18
+    },
+    {
+      "word": "this",
+      "start": 4.18,
+      "end": 4.38
+    },
+    {
+      "word": "is",
+      "start": 4.38,
+      "end": 4.54
+    },
+    {
+      "word": "just",
+      "start": 4.54,
+      "end": 4.7
+    },
+    {
+      "word": "related",
+      "start": 4.7,
+      "end": 5.04
+    },
+    {
+      "word": "to",
+      "start": 5.04,
+      "end": 5.32
+    },
+    {
+      "word": "if",
+      "start": 5.32,
+      "end": 5.58
+    },
+    {
+      "word": "we",
+      "start": 5.58,
+      "end": 5.8
+    },
+    {
+      "word": "are",
+      "start": 5.8,
+      "end": 6.02
+    },
+    {
+      "word": "in",
+      "start": 6.02,
+      "end": 6.26
+    },
+    {
+      "word": "overtake",
+      "start": 6.26,
+      "end": 6.88
+    },
+    {
+      "word": "range",
+      "start": 6.88,
+      "end": 7.12
+    },
+    {
+      "word": "or",
+      "start": 7.12,
+      "end": 7.5
+    },
+    {
+      "word": "not.",
+      "start": 7.5,
+      "end": 7.72
+    },
+    {
+      "word": "It",
+      "start": 7.98,
+      "end": 8.04
+    },
+    {
+      "word": "should",
+      "start": 8.04,
+      "end": 8.22
+    },
+    {
+      "word": "be",
+      "start": 8.22,
+      "end": 8.38
+    },
+    {
+      "word": "better",
+      "start": 8.38,
+      "end": 8.64
+    },
+    {
+      "word": "this",
+      "start": 8.64,
+      "end": 8.96
+    },
+    {
+      "word": "lap",
+      "start": 8.96,
+      "end": 9.18
+    },
+    {
+      "word": "if",
+      "start": 9.18,
+      "end": 9.34
+    },
+    {
+      "word": "we",
+      "start": 9.34,
+      "end": 9.48
+    },
+    {
+      "word": "are",
+      "start": 9.48,
+      "end": 9.6
+    },
+    {
+      "word": "in",
+      "start": 9.6,
+      "end": 9.78
+    },
+    {
+      "word": "range",
+      "start": 9.78,
+      "end": 10.02
+    },
+    {
+      "word": "now.",
+      "start": 10.02,
+      "end": 10.22
+    },
+    {
+      "word": "All",
+      "start": 10.44,
+      "end": 10.52
+    },
+    {
+      "word": "the",
+      "start": 10.52,
+      "end": 10.64
+    },
+    {
+      "word": "guys",
+      "start": 10.64,
+      "end": 10.78
+    },
+    {
+      "word": "in",
+      "start": 10.78,
+      "end": 10.94
+    },
+    {
+      "word": "front",
+      "start": 10.94,
+      "end": 11.1
+    },
+    {
+      "word": "are",
+      "start": 11.1,
+      "end": 11.34
+    },
+    {
+      "word": "in",
+      "start": 11.34,
+      "end": 11.46
+    },
+    {
+      "word": "range.",
+      "start": 11.46,
+      "end": 11.64
+    },
+    {
+      "word": "Yeah,",
+      "start": 12.38,
+      "end": 12.78
+    },
+    {
+      "word": "I",
+      "start": 12.88,
+      "end": 13.02
+    },
+    {
+      "word": "know",
+      "start": 13.02,
+      "end": 13.02
+    },
+    {
+      "word": "you",
+      "start": 13.02,
+      "end": 13.16
+    },
+    {
+      "word": "don't",
+      "start": 13.16,
+      "end": 13.28
+    },
+    {
+      "word": "understand",
+      "start": 13.28,
+      "end": 13.56
+    },
+    {
+      "word": "that,",
+      "start": 13.56,
+      "end": 13.8
+    },
+    {
+      "word": "but",
+      "start": 13.88,
+      "end": 14.0
+    },
+    {
+      "word": "stay",
+      "start": 14.0,
+      "end": 15.14
+    },
+    {
+      "word": "in",
+      "start": 15.14,
+      "end": 15.3
+    },
+    {
+      "word": "range",
+      "start": 15.3,
+      "end": 15.6
+    },
+    {
+      "word": "for",
+      "start": 15.6,
+      "end": 15.8
+    },
+    {
+      "word": "that",
+      "start": 15.8,
+      "end": 15.94
+    },
+    {
+      "word": "further",
+      "start": 15.94,
+      "end": 16.36
+    },
+    {
+      "word": "protein",
+      "start": 16.36,
+      "end": 16.94
+    },
+    {
+      "word": "exit.",
+      "start": 16.94,
+      "end": 17.38
+    }
+  ],
+  "language": "en",
+  "word_count": 63,
+  "is_empty": false,
+  "is_very_short": false
+}

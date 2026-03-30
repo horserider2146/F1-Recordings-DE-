@@ -1,0 +1,270 @@
+{
+  "clip_id": "clip_0530",
+  "text": "In all the virtual dash, he's ignored the virtual mirror, it's completely wrong. And Lando, we're having to box this lap, we're having to box. The clerk is behind you, he should be slow. There's still no one behind to worry about. The clerk's on a slow lap about 8 seconds back.",
+  "words": [
+    {
+      "word": "In",
+      "start": 0.0,
+      "end": 0.04
+    },
+    {
+      "word": "all",
+      "start": 0.04,
+      "end": 0.24
+    },
+    {
+      "word": "the",
+      "start": 0.24,
+      "end": 0.46
+    },
+    {
+      "word": "virtual",
+      "start": 0.46,
+      "end": 0.9
+    },
+    {
+      "word": "dash,",
+      "start": 0.9,
+      "end": 1.22
+    },
+    {
+      "word": "he's",
+      "start": 1.44,
+      "end": 1.64
+    },
+    {
+      "word": "ignored",
+      "start": 1.64,
+      "end": 1.82
+    },
+    {
+      "word": "the",
+      "start": 1.82,
+      "end": 1.98
+    },
+    {
+      "word": "virtual",
+      "start": 1.98,
+      "end": 2.26
+    },
+    {
+      "word": "mirror,",
+      "start": 2.26,
+      "end": 2.46
+    },
+    {
+      "word": "it's",
+      "start": 2.6,
+      "end": 2.7
+    },
+    {
+      "word": "completely",
+      "start": 2.7,
+      "end": 3.0
+    },
+    {
+      "word": "wrong.",
+      "start": 3.0,
+      "end": 3.3
+    },
+    {
+      "word": "And",
+      "start": 4.54,
+      "end": 4.98
+    },
+    {
+      "word": "Lando,",
+      "start": 4.98,
+      "end": 5.26
+    },
+    {
+      "word": "we're",
+      "start": 5.42,
+      "end": 5.46
+    },
+    {
+      "word": "having",
+      "start": 5.46,
+      "end": 5.64
+    },
+    {
+      "word": "to",
+      "start": 5.64,
+      "end": 5.82
+    },
+    {
+      "word": "box",
+      "start": 5.82,
+      "end": 6.14
+    },
+    {
+      "word": "this",
+      "start": 6.14,
+      "end": 6.38
+    },
+    {
+      "word": "lap,",
+      "start": 6.38,
+      "end": 6.58
+    },
+    {
+      "word": "we're",
+      "start": 6.76,
+      "end": 6.78
+    },
+    {
+      "word": "having",
+      "start": 6.78,
+      "end": 6.84
+    },
+    {
+      "word": "to",
+      "start": 6.84,
+      "end": 7.04
+    },
+    {
+      "word": "box.",
+      "start": 7.04,
+      "end": 7.28
+    },
+    {
+      "word": "The",
+      "start": 9.26,
+      "end": 9.7
+    },
+    {
+      "word": "clerk",
+      "start": 9.7,
+      "end": 10.0
+    },
+    {
+      "word": "is",
+      "start": 10.0,
+      "end": 10.22
+    },
+    {
+      "word": "behind",
+      "start": 10.22,
+      "end": 10.44
+    },
+    {
+      "word": "you,",
+      "start": 10.44,
+      "end": 10.64
+    },
+    {
+      "word": "he",
+      "start": 10.72,
+      "end": 10.78
+    },
+    {
+      "word": "should",
+      "start": 10.78,
+      "end": 10.9
+    },
+    {
+      "word": "be",
+      "start": 10.9,
+      "end": 11.04
+    },
+    {
+      "word": "slow.",
+      "start": 11.04,
+      "end": 11.34
+    },
+    {
+      "word": "There's",
+      "start": 15.02,
+      "end": 15.46
+    },
+    {
+      "word": "still",
+      "start": 15.46,
+      "end": 15.62
+    },
+    {
+      "word": "no",
+      "start": 15.62,
+      "end": 15.82
+    },
+    {
+      "word": "one",
+      "start": 15.82,
+      "end": 15.96
+    },
+    {
+      "word": "behind",
+      "start": 15.96,
+      "end": 16.16
+    },
+    {
+      "word": "to",
+      "start": 16.16,
+      "end": 16.38
+    },
+    {
+      "word": "worry",
+      "start": 16.38,
+      "end": 16.54
+    },
+    {
+      "word": "about.",
+      "start": 16.54,
+      "end": 16.78
+    },
+    {
+      "word": "The",
+      "start": 17.06,
+      "end": 17.14
+    },
+    {
+      "word": "clerk's",
+      "start": 17.14,
+      "end": 17.6
+    },
+    {
+      "word": "on",
+      "start": 17.6,
+      "end": 17.68
+    },
+    {
+      "word": "a",
+      "start": 17.68,
+      "end": 17.76
+    },
+    {
+      "word": "slow",
+      "start": 17.76,
+      "end": 17.98
+    },
+    {
+      "word": "lap",
+      "start": 17.98,
+      "end": 18.2
+    },
+    {
+      "word": "about",
+      "start": 18.2,
+      "end": 18.42
+    },
+    {
+      "word": "8",
+      "start": 18.42,
+      "end": 18.66
+    },
+    {
+      "word": "seconds",
+      "start": 18.66,
+      "end": 18.9
+    },
+    {
+      "word": "back.",
+      "start": 18.9,
+      "end": 19.18
+    }
+  ],
+  "language": "en",
+  "word_count": 52,
+  "is_empty": false,
+  "is_very_short": false
+}

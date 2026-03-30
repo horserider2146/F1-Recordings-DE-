@@ -1,0 +1,140 @@
+{
+  "clip_id": "clip_1155",
+  "text": "head of you to the right as an empty slot for your support to let out is a print lane start along with Albin and Norris.",
+  "words": [
+    {
+      "word": "head",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "of",
+      "start": 0.28,
+      "end": 0.4
+    },
+    {
+      "word": "you",
+      "start": 0.4,
+      "end": 0.5
+    },
+    {
+      "word": "to",
+      "start": 0.5,
+      "end": 0.64
+    },
+    {
+      "word": "the",
+      "start": 0.64,
+      "end": 0.7
+    },
+    {
+      "word": "right",
+      "start": 0.7,
+      "end": 0.9
+    },
+    {
+      "word": "as",
+      "start": 0.9,
+      "end": 1.08
+    },
+    {
+      "word": "an",
+      "start": 1.08,
+      "end": 1.26
+    },
+    {
+      "word": "empty",
+      "start": 1.26,
+      "end": 1.42
+    },
+    {
+      "word": "slot",
+      "start": 1.42,
+      "end": 1.68
+    },
+    {
+      "word": "for",
+      "start": 1.68,
+      "end": 1.84
+    },
+    {
+      "word": "your",
+      "start": 1.84,
+      "end": 1.92
+    },
+    {
+      "word": "support",
+      "start": 1.92,
+      "end": 2.16
+    },
+    {
+      "word": "to",
+      "start": 2.16,
+      "end": 2.34
+    },
+    {
+      "word": "let",
+      "start": 2.34,
+      "end": 2.46
+    },
+    {
+      "word": "out",
+      "start": 2.46,
+      "end": 2.6
+    },
+    {
+      "word": "is",
+      "start": 2.6,
+      "end": 2.86
+    },
+    {
+      "word": "a",
+      "start": 2.86,
+      "end": 2.96
+    },
+    {
+      "word": "print",
+      "start": 2.96,
+      "end": 3.12
+    },
+    {
+      "word": "lane",
+      "start": 3.12,
+      "end": 3.28
+    },
+    {
+      "word": "start",
+      "start": 3.28,
+      "end": 3.58
+    },
+    {
+      "word": "along",
+      "start": 3.58,
+      "end": 4.3
+    },
+    {
+      "word": "with",
+      "start": 4.3,
+      "end": 4.62
+    },
+    {
+      "word": "Albin",
+      "start": 4.62,
+      "end": 5.28
+    },
+    {
+      "word": "and",
+      "start": 5.28,
+      "end": 5.88
+    },
+    {
+      "word": "Norris.",
+      "start": 5.88,
+      "end": 6.22
+    }
+  ],
+  "language": "en",
+  "word_count": 26,
+  "is_empty": false,
+  "is_very_short": false
+}

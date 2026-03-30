@@ -1,0 +1,110 @@
+{
+  "clip_id": "clip_0320",
+  "text": "please okay max let's retire the car please retire the car do you think that I need to press? no",
+  "words": [
+    {
+      "word": "please",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "okay",
+      "start": 1.94,
+      "end": 2.54
+    },
+    {
+      "word": "max",
+      "start": 2.54,
+      "end": 2.74
+    },
+    {
+      "word": "let's",
+      "start": 2.74,
+      "end": 3.38
+    },
+    {
+      "word": "retire",
+      "start": 3.38,
+      "end": 3.64
+    },
+    {
+      "word": "the",
+      "start": 3.64,
+      "end": 3.76
+    },
+    {
+      "word": "car",
+      "start": 3.76,
+      "end": 3.88
+    },
+    {
+      "word": "please",
+      "start": 3.88,
+      "end": 4.18
+    },
+    {
+      "word": "retire",
+      "start": 4.18,
+      "end": 4.64
+    },
+    {
+      "word": "the",
+      "start": 4.64,
+      "end": 4.76
+    },
+    {
+      "word": "car",
+      "start": 4.76,
+      "end": 5.84
+    },
+    {
+      "word": "do",
+      "start": 14.98,
+      "end": 15.58
+    },
+    {
+      "word": "you",
+      "start": 15.58,
+      "end": 16.18
+    },
+    {
+      "word": "think",
+      "start": 16.18,
+      "end": 16.36
+    },
+    {
+      "word": "that",
+      "start": 16.36,
+      "end": 16.5
+    },
+    {
+      "word": "I",
+      "start": 16.5,
+      "end": 16.6
+    },
+    {
+      "word": "need",
+      "start": 16.6,
+      "end": 16.76
+    },
+    {
+      "word": "to",
+      "start": 16.76,
+      "end": 16.8
+    },
+    {
+      "word": "press?",
+      "start": 16.8,
+      "end": 17.12
+    },
+    {
+      "word": "no",
+      "start": 18.7,
+      "end": 19.16
+    }
+  ],
+  "language": "en",
+  "word_count": 20,
+  "is_empty": false,
+  "is_very_short": false
+}

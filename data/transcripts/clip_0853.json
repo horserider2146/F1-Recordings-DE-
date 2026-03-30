@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_0853",
+  "text": "how's the balance, can we help anywhere? OK, Ollie, this one has been told not to attack. Good job, Ollie, mode race, mode race. OK, P6, good job. OK, Ollie, P5, P5.",
+  "words": [
+    {
+      "word": "how's",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "the",
+      "start": 0.24,
+      "end": 0.32
+    },
+    {
+      "word": "balance,",
+      "start": 0.32,
+      "end": 0.58
+    },
+    {
+      "word": "can",
+      "start": 0.7,
+      "end": 0.78
+    },
+    {
+      "word": "we",
+      "start": 0.78,
+      "end": 0.88
+    },
+    {
+      "word": "help",
+      "start": 0.88,
+      "end": 1.08
+    },
+    {
+      "word": "anywhere?",
+      "start": 1.08,
+      "end": 1.28
+    },
+    {
+      "word": "OK,",
+      "start": 4.56,
+      "end": 4.98
+    },
+    {
+      "word": "Ollie,",
+      "start": 6.24,
+      "end": 6.38
+    },
+    {
+      "word": "this",
+      "start": 6.74,
+      "end": 6.9
+    },
+    {
+      "word": "one",
+      "start": 6.9,
+      "end": 7.04
+    },
+    {
+      "word": "has",
+      "start": 7.04,
+      "end": 7.2
+    },
+    {
+      "word": "been",
+      "start": 7.2,
+      "end": 7.44
+    },
+    {
+      "word": "told",
+      "start": 7.44,
+      "end": 7.72
+    },
+    {
+      "word": "not",
+      "start": 7.72,
+      "end": 8.28
+    },
+    {
+      "word": "to",
+      "start": 8.28,
+      "end": 8.46
+    },
+    {
+      "word": "attack.",
+      "start": 8.46,
+      "end": 8.8
+    },
+    {
+      "word": "Good",
+      "start": 10.64,
+      "end": 11.06
+    },
+    {
+      "word": "job,",
+      "start": 11.06,
+      "end": 11.2
+    },
+    {
+      "word": "Ollie,",
+      "start": 11.28,
+      "end": 11.38
+    },
+    {
+      "word": "mode",
+      "start": 11.48,
+      "end": 11.6
+    },
+    {
+      "word": "race,",
+      "start": 11.6,
+      "end": 11.88
+    },
+    {
+      "word": "mode",
+      "start": 12.0,
+      "end": 12.12
+    },
+    {
+      "word": "race.",
+      "start": 12.12,
+      "end": 12.64
+    },
+    {
+      "word": "OK,",
+      "start": 13.9,
+      "end": 14.32
+    },
+    {
+      "word": "P6,",
+      "start": 14.42,
+      "end": 14.8
+    },
+    {
+      "word": "good",
+      "start": 14.98,
+      "end": 15.1
+    },
+    {
+      "word": "job.",
+      "start": 15.1,
+      "end": 15.36
+    },
+    {
+      "word": "OK,",
+      "start": 17.54,
+      "end": 17.8
+    },
+    {
+      "word": "Ollie,",
+      "start": 17.84,
+      "end": 17.96
+    },
+    {
+      "word": "P5,",
+      "start": 18.02,
+      "end": 18.44
+    },
+    {
+      "word": "P5.",
+      "start": 18.66,
+      "end": 19.0
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

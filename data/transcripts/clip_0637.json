@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_0637",
+  "text": "Yes. Happy to keep the flap.",
+  "words": [
+    {
+      "word": "Yes.",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "Happy",
+      "start": 1.46,
+      "end": 1.9
+    },
+    {
+      "word": "to",
+      "start": 1.9,
+      "end": 2.08
+    },
+    {
+      "word": "keep",
+      "start": 2.08,
+      "end": 2.28
+    },
+    {
+      "word": "the",
+      "start": 2.28,
+      "end": 2.48
+    },
+    {
+      "word": "flap.",
+      "start": 2.48,
+      "end": 2.68
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

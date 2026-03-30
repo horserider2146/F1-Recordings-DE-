@@ -1,0 +1,250 @@
+{
+  "clip_id": "clip_0508",
+  "text": "tires. Sink eighth gear if you can. For stopping, five behind. Gap ahead is all good. Just remember a good break into 14. For stopping, four behind. Finishing a push. For stopping, four. Three. Remember, go one, go one. For stopping, still three behind. Gap ahead is okay.",
+  "words": [
+    {
+      "word": "tires.",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "Sink",
+      "start": 2.18,
+      "end": 2.7
+    },
+    {
+      "word": "eighth",
+      "start": 2.7,
+      "end": 3.22
+    },
+    {
+      "word": "gear",
+      "start": 3.22,
+      "end": 3.5
+    },
+    {
+      "word": "if",
+      "start": 3.5,
+      "end": 3.66
+    },
+    {
+      "word": "you",
+      "start": 3.66,
+      "end": 3.74
+    },
+    {
+      "word": "can.",
+      "start": 3.74,
+      "end": 3.98
+    },
+    {
+      "word": "For",
+      "start": 4.3,
+      "end": 4.3
+    },
+    {
+      "word": "stopping,",
+      "start": 4.3,
+      "end": 4.6
+    },
+    {
+      "word": "five",
+      "start": 4.82,
+      "end": 5.08
+    },
+    {
+      "word": "behind.",
+      "start": 5.08,
+      "end": 5.42
+    },
+    {
+      "word": "Gap",
+      "start": 5.84,
+      "end": 6.16
+    },
+    {
+      "word": "ahead",
+      "start": 6.16,
+      "end": 6.34
+    },
+    {
+      "word": "is",
+      "start": 6.34,
+      "end": 6.52
+    },
+    {
+      "word": "all",
+      "start": 6.52,
+      "end": 6.66
+    },
+    {
+      "word": "good.",
+      "start": 6.66,
+      "end": 6.88
+    },
+    {
+      "word": "Just",
+      "start": 7.14,
+      "end": 7.24
+    },
+    {
+      "word": "remember",
+      "start": 7.24,
+      "end": 7.48
+    },
+    {
+      "word": "a",
+      "start": 7.48,
+      "end": 7.66
+    },
+    {
+      "word": "good",
+      "start": 7.66,
+      "end": 7.78
+    },
+    {
+      "word": "break",
+      "start": 7.78,
+      "end": 8.0
+    },
+    {
+      "word": "into",
+      "start": 8.0,
+      "end": 8.22
+    },
+    {
+      "word": "14.",
+      "start": 8.22,
+      "end": 8.6
+    },
+    {
+      "word": "For",
+      "start": 9.04,
+      "end": 9.2
+    },
+    {
+      "word": "stopping,",
+      "start": 9.2,
+      "end": 9.52
+    },
+    {
+      "word": "four",
+      "start": 9.86,
+      "end": 10.18
+    },
+    {
+      "word": "behind.",
+      "start": 10.18,
+      "end": 10.58
+    },
+    {
+      "word": "Finishing",
+      "start": 10.8,
+      "end": 11.12
+    },
+    {
+      "word": "a",
+      "start": 11.12,
+      "end": 11.26
+    },
+    {
+      "word": "push.",
+      "start": 11.26,
+      "end": 11.44
+    },
+    {
+      "word": "For",
+      "start": 11.8,
+      "end": 11.8
+    },
+    {
+      "word": "stopping,",
+      "start": 11.8,
+      "end": 12.06
+    },
+    {
+      "word": "four.",
+      "start": 12.26,
+      "end": 12.42
+    },
+    {
+      "word": "Three.",
+      "start": 13.18,
+      "end": 13.7
+    },
+    {
+      "word": "Remember,",
+      "start": 14.38,
+      "end": 14.76
+    },
+    {
+      "word": "go",
+      "start": 14.98,
+      "end": 15.16
+    },
+    {
+      "word": "one,",
+      "start": 15.16,
+      "end": 15.46
+    },
+    {
+      "word": "go",
+      "start": 15.7,
+      "end": 15.8
+    },
+    {
+      "word": "one.",
+      "start": 15.8,
+      "end": 16.08
+    },
+    {
+      "word": "For",
+      "start": 16.26,
+      "end": 16.38
+    },
+    {
+      "word": "stopping,",
+      "start": 16.38,
+      "end": 16.7
+    },
+    {
+      "word": "still",
+      "start": 16.82,
+      "end": 17.02
+    },
+    {
+      "word": "three",
+      "start": 17.02,
+      "end": 17.3
+    },
+    {
+      "word": "behind.",
+      "start": 17.3,
+      "end": 17.6
+    },
+    {
+      "word": "Gap",
+      "start": 17.88,
+      "end": 18.1
+    },
+    {
+      "word": "ahead",
+      "start": 18.1,
+      "end": 18.28
+    },
+    {
+      "word": "is",
+      "start": 18.28,
+      "end": 18.42
+    },
+    {
+      "word": "okay.",
+      "start": 18.42,
+      "end": 18.68
+    }
+  ],
+  "language": "en",
+  "word_count": 48,
+  "is_empty": false,
+  "is_very_short": false
+}

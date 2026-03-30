@@ -1,0 +1,135 @@
+{
+  "clip_id": "clip_0673",
+  "text": "if you can. The stop in front of you will be slow. Repeat Liam. Shape 2. Liam is behind reporting same issues with the front.",
+  "words": [
+    {
+      "word": "if",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "you",
+      "start": 0.4,
+      "end": 0.52
+    },
+    {
+      "word": "can.",
+      "start": 0.52,
+      "end": 0.78
+    },
+    {
+      "word": "The",
+      "start": 1.74,
+      "end": 2.36
+    },
+    {
+      "word": "stop",
+      "start": 2.36,
+      "end": 2.52
+    },
+    {
+      "word": "in",
+      "start": 2.52,
+      "end": 2.7
+    },
+    {
+      "word": "front",
+      "start": 2.7,
+      "end": 2.94
+    },
+    {
+      "word": "of",
+      "start": 2.94,
+      "end": 3.08
+    },
+    {
+      "word": "you",
+      "start": 3.08,
+      "end": 3.22
+    },
+    {
+      "word": "will",
+      "start": 3.22,
+      "end": 3.34
+    },
+    {
+      "word": "be",
+      "start": 3.34,
+      "end": 3.48
+    },
+    {
+      "word": "slow.",
+      "start": 3.48,
+      "end": 3.82
+    },
+    {
+      "word": "Repeat",
+      "start": 6.86,
+      "end": 7.56
+    },
+    {
+      "word": "Liam.",
+      "start": 7.56,
+      "end": 7.92
+    },
+    {
+      "word": "Shape",
+      "start": 12.4,
+      "end": 13.1
+    },
+    {
+      "word": "2.",
+      "start": 13.1,
+      "end": 13.48
+    },
+    {
+      "word": "Liam",
+      "start": 14.18,
+      "end": 14.64
+    },
+    {
+      "word": "is",
+      "start": 14.64,
+      "end": 14.92
+    },
+    {
+      "word": "behind",
+      "start": 14.92,
+      "end": 15.22
+    },
+    {
+      "word": "reporting",
+      "start": 15.22,
+      "end": 15.68
+    },
+    {
+      "word": "same",
+      "start": 15.68,
+      "end": 16.1
+    },
+    {
+      "word": "issues",
+      "start": 16.1,
+      "end": 16.48
+    },
+    {
+      "word": "with",
+      "start": 16.48,
+      "end": 16.68
+    },
+    {
+      "word": "the",
+      "start": 16.68,
+      "end": 16.76
+    },
+    {
+      "word": "front.",
+      "start": 16.76,
+      "end": 16.98
+    }
+  ],
+  "language": "en",
+  "word_count": 25,
+  "is_empty": false,
+  "is_very_short": false
+}

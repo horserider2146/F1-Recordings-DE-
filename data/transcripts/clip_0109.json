@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0109",
+  "text": "Just that traffic, the rest of the lap was quicker than Alex, Alex 35.1, MOTA 66, RLAP, work the brakes, feedback on the lap. OK, I'll do this lap. OK. First stop pushing will be just in case.",
+  "words": [
+    {
+      "word": "Just",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "that",
+      "start": 0.44,
+      "end": 0.64
+    },
+    {
+      "word": "traffic,",
+      "start": 0.64,
+      "end": 0.98
+    },
+    {
+      "word": "the",
+      "start": 1.12,
+      "end": 1.24
+    },
+    {
+      "word": "rest",
+      "start": 1.24,
+      "end": 2.26
+    },
+    {
+      "word": "of",
+      "start": 2.26,
+      "end": 2.36
+    },
+    {
+      "word": "the",
+      "start": 2.36,
+      "end": 2.42
+    },
+    {
+      "word": "lap",
+      "start": 2.42,
+      "end": 2.54
+    },
+    {
+      "word": "was",
+      "start": 2.54,
+      "end": 2.68
+    },
+    {
+      "word": "quicker",
+      "start": 2.68,
+      "end": 2.96
+    },
+    {
+      "word": "than",
+      "start": 2.96,
+      "end": 3.18
+    },
+    {
+      "word": "Alex,",
+      "start": 3.18,
+      "end": 3.5
+    },
+    {
+      "word": "Alex",
+      "start": 3.74,
+      "end": 4.0
+    },
+    {
+      "word": "35",
+      "start": 4.0,
+      "end": 4.66
+    },
+    {
+      "word": ".1,",
+      "start": 4.66,
+      "end": 5.36
+    },
+    {
+      "word": "MOTA",
+      "start": 6.04,
+      "end": 6.48
+    },
+    {
+      "word": "66,",
+      "start": 6.48,
+      "end": 6.84
+    },
+    {
+      "word": "RLAP,",
+      "start": 9.08,
+      "end": 9.52
+    },
+    {
+      "word": "work",
+      "start": 9.68,
+      "end": 9.84
+    },
+    {
+      "word": "the",
+      "start": 9.84,
+      "end": 10.0
+    },
+    {
+      "word": "brakes,",
+      "start": 10.0,
+      "end": 10.2
+    },
+    {
+      "word": "feedback",
+      "start": 10.42,
+      "end": 10.46
+    },
+    {
+      "word": "on",
+      "start": 10.46,
+      "end": 10.68
+    },
+    {
+      "word": "the",
+      "start": 10.68,
+      "end": 10.78
+    },
+    {
+      "word": "lap.",
+      "start": 10.78,
+      "end": 10.96
+    },
+    {
+      "word": "OK,",
+      "start": 11.68,
+      "end": 12.0
+    },
+    {
+      "word": "I'll",
+      "start": 12.36,
+      "end": 12.56
+    },
+    {
+      "word": "do",
+      "start": 12.56,
+      "end": 12.76
+    },
+    {
+      "word": "this",
+      "start": 12.76,
+      "end": 12.96
+    },
+    {
+      "word": "lap.",
+      "start": 12.96,
+      "end": 13.16
+    },
+    {
+      "word": "OK.",
+      "start": 13.86,
+      "end": 13.96
+    },
+    {
+      "word": "First",
+      "start": 17.68,
+      "end": 18.12
+    },
+    {
+      "word": "stop",
+      "start": 18.12,
+      "end": 18.3
+    },
+    {
+      "word": "pushing",
+      "start": 18.3,
+      "end": 18.56
+    },
+    {
+      "word": "will",
+      "start": 18.56,
+      "end": 18.76
+    },
+    {
+      "word": "be",
+      "start": 18.76,
+      "end": 18.92
+    },
+    {
+      "word": "just",
+      "start": 18.92,
+      "end": 19.24
+    },
+    {
+      "word": "in",
+      "start": 19.24,
+      "end": 19.5
+    },
+    {
+      "word": "case.",
+      "start": 19.5,
+      "end": 19.6
+    }
+  ],
+  "language": "en",
+  "word_count": 38,
+  "is_empty": false,
+  "is_very_short": false
+}

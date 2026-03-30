@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_0069",
+  "text": "I'm going to start to go long. Good test as far now. Good job. Okay, we'll manage. Head down. That was great. Slow vote on, higher PM. Yeah, shit, last sector. Oh, yeah, I can make a step. Yeah, see you later.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 1.04,
+      "end": 1.4
+    },
+    {
+      "word": "going",
+      "start": 1.4,
+      "end": 1.4
+    },
+    {
+      "word": "to",
+      "start": 1.4,
+      "end": 1.4
+    },
+    {
+      "word": "start",
+      "start": 1.4,
+      "end": 1.4
+    },
+    {
+      "word": "to",
+      "start": 1.4,
+      "end": 1.62
+    },
+    {
+      "word": "go",
+      "start": 1.62,
+      "end": 1.72
+    },
+    {
+      "word": "long.",
+      "start": 1.72,
+      "end": 1.88
+    },
+    {
+      "word": "Good",
+      "start": 2.86,
+      "end": 3.22
+    },
+    {
+      "word": "test",
+      "start": 3.22,
+      "end": 3.42
+    },
+    {
+      "word": "as",
+      "start": 3.42,
+      "end": 3.64
+    },
+    {
+      "word": "far",
+      "start": 3.64,
+      "end": 3.8
+    },
+    {
+      "word": "now.",
+      "start": 3.8,
+      "end": 3.98
+    },
+    {
+      "word": "Good",
+      "start": 4.6,
+      "end": 4.66
+    },
+    {
+      "word": "job.",
+      "start": 4.66,
+      "end": 4.84
+    },
+    {
+      "word": "Okay,",
+      "start": 6.44,
+      "end": 6.8
+    },
+    {
+      "word": "we'll",
+      "start": 6.86,
+      "end": 6.94
+    },
+    {
+      "word": "manage.",
+      "start": 6.94,
+      "end": 7.24
+    },
+    {
+      "word": "Head",
+      "start": 7.76,
+      "end": 7.86
+    },
+    {
+      "word": "down.",
+      "start": 7.86,
+      "end": 7.98
+    },
+    {
+      "word": "That",
+      "start": 10.1,
+      "end": 10.34
+    },
+    {
+      "word": "was",
+      "start": 10.34,
+      "end": 10.52
+    },
+    {
+      "word": "great.",
+      "start": 10.52,
+      "end": 10.84
+    },
+    {
+      "word": "Slow",
+      "start": 11.88,
+      "end": 12.16
+    },
+    {
+      "word": "vote",
+      "start": 12.16,
+      "end": 12.34
+    },
+    {
+      "word": "on,",
+      "start": 12.34,
+      "end": 12.56
+    },
+    {
+      "word": "higher",
+      "start": 12.78,
+      "end": 12.9
+    },
+    {
+      "word": "PM.",
+      "start": 12.9,
+      "end": 13.2
+    },
+    {
+      "word": "Yeah,",
+      "start": 14.86,
+      "end": 15.08
+    },
+    {
+      "word": "shit,",
+      "start": 15.18,
+      "end": 15.32
+    },
+    {
+      "word": "last",
+      "start": 15.42,
+      "end": 15.5
+    },
+    {
+      "word": "sector.",
+      "start": 15.5,
+      "end": 15.8
+    },
+    {
+      "word": "Oh,",
+      "start": 16.26,
+      "end": 16.38
+    },
+    {
+      "word": "yeah,",
+      "start": 16.5,
+      "end": 16.58
+    },
+    {
+      "word": "I",
+      "start": 16.58,
+      "end": 16.72
+    },
+    {
+      "word": "can",
+      "start": 16.72,
+      "end": 16.82
+    },
+    {
+      "word": "make",
+      "start": 16.82,
+      "end": 16.96
+    },
+    {
+      "word": "a",
+      "start": 16.96,
+      "end": 17.08
+    },
+    {
+      "word": "step.",
+      "start": 17.08,
+      "end": 17.24
+    },
+    {
+      "word": "Yeah,",
+      "start": 17.92,
+      "end": 18.14
+    },
+    {
+      "word": "see",
+      "start": 18.24,
+      "end": 18.38
+    },
+    {
+      "word": "you",
+      "start": 18.38,
+      "end": 18.5
+    },
+    {
+      "word": "later.",
+      "start": 18.5,
+      "end": 18.6
+    }
+  ],
+  "language": "en",
+  "word_count": 42,
+  "is_empty": false,
+  "is_very_short": false
+}

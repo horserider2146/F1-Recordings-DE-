@@ -1,0 +1,75 @@
+{
+  "clip_id": "clip_0534",
+  "text": "I'm about to grab some of the Markers. I can lock out more...",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 1.02,
+      "end": 1.36
+    },
+    {
+      "word": "about",
+      "start": 1.36,
+      "end": 1.48
+    },
+    {
+      "word": "to",
+      "start": 1.48,
+      "end": 1.66
+    },
+    {
+      "word": "grab",
+      "start": 1.66,
+      "end": 1.86
+    },
+    {
+      "word": "some",
+      "start": 1.86,
+      "end": 2.0
+    },
+    {
+      "word": "of",
+      "start": 2.0,
+      "end": 2.12
+    },
+    {
+      "word": "the",
+      "start": 2.12,
+      "end": 2.26
+    },
+    {
+      "word": "Markers.",
+      "start": 2.26,
+      "end": 2.72
+    },
+    {
+      "word": "I",
+      "start": 4.82,
+      "end": 5.16
+    },
+    {
+      "word": "can",
+      "start": 5.16,
+      "end": 5.28
+    },
+    {
+      "word": "lock",
+      "start": 5.28,
+      "end": 5.44
+    },
+    {
+      "word": "out",
+      "start": 5.44,
+      "end": 5.56
+    },
+    {
+      "word": "more...",
+      "start": 5.56,
+      "end": 5.86
+    }
+  ],
+  "language": "en",
+  "word_count": 13,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,255 @@
+{
+  "clip_id": "clip_0505",
+  "text": "Don't use any energy on this out lap. Don't use any energy. Hadjar six behind. Hadjar six behind. Just build up the tire temp with good pushing and we'll do weaving on the back straight. Traffic is OK. Hadjar four behind on a push and then the clerk 10.",
+  "words": [
+    {
+      "word": "Don't",
+      "start": 1.36,
+      "end": 1.9
+    },
+    {
+      "word": "use",
+      "start": 1.9,
+      "end": 2.08
+    },
+    {
+      "word": "any",
+      "start": 2.08,
+      "end": 2.32
+    },
+    {
+      "word": "energy",
+      "start": 2.32,
+      "end": 2.72
+    },
+    {
+      "word": "on",
+      "start": 2.72,
+      "end": 2.92
+    },
+    {
+      "word": "this",
+      "start": 2.92,
+      "end": 3.06
+    },
+    {
+      "word": "out",
+      "start": 3.06,
+      "end": 3.24
+    },
+    {
+      "word": "lap.",
+      "start": 3.24,
+      "end": 3.46
+    },
+    {
+      "word": "Don't",
+      "start": 3.86,
+      "end": 4.08
+    },
+    {
+      "word": "use",
+      "start": 4.08,
+      "end": 4.3
+    },
+    {
+      "word": "any",
+      "start": 4.3,
+      "end": 4.48
+    },
+    {
+      "word": "energy.",
+      "start": 4.48,
+      "end": 4.88
+    },
+    {
+      "word": "Hadjar",
+      "start": 5.42,
+      "end": 5.82
+    },
+    {
+      "word": "six",
+      "start": 5.82,
+      "end": 6.12
+    },
+    {
+      "word": "behind.",
+      "start": 6.12,
+      "end": 6.58
+    },
+    {
+      "word": "Hadjar",
+      "start": 7.02,
+      "end": 7.52
+    },
+    {
+      "word": "six",
+      "start": 7.52,
+      "end": 7.8
+    },
+    {
+      "word": "behind.",
+      "start": 7.8,
+      "end": 8.22
+    },
+    {
+      "word": "Just",
+      "start": 9.58,
+      "end": 10.12
+    },
+    {
+      "word": "build",
+      "start": 10.12,
+      "end": 10.32
+    },
+    {
+      "word": "up",
+      "start": 10.32,
+      "end": 10.5
+    },
+    {
+      "word": "the",
+      "start": 10.5,
+      "end": 10.64
+    },
+    {
+      "word": "tire",
+      "start": 10.64,
+      "end": 10.9
+    },
+    {
+      "word": "temp",
+      "start": 10.9,
+      "end": 11.14
+    },
+    {
+      "word": "with",
+      "start": 11.14,
+      "end": 11.66
+    },
+    {
+      "word": "good",
+      "start": 11.66,
+      "end": 11.88
+    },
+    {
+      "word": "pushing",
+      "start": 11.88,
+      "end": 12.24
+    },
+    {
+      "word": "and",
+      "start": 12.24,
+      "end": 12.4
+    },
+    {
+      "word": "we'll",
+      "start": 12.4,
+      "end": 12.54
+    },
+    {
+      "word": "do",
+      "start": 12.54,
+      "end": 12.66
+    },
+    {
+      "word": "weaving",
+      "start": 12.66,
+      "end": 12.96
+    },
+    {
+      "word": "on",
+      "start": 12.96,
+      "end": 13.18
+    },
+    {
+      "word": "the",
+      "start": 13.18,
+      "end": 13.26
+    },
+    {
+      "word": "back",
+      "start": 13.26,
+      "end": 13.46
+    },
+    {
+      "word": "straight.",
+      "start": 13.46,
+      "end": 13.74
+    },
+    {
+      "word": "Traffic",
+      "start": 14.36,
+      "end": 14.7
+    },
+    {
+      "word": "is",
+      "start": 14.7,
+      "end": 14.92
+    },
+    {
+      "word": "OK.",
+      "start": 14.92,
+      "end": 15.14
+    },
+    {
+      "word": "Hadjar",
+      "start": 15.82,
+      "end": 16.2
+    },
+    {
+      "word": "four",
+      "start": 16.2,
+      "end": 16.5
+    },
+    {
+      "word": "behind",
+      "start": 16.5,
+      "end": 16.88
+    },
+    {
+      "word": "on",
+      "start": 16.88,
+      "end": 17.06
+    },
+    {
+      "word": "a",
+      "start": 17.06,
+      "end": 17.14
+    },
+    {
+      "word": "push",
+      "start": 17.14,
+      "end": 17.48
+    },
+    {
+      "word": "and",
+      "start": 17.48,
+      "end": 17.94
+    },
+    {
+      "word": "then",
+      "start": 17.94,
+      "end": 18.04
+    },
+    {
+      "word": "the",
+      "start": 18.04,
+      "end": 18.18
+    },
+    {
+      "word": "clerk",
+      "start": 18.18,
+      "end": 18.44
+    },
+    {
+      "word": "10.",
+      "start": 18.44,
+      "end": 18.96
+    }
+  ],
+  "language": "en",
+  "word_count": 49,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0560",
+  "text": "Second sector, you were 1-10 faster. And 2-10 faster, second. Both are lit to 5 behind. That's going to last corner. Yes, we saw. Both are lit to 3.",
+  "words": [
+    {
+      "word": "Second",
+      "start": 2.36,
+      "end": 2.82
+    },
+    {
+      "word": "sector,",
+      "start": 2.82,
+      "end": 3.28
+    },
+    {
+      "word": "you",
+      "start": 3.44,
+      "end": 4.04
+    },
+    {
+      "word": "were",
+      "start": 4.04,
+      "end": 4.2
+    },
+    {
+      "word": "1",
+      "start": 4.2,
+      "end": 4.44
+    },
+    {
+      "word": "-10",
+      "start": 4.44,
+      "end": 4.6
+    },
+    {
+      "word": "faster.",
+      "start": 4.6,
+      "end": 4.9
+    },
+    {
+      "word": "And",
+      "start": 7.68,
+      "end": 8.14
+    },
+    {
+      "word": "2",
+      "start": 8.14,
+      "end": 8.36
+    },
+    {
+      "word": "-10",
+      "start": 8.36,
+      "end": 8.54
+    },
+    {
+      "word": "faster,",
+      "start": 8.54,
+      "end": 8.84
+    },
+    {
+      "word": "second.",
+      "start": 9.08,
+      "end": 9.26
+    },
+    {
+      "word": "Both",
+      "start": 10.82,
+      "end": 11.16
+    },
+    {
+      "word": "are",
+      "start": 11.16,
+      "end": 11.28
+    },
+    {
+      "word": "lit",
+      "start": 11.28,
+      "end": 11.44
+    },
+    {
+      "word": "to",
+      "start": 11.44,
+      "end": 11.56
+    },
+    {
+      "word": "5",
+      "start": 11.56,
+      "end": 11.88
+    },
+    {
+      "word": "behind.",
+      "start": 11.88,
+      "end": 12.24
+    },
+    {
+      "word": "That's",
+      "start": 13.66,
+      "end": 14.12
+    },
+    {
+      "word": "going",
+      "start": 14.12,
+      "end": 14.28
+    },
+    {
+      "word": "to",
+      "start": 14.28,
+      "end": 14.32
+    },
+    {
+      "word": "last",
+      "start": 14.32,
+      "end": 14.52
+    },
+    {
+      "word": "corner.",
+      "start": 14.52,
+      "end": 14.72
+    },
+    {
+      "word": "Yes,",
+      "start": 16.06,
+      "end": 16.52
+    },
+    {
+      "word": "we",
+      "start": 16.62,
+      "end": 16.7
+    },
+    {
+      "word": "saw.",
+      "start": 16.7,
+      "end": 16.82
+    },
+    {
+      "word": "Both",
+      "start": 18.64,
+      "end": 19.1
+    },
+    {
+      "word": "are",
+      "start": 19.1,
+      "end": 19.24
+    },
+    {
+      "word": "lit",
+      "start": 19.24,
+      "end": 19.38
+    },
+    {
+      "word": "to",
+      "start": 19.38,
+      "end": 19.5
+    },
+    {
+      "word": "3.",
+      "start": 19.5,
+      "end": 19.66
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

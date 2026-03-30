@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_0329",
+  "text": "Copy, we will wish to use this tire again in the next session. We've got another new tire, haven't we? Yeah, hey, Phil. How much would you like to add? We've got more than 15. Quite great. So, we'll box, box, stop.",
+  "words": [
+    {
+      "word": "Copy,",
+      "start": 0.0,
+      "end": 0.64
+    },
+    {
+      "word": "we",
+      "start": 0.94,
+      "end": 1.34
+    },
+    {
+      "word": "will",
+      "start": 1.34,
+      "end": 1.68
+    },
+    {
+      "word": "wish",
+      "start": 1.68,
+      "end": 2.18
+    },
+    {
+      "word": "to",
+      "start": 2.18,
+      "end": 2.34
+    },
+    {
+      "word": "use",
+      "start": 2.34,
+      "end": 2.56
+    },
+    {
+      "word": "this",
+      "start": 2.56,
+      "end": 2.7
+    },
+    {
+      "word": "tire",
+      "start": 2.7,
+      "end": 2.96
+    },
+    {
+      "word": "again",
+      "start": 2.96,
+      "end": 3.24
+    },
+    {
+      "word": "in",
+      "start": 3.24,
+      "end": 3.48
+    },
+    {
+      "word": "the",
+      "start": 3.48,
+      "end": 3.56
+    },
+    {
+      "word": "next",
+      "start": 3.56,
+      "end": 3.7
+    },
+    {
+      "word": "session.",
+      "start": 3.7,
+      "end": 4.04
+    },
+    {
+      "word": "We've",
+      "start": 5.38,
+      "end": 5.82
+    },
+    {
+      "word": "got",
+      "start": 5.82,
+      "end": 5.94
+    },
+    {
+      "word": "another",
+      "start": 5.94,
+      "end": 6.16
+    },
+    {
+      "word": "new",
+      "start": 6.16,
+      "end": 6.34
+    },
+    {
+      "word": "tire,",
+      "start": 6.34,
+      "end": 6.6
+    },
+    {
+      "word": "haven't",
+      "start": 6.72,
+      "end": 6.82
+    },
+    {
+      "word": "we?",
+      "start": 6.82,
+      "end": 6.96
+    },
+    {
+      "word": "Yeah,",
+      "start": 8.6,
+      "end": 9.04
+    },
+    {
+      "word": "hey,",
+      "start": 9.12,
+      "end": 9.2
+    },
+    {
+      "word": "Phil.",
+      "start": 9.24,
+      "end": 9.3
+    },
+    {
+      "word": "How",
+      "start": 10.52,
+      "end": 10.7
+    },
+    {
+      "word": "much",
+      "start": 10.7,
+      "end": 10.86
+    },
+    {
+      "word": "would",
+      "start": 10.86,
+      "end": 10.96
+    },
+    {
+      "word": "you",
+      "start": 10.96,
+      "end": 11.08
+    },
+    {
+      "word": "like",
+      "start": 11.08,
+      "end": 11.2
+    },
+    {
+      "word": "to",
+      "start": 11.2,
+      "end": 11.36
+    },
+    {
+      "word": "add?",
+      "start": 11.36,
+      "end": 11.44
+    },
+    {
+      "word": "We've",
+      "start": 12.3,
+      "end": 12.54
+    },
+    {
+      "word": "got",
+      "start": 12.54,
+      "end": 12.64
+    },
+    {
+      "word": "more",
+      "start": 12.64,
+      "end": 12.94
+    },
+    {
+      "word": "than",
+      "start": 12.94,
+      "end": 13.16
+    },
+    {
+      "word": "15.",
+      "start": 13.16,
+      "end": 13.68
+    },
+    {
+      "word": "Quite",
+      "start": 15.5,
+      "end": 15.78
+    },
+    {
+      "word": "great.",
+      "start": 15.78,
+      "end": 15.96
+    },
+    {
+      "word": "So,",
+      "start": 18.16,
+      "end": 18.46
+    },
+    {
+      "word": "we'll",
+      "start": 18.7,
+      "end": 18.92
+    },
+    {
+      "word": "box,",
+      "start": 18.92,
+      "end": 19.48
+    },
+    {
+      "word": "box,",
+      "start": 19.56,
+      "end": 19.82
+    },
+    {
+      "word": "stop.",
+      "start": 19.92,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 42,
+  "is_empty": false,
+  "is_very_short": false
+}

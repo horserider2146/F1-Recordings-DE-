@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0475",
+  "text": "option for you. The up-car is taken. It's been 5. It'll be HPP 9 position 40. 9 position 40. 10 laps remaining. George 36-4. You now have roll power into 7. George 35-6.",
+  "words": [
+    {
+      "word": "option",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "for",
+      "start": 0.26,
+      "end": 0.46
+    },
+    {
+      "word": "you.",
+      "start": 0.46,
+      "end": 0.64
+    },
+    {
+      "word": "The",
+      "start": 1.4,
+      "end": 1.76
+    },
+    {
+      "word": "up",
+      "start": 1.76,
+      "end": 1.96
+    },
+    {
+      "word": "-car",
+      "start": 1.96,
+      "end": 2.12
+    },
+    {
+      "word": "is",
+      "start": 2.12,
+      "end": 2.26
+    },
+    {
+      "word": "taken.",
+      "start": 2.26,
+      "end": 2.42
+    },
+    {
+      "word": "It's",
+      "start": 3.14,
+      "end": 3.8
+    },
+    {
+      "word": "been",
+      "start": 3.8,
+      "end": 3.92
+    },
+    {
+      "word": "5.",
+      "start": 3.92,
+      "end": 4.3
+    },
+    {
+      "word": "It'll",
+      "start": 6.1,
+      "end": 6.32
+    },
+    {
+      "word": "be",
+      "start": 6.32,
+      "end": 6.5
+    },
+    {
+      "word": "HPP",
+      "start": 6.5,
+      "end": 7.16
+    },
+    {
+      "word": "9",
+      "start": 7.16,
+      "end": 7.44
+    },
+    {
+      "word": "position",
+      "start": 7.44,
+      "end": 7.8
+    },
+    {
+      "word": "40.",
+      "start": 7.8,
+      "end": 8.44
+    },
+    {
+      "word": "9",
+      "start": 8.88,
+      "end": 9.1
+    },
+    {
+      "word": "position",
+      "start": 9.1,
+      "end": 9.66
+    },
+    {
+      "word": "40.",
+      "start": 9.66,
+      "end": 10.5
+    },
+    {
+      "word": "10",
+      "start": 12.0,
+      "end": 12.72
+    },
+    {
+      "word": "laps",
+      "start": 12.72,
+      "end": 12.9
+    },
+    {
+      "word": "remaining.",
+      "start": 12.9,
+      "end": 13.26
+    },
+    {
+      "word": "George",
+      "start": 13.58,
+      "end": 13.74
+    },
+    {
+      "word": "36",
+      "start": 13.74,
+      "end": 14.24
+    },
+    {
+      "word": "-4.",
+      "start": 14.24,
+      "end": 14.76
+    },
+    {
+      "word": "You",
+      "start": 15.62,
+      "end": 15.98
+    },
+    {
+      "word": "now",
+      "start": 15.98,
+      "end": 16.14
+    },
+    {
+      "word": "have",
+      "start": 16.14,
+      "end": 16.28
+    },
+    {
+      "word": "roll",
+      "start": 16.28,
+      "end": 16.48
+    },
+    {
+      "word": "power",
+      "start": 16.48,
+      "end": 16.82
+    },
+    {
+      "word": "into",
+      "start": 16.82,
+      "end": 17.14
+    },
+    {
+      "word": "7.",
+      "start": 17.14,
+      "end": 17.54
+    },
+    {
+      "word": "George",
+      "start": 18.26,
+      "end": 18.98
+    },
+    {
+      "word": "35",
+      "start": 18.98,
+      "end": 19.52
+    },
+    {
+      "word": "-6.",
+      "start": 19.52,
+      "end": 19.88
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

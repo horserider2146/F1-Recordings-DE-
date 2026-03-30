@@ -1,0 +1,160 @@
+{
+  "clip_id": "clip_0850",
+  "text": "Copy, quite lucky. Safety car in the slab, it's got to get to the end. Remember no overtaking with waterline. Nelly has to pack the 13. Motorized to the restart.",
+  "words": [
+    {
+      "word": "Copy,",
+      "start": 0.0,
+      "end": 0.68
+    },
+    {
+      "word": "quite",
+      "start": 1.26,
+      "end": 1.98
+    },
+    {
+      "word": "lucky.",
+      "start": 1.98,
+      "end": 2.26
+    },
+    {
+      "word": "Safety",
+      "start": 5.1,
+      "end": 5.74
+    },
+    {
+      "word": "car",
+      "start": 5.74,
+      "end": 6.08
+    },
+    {
+      "word": "in",
+      "start": 6.08,
+      "end": 6.24
+    },
+    {
+      "word": "the",
+      "start": 6.24,
+      "end": 6.42
+    },
+    {
+      "word": "slab,",
+      "start": 6.42,
+      "end": 6.62
+    },
+    {
+      "word": "it's",
+      "start": 6.9,
+      "end": 7.3
+    },
+    {
+      "word": "got",
+      "start": 7.3,
+      "end": 7.4
+    },
+    {
+      "word": "to",
+      "start": 7.4,
+      "end": 7.48
+    },
+    {
+      "word": "get",
+      "start": 7.48,
+      "end": 7.58
+    },
+    {
+      "word": "to",
+      "start": 7.58,
+      "end": 7.78
+    },
+    {
+      "word": "the",
+      "start": 7.78,
+      "end": 7.78
+    },
+    {
+      "word": "end.",
+      "start": 7.78,
+      "end": 8.02
+    },
+    {
+      "word": "Remember",
+      "start": 10.12,
+      "end": 10.64
+    },
+    {
+      "word": "no",
+      "start": 10.64,
+      "end": 11.02
+    },
+    {
+      "word": "overtaking",
+      "start": 11.02,
+      "end": 11.52
+    },
+    {
+      "word": "with",
+      "start": 11.52,
+      "end": 11.74
+    },
+    {
+      "word": "waterline.",
+      "start": 11.74,
+      "end": 12.18
+    },
+    {
+      "word": "Nelly",
+      "start": 14.28,
+      "end": 14.84
+    },
+    {
+      "word": "has",
+      "start": 14.84,
+      "end": 14.98
+    },
+    {
+      "word": "to",
+      "start": 14.98,
+      "end": 15.12
+    },
+    {
+      "word": "pack",
+      "start": 15.12,
+      "end": 15.42
+    },
+    {
+      "word": "the",
+      "start": 15.42,
+      "end": 15.66
+    },
+    {
+      "word": "13.",
+      "start": 15.66,
+      "end": 16.06
+    },
+    {
+      "word": "Motorized",
+      "start": 17.82,
+      "end": 18.46
+    },
+    {
+      "word": "to",
+      "start": 18.46,
+      "end": 18.62
+    },
+    {
+      "word": "the",
+      "start": 18.62,
+      "end": 18.7
+    },
+    {
+      "word": "restart.",
+      "start": 18.7,
+      "end": 18.94
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

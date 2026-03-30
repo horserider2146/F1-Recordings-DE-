@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_0412",
+  "text": "100s to George. Lewis at 3.5 seconds. So Lewis car behind, then no pressure. Next round lap will be science but he's 14 seconds away. Okay, lost to George, braking at turn 14, that's 7 hundredths. You a purple middle sector.",
+  "words": [
+    {
+      "word": "100s",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "word": "to",
+      "start": 0.56,
+      "end": 0.94
+    },
+    {
+      "word": "George.",
+      "start": 0.94,
+      "end": 1.24
+    },
+    {
+      "word": "Lewis",
+      "start": 2.26,
+      "end": 2.86
+    },
+    {
+      "word": "at",
+      "start": 2.86,
+      "end": 3.16
+    },
+    {
+      "word": "3",
+      "start": 3.16,
+      "end": 3.78
+    },
+    {
+      "word": ".5",
+      "start": 3.78,
+      "end": 4.04
+    },
+    {
+      "word": "seconds.",
+      "start": 4.04,
+      "end": 4.46
+    },
+    {
+      "word": "So",
+      "start": 5.56,
+      "end": 6.16
+    },
+    {
+      "word": "Lewis",
+      "start": 6.16,
+      "end": 6.32
+    },
+    {
+      "word": "car",
+      "start": 6.32,
+      "end": 6.52
+    },
+    {
+      "word": "behind,",
+      "start": 6.52,
+      "end": 6.8
+    },
+    {
+      "word": "then",
+      "start": 7.3,
+      "end": 7.48
+    },
+    {
+      "word": "no",
+      "start": 7.48,
+      "end": 7.68
+    },
+    {
+      "word": "pressure.",
+      "start": 7.68,
+      "end": 7.98
+    },
+    {
+      "word": "Next",
+      "start": 10.22,
+      "end": 10.5
+    },
+    {
+      "word": "round",
+      "start": 10.5,
+      "end": 10.68
+    },
+    {
+      "word": "lap",
+      "start": 10.68,
+      "end": 10.88
+    },
+    {
+      "word": "will",
+      "start": 10.88,
+      "end": 11.04
+    },
+    {
+      "word": "be",
+      "start": 11.04,
+      "end": 11.18
+    },
+    {
+      "word": "science",
+      "start": 11.18,
+      "end": 11.56
+    },
+    {
+      "word": "but",
+      "start": 11.56,
+      "end": 11.84
+    },
+    {
+      "word": "he's",
+      "start": 11.84,
+      "end": 12.06
+    },
+    {
+      "word": "14",
+      "start": 12.06,
+      "end": 12.38
+    },
+    {
+      "word": "seconds",
+      "start": 12.38,
+      "end": 12.74
+    },
+    {
+      "word": "away.",
+      "start": 12.74,
+      "end": 13.08
+    },
+    {
+      "word": "Okay,",
+      "start": 14.72,
+      "end": 15.16
+    },
+    {
+      "word": "lost",
+      "start": 15.22,
+      "end": 15.34
+    },
+    {
+      "word": "to",
+      "start": 15.34,
+      "end": 15.46
+    },
+    {
+      "word": "George,",
+      "start": 15.46,
+      "end": 15.64
+    },
+    {
+      "word": "braking",
+      "start": 15.72,
+      "end": 16.06
+    },
+    {
+      "word": "at",
+      "start": 16.06,
+      "end": 16.4
+    },
+    {
+      "word": "turn",
+      "start": 16.4,
+      "end": 16.52
+    },
+    {
+      "word": "14,",
+      "start": 16.52,
+      "end": 16.98
+    },
+    {
+      "word": "that's",
+      "start": 17.2,
+      "end": 17.46
+    },
+    {
+      "word": "7",
+      "start": 17.46,
+      "end": 17.7
+    },
+    {
+      "word": "hundredths.",
+      "start": 17.7,
+      "end": 18.5
+    },
+    {
+      "word": "You",
+      "start": 18.64,
+      "end": 18.84
+    },
+    {
+      "word": "a",
+      "start": 18.84,
+      "end": 18.96
+    },
+    {
+      "word": "purple",
+      "start": 18.96,
+      "end": 19.16
+    },
+    {
+      "word": "middle",
+      "start": 19.16,
+      "end": 19.42
+    },
+    {
+      "word": "sector.",
+      "start": 19.42,
+      "end": 19.74
+    }
+  ],
+  "language": "en",
+  "word_count": 41,
+  "is_empty": false,
+  "is_very_short": false
+}

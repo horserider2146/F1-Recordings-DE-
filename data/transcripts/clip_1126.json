@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_1126",
+  "text": "Alright, the position is good. We've got one minute until the grief. So we're happy to keep the engine running. 20 seconds. Five seconds. Green light. Alright, so let's focus on...",
+  "words": [
+    {
+      "word": "Alright,",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "the",
+      "start": 0.4,
+      "end": 0.4
+    },
+    {
+      "word": "position",
+      "start": 0.4,
+      "end": 0.68
+    },
+    {
+      "word": "is",
+      "start": 0.68,
+      "end": 0.88
+    },
+    {
+      "word": "good.",
+      "start": 0.88,
+      "end": 1.04
+    },
+    {
+      "word": "We've",
+      "start": 1.22,
+      "end": 1.38
+    },
+    {
+      "word": "got",
+      "start": 1.38,
+      "end": 1.5
+    },
+    {
+      "word": "one",
+      "start": 1.5,
+      "end": 1.72
+    },
+    {
+      "word": "minute",
+      "start": 1.72,
+      "end": 1.98
+    },
+    {
+      "word": "until",
+      "start": 1.98,
+      "end": 2.36
+    },
+    {
+      "word": "the",
+      "start": 2.36,
+      "end": 2.5
+    },
+    {
+      "word": "grief.",
+      "start": 2.5,
+      "end": 2.68
+    },
+    {
+      "word": "So",
+      "start": 4.1,
+      "end": 4.6
+    },
+    {
+      "word": "we're",
+      "start": 4.6,
+      "end": 4.7
+    },
+    {
+      "word": "happy",
+      "start": 4.7,
+      "end": 4.86
+    },
+    {
+      "word": "to",
+      "start": 4.86,
+      "end": 5.08
+    },
+    {
+      "word": "keep",
+      "start": 5.08,
+      "end": 5.34
+    },
+    {
+      "word": "the",
+      "start": 5.34,
+      "end": 5.52
+    },
+    {
+      "word": "engine",
+      "start": 5.52,
+      "end": 5.72
+    },
+    {
+      "word": "running.",
+      "start": 5.72,
+      "end": 6.04
+    },
+    {
+      "word": "20",
+      "start": 7.88,
+      "end": 8.38
+    },
+    {
+      "word": "seconds.",
+      "start": 8.38,
+      "end": 8.8
+    },
+    {
+      "word": "Five",
+      "start": 12.32,
+      "end": 12.82
+    },
+    {
+      "word": "seconds.",
+      "start": 12.82,
+      "end": 13.3
+    },
+    {
+      "word": "Green",
+      "start": 15.08,
+      "end": 15.58
+    },
+    {
+      "word": "light.",
+      "start": 15.58,
+      "end": 15.82
+    },
+    {
+      "word": "Alright,",
+      "start": 18.32,
+      "end": 18.82
+    },
+    {
+      "word": "so",
+      "start": 19.04,
+      "end": 19.18
+    },
+    {
+      "word": "let's",
+      "start": 19.18,
+      "end": 19.44
+    },
+    {
+      "word": "focus",
+      "start": 19.44,
+      "end": 19.8
+    },
+    {
+      "word": "on...",
+      "start": 19.8,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

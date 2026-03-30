@@ -1,0 +1,105 @@
+{
+  "clip_id": "clip_0091",
+  "text": "Okay, I'm just on the track position. I would like to hold position where we are. Let's do it.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "I'm",
+      "start": 0.34,
+      "end": 0.54
+    },
+    {
+      "word": "just",
+      "start": 0.54,
+      "end": 0.78
+    },
+    {
+      "word": "on",
+      "start": 0.78,
+      "end": 1.02
+    },
+    {
+      "word": "the",
+      "start": 1.02,
+      "end": 1.12
+    },
+    {
+      "word": "track",
+      "start": 1.12,
+      "end": 1.36
+    },
+    {
+      "word": "position.",
+      "start": 1.36,
+      "end": 1.68
+    },
+    {
+      "word": "I",
+      "start": 1.84,
+      "end": 1.84
+    },
+    {
+      "word": "would",
+      "start": 1.84,
+      "end": 1.92
+    },
+    {
+      "word": "like",
+      "start": 1.92,
+      "end": 2.08
+    },
+    {
+      "word": "to",
+      "start": 2.08,
+      "end": 2.26
+    },
+    {
+      "word": "hold",
+      "start": 2.26,
+      "end": 2.76
+    },
+    {
+      "word": "position",
+      "start": 2.76,
+      "end": 3.14
+    },
+    {
+      "word": "where",
+      "start": 3.14,
+      "end": 3.44
+    },
+    {
+      "word": "we",
+      "start": 3.44,
+      "end": 3.66
+    },
+    {
+      "word": "are.",
+      "start": 3.66,
+      "end": 3.76
+    },
+    {
+      "word": "Let's",
+      "start": 3.88,
+      "end": 4.02
+    },
+    {
+      "word": "do",
+      "start": 4.02,
+      "end": 4.2
+    },
+    {
+      "word": "it.",
+      "start": 4.2,
+      "end": 4.32
+    }
+  ],
+  "language": "en",
+  "word_count": 19,
+  "is_empty": false,
+  "is_very_short": false
+}

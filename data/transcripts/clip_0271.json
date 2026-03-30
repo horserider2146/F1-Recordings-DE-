@@ -1,0 +1,120 @@
+{
+  "clip_id": "clip_0271",
+  "text": "25 Solid blues Done Switch position yellow 10 laps to go Solid blues Brake balance minus 1, brake shape plus 1 Done",
+  "words": [
+    {
+      "word": "25",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "Solid",
+      "start": 1.6,
+      "end": 2.44
+    },
+    {
+      "word": "blues",
+      "start": 2.44,
+      "end": 2.8
+    },
+    {
+      "word": "Done",
+      "start": 3.7,
+      "end": 4.54
+    },
+    {
+      "word": "Switch",
+      "start": 6.7,
+      "end": 7.12
+    },
+    {
+      "word": "position",
+      "start": 7.12,
+      "end": 7.8
+    },
+    {
+      "word": "yellow",
+      "start": 7.8,
+      "end": 8.32
+    },
+    {
+      "word": "10",
+      "start": 9.74,
+      "end": 10.16
+    },
+    {
+      "word": "laps",
+      "start": 10.16,
+      "end": 10.44
+    },
+    {
+      "word": "to",
+      "start": 10.44,
+      "end": 10.64
+    },
+    {
+      "word": "go",
+      "start": 10.64,
+      "end": 10.94
+    },
+    {
+      "word": "Solid",
+      "start": 12.0,
+      "end": 12.54
+    },
+    {
+      "word": "blues",
+      "start": 12.54,
+      "end": 12.92
+    },
+    {
+      "word": "Brake",
+      "start": 14.84,
+      "end": 15.26
+    },
+    {
+      "word": "balance",
+      "start": 15.26,
+      "end": 15.68
+    },
+    {
+      "word": "minus",
+      "start": 15.68,
+      "end": 16.02
+    },
+    {
+      "word": "1,",
+      "start": 16.02,
+      "end": 16.44
+    },
+    {
+      "word": "brake",
+      "start": 16.62,
+      "end": 16.88
+    },
+    {
+      "word": "shape",
+      "start": 16.88,
+      "end": 17.18
+    },
+    {
+      "word": "plus",
+      "start": 17.18,
+      "end": 17.58
+    },
+    {
+      "word": "1",
+      "start": 17.58,
+      "end": 18.3
+    },
+    {
+      "word": "Done",
+      "start": 18.3,
+      "end": 19.84
+    }
+  ],
+  "language": "en",
+  "word_count": 22,
+  "is_empty": false,
+  "is_very_short": false
+}

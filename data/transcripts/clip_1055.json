@@ -1,0 +1,75 @@
+{
+  "clip_id": "clip_1055",
+  "text": "It says I want to start the dinner, I think it's fucked up.",
+  "words": [
+    {
+      "word": "It",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "says",
+      "start": 0.16,
+      "end": 0.32
+    },
+    {
+      "word": "I",
+      "start": 0.32,
+      "end": 0.52
+    },
+    {
+      "word": "want",
+      "start": 0.52,
+      "end": 0.66
+    },
+    {
+      "word": "to",
+      "start": 0.66,
+      "end": 0.76
+    },
+    {
+      "word": "start",
+      "start": 0.76,
+      "end": 0.96
+    },
+    {
+      "word": "the",
+      "start": 0.96,
+      "end": 1.14
+    },
+    {
+      "word": "dinner,",
+      "start": 1.14,
+      "end": 1.4
+    },
+    {
+      "word": "I",
+      "start": 1.48,
+      "end": 1.5
+    },
+    {
+      "word": "think",
+      "start": 1.5,
+      "end": 1.62
+    },
+    {
+      "word": "it's",
+      "start": 1.62,
+      "end": 2.14
+    },
+    {
+      "word": "fucked",
+      "start": 2.14,
+      "end": 2.36
+    },
+    {
+      "word": "up.",
+      "start": 2.36,
+      "end": 2.56
+    }
+  ],
+  "language": "en",
+  "word_count": 13,
+  "is_empty": false,
+  "is_very_short": false
+}

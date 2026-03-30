@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_0807",
+  "text": "So it's both of that took in a do",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.66,
+      "end": 0.94
+    },
+    {
+      "word": "it's",
+      "start": 0.94,
+      "end": 1.16
+    },
+    {
+      "word": "both",
+      "start": 1.16,
+      "end": 1.28
+    },
+    {
+      "word": "of",
+      "start": 1.28,
+      "end": 1.38
+    },
+    {
+      "word": "that",
+      "start": 1.38,
+      "end": 1.52
+    },
+    {
+      "word": "took",
+      "start": 1.52,
+      "end": 1.64
+    },
+    {
+      "word": "in",
+      "start": 1.64,
+      "end": 1.82
+    },
+    {
+      "word": "a",
+      "start": 1.82,
+      "end": 1.9
+    },
+    {
+      "word": "do",
+      "start": 1.9,
+      "end": 2.12
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

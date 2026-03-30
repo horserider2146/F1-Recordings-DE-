@@ -1,0 +1,135 @@
+{
+  "clip_id": "clip_0264",
+  "text": "No radio, repeat. Run, run, run. Antoneli 36-5, you do the 36-8. Diff, mid, minus 1. Antoneli 37-1. Russell 0.8 with...",
+  "words": [
+    {
+      "word": "No",
+      "start": 0.0,
+      "end": 0.74
+    },
+    {
+      "word": "radio,",
+      "start": 0.74,
+      "end": 1.2
+    },
+    {
+      "word": "repeat.",
+      "start": 1.4,
+      "end": 1.72
+    },
+    {
+      "word": "Run,",
+      "start": 2.52,
+      "end": 2.76
+    },
+    {
+      "word": "run,",
+      "start": 3.04,
+      "end": 3.36
+    },
+    {
+      "word": "run.",
+      "start": 3.58,
+      "end": 3.96
+    },
+    {
+      "word": "Antoneli",
+      "start": 5.68,
+      "end": 6.52
+    },
+    {
+      "word": "36",
+      "start": 6.52,
+      "end": 7.1
+    },
+    {
+      "word": "-5,",
+      "start": 7.1,
+      "end": 7.52
+    },
+    {
+      "word": "you",
+      "start": 7.66,
+      "end": 7.7
+    },
+    {
+      "word": "do",
+      "start": 7.7,
+      "end": 7.78
+    },
+    {
+      "word": "the",
+      "start": 7.78,
+      "end": 7.9
+    },
+    {
+      "word": "36",
+      "start": 7.9,
+      "end": 8.44
+    },
+    {
+      "word": "-8.",
+      "start": 8.44,
+      "end": 9.3
+    },
+    {
+      "word": "Diff,",
+      "start": 11.1,
+      "end": 11.94
+    },
+    {
+      "word": "mid,",
+      "start": 12.2,
+      "end": 12.6
+    },
+    {
+      "word": "minus",
+      "start": 12.78,
+      "end": 13.08
+    },
+    {
+      "word": "1.",
+      "start": 13.08,
+      "end": 13.38
+    },
+    {
+      "word": "Antoneli",
+      "start": 15.22,
+      "end": 16.06
+    },
+    {
+      "word": "37",
+      "start": 16.06,
+      "end": 16.58
+    },
+    {
+      "word": "-1.",
+      "start": 16.58,
+      "end": 17.0
+    },
+    {
+      "word": "Russell",
+      "start": 17.8,
+      "end": 18.64
+    },
+    {
+      "word": "0",
+      "start": 18.64,
+      "end": 18.92
+    },
+    {
+      "word": ".8",
+      "start": 18.92,
+      "end": 19.34
+    },
+    {
+      "word": "with...",
+      "start": 19.34,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

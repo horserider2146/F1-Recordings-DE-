@@ -1,0 +1,160 @@
+{
+  "clip_id": "clip_0472",
+  "text": "Just be careful with the first input into turn 1, first steering input into turn 1 Got Hogbrobe on the car's head Now traffic George 356 Gap at 6.6",
+  "words": [
+    {
+      "word": "Just",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "be",
+      "start": 0.4,
+      "end": 0.6
+    },
+    {
+      "word": "careful",
+      "start": 0.6,
+      "end": 1.04
+    },
+    {
+      "word": "with",
+      "start": 1.04,
+      "end": 1.72
+    },
+    {
+      "word": "the",
+      "start": 1.72,
+      "end": 1.88
+    },
+    {
+      "word": "first",
+      "start": 1.88,
+      "end": 2.16
+    },
+    {
+      "word": "input",
+      "start": 2.16,
+      "end": 2.64
+    },
+    {
+      "word": "into",
+      "start": 2.64,
+      "end": 3.1
+    },
+    {
+      "word": "turn",
+      "start": 3.1,
+      "end": 3.28
+    },
+    {
+      "word": "1,",
+      "start": 3.28,
+      "end": 3.52
+    },
+    {
+      "word": "first",
+      "start": 3.54,
+      "end": 3.86
+    },
+    {
+      "word": "steering",
+      "start": 3.86,
+      "end": 4.08
+    },
+    {
+      "word": "input",
+      "start": 4.08,
+      "end": 4.46
+    },
+    {
+      "word": "into",
+      "start": 4.46,
+      "end": 4.88
+    },
+    {
+      "word": "turn",
+      "start": 4.88,
+      "end": 5.12
+    },
+    {
+      "word": "1",
+      "start": 5.12,
+      "end": 5.5
+    },
+    {
+      "word": "Got",
+      "start": 7.24,
+      "end": 7.56
+    },
+    {
+      "word": "Hogbrobe",
+      "start": 7.56,
+      "end": 8.16
+    },
+    {
+      "word": "on",
+      "start": 8.16,
+      "end": 8.36
+    },
+    {
+      "word": "the",
+      "start": 8.36,
+      "end": 8.82
+    },
+    {
+      "word": "car's",
+      "start": 8.82,
+      "end": 9.12
+    },
+    {
+      "word": "head",
+      "start": 9.12,
+      "end": 9.32
+    },
+    {
+      "word": "Now",
+      "start": 10.06,
+      "end": 10.44
+    },
+    {
+      "word": "traffic",
+      "start": 10.44,
+      "end": 10.8
+    },
+    {
+      "word": "George",
+      "start": 13.26,
+      "end": 14.02
+    },
+    {
+      "word": "356",
+      "start": 14.02,
+      "end": 14.78
+    },
+    {
+      "word": "Gap",
+      "start": 14.78,
+      "end": 15.3
+    },
+    {
+      "word": "at",
+      "start": 15.3,
+      "end": 15.44
+    },
+    {
+      "word": "6",
+      "start": 15.44,
+      "end": 15.84
+    },
+    {
+      "word": ".6",
+      "start": 15.84,
+      "end": 16.68
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

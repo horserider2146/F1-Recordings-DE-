@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_0992",
+  "text": "That is bold stuff, not completed on the road, but real statement of intent for Oliver Bearman, who will surely have to give the place back to Isaac Hadjarni immediately. Have you okay with the car? Yes.",
+  "words": [
+    {
+      "word": "That",
+      "start": 2.5,
+      "end": 3.0
+    },
+    {
+      "word": "is",
+      "start": 3.0,
+      "end": 3.28
+    },
+    {
+      "word": "bold",
+      "start": 3.28,
+      "end": 3.74
+    },
+    {
+      "word": "stuff,",
+      "start": 3.74,
+      "end": 4.24
+    },
+    {
+      "word": "not",
+      "start": 4.48,
+      "end": 4.68
+    },
+    {
+      "word": "completed",
+      "start": 4.68,
+      "end": 5.18
+    },
+    {
+      "word": "on",
+      "start": 5.18,
+      "end": 5.44
+    },
+    {
+      "word": "the",
+      "start": 5.44,
+      "end": 5.56
+    },
+    {
+      "word": "road,",
+      "start": 5.56,
+      "end": 5.86
+    },
+    {
+      "word": "but",
+      "start": 5.98,
+      "end": 6.12
+    },
+    {
+      "word": "real",
+      "start": 6.12,
+      "end": 6.36
+    },
+    {
+      "word": "statement",
+      "start": 6.36,
+      "end": 6.76
+    },
+    {
+      "word": "of",
+      "start": 6.76,
+      "end": 6.9
+    },
+    {
+      "word": "intent",
+      "start": 6.9,
+      "end": 7.3
+    },
+    {
+      "word": "for",
+      "start": 7.3,
+      "end": 7.58
+    },
+    {
+      "word": "Oliver",
+      "start": 7.58,
+      "end": 7.84
+    },
+    {
+      "word": "Bearman,",
+      "start": 7.84,
+      "end": 8.36
+    },
+    {
+      "word": "who",
+      "start": 8.48,
+      "end": 8.58
+    },
+    {
+      "word": "will",
+      "start": 8.58,
+      "end": 8.7
+    },
+    {
+      "word": "surely",
+      "start": 8.7,
+      "end": 8.98
+    },
+    {
+      "word": "have",
+      "start": 8.98,
+      "end": 9.22
+    },
+    {
+      "word": "to",
+      "start": 9.22,
+      "end": 9.34
+    },
+    {
+      "word": "give",
+      "start": 9.34,
+      "end": 9.48
+    },
+    {
+      "word": "the",
+      "start": 9.48,
+      "end": 9.6
+    },
+    {
+      "word": "place",
+      "start": 9.6,
+      "end": 9.84
+    },
+    {
+      "word": "back",
+      "start": 9.84,
+      "end": 10.14
+    },
+    {
+      "word": "to",
+      "start": 10.14,
+      "end": 10.32
+    },
+    {
+      "word": "Isaac",
+      "start": 10.32,
+      "end": 10.54
+    },
+    {
+      "word": "Hadjarni",
+      "start": 10.54,
+      "end": 11.1
+    },
+    {
+      "word": "immediately.",
+      "start": 11.1,
+      "end": 11.48
+    },
+    {
+      "word": "Have",
+      "start": 11.48,
+      "end": 12.96
+    },
+    {
+      "word": "you",
+      "start": 12.96,
+      "end": 16.2
+    },
+    {
+      "word": "okay",
+      "start": 16.2,
+      "end": 16.38
+    },
+    {
+      "word": "with",
+      "start": 16.38,
+      "end": 16.46
+    },
+    {
+      "word": "the",
+      "start": 16.46,
+      "end": 16.54
+    },
+    {
+      "word": "car?",
+      "start": 16.54,
+      "end": 16.72
+    },
+    {
+      "word": "Yes.",
+      "start": 18.72,
+      "end": 19.5
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

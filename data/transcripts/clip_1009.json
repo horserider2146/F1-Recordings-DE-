@@ -1,0 +1,30 @@
+{
+  "clip_id": "clip_1009",
+  "text": "into the braking zone.",
+  "words": [
+    {
+      "word": "into",
+      "start": 19.56,
+      "end": 19.76
+    },
+    {
+      "word": "the",
+      "start": 19.76,
+      "end": 19.94
+    },
+    {
+      "word": "braking",
+      "start": 19.94,
+      "end": 19.94
+    },
+    {
+      "word": "zone.",
+      "start": 19.94,
+      "end": 19.96
+    }
+  ],
+  "language": "en",
+  "word_count": 4,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,130 @@
+{
+  "clip_id": "clip_0721",
+  "text": "Yeah, once coming to have a look, I'll just make sure that we are able to touch the car while it's in the bus.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "once",
+      "start": 1.24,
+      "end": 1.58
+    },
+    {
+      "word": "coming",
+      "start": 1.58,
+      "end": 1.84
+    },
+    {
+      "word": "to",
+      "start": 1.84,
+      "end": 2.04
+    },
+    {
+      "word": "have",
+      "start": 2.04,
+      "end": 2.18
+    },
+    {
+      "word": "a",
+      "start": 2.18,
+      "end": 2.3
+    },
+    {
+      "word": "look,",
+      "start": 2.3,
+      "end": 2.44
+    },
+    {
+      "word": "I'll",
+      "start": 2.54,
+      "end": 2.62
+    },
+    {
+      "word": "just",
+      "start": 2.62,
+      "end": 2.76
+    },
+    {
+      "word": "make",
+      "start": 2.76,
+      "end": 2.92
+    },
+    {
+      "word": "sure",
+      "start": 2.92,
+      "end": 3.12
+    },
+    {
+      "word": "that",
+      "start": 3.12,
+      "end": 3.28
+    },
+    {
+      "word": "we",
+      "start": 3.28,
+      "end": 3.44
+    },
+    {
+      "word": "are",
+      "start": 3.44,
+      "end": 3.62
+    },
+    {
+      "word": "able",
+      "start": 3.62,
+      "end": 3.86
+    },
+    {
+      "word": "to",
+      "start": 3.86,
+      "end": 4.06
+    },
+    {
+      "word": "touch",
+      "start": 4.06,
+      "end": 4.38
+    },
+    {
+      "word": "the",
+      "start": 4.38,
+      "end": 4.54
+    },
+    {
+      "word": "car",
+      "start": 4.54,
+      "end": 4.78
+    },
+    {
+      "word": "while",
+      "start": 4.78,
+      "end": 4.96
+    },
+    {
+      "word": "it's",
+      "start": 4.96,
+      "end": 5.16
+    },
+    {
+      "word": "in",
+      "start": 5.16,
+      "end": 5.24
+    },
+    {
+      "word": "the",
+      "start": 5.24,
+      "end": 5.34
+    },
+    {
+      "word": "bus.",
+      "start": 5.34,
+      "end": 5.52
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

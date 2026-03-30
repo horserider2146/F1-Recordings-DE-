@@ -1,0 +1,200 @@
+{
+  "clip_id": "clip_1087",
+  "text": "I think the engine copied us. Yeah, you are pushing a bit too much into corner 8. No, no, no, I look forward. Yeah, I see. I see. I'm forward. We see, we're on it. What's going on?",
+  "words": [
+    {
+      "word": "I",
+      "start": 1.58,
+      "end": 1.94
+    },
+    {
+      "word": "think",
+      "start": 1.94,
+      "end": 2.28
+    },
+    {
+      "word": "the",
+      "start": 2.28,
+      "end": 2.96
+    },
+    {
+      "word": "engine",
+      "start": 2.96,
+      "end": 3.14
+    },
+    {
+      "word": "copied",
+      "start": 3.14,
+      "end": 4.4
+    },
+    {
+      "word": "us.",
+      "start": 4.4,
+      "end": 4.62
+    },
+    {
+      "word": "Yeah,",
+      "start": 5.58,
+      "end": 5.92
+    },
+    {
+      "word": "you",
+      "start": 6.02,
+      "end": 6.22
+    },
+    {
+      "word": "are",
+      "start": 6.22,
+      "end": 6.34
+    },
+    {
+      "word": "pushing",
+      "start": 6.34,
+      "end": 6.62
+    },
+    {
+      "word": "a",
+      "start": 6.62,
+      "end": 6.8
+    },
+    {
+      "word": "bit",
+      "start": 6.8,
+      "end": 6.86
+    },
+    {
+      "word": "too",
+      "start": 6.86,
+      "end": 6.98
+    },
+    {
+      "word": "much",
+      "start": 6.98,
+      "end": 7.18
+    },
+    {
+      "word": "into",
+      "start": 7.18,
+      "end": 7.36
+    },
+    {
+      "word": "corner",
+      "start": 7.36,
+      "end": 7.62
+    },
+    {
+      "word": "8.",
+      "start": 7.62,
+      "end": 7.98
+    },
+    {
+      "word": "No,",
+      "start": 8.42,
+      "end": 8.56
+    },
+    {
+      "word": "no,",
+      "start": 8.68,
+      "end": 8.8
+    },
+    {
+      "word": "no,",
+      "start": 8.8,
+      "end": 8.98
+    },
+    {
+      "word": "I",
+      "start": 9.02,
+      "end": 9.1
+    },
+    {
+      "word": "look",
+      "start": 9.1,
+      "end": 9.24
+    },
+    {
+      "word": "forward.",
+      "start": 9.24,
+      "end": 9.52
+    },
+    {
+      "word": "Yeah,",
+      "start": 9.66,
+      "end": 9.78
+    },
+    {
+      "word": "I",
+      "start": 10.36,
+      "end": 10.36
+    },
+    {
+      "word": "see.",
+      "start": 10.36,
+      "end": 10.42
+    },
+    {
+      "word": "I",
+      "start": 10.84,
+      "end": 10.84
+    },
+    {
+      "word": "see.",
+      "start": 10.84,
+      "end": 10.92
+    },
+    {
+      "word": "I'm",
+      "start": 13.14,
+      "end": 13.5
+    },
+    {
+      "word": "forward.",
+      "start": 13.5,
+      "end": 13.7
+    },
+    {
+      "word": "We",
+      "start": 14.74,
+      "end": 14.92
+    },
+    {
+      "word": "see,",
+      "start": 14.92,
+      "end": 15.1
+    },
+    {
+      "word": "we're",
+      "start": 15.22,
+      "end": 15.36
+    },
+    {
+      "word": "on",
+      "start": 15.36,
+      "end": 15.48
+    },
+    {
+      "word": "it.",
+      "start": 15.48,
+      "end": 15.64
+    },
+    {
+      "word": "What's",
+      "start": 17.28,
+      "end": 17.64
+    },
+    {
+      "word": "going",
+      "start": 17.64,
+      "end": 17.82
+    },
+    {
+      "word": "on?",
+      "start": 17.82,
+      "end": 18.06
+    }
+  ],
+  "language": "en",
+  "word_count": 38,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,60 @@
+{
+  "clip_id": "clip_0547",
+  "text": "and what's the fact that our garage out loud please",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "what's",
+      "start": 0.3,
+      "end": 0.78
+    },
+    {
+      "word": "the",
+      "start": 0.78,
+      "end": 0.88
+    },
+    {
+      "word": "fact",
+      "start": 0.88,
+      "end": 1.06
+    },
+    {
+      "word": "that",
+      "start": 1.06,
+      "end": 1.28
+    },
+    {
+      "word": "our",
+      "start": 1.28,
+      "end": 1.64
+    },
+    {
+      "word": "garage",
+      "start": 1.64,
+      "end": 2.06
+    },
+    {
+      "word": "out",
+      "start": 3.62,
+      "end": 4.14
+    },
+    {
+      "word": "loud",
+      "start": 4.14,
+      "end": 4.3
+    },
+    {
+      "word": "please",
+      "start": 4.3,
+      "end": 4.48
+    }
+  ],
+  "language": "en",
+  "word_count": 10,
+  "is_empty": false,
+  "is_very_short": false
+}

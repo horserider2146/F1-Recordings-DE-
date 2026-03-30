@@ -1,0 +1,155 @@
+{
+  "clip_id": "clip_1105",
+  "text": "Copy that. We've lost overtake. Possible debris, corner 7 to 8. All corners got a 10 second time penalty. All corners 2.7 ahead. Still 19 laps to go.",
+  "words": [
+    {
+      "word": "Copy",
+      "start": 0.0,
+      "end": 1.42
+    },
+    {
+      "word": "that.",
+      "start": 1.42,
+      "end": 1.7
+    },
+    {
+      "word": "We've",
+      "start": 2.44,
+      "end": 3.24
+    },
+    {
+      "word": "lost",
+      "start": 3.24,
+      "end": 3.48
+    },
+    {
+      "word": "overtake.",
+      "start": 3.48,
+      "end": 4.1
+    },
+    {
+      "word": "Possible",
+      "start": 4.72,
+      "end": 5.52
+    },
+    {
+      "word": "debris,",
+      "start": 5.52,
+      "end": 5.96
+    },
+    {
+      "word": "corner",
+      "start": 6.4,
+      "end": 6.76
+    },
+    {
+      "word": "7",
+      "start": 6.76,
+      "end": 7.14
+    },
+    {
+      "word": "to",
+      "start": 7.14,
+      "end": 7.36
+    },
+    {
+      "word": "8.",
+      "start": 7.36,
+      "end": 7.58
+    },
+    {
+      "word": "All",
+      "start": 8.66,
+      "end": 9.52
+    },
+    {
+      "word": "corners",
+      "start": 9.52,
+      "end": 9.88
+    },
+    {
+      "word": "got",
+      "start": 9.88,
+      "end": 10.22
+    },
+    {
+      "word": "a",
+      "start": 10.22,
+      "end": 10.44
+    },
+    {
+      "word": "10",
+      "start": 10.44,
+      "end": 10.72
+    },
+    {
+      "word": "second",
+      "start": 10.72,
+      "end": 11.06
+    },
+    {
+      "word": "time",
+      "start": 11.06,
+      "end": 11.54
+    },
+    {
+      "word": "penalty.",
+      "start": 11.54,
+      "end": 12.0
+    },
+    {
+      "word": "All",
+      "start": 13.3,
+      "end": 13.82
+    },
+    {
+      "word": "corners",
+      "start": 13.82,
+      "end": 14.1
+    },
+    {
+      "word": "2",
+      "start": 14.1,
+      "end": 14.44
+    },
+    {
+      "word": ".7",
+      "start": 14.44,
+      "end": 14.96
+    },
+    {
+      "word": "ahead.",
+      "start": 14.96,
+      "end": 15.38
+    },
+    {
+      "word": "Still",
+      "start": 16.4,
+      "end": 17.16
+    },
+    {
+      "word": "19",
+      "start": 17.16,
+      "end": 17.54
+    },
+    {
+      "word": "laps",
+      "start": 17.54,
+      "end": 17.78
+    },
+    {
+      "word": "to",
+      "start": 17.78,
+      "end": 17.96
+    },
+    {
+      "word": "go.",
+      "start": 17.96,
+      "end": 18.16
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

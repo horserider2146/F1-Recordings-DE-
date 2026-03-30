@@ -1,0 +1,310 @@
+{
+  "clip_id": "clip_0773",
+  "text": "Radio quality is very poor, you can't hear you, but single-press energy is best for overall lap time. Exit turn six. And what you did now in turn six is perfect for us. That's Ocon three and a half seconds. Ocon has a ten second time penalty. Car behind three and a half seconds is the race leader, Antonelli.",
+  "words": [
+    {
+      "word": "Radio",
+      "start": 1.6,
+      "end": 2.08
+    },
+    {
+      "word": "quality",
+      "start": 2.08,
+      "end": 2.46
+    },
+    {
+      "word": "is",
+      "start": 2.46,
+      "end": 2.72
+    },
+    {
+      "word": "very",
+      "start": 2.72,
+      "end": 2.94
+    },
+    {
+      "word": "poor,",
+      "start": 2.94,
+      "end": 3.18
+    },
+    {
+      "word": "you",
+      "start": 3.22,
+      "end": 3.28
+    },
+    {
+      "word": "can't",
+      "start": 3.28,
+      "end": 3.62
+    },
+    {
+      "word": "hear",
+      "start": 3.62,
+      "end": 3.8
+    },
+    {
+      "word": "you,",
+      "start": 3.8,
+      "end": 3.94
+    },
+    {
+      "word": "but",
+      "start": 4.18,
+      "end": 4.3
+    },
+    {
+      "word": "single",
+      "start": 4.3,
+      "end": 4.78
+    },
+    {
+      "word": "-press",
+      "start": 4.78,
+      "end": 4.98
+    },
+    {
+      "word": "energy",
+      "start": 4.98,
+      "end": 5.32
+    },
+    {
+      "word": "is",
+      "start": 5.32,
+      "end": 5.54
+    },
+    {
+      "word": "best",
+      "start": 5.54,
+      "end": 5.78
+    },
+    {
+      "word": "for",
+      "start": 5.78,
+      "end": 6.02
+    },
+    {
+      "word": "overall",
+      "start": 6.02,
+      "end": 6.42
+    },
+    {
+      "word": "lap",
+      "start": 6.42,
+      "end": 6.64
+    },
+    {
+      "word": "time.",
+      "start": 6.64,
+      "end": 6.92
+    },
+    {
+      "word": "Exit",
+      "start": 7.16,
+      "end": 7.52
+    },
+    {
+      "word": "turn",
+      "start": 7.52,
+      "end": 7.64
+    },
+    {
+      "word": "six.",
+      "start": 7.64,
+      "end": 7.9
+    },
+    {
+      "word": "And",
+      "start": 8.56,
+      "end": 8.62
+    },
+    {
+      "word": "what",
+      "start": 8.62,
+      "end": 8.78
+    },
+    {
+      "word": "you",
+      "start": 8.78,
+      "end": 8.92
+    },
+    {
+      "word": "did",
+      "start": 8.92,
+      "end": 9.06
+    },
+    {
+      "word": "now",
+      "start": 9.06,
+      "end": 9.28
+    },
+    {
+      "word": "in",
+      "start": 9.28,
+      "end": 9.46
+    },
+    {
+      "word": "turn",
+      "start": 9.46,
+      "end": 9.66
+    },
+    {
+      "word": "six",
+      "start": 9.66,
+      "end": 10.02
+    },
+    {
+      "word": "is",
+      "start": 10.02,
+      "end": 10.32
+    },
+    {
+      "word": "perfect",
+      "start": 10.32,
+      "end": 10.62
+    },
+    {
+      "word": "for",
+      "start": 10.62,
+      "end": 10.88
+    },
+    {
+      "word": "us.",
+      "start": 10.88,
+      "end": 11.08
+    },
+    {
+      "word": "That's",
+      "start": 11.58,
+      "end": 11.78
+    },
+    {
+      "word": "Ocon",
+      "start": 11.78,
+      "end": 12.12
+    },
+    {
+      "word": "three",
+      "start": 12.12,
+      "end": 12.42
+    },
+    {
+      "word": "and",
+      "start": 12.42,
+      "end": 12.58
+    },
+    {
+      "word": "a",
+      "start": 12.58,
+      "end": 12.66
+    },
+    {
+      "word": "half",
+      "start": 12.66,
+      "end": 12.86
+    },
+    {
+      "word": "seconds.",
+      "start": 12.86,
+      "end": 13.06
+    },
+    {
+      "word": "Ocon",
+      "start": 13.28,
+      "end": 13.76
+    },
+    {
+      "word": "has",
+      "start": 13.76,
+      "end": 13.98
+    },
+    {
+      "word": "a",
+      "start": 13.98,
+      "end": 14.12
+    },
+    {
+      "word": "ten",
+      "start": 14.12,
+      "end": 14.38
+    },
+    {
+      "word": "second",
+      "start": 14.38,
+      "end": 14.74
+    },
+    {
+      "word": "time",
+      "start": 14.74,
+      "end": 15.1
+    },
+    {
+      "word": "penalty.",
+      "start": 15.1,
+      "end": 15.54
+    },
+    {
+      "word": "Car",
+      "start": 16.1,
+      "end": 16.58
+    },
+    {
+      "word": "behind",
+      "start": 16.58,
+      "end": 16.94
+    },
+    {
+      "word": "three",
+      "start": 16.94,
+      "end": 17.48
+    },
+    {
+      "word": "and",
+      "start": 17.48,
+      "end": 17.58
+    },
+    {
+      "word": "a",
+      "start": 17.58,
+      "end": 17.62
+    },
+    {
+      "word": "half",
+      "start": 17.62,
+      "end": 17.8
+    },
+    {
+      "word": "seconds",
+      "start": 17.8,
+      "end": 18.14
+    },
+    {
+      "word": "is",
+      "start": 18.14,
+      "end": 18.42
+    },
+    {
+      "word": "the",
+      "start": 18.42,
+      "end": 18.58
+    },
+    {
+      "word": "race",
+      "start": 18.58,
+      "end": 18.8
+    },
+    {
+      "word": "leader,",
+      "start": 18.8,
+      "end": 19.08
+    },
+    {
+      "word": "Antonelli.",
+      "start": 19.24,
+      "end": 19.72
+    }
+  ],
+  "language": "en",
+  "word_count": 59,
+  "is_empty": false,
+  "is_very_short": false
+}

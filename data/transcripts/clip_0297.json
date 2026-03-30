@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0297",
+  "text": "I'm glad we were able to race with everything that's coming.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 3.04,
+      "end": 3.7
+    },
+    {
+      "word": "glad",
+      "start": 3.7,
+      "end": 4.36
+    },
+    {
+      "word": "we",
+      "start": 4.36,
+      "end": 5.32
+    },
+    {
+      "word": "were",
+      "start": 5.32,
+      "end": 5.44
+    },
+    {
+      "word": "able",
+      "start": 5.44,
+      "end": 5.62
+    },
+    {
+      "word": "to",
+      "start": 5.62,
+      "end": 5.9
+    },
+    {
+      "word": "race",
+      "start": 5.9,
+      "end": 9.48
+    },
+    {
+      "word": "with",
+      "start": 9.48,
+      "end": 9.78
+    },
+    {
+      "word": "everything",
+      "start": 9.78,
+      "end": 10.3
+    },
+    {
+      "word": "that's",
+      "start": 10.3,
+      "end": 10.62
+    },
+    {
+      "word": "coming.",
+      "start": 10.62,
+      "end": 10.88
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

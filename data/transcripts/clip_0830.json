@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0830",
+  "text": "60 kph in turn 14, mode in, mode in, check the flag, P7 currently P7 Ollie, updated, good job. Yeah, that was a good lap. Ok, so P9 in the end.",
+  "words": [
+    {
+      "word": "60",
+      "start": 0.0,
+      "end": 0.96
+    },
+    {
+      "word": "kph",
+      "start": 0.96,
+      "end": 1.36
+    },
+    {
+      "word": "in",
+      "start": 1.36,
+      "end": 1.58
+    },
+    {
+      "word": "turn",
+      "start": 1.58,
+      "end": 1.68
+    },
+    {
+      "word": "14,",
+      "start": 1.68,
+      "end": 2.1
+    },
+    {
+      "word": "mode",
+      "start": 2.5,
+      "end": 3.66
+    },
+    {
+      "word": "in,",
+      "start": 3.66,
+      "end": 5.64
+    },
+    {
+      "word": "mode",
+      "start": 5.76,
+      "end": 5.9
+    },
+    {
+      "word": "in,",
+      "start": 5.9,
+      "end": 6.2
+    },
+    {
+      "word": "check",
+      "start": 6.26,
+      "end": 6.56
+    },
+    {
+      "word": "the",
+      "start": 6.56,
+      "end": 6.68
+    },
+    {
+      "word": "flag,",
+      "start": 6.68,
+      "end": 7.08
+    },
+    {
+      "word": "P7",
+      "start": 7.48,
+      "end": 8.48
+    },
+    {
+      "word": "currently",
+      "start": 8.48,
+      "end": 8.78
+    },
+    {
+      "word": "P7",
+      "start": 8.78,
+      "end": 9.32
+    },
+    {
+      "word": "Ollie,",
+      "start": 9.32,
+      "end": 9.58
+    },
+    {
+      "word": "updated,",
+      "start": 9.94,
+      "end": 11.82
+    },
+    {
+      "word": "good",
+      "start": 12.86,
+      "end": 13.9
+    },
+    {
+      "word": "job.",
+      "start": 13.9,
+      "end": 14.28
+    },
+    {
+      "word": "Yeah,",
+      "start": 15.48,
+      "end": 15.76
+    },
+    {
+      "word": "that",
+      "start": 15.9,
+      "end": 15.98
+    },
+    {
+      "word": "was",
+      "start": 15.98,
+      "end": 16.34
+    },
+    {
+      "word": "a",
+      "start": 16.34,
+      "end": 16.44
+    },
+    {
+      "word": "good",
+      "start": 16.44,
+      "end": 16.58
+    },
+    {
+      "word": "lap.",
+      "start": 16.58,
+      "end": 16.78
+    },
+    {
+      "word": "Ok,",
+      "start": 18.04,
+      "end": 18.34
+    },
+    {
+      "word": "so",
+      "start": 18.62,
+      "end": 18.82
+    },
+    {
+      "word": "P9",
+      "start": 18.82,
+      "end": 19.52
+    },
+    {
+      "word": "in",
+      "start": 19.52,
+      "end": 19.74
+    },
+    {
+      "word": "the",
+      "start": 19.74,
+      "end": 19.86
+    },
+    {
+      "word": "end.",
+      "start": 19.86,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

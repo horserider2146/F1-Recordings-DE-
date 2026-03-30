@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0105",
+  "text": "Probably, Alpha 10 to 10, exit at 13. Camber 4, exit at 26, focus on driving, Camber 3. And 11 seconds here, Camber pushing 2. And 1, then Camber, go 1000, sink, closer pushing 5.",
+  "words": [
+    {
+      "word": "Probably,",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "Alpha",
+      "start": 0.42,
+      "end": 0.54
+    },
+    {
+      "word": "10",
+      "start": 0.54,
+      "end": 0.76
+    },
+    {
+      "word": "to",
+      "start": 0.76,
+      "end": 0.96
+    },
+    {
+      "word": "10,",
+      "start": 0.96,
+      "end": 1.28
+    },
+    {
+      "word": "exit",
+      "start": 1.42,
+      "end": 1.68
+    },
+    {
+      "word": "at",
+      "start": 1.68,
+      "end": 1.92
+    },
+    {
+      "word": "13.",
+      "start": 1.92,
+      "end": 2.12
+    },
+    {
+      "word": "Camber",
+      "start": 3.86,
+      "end": 4.38
+    },
+    {
+      "word": "4,",
+      "start": 4.38,
+      "end": 4.88
+    },
+    {
+      "word": "exit",
+      "start": 5.26,
+      "end": 5.52
+    },
+    {
+      "word": "at",
+      "start": 5.52,
+      "end": 5.74
+    },
+    {
+      "word": "26,",
+      "start": 5.74,
+      "end": 7.02
+    },
+    {
+      "word": "focus",
+      "start": 7.28,
+      "end": 7.38
+    },
+    {
+      "word": "on",
+      "start": 7.38,
+      "end": 7.58
+    },
+    {
+      "word": "driving,",
+      "start": 7.58,
+      "end": 7.82
+    },
+    {
+      "word": "Camber",
+      "start": 8.04,
+      "end": 8.22
+    },
+    {
+      "word": "3.",
+      "start": 8.22,
+      "end": 8.56
+    },
+    {
+      "word": "And",
+      "start": 9.78,
+      "end": 10.3
+    },
+    {
+      "word": "11",
+      "start": 10.3,
+      "end": 10.62
+    },
+    {
+      "word": "seconds",
+      "start": 10.62,
+      "end": 10.98
+    },
+    {
+      "word": "here,",
+      "start": 10.98,
+      "end": 11.28
+    },
+    {
+      "word": "Camber",
+      "start": 11.48,
+      "end": 11.6
+    },
+    {
+      "word": "pushing",
+      "start": 11.6,
+      "end": 11.82
+    },
+    {
+      "word": "2.",
+      "start": 11.82,
+      "end": 12.26
+    },
+    {
+      "word": "And",
+      "start": 12.8,
+      "end": 13.02
+    },
+    {
+      "word": "1,",
+      "start": 13.02,
+      "end": 13.3
+    },
+    {
+      "word": "then",
+      "start": 14.26,
+      "end": 14.4
+    },
+    {
+      "word": "Camber,",
+      "start": 14.4,
+      "end": 14.8
+    },
+    {
+      "word": "go",
+      "start": 14.9,
+      "end": 14.98
+    },
+    {
+      "word": "1000,",
+      "start": 14.98,
+      "end": 15.22
+    },
+    {
+      "word": "sink,",
+      "start": 15.38,
+      "end": 15.6
+    },
+    {
+      "word": "closer",
+      "start": 16.54,
+      "end": 16.8
+    },
+    {
+      "word": "pushing",
+      "start": 16.8,
+      "end": 17.2
+    },
+    {
+      "word": "5.",
+      "start": 17.2,
+      "end": 17.66
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

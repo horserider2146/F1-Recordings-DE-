@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_1124",
+  "text": "and remind the pool switch off.",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "remind",
+      "start": 0.26,
+      "end": 0.74
+    },
+    {
+      "word": "the",
+      "start": 0.74,
+      "end": 1.0
+    },
+    {
+      "word": "pool",
+      "start": 1.0,
+      "end": 1.56
+    },
+    {
+      "word": "switch",
+      "start": 1.56,
+      "end": 1.86
+    },
+    {
+      "word": "off.",
+      "start": 1.86,
+      "end": 2.14
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

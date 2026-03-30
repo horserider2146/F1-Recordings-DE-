@@ -1,0 +1,250 @@
+{
+  "clip_id": "clip_0725",
+  "text": "Yes, I see the same. And box, Niko box. First car on track is scroll. We close switch scroll on to exit. And next is Alonso, 10 seconds opening now. The car in front is Lin the Blad. He's on an out lap. Not sure what he's doing.",
+  "words": [
+    {
+      "word": "Yes,",
+      "start": 0.0,
+      "end": 0.7
+    },
+    {
+      "word": "I",
+      "start": 0.88,
+      "end": 0.98
+    },
+    {
+      "word": "see",
+      "start": 0.98,
+      "end": 1.16
+    },
+    {
+      "word": "the",
+      "start": 1.16,
+      "end": 1.28
+    },
+    {
+      "word": "same.",
+      "start": 1.28,
+      "end": 1.5
+    },
+    {
+      "word": "And",
+      "start": 3.12,
+      "end": 3.54
+    },
+    {
+      "word": "box,",
+      "start": 3.54,
+      "end": 3.82
+    },
+    {
+      "word": "Niko",
+      "start": 3.98,
+      "end": 4.16
+    },
+    {
+      "word": "box.",
+      "start": 4.16,
+      "end": 4.42
+    },
+    {
+      "word": "First",
+      "start": 6.44,
+      "end": 6.92
+    },
+    {
+      "word": "car",
+      "start": 6.92,
+      "end": 7.16
+    },
+    {
+      "word": "on",
+      "start": 7.16,
+      "end": 7.26
+    },
+    {
+      "word": "track",
+      "start": 7.26,
+      "end": 7.48
+    },
+    {
+      "word": "is",
+      "start": 7.48,
+      "end": 7.74
+    },
+    {
+      "word": "scroll.",
+      "start": 7.74,
+      "end": 8.12
+    },
+    {
+      "word": "We",
+      "start": 8.54,
+      "end": 8.64
+    },
+    {
+      "word": "close",
+      "start": 8.64,
+      "end": 8.92
+    },
+    {
+      "word": "switch",
+      "start": 8.92,
+      "end": 9.12
+    },
+    {
+      "word": "scroll",
+      "start": 9.12,
+      "end": 9.4
+    },
+    {
+      "word": "on",
+      "start": 9.4,
+      "end": 9.62
+    },
+    {
+      "word": "to",
+      "start": 9.62,
+      "end": 9.76
+    },
+    {
+      "word": "exit.",
+      "start": 9.76,
+      "end": 10.0
+    },
+    {
+      "word": "And",
+      "start": 11.54,
+      "end": 12.02
+    },
+    {
+      "word": "next",
+      "start": 12.02,
+      "end": 12.22
+    },
+    {
+      "word": "is",
+      "start": 12.22,
+      "end": 12.5
+    },
+    {
+      "word": "Alonso,",
+      "start": 12.5,
+      "end": 13.2
+    },
+    {
+      "word": "10",
+      "start": 13.28,
+      "end": 13.6
+    },
+    {
+      "word": "seconds",
+      "start": 13.6,
+      "end": 14.08
+    },
+    {
+      "word": "opening",
+      "start": 14.08,
+      "end": 14.7
+    },
+    {
+      "word": "now.",
+      "start": 14.7,
+      "end": 15.0
+    },
+    {
+      "word": "The",
+      "start": 16.28,
+      "end": 16.76
+    },
+    {
+      "word": "car",
+      "start": 16.76,
+      "end": 16.9
+    },
+    {
+      "word": "in",
+      "start": 16.9,
+      "end": 16.98
+    },
+    {
+      "word": "front",
+      "start": 16.98,
+      "end": 17.14
+    },
+    {
+      "word": "is",
+      "start": 17.14,
+      "end": 17.44
+    },
+    {
+      "word": "Lin",
+      "start": 17.44,
+      "end": 17.78
+    },
+    {
+      "word": "the",
+      "start": 17.78,
+      "end": 18.04
+    },
+    {
+      "word": "Blad.",
+      "start": 18.04,
+      "end": 18.28
+    },
+    {
+      "word": "He's",
+      "start": 18.38,
+      "end": 18.52
+    },
+    {
+      "word": "on",
+      "start": 18.52,
+      "end": 18.64
+    },
+    {
+      "word": "an",
+      "start": 18.64,
+      "end": 18.74
+    },
+    {
+      "word": "out",
+      "start": 18.74,
+      "end": 19.0
+    },
+    {
+      "word": "lap.",
+      "start": 19.0,
+      "end": 19.2
+    },
+    {
+      "word": "Not",
+      "start": 19.4,
+      "end": 19.5
+    },
+    {
+      "word": "sure",
+      "start": 19.5,
+      "end": 19.68
+    },
+    {
+      "word": "what",
+      "start": 19.68,
+      "end": 19.82
+    },
+    {
+      "word": "he's",
+      "start": 19.82,
+      "end": 19.98
+    },
+    {
+      "word": "doing.",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 48,
+  "is_empty": false,
+  "is_very_short": false
+}

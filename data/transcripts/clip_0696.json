@@ -1,0 +1,25 @@
+{
+  "clip_id": "clip_0696",
+  "text": "This is the",
+  "words": [
+    {
+      "word": "This",
+      "start": 0.84,
+      "end": 1.12
+    },
+    {
+      "word": "is",
+      "start": 1.12,
+      "end": 1.26
+    },
+    {
+      "word": "the",
+      "start": 1.26,
+      "end": 1.38
+    }
+  ],
+  "language": "en",
+  "word_count": 3,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0075",
+  "text": "And loop it on off, charge on, multi v1, position 13.",
+  "words": [
+    {
+      "word": "And",
+      "start": 0.0,
+      "end": 0.04
+    },
+    {
+      "word": "loop",
+      "start": 0.04,
+      "end": 0.16
+    },
+    {
+      "word": "it",
+      "start": 0.16,
+      "end": 0.3
+    },
+    {
+      "word": "on",
+      "start": 0.3,
+      "end": 0.4
+    },
+    {
+      "word": "off,",
+      "start": 0.4,
+      "end": 0.68
+    },
+    {
+      "word": "charge",
+      "start": 0.86,
+      "end": 1.06
+    },
+    {
+      "word": "on,",
+      "start": 1.06,
+      "end": 1.32
+    },
+    {
+      "word": "multi",
+      "start": 2.04,
+      "end": 2.36
+    },
+    {
+      "word": "v1,",
+      "start": 2.36,
+      "end": 2.72
+    },
+    {
+      "word": "position",
+      "start": 2.78,
+      "end": 2.98
+    },
+    {
+      "word": "13.",
+      "start": 2.98,
+      "end": 3.34
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,110 @@
+{
+  "clip_id": "clip_0723",
+  "text": "and one minute, one T seconds until pit lane open. I'll ask you to fire up in about 15 seconds.",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "one",
+      "start": 0.16,
+      "end": 0.42
+    },
+    {
+      "word": "minute,",
+      "start": 0.42,
+      "end": 0.66
+    },
+    {
+      "word": "one",
+      "start": 0.86,
+      "end": 1.02
+    },
+    {
+      "word": "T",
+      "start": 1.02,
+      "end": 1.24
+    },
+    {
+      "word": "seconds",
+      "start": 1.24,
+      "end": 1.6
+    },
+    {
+      "word": "until",
+      "start": 1.6,
+      "end": 2.06
+    },
+    {
+      "word": "pit",
+      "start": 2.06,
+      "end": 2.4
+    },
+    {
+      "word": "lane",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "word": "open.",
+      "start": 2.56,
+      "end": 2.8
+    },
+    {
+      "word": "I'll",
+      "start": 2.8,
+      "end": 3.02
+    },
+    {
+      "word": "ask",
+      "start": 3.02,
+      "end": 3.22
+    },
+    {
+      "word": "you",
+      "start": 3.22,
+      "end": 3.36
+    },
+    {
+      "word": "to",
+      "start": 3.36,
+      "end": 3.46
+    },
+    {
+      "word": "fire",
+      "start": 3.46,
+      "end": 3.9
+    },
+    {
+      "word": "up",
+      "start": 3.9,
+      "end": 4.16
+    },
+    {
+      "word": "in",
+      "start": 4.16,
+      "end": 4.34
+    },
+    {
+      "word": "about",
+      "start": 4.34,
+      "end": 4.5
+    },
+    {
+      "word": "15",
+      "start": 4.5,
+      "end": 4.86
+    },
+    {
+      "word": "seconds.",
+      "start": 4.86,
+      "end": 5.16
+    }
+  ],
+  "language": "en",
+  "word_count": 20,
+  "is_empty": false,
+  "is_very_short": false
+}

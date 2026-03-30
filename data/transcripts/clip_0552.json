@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0552",
+  "text": "7 and box box cabin 3p6 charlie is p3 is half a second in front of us and charlie is on soft he is locking a lot he's braking copy continue and 16 were good",
+  "words": [
+    {
+      "word": "7",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "and",
+      "start": 0.3,
+      "end": 2.06
+    },
+    {
+      "word": "box",
+      "start": 2.06,
+      "end": 2.24
+    },
+    {
+      "word": "box",
+      "start": 2.24,
+      "end": 2.56
+    },
+    {
+      "word": "cabin",
+      "start": 4.36,
+      "end": 5.0
+    },
+    {
+      "word": "3p6",
+      "start": 5.0,
+      "end": 5.64
+    },
+    {
+      "word": "charlie",
+      "start": 5.64,
+      "end": 6.9
+    },
+    {
+      "word": "is",
+      "start": 6.9,
+      "end": 7.0
+    },
+    {
+      "word": "p3",
+      "start": 7.0,
+      "end": 7.38
+    },
+    {
+      "word": "is",
+      "start": 7.38,
+      "end": 8.5
+    },
+    {
+      "word": "half",
+      "start": 8.5,
+      "end": 8.82
+    },
+    {
+      "word": "a",
+      "start": 8.82,
+      "end": 8.96
+    },
+    {
+      "word": "second",
+      "start": 8.96,
+      "end": 9.14
+    },
+    {
+      "word": "in",
+      "start": 9.14,
+      "end": 9.36
+    },
+    {
+      "word": "front",
+      "start": 9.36,
+      "end": 9.52
+    },
+    {
+      "word": "of",
+      "start": 9.52,
+      "end": 9.66
+    },
+    {
+      "word": "us",
+      "start": 9.66,
+      "end": 9.88
+    },
+    {
+      "word": "and",
+      "start": 9.88,
+      "end": 11.3
+    },
+    {
+      "word": "charlie",
+      "start": 11.3,
+      "end": 11.7
+    },
+    {
+      "word": "is",
+      "start": 11.7,
+      "end": 11.78
+    },
+    {
+      "word": "on",
+      "start": 11.78,
+      "end": 11.88
+    },
+    {
+      "word": "soft",
+      "start": 11.88,
+      "end": 12.38
+    },
+    {
+      "word": "he",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "word": "is",
+      "start": 13.44,
+      "end": 13.54
+    },
+    {
+      "word": "locking",
+      "start": 13.54,
+      "end": 13.88
+    },
+    {
+      "word": "a",
+      "start": 13.88,
+      "end": 14.06
+    },
+    {
+      "word": "lot",
+      "start": 14.06,
+      "end": 14.26
+    },
+    {
+      "word": "he's",
+      "start": 14.26,
+      "end": 14.58
+    },
+    {
+      "word": "braking",
+      "start": 14.58,
+      "end": 14.82
+    },
+    {
+      "word": "copy",
+      "start": 14.82,
+      "end": 16.32
+    },
+    {
+      "word": "continue",
+      "start": 16.32,
+      "end": 18.36
+    },
+    {
+      "word": "and",
+      "start": 18.36,
+      "end": 18.78
+    },
+    {
+      "word": "16",
+      "start": 18.78,
+      "end": 19.12
+    },
+    {
+      "word": "were",
+      "start": 19.12,
+      "end": 19.42
+    },
+    {
+      "word": "good",
+      "start": 19.42,
+      "end": 19.68
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

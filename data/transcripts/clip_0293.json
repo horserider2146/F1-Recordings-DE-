@@ -1,0 +1,150 @@
+{
+  "clip_id": "clip_0293",
+  "text": "Strap 13, please. Strap 13. Pick up rubber. And that's P6 as well. Oh man, I gave everything I had. I really wanted to get the P5 because...",
+  "words": [
+    {
+      "word": "Strap",
+      "start": 0.0,
+      "end": 0.72
+    },
+    {
+      "word": "13,",
+      "start": 0.72,
+      "end": 1.2
+    },
+    {
+      "word": "please.",
+      "start": 1.38,
+      "end": 1.5
+    },
+    {
+      "word": "Strap",
+      "start": 1.74,
+      "end": 1.8
+    },
+    {
+      "word": "13.",
+      "start": 1.8,
+      "end": 2.28
+    },
+    {
+      "word": "Pick",
+      "start": 2.54,
+      "end": 2.9
+    },
+    {
+      "word": "up",
+      "start": 2.9,
+      "end": 3.0
+    },
+    {
+      "word": "rubber.",
+      "start": 3.0,
+      "end": 3.18
+    },
+    {
+      "word": "And",
+      "start": 4.02,
+      "end": 4.12
+    },
+    {
+      "word": "that's",
+      "start": 4.12,
+      "end": 4.42
+    },
+    {
+      "word": "P6",
+      "start": 4.42,
+      "end": 4.94
+    },
+    {
+      "word": "as",
+      "start": 4.94,
+      "end": 5.18
+    },
+    {
+      "word": "well.",
+      "start": 5.18,
+      "end": 5.32
+    },
+    {
+      "word": "Oh",
+      "start": 8.46,
+      "end": 8.94
+    },
+    {
+      "word": "man,",
+      "start": 8.94,
+      "end": 9.12
+    },
+    {
+      "word": "I",
+      "start": 9.22,
+      "end": 9.36
+    },
+    {
+      "word": "gave",
+      "start": 9.36,
+      "end": 9.52
+    },
+    {
+      "word": "everything",
+      "start": 9.52,
+      "end": 10.06
+    },
+    {
+      "word": "I",
+      "start": 10.06,
+      "end": 10.26
+    },
+    {
+      "word": "had.",
+      "start": 10.26,
+      "end": 10.38
+    },
+    {
+      "word": "I",
+      "start": 14.9,
+      "end": 15.38
+    },
+    {
+      "word": "really",
+      "start": 15.38,
+      "end": 15.58
+    },
+    {
+      "word": "wanted",
+      "start": 15.58,
+      "end": 15.84
+    },
+    {
+      "word": "to",
+      "start": 15.84,
+      "end": 16.04
+    },
+    {
+      "word": "get",
+      "start": 16.04,
+      "end": 16.18
+    },
+    {
+      "word": "the",
+      "start": 16.18,
+      "end": 16.34
+    },
+    {
+      "word": "P5",
+      "start": 16.34,
+      "end": 16.76
+    },
+    {
+      "word": "because...",
+      "start": 16.76,
+      "end": 18.16
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

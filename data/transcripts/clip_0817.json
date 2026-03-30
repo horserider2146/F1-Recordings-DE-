@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_0817",
+  "text": "Double yellow in 16, double yellow in 16. It's gone, it's gone. Single where we are. Fire on the abortus. Fox. Get mode in. 78, you did it. So you're not too cool, you're less lag on the boot, but... Yeah, I was pretty anyway.",
+  "words": [
+    {
+      "word": "Double",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "yellow",
+      "start": 0.22,
+      "end": 0.44
+    },
+    {
+      "word": "in",
+      "start": 0.44,
+      "end": 0.66
+    },
+    {
+      "word": "16,",
+      "start": 0.66,
+      "end": 1.08
+    },
+    {
+      "word": "double",
+      "start": 1.24,
+      "end": 1.42
+    },
+    {
+      "word": "yellow",
+      "start": 1.42,
+      "end": 1.66
+    },
+    {
+      "word": "in",
+      "start": 1.66,
+      "end": 1.86
+    },
+    {
+      "word": "16.",
+      "start": 1.86,
+      "end": 2.3
+    },
+    {
+      "word": "It's",
+      "start": 2.98,
+      "end": 3.4
+    },
+    {
+      "word": "gone,",
+      "start": 3.4,
+      "end": 3.58
+    },
+    {
+      "word": "it's",
+      "start": 3.7,
+      "end": 3.82
+    },
+    {
+      "word": "gone.",
+      "start": 3.82,
+      "end": 4.0
+    },
+    {
+      "word": "Single",
+      "start": 4.84,
+      "end": 5.22
+    },
+    {
+      "word": "where",
+      "start": 5.22,
+      "end": 5.44
+    },
+    {
+      "word": "we",
+      "start": 5.44,
+      "end": 5.48
+    },
+    {
+      "word": "are.",
+      "start": 5.48,
+      "end": 5.5
+    },
+    {
+      "word": "Fire",
+      "start": 5.5,
+      "end": 5.62
+    },
+    {
+      "word": "on",
+      "start": 5.62,
+      "end": 5.8
+    },
+    {
+      "word": "the",
+      "start": 5.8,
+      "end": 5.86
+    },
+    {
+      "word": "abortus.",
+      "start": 5.86,
+      "end": 6.42
+    },
+    {
+      "word": "Fox.",
+      "start": 7.28,
+      "end": 7.7
+    },
+    {
+      "word": "Get",
+      "start": 9.46,
+      "end": 9.88
+    },
+    {
+      "word": "mode",
+      "start": 9.88,
+      "end": 10.1
+    },
+    {
+      "word": "in.",
+      "start": 10.1,
+      "end": 10.38
+    },
+    {
+      "word": "78,",
+      "start": 12.14,
+      "end": 12.56
+    },
+    {
+      "word": "you",
+      "start": 13.0,
+      "end": 13.16
+    },
+    {
+      "word": "did",
+      "start": 13.16,
+      "end": 13.38
+    },
+    {
+      "word": "it.",
+      "start": 13.38,
+      "end": 13.64
+    },
+    {
+      "word": "So",
+      "start": 15.02,
+      "end": 15.32
+    },
+    {
+      "word": "you're",
+      "start": 15.32,
+      "end": 15.48
+    },
+    {
+      "word": "not",
+      "start": 15.48,
+      "end": 15.58
+    },
+    {
+      "word": "too",
+      "start": 15.58,
+      "end": 15.72
+    },
+    {
+      "word": "cool,",
+      "start": 15.72,
+      "end": 15.94
+    },
+    {
+      "word": "you're",
+      "start": 16.02,
+      "end": 16.14
+    },
+    {
+      "word": "less",
+      "start": 16.14,
+      "end": 16.24
+    },
+    {
+      "word": "lag",
+      "start": 16.24,
+      "end": 16.42
+    },
+    {
+      "word": "on",
+      "start": 16.42,
+      "end": 16.56
+    },
+    {
+      "word": "the",
+      "start": 16.56,
+      "end": 16.64
+    },
+    {
+      "word": "boot,",
+      "start": 16.64,
+      "end": 16.76
+    },
+    {
+      "word": "but...",
+      "start": 16.88,
+      "end": 17.2
+    },
+    {
+      "word": "Yeah,",
+      "start": 18.78,
+      "end": 18.96
+    },
+    {
+      "word": "I",
+      "start": 19.04,
+      "end": 19.1
+    },
+    {
+      "word": "was",
+      "start": 19.1,
+      "end": 19.26
+    },
+    {
+      "word": "pretty",
+      "start": 19.26,
+      "end": 19.48
+    },
+    {
+      "word": "anyway.",
+      "start": 19.48,
+      "end": 19.7
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0229",
+  "text": "Hamilton 7 seconds pushing. Norris out lap 5 seconds ahead. Hamilton pushing for... track clear behind Hamilton. Cleanbred will box behind. Will be mode push after turn 14. Target zero. Bar.",
+  "words": [
+    {
+      "word": "Hamilton",
+      "start": 1.1,
+      "end": 1.82
+    },
+    {
+      "word": "7",
+      "start": 1.82,
+      "end": 2.52
+    },
+    {
+      "word": "seconds",
+      "start": 2.52,
+      "end": 2.96
+    },
+    {
+      "word": "pushing.",
+      "start": 2.96,
+      "end": 3.5
+    },
+    {
+      "word": "Norris",
+      "start": 4.54,
+      "end": 5.26
+    },
+    {
+      "word": "out",
+      "start": 5.26,
+      "end": 5.42
+    },
+    {
+      "word": "lap",
+      "start": 5.42,
+      "end": 5.62
+    },
+    {
+      "word": "5",
+      "start": 5.62,
+      "end": 5.96
+    },
+    {
+      "word": "seconds",
+      "start": 5.96,
+      "end": 6.26
+    },
+    {
+      "word": "ahead.",
+      "start": 6.26,
+      "end": 6.58
+    },
+    {
+      "word": "Hamilton",
+      "start": 7.0,
+      "end": 7.3
+    },
+    {
+      "word": "pushing",
+      "start": 7.3,
+      "end": 7.92
+    },
+    {
+      "word": "for...",
+      "start": 7.92,
+      "end": 9.0
+    },
+    {
+      "word": "track",
+      "start": 9.82,
+      "end": 10.08
+    },
+    {
+      "word": "clear",
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "word": "behind",
+      "start": 10.4,
+      "end": 10.72
+    },
+    {
+      "word": "Hamilton.",
+      "start": 10.72,
+      "end": 11.18
+    },
+    {
+      "word": "Cleanbred",
+      "start": 12.7,
+      "end": 13.42
+    },
+    {
+      "word": "will",
+      "start": 13.42,
+      "end": 13.58
+    },
+    {
+      "word": "box",
+      "start": 13.58,
+      "end": 13.86
+    },
+    {
+      "word": "behind.",
+      "start": 13.86,
+      "end": 14.34
+    },
+    {
+      "word": "Will",
+      "start": 14.52,
+      "end": 14.64
+    },
+    {
+      "word": "be",
+      "start": 14.64,
+      "end": 14.82
+    },
+    {
+      "word": "mode",
+      "start": 14.82,
+      "end": 15.38
+    },
+    {
+      "word": "push",
+      "start": 15.38,
+      "end": 15.66
+    },
+    {
+      "word": "after",
+      "start": 15.66,
+      "end": 15.98
+    },
+    {
+      "word": "turn",
+      "start": 15.98,
+      "end": 16.18
+    },
+    {
+      "word": "14.",
+      "start": 16.18,
+      "end": 16.56
+    },
+    {
+      "word": "Target",
+      "start": 16.98,
+      "end": 17.16
+    },
+    {
+      "word": "zero.",
+      "start": 17.16,
+      "end": 17.46
+    },
+    {
+      "word": "Bar.",
+      "start": 18.3,
+      "end": 18.72
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,215 @@
+{
+  "clip_id": "clip_0137",
+  "text": "I'm going to go back here. I'm going to be 3 per knots. 3 per knots and then I'm going to start it. If you push low, it takes a bit of luck. 3 per knots, now. Left hand side 270.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": "going",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": "to",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": "go",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": "back",
+      "start": 0.0,
+      "end": 2.88
+    },
+    {
+      "word": "here.",
+      "start": 2.88,
+      "end": 3.14
+    },
+    {
+      "word": "I'm",
+      "start": 4.4,
+      "end": 4.88
+    },
+    {
+      "word": "going",
+      "start": 4.88,
+      "end": 4.88
+    },
+    {
+      "word": "to",
+      "start": 4.88,
+      "end": 4.88
+    },
+    {
+      "word": "be",
+      "start": 4.88,
+      "end": 4.92
+    },
+    {
+      "word": "3",
+      "start": 4.92,
+      "end": 5.54
+    },
+    {
+      "word": "per",
+      "start": 5.54,
+      "end": 5.78
+    },
+    {
+      "word": "knots.",
+      "start": 5.78,
+      "end": 6.04
+    },
+    {
+      "word": "3",
+      "start": 6.28,
+      "end": 6.64
+    },
+    {
+      "word": "per",
+      "start": 6.64,
+      "end": 6.78
+    },
+    {
+      "word": "knots",
+      "start": 6.78,
+      "end": 7.02
+    },
+    {
+      "word": "and",
+      "start": 7.02,
+      "end": 7.16
+    },
+    {
+      "word": "then",
+      "start": 7.16,
+      "end": 7.3
+    },
+    {
+      "word": "I'm",
+      "start": 7.3,
+      "end": 7.52
+    },
+    {
+      "word": "going",
+      "start": 7.52,
+      "end": 7.58
+    },
+    {
+      "word": "to",
+      "start": 7.58,
+      "end": 7.58
+    },
+    {
+      "word": "start",
+      "start": 7.58,
+      "end": 7.78
+    },
+    {
+      "word": "it.",
+      "start": 7.78,
+      "end": 7.92
+    },
+    {
+      "word": "If",
+      "start": 9.12,
+      "end": 9.6
+    },
+    {
+      "word": "you",
+      "start": 9.6,
+      "end": 9.72
+    },
+    {
+      "word": "push",
+      "start": 9.72,
+      "end": 10.08
+    },
+    {
+      "word": "low,",
+      "start": 10.08,
+      "end": 10.44
+    },
+    {
+      "word": "it",
+      "start": 10.68,
+      "end": 10.82
+    },
+    {
+      "word": "takes",
+      "start": 10.82,
+      "end": 10.96
+    },
+    {
+      "word": "a",
+      "start": 10.96,
+      "end": 11.12
+    },
+    {
+      "word": "bit",
+      "start": 11.12,
+      "end": 11.32
+    },
+    {
+      "word": "of",
+      "start": 11.32,
+      "end": 11.46
+    },
+    {
+      "word": "luck.",
+      "start": 11.46,
+      "end": 11.7
+    },
+    {
+      "word": "3",
+      "start": 16.44,
+      "end": 16.92
+    },
+    {
+      "word": "per",
+      "start": 16.92,
+      "end": 17.1
+    },
+    {
+      "word": "knots,",
+      "start": 17.1,
+      "end": 17.3
+    },
+    {
+      "word": "now.",
+      "start": 17.4,
+      "end": 17.48
+    },
+    {
+      "word": "Left",
+      "start": 17.72,
+      "end": 17.92
+    },
+    {
+      "word": "hand",
+      "start": 17.92,
+      "end": 18.12
+    },
+    {
+      "word": "side",
+      "start": 18.12,
+      "end": 18.38
+    },
+    {
+      "word": "270.",
+      "start": 18.38,
+      "end": 18.86
+    }
+  ],
+  "language": "en",
+  "word_count": 41,
+  "is_empty": false,
+  "is_very_short": false
+}

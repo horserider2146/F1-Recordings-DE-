@@ -1,0 +1,150 @@
+{
+  "clip_id": "clip_1090",
+  "text": "I might have helped your ties as well, head down now. Yeah, don't try to beat the city. We used those three seconds. Yeah, so that, head down.",
+  "words": [
+    {
+      "word": "I",
+      "start": 1.92,
+      "end": 2.36
+    },
+    {
+      "word": "might",
+      "start": 2.36,
+      "end": 2.52
+    },
+    {
+      "word": "have",
+      "start": 2.52,
+      "end": 2.72
+    },
+    {
+      "word": "helped",
+      "start": 2.72,
+      "end": 2.92
+    },
+    {
+      "word": "your",
+      "start": 2.92,
+      "end": 3.06
+    },
+    {
+      "word": "ties",
+      "start": 3.06,
+      "end": 3.3
+    },
+    {
+      "word": "as",
+      "start": 3.3,
+      "end": 3.48
+    },
+    {
+      "word": "well,",
+      "start": 3.48,
+      "end": 3.76
+    },
+    {
+      "word": "head",
+      "start": 3.96,
+      "end": 4.08
+    },
+    {
+      "word": "down",
+      "start": 4.08,
+      "end": 4.3
+    },
+    {
+      "word": "now.",
+      "start": 4.3,
+      "end": 4.58
+    },
+    {
+      "word": "Yeah,",
+      "start": 8.2,
+      "end": 8.64
+    },
+    {
+      "word": "don't",
+      "start": 8.64,
+      "end": 9.08
+    },
+    {
+      "word": "try",
+      "start": 9.08,
+      "end": 9.18
+    },
+    {
+      "word": "to",
+      "start": 9.18,
+      "end": 9.32
+    },
+    {
+      "word": "beat",
+      "start": 9.32,
+      "end": 9.48
+    },
+    {
+      "word": "the",
+      "start": 9.48,
+      "end": 9.6
+    },
+    {
+      "word": "city.",
+      "start": 9.6,
+      "end": 9.9
+    },
+    {
+      "word": "We",
+      "start": 12.16,
+      "end": 12.6
+    },
+    {
+      "word": "used",
+      "start": 12.6,
+      "end": 12.78
+    },
+    {
+      "word": "those",
+      "start": 12.78,
+      "end": 13.0
+    },
+    {
+      "word": "three",
+      "start": 13.0,
+      "end": 13.48
+    },
+    {
+      "word": "seconds.",
+      "start": 13.48,
+      "end": 13.82
+    },
+    {
+      "word": "Yeah,",
+      "start": 16.46,
+      "end": 16.9
+    },
+    {
+      "word": "so",
+      "start": 17.16,
+      "end": 17.22
+    },
+    {
+      "word": "that,",
+      "start": 17.22,
+      "end": 17.44
+    },
+    {
+      "word": "head",
+      "start": 17.56,
+      "end": 17.66
+    },
+    {
+      "word": "down.",
+      "start": 17.66,
+      "end": 17.92
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

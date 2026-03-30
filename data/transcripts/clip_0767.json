@@ -1,0 +1,230 @@
+{
+  "clip_id": "clip_0767",
+  "text": "one. That's Ocon on the pit lane and EB plus two, engine braking plus two. Car in front are outside of overtake range. Small press energy in turn seven. Just waiting for saving. Now we're building a tire delta. This is good for us.",
+  "words": [
+    {
+      "word": "one.",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "That's",
+      "start": 1.06,
+      "end": 1.38
+    },
+    {
+      "word": "Ocon",
+      "start": 1.38,
+      "end": 1.7
+    },
+    {
+      "word": "on",
+      "start": 1.7,
+      "end": 1.8
+    },
+    {
+      "word": "the",
+      "start": 1.8,
+      "end": 1.88
+    },
+    {
+      "word": "pit",
+      "start": 1.88,
+      "end": 2.02
+    },
+    {
+      "word": "lane",
+      "start": 2.02,
+      "end": 2.18
+    },
+    {
+      "word": "and",
+      "start": 2.18,
+      "end": 3.46
+    },
+    {
+      "word": "EB",
+      "start": 3.46,
+      "end": 3.82
+    },
+    {
+      "word": "plus",
+      "start": 3.82,
+      "end": 4.3
+    },
+    {
+      "word": "two,",
+      "start": 4.3,
+      "end": 4.66
+    },
+    {
+      "word": "engine",
+      "start": 4.82,
+      "end": 5.04
+    },
+    {
+      "word": "braking",
+      "start": 5.04,
+      "end": 5.32
+    },
+    {
+      "word": "plus",
+      "start": 5.32,
+      "end": 5.68
+    },
+    {
+      "word": "two.",
+      "start": 5.68,
+      "end": 6.0
+    },
+    {
+      "word": "Car",
+      "start": 6.92,
+      "end": 7.48
+    },
+    {
+      "word": "in",
+      "start": 7.48,
+      "end": 7.7
+    },
+    {
+      "word": "front",
+      "start": 7.7,
+      "end": 7.92
+    },
+    {
+      "word": "are",
+      "start": 7.92,
+      "end": 8.3
+    },
+    {
+      "word": "outside",
+      "start": 8.3,
+      "end": 8.78
+    },
+    {
+      "word": "of",
+      "start": 8.78,
+      "end": 8.96
+    },
+    {
+      "word": "overtake",
+      "start": 8.96,
+      "end": 9.42
+    },
+    {
+      "word": "range.",
+      "start": 9.42,
+      "end": 9.62
+    },
+    {
+      "word": "Small",
+      "start": 10.5,
+      "end": 10.98
+    },
+    {
+      "word": "press",
+      "start": 10.98,
+      "end": 11.26
+    },
+    {
+      "word": "energy",
+      "start": 11.26,
+      "end": 11.84
+    },
+    {
+      "word": "in",
+      "start": 11.84,
+      "end": 12.26
+    },
+    {
+      "word": "turn",
+      "start": 12.26,
+      "end": 12.42
+    },
+    {
+      "word": "seven.",
+      "start": 12.42,
+      "end": 12.8
+    },
+    {
+      "word": "Just",
+      "start": 13.84,
+      "end": 14.02
+    },
+    {
+      "word": "waiting",
+      "start": 14.02,
+      "end": 14.26
+    },
+    {
+      "word": "for",
+      "start": 14.26,
+      "end": 14.56
+    },
+    {
+      "word": "saving.",
+      "start": 14.56,
+      "end": 14.86
+    },
+    {
+      "word": "Now",
+      "start": 16.36,
+      "end": 16.92
+    },
+    {
+      "word": "we're",
+      "start": 16.92,
+      "end": 17.06
+    },
+    {
+      "word": "building",
+      "start": 17.06,
+      "end": 17.34
+    },
+    {
+      "word": "a",
+      "start": 17.34,
+      "end": 17.54
+    },
+    {
+      "word": "tire",
+      "start": 17.54,
+      "end": 17.78
+    },
+    {
+      "word": "delta.",
+      "start": 17.78,
+      "end": 18.0
+    },
+    {
+      "word": "This",
+      "start": 18.28,
+      "end": 18.46
+    },
+    {
+      "word": "is",
+      "start": 18.46,
+      "end": 18.56
+    },
+    {
+      "word": "good",
+      "start": 18.56,
+      "end": 18.68
+    },
+    {
+      "word": "for",
+      "start": 18.68,
+      "end": 18.86
+    },
+    {
+      "word": "us.",
+      "start": 18.86,
+      "end": 19.02
+    }
+  ],
+  "language": "en",
+  "word_count": 44,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_1196",
+  "text": "final lap, bareman 3.1 behind, bareman 1.6 behind, fine bareman is ghastly three seconds back, okay that is the checkered flag for us, it's a P13, let's go mode slow, mode slow, well done mate",
+  "words": [
+    {
+      "word": "final",
+      "start": 0.0,
+      "end": 0.74
+    },
+    {
+      "word": "lap,",
+      "start": 0.74,
+      "end": 1.04
+    },
+    {
+      "word": "bareman",
+      "start": 1.44,
+      "end": 1.62
+    },
+    {
+      "word": "3",
+      "start": 1.62,
+      "end": 2.02
+    },
+    {
+      "word": ".1",
+      "start": 2.02,
+      "end": 2.52
+    },
+    {
+      "word": "behind,",
+      "start": 2.52,
+      "end": 2.88
+    },
+    {
+      "word": "bareman",
+      "start": 3.34,
+      "end": 4.66
+    },
+    {
+      "word": "1",
+      "start": 4.66,
+      "end": 4.88
+    },
+    {
+      "word": ".6",
+      "start": 4.88,
+      "end": 5.5
+    },
+    {
+      "word": "behind,",
+      "start": 5.5,
+      "end": 5.98
+    },
+    {
+      "word": "fine",
+      "start": 6.38,
+      "end": 7.02
+    },
+    {
+      "word": "bareman",
+      "start": 7.02,
+      "end": 7.4
+    },
+    {
+      "word": "is",
+      "start": 7.4,
+      "end": 7.64
+    },
+    {
+      "word": "ghastly",
+      "start": 7.64,
+      "end": 8.16
+    },
+    {
+      "word": "three",
+      "start": 8.16,
+      "end": 8.36
+    },
+    {
+      "word": "seconds",
+      "start": 8.36,
+      "end": 8.64
+    },
+    {
+      "word": "back,",
+      "start": 8.64,
+      "end": 9.02
+    },
+    {
+      "word": "okay",
+      "start": 9.2,
+      "end": 10.28
+    },
+    {
+      "word": "that",
+      "start": 10.28,
+      "end": 10.5
+    },
+    {
+      "word": "is",
+      "start": 10.5,
+      "end": 10.72
+    },
+    {
+      "word": "the",
+      "start": 10.72,
+      "end": 11.48
+    },
+    {
+      "word": "checkered",
+      "start": 11.48,
+      "end": 12.18
+    },
+    {
+      "word": "flag",
+      "start": 12.18,
+      "end": 12.44
+    },
+    {
+      "word": "for",
+      "start": 12.44,
+      "end": 12.7
+    },
+    {
+      "word": "us,",
+      "start": 12.7,
+      "end": 13.0
+    },
+    {
+      "word": "it's",
+      "start": 13.1,
+      "end": 13.62
+    },
+    {
+      "word": "a",
+      "start": 13.62,
+      "end": 13.7
+    },
+    {
+      "word": "P13,",
+      "start": 13.7,
+      "end": 14.56
+    },
+    {
+      "word": "let's",
+      "start": 15.08,
+      "end": 15.38
+    },
+    {
+      "word": "go",
+      "start": 15.38,
+      "end": 15.56
+    },
+    {
+      "word": "mode",
+      "start": 15.56,
+      "end": 16.1
+    },
+    {
+      "word": "slow,",
+      "start": 16.1,
+      "end": 16.72
+    },
+    {
+      "word": "mode",
+      "start": 17.28,
+      "end": 17.64
+    },
+    {
+      "word": "slow,",
+      "start": 17.64,
+      "end": 18.1
+    },
+    {
+      "word": "well",
+      "start": 18.5,
+      "end": 18.82
+    },
+    {
+      "word": "done",
+      "start": 18.82,
+      "end": 18.96
+    },
+    {
+      "word": "mate",
+      "start": 18.96,
+      "end": 19.14
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,140 @@
+{
+  "clip_id": "clip_0686",
+  "text": "Suspect or Con is on a slow lap. Could be going again. Austin on break. Now recharge off. Low button, handbox is flat. Slow button, handbox.",
+  "words": [
+    {
+      "word": "Suspect",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "or",
+      "start": 0.36,
+      "end": 0.82
+    },
+    {
+      "word": "Con",
+      "start": 0.82,
+      "end": 1.08
+    },
+    {
+      "word": "is",
+      "start": 1.08,
+      "end": 1.5
+    },
+    {
+      "word": "on",
+      "start": 1.5,
+      "end": 1.64
+    },
+    {
+      "word": "a",
+      "start": 1.64,
+      "end": 1.78
+    },
+    {
+      "word": "slow",
+      "start": 1.78,
+      "end": 2.12
+    },
+    {
+      "word": "lap.",
+      "start": 2.12,
+      "end": 2.34
+    },
+    {
+      "word": "Could",
+      "start": 3.44,
+      "end": 4.12
+    },
+    {
+      "word": "be",
+      "start": 4.12,
+      "end": 4.26
+    },
+    {
+      "word": "going",
+      "start": 4.26,
+      "end": 4.42
+    },
+    {
+      "word": "again.",
+      "start": 4.42,
+      "end": 4.72
+    },
+    {
+      "word": "Austin",
+      "start": 6.6,
+      "end": 7.28
+    },
+    {
+      "word": "on",
+      "start": 7.28,
+      "end": 7.46
+    },
+    {
+      "word": "break.",
+      "start": 7.46,
+      "end": 7.66
+    },
+    {
+      "word": "Now",
+      "start": 10.38,
+      "end": 11.06
+    },
+    {
+      "word": "recharge",
+      "start": 11.06,
+      "end": 11.74
+    },
+    {
+      "word": "off.",
+      "start": 11.74,
+      "end": 12.12
+    },
+    {
+      "word": "Low",
+      "start": 15.88,
+      "end": 16.56
+    },
+    {
+      "word": "button,",
+      "start": 16.56,
+      "end": 17.24
+    },
+    {
+      "word": "handbox",
+      "start": 17.36,
+      "end": 17.68
+    },
+    {
+      "word": "is",
+      "start": 17.68,
+      "end": 17.9
+    },
+    {
+      "word": "flat.",
+      "start": 17.9,
+      "end": 18.1
+    },
+    {
+      "word": "Slow",
+      "start": 18.5,
+      "end": 18.84
+    },
+    {
+      "word": "button,",
+      "start": 18.84,
+      "end": 19.16
+    },
+    {
+      "word": "handbox.",
+      "start": 19.48,
+      "end": 19.88
+    }
+  ],
+  "language": "en",
+  "word_count": 26,
+  "is_empty": false,
+  "is_very_short": false
+}

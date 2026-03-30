@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0210",
+  "text": "I'm going to push up Philips Philips, Philips, Philips Philips Philips The result is not The result is 1.3 Philips Let's see, but it could be clever thing to try to get over the technical",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "going",
+      "start": 0.46,
+      "end": 0.46
+    },
+    {
+      "word": "to",
+      "start": 0.46,
+      "end": 0.7
+    },
+    {
+      "word": "push",
+      "start": 0.7,
+      "end": 0.7
+    },
+    {
+      "word": "up",
+      "start": 0.7,
+      "end": 1.62
+    },
+    {
+      "word": "Philips",
+      "start": 2.84,
+      "end": 3.3
+    },
+    {
+      "word": "Philips,",
+      "start": 4.34,
+      "end": 4.8
+    },
+    {
+      "word": "Philips,",
+      "start": 4.84,
+      "end": 4.86
+    },
+    {
+      "word": "Philips",
+      "start": 4.86,
+      "end": 5.12
+    },
+    {
+      "word": "Philips",
+      "start": 5.12,
+      "end": 5.42
+    },
+    {
+      "word": "Philips",
+      "start": 8.68,
+      "end": 9.14
+    },
+    {
+      "word": "The",
+      "start": 9.14,
+      "end": 9.14
+    },
+    {
+      "word": "result",
+      "start": 9.14,
+      "end": 10.06
+    },
+    {
+      "word": "is",
+      "start": 10.06,
+      "end": 10.46
+    },
+    {
+      "word": "not",
+      "start": 10.46,
+      "end": 10.8
+    },
+    {
+      "word": "The",
+      "start": 12.16,
+      "end": 12.62
+    },
+    {
+      "word": "result",
+      "start": 12.62,
+      "end": 13.08
+    },
+    {
+      "word": "is",
+      "start": 13.08,
+      "end": 13.24
+    },
+    {
+      "word": "1",
+      "start": 13.24,
+      "end": 13.24
+    },
+    {
+      "word": ".3",
+      "start": 13.24,
+      "end": 13.64
+    },
+    {
+      "word": "Philips",
+      "start": 14.96,
+      "end": 15.42
+    },
+    {
+      "word": "Let's",
+      "start": 17.0,
+      "end": 17.46
+    },
+    {
+      "word": "see,",
+      "start": 17.46,
+      "end": 17.64
+    },
+    {
+      "word": "but",
+      "start": 17.74,
+      "end": 17.82
+    },
+    {
+      "word": "it",
+      "start": 17.82,
+      "end": 18.04
+    },
+    {
+      "word": "could",
+      "start": 18.04,
+      "end": 18.14
+    },
+    {
+      "word": "be",
+      "start": 18.14,
+      "end": 18.34
+    },
+    {
+      "word": "clever",
+      "start": 18.34,
+      "end": 18.56
+    },
+    {
+      "word": "thing",
+      "start": 18.56,
+      "end": 18.8
+    },
+    {
+      "word": "to",
+      "start": 18.8,
+      "end": 19.0
+    },
+    {
+      "word": "try",
+      "start": 19.0,
+      "end": 19.12
+    },
+    {
+      "word": "to",
+      "start": 19.12,
+      "end": 19.22
+    },
+    {
+      "word": "get",
+      "start": 19.22,
+      "end": 19.36
+    },
+    {
+      "word": "over",
+      "start": 19.36,
+      "end": 19.56
+    },
+    {
+      "word": "the",
+      "start": 19.56,
+      "end": 19.72
+    },
+    {
+      "word": "technical",
+      "start": 19.72,
+      "end": 19.88
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

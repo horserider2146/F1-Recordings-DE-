@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0712",
+  "text": "and the lift is not required it's going half the way, it's lifting, right? hold on a sec I'm setting the lift, 114 yes please, thank you so we're going ahead 37.2",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "word": "the",
+      "start": 0.58,
+      "end": 0.72
+    },
+    {
+      "word": "lift",
+      "start": 0.72,
+      "end": 1.18
+    },
+    {
+      "word": "is",
+      "start": 1.18,
+      "end": 1.38
+    },
+    {
+      "word": "not",
+      "start": 1.38,
+      "end": 1.6
+    },
+    {
+      "word": "required",
+      "start": 1.6,
+      "end": 2.26
+    },
+    {
+      "word": "it's",
+      "start": 4.94,
+      "end": 5.46
+    },
+    {
+      "word": "going",
+      "start": 5.46,
+      "end": 5.66
+    },
+    {
+      "word": "half",
+      "start": 5.66,
+      "end": 6.04
+    },
+    {
+      "word": "the",
+      "start": 6.04,
+      "end": 6.22
+    },
+    {
+      "word": "way,",
+      "start": 6.22,
+      "end": 6.4
+    },
+    {
+      "word": "it's",
+      "start": 6.6,
+      "end": 7.1
+    },
+    {
+      "word": "lifting,",
+      "start": 7.1,
+      "end": 7.14
+    },
+    {
+      "word": "right?",
+      "start": 7.22,
+      "end": 7.44
+    },
+    {
+      "word": "hold",
+      "start": 7.7,
+      "end": 7.7
+    },
+    {
+      "word": "on",
+      "start": 7.7,
+      "end": 7.86
+    },
+    {
+      "word": "a",
+      "start": 7.86,
+      "end": 7.98
+    },
+    {
+      "word": "sec",
+      "start": 7.98,
+      "end": 8.22
+    },
+    {
+      "word": "I'm",
+      "start": 10.38,
+      "end": 10.9
+    },
+    {
+      "word": "setting",
+      "start": 10.9,
+      "end": 11.06
+    },
+    {
+      "word": "the",
+      "start": 11.06,
+      "end": 11.34
+    },
+    {
+      "word": "lift,",
+      "start": 11.34,
+      "end": 11.6
+    },
+    {
+      "word": "114",
+      "start": 11.94,
+      "end": 12.74
+    },
+    {
+      "word": "yes",
+      "start": 13.68,
+      "end": 14.2
+    },
+    {
+      "word": "please,",
+      "start": 14.2,
+      "end": 14.46
+    },
+    {
+      "word": "thank",
+      "start": 14.64,
+      "end": 14.88
+    },
+    {
+      "word": "you",
+      "start": 14.88,
+      "end": 15.14
+    },
+    {
+      "word": "so",
+      "start": 17.46,
+      "end": 17.98
+    },
+    {
+      "word": "we're",
+      "start": 17.98,
+      "end": 18.28
+    },
+    {
+      "word": "going",
+      "start": 18.28,
+      "end": 18.38
+    },
+    {
+      "word": "ahead",
+      "start": 18.38,
+      "end": 18.58
+    },
+    {
+      "word": "37",
+      "start": 18.58,
+      "end": 19.1
+    },
+    {
+      "word": ".2",
+      "start": 19.1,
+      "end": 19.78
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

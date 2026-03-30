@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0443",
+  "text": "Cap at 1.4 behind. Last lap at, or this lap, turn 1. Tire sliding at the threshold. 10.7.8 good. Cap at 1.4. Cap at 1.6. Cap at 3 behind. Leclerc showing Level 2. Level 2.",
+  "words": [
+    {
+      "word": "Cap",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "at",
+      "start": 0.16,
+      "end": 0.26
+    },
+    {
+      "word": "1",
+      "start": 0.26,
+      "end": 0.44
+    },
+    {
+      "word": ".4",
+      "start": 0.44,
+      "end": 0.78
+    },
+    {
+      "word": "behind.",
+      "start": 0.78,
+      "end": 1.08
+    },
+    {
+      "word": "Last",
+      "start": 2.34,
+      "end": 2.72
+    },
+    {
+      "word": "lap",
+      "start": 2.72,
+      "end": 2.96
+    },
+    {
+      "word": "at,",
+      "start": 2.96,
+      "end": 3.12
+    },
+    {
+      "word": "or",
+      "start": 3.34,
+      "end": 3.42
+    },
+    {
+      "word": "this",
+      "start": 3.42,
+      "end": 3.58
+    },
+    {
+      "word": "lap,",
+      "start": 3.58,
+      "end": 3.74
+    },
+    {
+      "word": "turn",
+      "start": 3.84,
+      "end": 3.98
+    },
+    {
+      "word": "1.",
+      "start": 3.98,
+      "end": 4.3
+    },
+    {
+      "word": "Tire",
+      "start": 4.64,
+      "end": 5.12
+    },
+    {
+      "word": "sliding",
+      "start": 5.12,
+      "end": 5.42
+    },
+    {
+      "word": "at",
+      "start": 5.42,
+      "end": 5.74
+    },
+    {
+      "word": "the",
+      "start": 5.74,
+      "end": 5.92
+    },
+    {
+      "word": "threshold.",
+      "start": 5.92,
+      "end": 6.26
+    },
+    {
+      "word": "10",
+      "start": 7.24,
+      "end": 7.52
+    },
+    {
+      "word": ".7",
+      "start": 7.52,
+      "end": 7.7
+    },
+    {
+      "word": ".8",
+      "start": 7.7,
+      "end": 7.92
+    },
+    {
+      "word": "good.",
+      "start": 7.92,
+      "end": 8.08
+    },
+    {
+      "word": "Cap",
+      "start": 9.52,
+      "end": 10.12
+    },
+    {
+      "word": "at",
+      "start": 10.12,
+      "end": 10.2
+    },
+    {
+      "word": "1",
+      "start": 10.2,
+      "end": 10.34
+    },
+    {
+      "word": ".4.",
+      "start": 10.34,
+      "end": 10.92
+    },
+    {
+      "word": "Cap",
+      "start": 11.78,
+      "end": 12.38
+    },
+    {
+      "word": "at",
+      "start": 12.38,
+      "end": 12.6
+    },
+    {
+      "word": "1",
+      "start": 12.6,
+      "end": 12.82
+    },
+    {
+      "word": ".6.",
+      "start": 12.82,
+      "end": 13.6
+    },
+    {
+      "word": "Cap",
+      "start": 15.18,
+      "end": 15.78
+    },
+    {
+      "word": "at",
+      "start": 15.78,
+      "end": 16.02
+    },
+    {
+      "word": "3",
+      "start": 16.02,
+      "end": 16.3
+    },
+    {
+      "word": "behind.",
+      "start": 16.3,
+      "end": 16.98
+    },
+    {
+      "word": "Leclerc",
+      "start": 17.32,
+      "end": 17.74
+    },
+    {
+      "word": "showing",
+      "start": 17.74,
+      "end": 17.88
+    },
+    {
+      "word": "Level",
+      "start": 17.88,
+      "end": 18.26
+    },
+    {
+      "word": "2.",
+      "start": 18.26,
+      "end": 18.68
+    },
+    {
+      "word": "Level",
+      "start": 19.04,
+      "end": 19.64
+    },
+    {
+      "word": "2.",
+      "start": 19.64,
+      "end": 19.92
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_0575",
+  "text": "copy and avoid full throttle please avoid full throttle and 4 long burnout and one short please 4 long burnout one short and more the K2 and boost reminder and last car is on the grid now",
+  "words": [
+    {
+      "word": "copy",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "and",
+      "start": 0.2,
+      "end": 1.84
+    },
+    {
+      "word": "avoid",
+      "start": 1.84,
+      "end": 2.44
+    },
+    {
+      "word": "full",
+      "start": 2.44,
+      "end": 2.84
+    },
+    {
+      "word": "throttle",
+      "start": 2.84,
+      "end": 3.2
+    },
+    {
+      "word": "please",
+      "start": 3.2,
+      "end": 3.52
+    },
+    {
+      "word": "avoid",
+      "start": 3.52,
+      "end": 4.42
+    },
+    {
+      "word": "full",
+      "start": 4.42,
+      "end": 4.7
+    },
+    {
+      "word": "throttle",
+      "start": 4.7,
+      "end": 5.06
+    },
+    {
+      "word": "and",
+      "start": 5.06,
+      "end": 6.7
+    },
+    {
+      "word": "4",
+      "start": 6.7,
+      "end": 7.4
+    },
+    {
+      "word": "long",
+      "start": 7.4,
+      "end": 8.06
+    },
+    {
+      "word": "burnout",
+      "start": 8.06,
+      "end": 8.76
+    },
+    {
+      "word": "and",
+      "start": 8.76,
+      "end": 9.26
+    },
+    {
+      "word": "one",
+      "start": 9.26,
+      "end": 9.52
+    },
+    {
+      "word": "short",
+      "start": 9.52,
+      "end": 9.88
+    },
+    {
+      "word": "please",
+      "start": 9.88,
+      "end": 10.24
+    },
+    {
+      "word": "4",
+      "start": 10.24,
+      "end": 10.96
+    },
+    {
+      "word": "long",
+      "start": 10.96,
+      "end": 11.32
+    },
+    {
+      "word": "burnout",
+      "start": 11.32,
+      "end": 11.8
+    },
+    {
+      "word": "one",
+      "start": 11.8,
+      "end": 12.38
+    },
+    {
+      "word": "short",
+      "start": 12.38,
+      "end": 13.06
+    },
+    {
+      "word": "and",
+      "start": 13.06,
+      "end": 15.02
+    },
+    {
+      "word": "more",
+      "start": 15.02,
+      "end": 15.3
+    },
+    {
+      "word": "the",
+      "start": 15.3,
+      "end": 15.46
+    },
+    {
+      "word": "K2",
+      "start": 15.46,
+      "end": 15.86
+    },
+    {
+      "word": "and",
+      "start": 15.86,
+      "end": 16.24
+    },
+    {
+      "word": "boost",
+      "start": 16.24,
+      "end": 16.52
+    },
+    {
+      "word": "reminder",
+      "start": 16.52,
+      "end": 17.16
+    },
+    {
+      "word": "and",
+      "start": 17.16,
+      "end": 18.74
+    },
+    {
+      "word": "last",
+      "start": 18.74,
+      "end": 19.0
+    },
+    {
+      "word": "car",
+      "start": 19.0,
+      "end": 19.22
+    },
+    {
+      "word": "is",
+      "start": 19.22,
+      "end": 19.34
+    },
+    {
+      "word": "on",
+      "start": 19.34,
+      "end": 19.48
+    },
+    {
+      "word": "the",
+      "start": 19.48,
+      "end": 19.58
+    },
+    {
+      "word": "grid",
+      "start": 19.58,
+      "end": 19.74
+    },
+    {
+      "word": "now",
+      "start": 19.74,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

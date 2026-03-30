@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_0178",
+  "text": "The pilot at the head to feet is at 39.1 The pilot returning to the cap of 4th frequency, good pinner head Do you like top 4? I have no question",
+  "words": [
+    {
+      "word": "The",
+      "start": 2.18,
+      "end": 2.7
+    },
+    {
+      "word": "pilot",
+      "start": 2.7,
+      "end": 2.96
+    },
+    {
+      "word": "at",
+      "start": 2.96,
+      "end": 3.24
+    },
+    {
+      "word": "the",
+      "start": 3.24,
+      "end": 3.34
+    },
+    {
+      "word": "head",
+      "start": 3.34,
+      "end": 3.5
+    },
+    {
+      "word": "to",
+      "start": 3.5,
+      "end": 3.66
+    },
+    {
+      "word": "feet",
+      "start": 3.66,
+      "end": 3.92
+    },
+    {
+      "word": "is",
+      "start": 3.92,
+      "end": 4.22
+    },
+    {
+      "word": "at",
+      "start": 4.22,
+      "end": 4.34
+    },
+    {
+      "word": "39",
+      "start": 4.34,
+      "end": 4.96
+    },
+    {
+      "word": ".1",
+      "start": 4.96,
+      "end": 5.7
+    },
+    {
+      "word": "The",
+      "start": 7.72,
+      "end": 8.24
+    },
+    {
+      "word": "pilot",
+      "start": 8.24,
+      "end": 8.64
+    },
+    {
+      "word": "returning",
+      "start": 8.64,
+      "end": 9.02
+    },
+    {
+      "word": "to",
+      "start": 9.02,
+      "end": 9.22
+    },
+    {
+      "word": "the",
+      "start": 9.22,
+      "end": 9.32
+    },
+    {
+      "word": "cap",
+      "start": 9.32,
+      "end": 9.48
+    },
+    {
+      "word": "of",
+      "start": 9.48,
+      "end": 9.62
+    },
+    {
+      "word": "4th",
+      "start": 9.62,
+      "end": 10.02
+    },
+    {
+      "word": "frequency,",
+      "start": 10.02,
+      "end": 10.26
+    },
+    {
+      "word": "good",
+      "start": 10.48,
+      "end": 10.64
+    },
+    {
+      "word": "pinner",
+      "start": 10.64,
+      "end": 11.1
+    },
+    {
+      "word": "head",
+      "start": 11.1,
+      "end": 11.4
+    },
+    {
+      "word": "Do",
+      "start": 13.9,
+      "end": 14.42
+    },
+    {
+      "word": "you",
+      "start": 14.42,
+      "end": 14.54
+    },
+    {
+      "word": "like",
+      "start": 14.54,
+      "end": 14.68
+    },
+    {
+      "word": "top",
+      "start": 14.68,
+      "end": 14.9
+    },
+    {
+      "word": "4?",
+      "start": 14.9,
+      "end": 15.36
+    },
+    {
+      "word": "I",
+      "start": 16.0,
+      "end": 16.0
+    },
+    {
+      "word": "have",
+      "start": 16.0,
+      "end": 16.14
+    },
+    {
+      "word": "no",
+      "start": 16.14,
+      "end": 16.42
+    },
+    {
+      "word": "question",
+      "start": 16.42,
+      "end": 17.84
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

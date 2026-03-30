@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_0261",
+  "text": "We need mode SC please mode SC We should target minus 25 for tires on the dash minus 25 Magic available if you need Recovery vehicle turn 2 double yellow turn 2",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "word": "need",
+      "start": 0.58,
+      "end": 0.82
+    },
+    {
+      "word": "mode",
+      "start": 0.82,
+      "end": 1.14
+    },
+    {
+      "word": "SC",
+      "start": 1.14,
+      "end": 1.92
+    },
+    {
+      "word": "please",
+      "start": 1.92,
+      "end": 2.26
+    },
+    {
+      "word": "mode",
+      "start": 2.26,
+      "end": 2.6
+    },
+    {
+      "word": "SC",
+      "start": 2.6,
+      "end": 2.96
+    },
+    {
+      "word": "We",
+      "start": 4.2,
+      "end": 4.98
+    },
+    {
+      "word": "should",
+      "start": 4.98,
+      "end": 5.18
+    },
+    {
+      "word": "target",
+      "start": 5.18,
+      "end": 5.6
+    },
+    {
+      "word": "minus",
+      "start": 5.6,
+      "end": 6.08
+    },
+    {
+      "word": "25",
+      "start": 6.08,
+      "end": 7.08
+    },
+    {
+      "word": "for",
+      "start": 7.08,
+      "end": 7.38
+    },
+    {
+      "word": "tires",
+      "start": 7.38,
+      "end": 7.68
+    },
+    {
+      "word": "on",
+      "start": 7.68,
+      "end": 7.88
+    },
+    {
+      "word": "the",
+      "start": 7.88,
+      "end": 8.0
+    },
+    {
+      "word": "dash",
+      "start": 8.0,
+      "end": 8.28
+    },
+    {
+      "word": "minus",
+      "start": 8.28,
+      "end": 8.8
+    },
+    {
+      "word": "25",
+      "start": 8.8,
+      "end": 9.66
+    },
+    {
+      "word": "Magic",
+      "start": 10.96,
+      "end": 11.74
+    },
+    {
+      "word": "available",
+      "start": 11.74,
+      "end": 12.3
+    },
+    {
+      "word": "if",
+      "start": 12.3,
+      "end": 12.82
+    },
+    {
+      "word": "you",
+      "start": 12.82,
+      "end": 12.92
+    },
+    {
+      "word": "need",
+      "start": 12.92,
+      "end": 13.14
+    },
+    {
+      "word": "Recovery",
+      "start": 14.28,
+      "end": 15.06
+    },
+    {
+      "word": "vehicle",
+      "start": 15.06,
+      "end": 15.72
+    },
+    {
+      "word": "turn",
+      "start": 15.72,
+      "end": 16.54
+    },
+    {
+      "word": "2",
+      "start": 16.54,
+      "end": 16.9
+    },
+    {
+      "word": "double",
+      "start": 16.9,
+      "end": 17.46
+    },
+    {
+      "word": "yellow",
+      "start": 17.46,
+      "end": 17.82
+    },
+    {
+      "word": "turn",
+      "start": 17.82,
+      "end": 18.54
+    },
+    {
+      "word": "2",
+      "start": 18.54,
+      "end": 18.82
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_1067",
+  "text": "Yeah, it's gonna be okay, but no, they bought",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "it's",
+      "start": 0.2,
+      "end": 0.34
+    },
+    {
+      "word": "gonna",
+      "start": 0.34,
+      "end": 0.56
+    },
+    {
+      "word": "be",
+      "start": 0.56,
+      "end": 0.76
+    },
+    {
+      "word": "okay,",
+      "start": 0.76,
+      "end": 1.1
+    },
+    {
+      "word": "but",
+      "start": 1.26,
+      "end": 1.4
+    },
+    {
+      "word": "no,",
+      "start": 1.4,
+      "end": 1.7
+    },
+    {
+      "word": "they",
+      "start": 1.96,
+      "end": 2.12
+    },
+    {
+      "word": "bought",
+      "start": 2.12,
+      "end": 2.24
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

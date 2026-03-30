@@ -1,0 +1,240 @@
+{
+  "clip_id": "clip_0255",
+  "text": "I really thought it was so good what's going on. And we need more tyre saving turn 7. Avoid left toggle too many times for engine braking limit. Up to you to manage but turn 7 is fast from our numbers. Compared to your friends or...",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 1.0
+    },
+    {
+      "word": "really",
+      "start": 1.0,
+      "end": 1.2
+    },
+    {
+      "word": "thought",
+      "start": 1.2,
+      "end": 1.44
+    },
+    {
+      "word": "it",
+      "start": 1.44,
+      "end": 1.66
+    },
+    {
+      "word": "was",
+      "start": 1.66,
+      "end": 1.86
+    },
+    {
+      "word": "so",
+      "start": 1.86,
+      "end": 2.46
+    },
+    {
+      "word": "good",
+      "start": 2.46,
+      "end": 2.86
+    },
+    {
+      "word": "what's",
+      "start": 2.86,
+      "end": 3.12
+    },
+    {
+      "word": "going",
+      "start": 3.12,
+      "end": 3.2
+    },
+    {
+      "word": "on.",
+      "start": 3.2,
+      "end": 4.0
+    },
+    {
+      "word": "And",
+      "start": 4.96,
+      "end": 5.04
+    },
+    {
+      "word": "we",
+      "start": 5.04,
+      "end": 5.18
+    },
+    {
+      "word": "need",
+      "start": 5.18,
+      "end": 5.34
+    },
+    {
+      "word": "more",
+      "start": 5.34,
+      "end": 5.62
+    },
+    {
+      "word": "tyre",
+      "start": 5.62,
+      "end": 5.92
+    },
+    {
+      "word": "saving",
+      "start": 5.92,
+      "end": 6.32
+    },
+    {
+      "word": "turn",
+      "start": 6.32,
+      "end": 6.58
+    },
+    {
+      "word": "7.",
+      "start": 6.58,
+      "end": 6.94
+    },
+    {
+      "word": "Avoid",
+      "start": 7.68,
+      "end": 8.02
+    },
+    {
+      "word": "left",
+      "start": 8.02,
+      "end": 8.42
+    },
+    {
+      "word": "toggle",
+      "start": 8.42,
+      "end": 8.76
+    },
+    {
+      "word": "too",
+      "start": 8.76,
+      "end": 9.0
+    },
+    {
+      "word": "many",
+      "start": 9.0,
+      "end": 9.18
+    },
+    {
+      "word": "times",
+      "start": 9.18,
+      "end": 9.56
+    },
+    {
+      "word": "for",
+      "start": 9.56,
+      "end": 10.0
+    },
+    {
+      "word": "engine",
+      "start": 10.0,
+      "end": 10.3
+    },
+    {
+      "word": "braking",
+      "start": 10.3,
+      "end": 10.58
+    },
+    {
+      "word": "limit.",
+      "start": 10.58,
+      "end": 11.0
+    },
+    {
+      "word": "Up",
+      "start": 12.54,
+      "end": 13.14
+    },
+    {
+      "word": "to",
+      "start": 13.14,
+      "end": 13.34
+    },
+    {
+      "word": "you",
+      "start": 13.34,
+      "end": 13.48
+    },
+    {
+      "word": "to",
+      "start": 13.48,
+      "end": 13.62
+    },
+    {
+      "word": "manage",
+      "start": 13.62,
+      "end": 13.92
+    },
+    {
+      "word": "but",
+      "start": 13.92,
+      "end": 14.18
+    },
+    {
+      "word": "turn",
+      "start": 14.18,
+      "end": 14.46
+    },
+    {
+      "word": "7",
+      "start": 14.46,
+      "end": 14.8
+    },
+    {
+      "word": "is",
+      "start": 14.8,
+      "end": 15.06
+    },
+    {
+      "word": "fast",
+      "start": 15.06,
+      "end": 15.52
+    },
+    {
+      "word": "from",
+      "start": 15.52,
+      "end": 15.9
+    },
+    {
+      "word": "our",
+      "start": 15.9,
+      "end": 16.06
+    },
+    {
+      "word": "numbers.",
+      "start": 16.06,
+      "end": 16.42
+    },
+    {
+      "word": "Compared",
+      "start": 18.04,
+      "end": 18.64
+    },
+    {
+      "word": "to",
+      "start": 18.64,
+      "end": 18.86
+    },
+    {
+      "word": "your",
+      "start": 18.86,
+      "end": 19.0
+    },
+    {
+      "word": "friends",
+      "start": 19.0,
+      "end": 19.32
+    },
+    {
+      "word": "or...",
+      "start": 19.32,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 46,
+  "is_empty": false,
+  "is_very_short": false
+}

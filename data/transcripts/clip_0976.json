@@ -1,0 +1,250 @@
+{
+  "clip_id": "clip_0976",
+  "text": "OK. Top right looks good. 12 laps to go, gap 2 seconds. An important for Rastappen. Yeah, we think safety car window open for a soft tyre. 11 to go, what do you think? It's an 11 laps after this one. 11 laps after this one, yeah. Yes.",
+  "words": [
+    {
+      "word": "OK.",
+      "start": 0.0,
+      "end": 0.8
+    },
+    {
+      "word": "Top",
+      "start": 1.74,
+      "end": 2.24
+    },
+    {
+      "word": "right",
+      "start": 2.24,
+      "end": 2.5
+    },
+    {
+      "word": "looks",
+      "start": 2.5,
+      "end": 2.72
+    },
+    {
+      "word": "good.",
+      "start": 2.72,
+      "end": 3.0
+    },
+    {
+      "word": "12",
+      "start": 4.24,
+      "end": 4.76
+    },
+    {
+      "word": "laps",
+      "start": 4.76,
+      "end": 5.02
+    },
+    {
+      "word": "to",
+      "start": 5.02,
+      "end": 5.24
+    },
+    {
+      "word": "go,",
+      "start": 5.24,
+      "end": 5.42
+    },
+    {
+      "word": "gap",
+      "start": 5.62,
+      "end": 5.72
+    },
+    {
+      "word": "2",
+      "start": 5.72,
+      "end": 6.18
+    },
+    {
+      "word": "seconds.",
+      "start": 6.18,
+      "end": 6.46
+    },
+    {
+      "word": "An",
+      "start": 7.38,
+      "end": 7.64
+    },
+    {
+      "word": "important",
+      "start": 7.64,
+      "end": 8.06
+    },
+    {
+      "word": "for",
+      "start": 8.06,
+      "end": 8.36
+    },
+    {
+      "word": "Rastappen.",
+      "start": 8.36,
+      "end": 8.9
+    },
+    {
+      "word": "Yeah,",
+      "start": 9.86,
+      "end": 10.1
+    },
+    {
+      "word": "we",
+      "start": 10.24,
+      "end": 10.26
+    },
+    {
+      "word": "think",
+      "start": 10.26,
+      "end": 10.46
+    },
+    {
+      "word": "safety",
+      "start": 10.46,
+      "end": 10.76
+    },
+    {
+      "word": "car",
+      "start": 10.76,
+      "end": 11.0
+    },
+    {
+      "word": "window",
+      "start": 11.0,
+      "end": 11.18
+    },
+    {
+      "word": "open",
+      "start": 11.18,
+      "end": 11.52
+    },
+    {
+      "word": "for",
+      "start": 11.52,
+      "end": 11.72
+    },
+    {
+      "word": "a",
+      "start": 11.72,
+      "end": 11.84
+    },
+    {
+      "word": "soft",
+      "start": 11.84,
+      "end": 12.14
+    },
+    {
+      "word": "tyre.",
+      "start": 12.14,
+      "end": 12.56
+    },
+    {
+      "word": "11",
+      "start": 12.88,
+      "end": 13.0
+    },
+    {
+      "word": "to",
+      "start": 13.0,
+      "end": 13.26
+    },
+    {
+      "word": "go,",
+      "start": 13.26,
+      "end": 13.4
+    },
+    {
+      "word": "what",
+      "start": 13.46,
+      "end": 13.54
+    },
+    {
+      "word": "do",
+      "start": 13.54,
+      "end": 13.62
+    },
+    {
+      "word": "you",
+      "start": 13.62,
+      "end": 13.66
+    },
+    {
+      "word": "think?",
+      "start": 13.66,
+      "end": 13.78
+    },
+    {
+      "word": "It's",
+      "start": 14.72,
+      "end": 15.2
+    },
+    {
+      "word": "an",
+      "start": 15.2,
+      "end": 15.22
+    },
+    {
+      "word": "11",
+      "start": 15.22,
+      "end": 15.6
+    },
+    {
+      "word": "laps",
+      "start": 15.6,
+      "end": 15.84
+    },
+    {
+      "word": "after",
+      "start": 15.84,
+      "end": 16.2
+    },
+    {
+      "word": "this",
+      "start": 16.2,
+      "end": 16.36
+    },
+    {
+      "word": "one.",
+      "start": 16.36,
+      "end": 16.54
+    },
+    {
+      "word": "11",
+      "start": 17.14,
+      "end": 17.66
+    },
+    {
+      "word": "laps",
+      "start": 17.66,
+      "end": 18.02
+    },
+    {
+      "word": "after",
+      "start": 18.02,
+      "end": 18.38
+    },
+    {
+      "word": "this",
+      "start": 18.38,
+      "end": 18.62
+    },
+    {
+      "word": "one,",
+      "start": 18.62,
+      "end": 18.78
+    },
+    {
+      "word": "yeah.",
+      "start": 18.84,
+      "end": 18.94
+    },
+    {
+      "word": "Yes.",
+      "start": 19.72,
+      "end": 19.94
+    }
+  ],
+  "language": "en",
+  "word_count": 48,
+  "is_empty": false,
+  "is_very_short": false
+}

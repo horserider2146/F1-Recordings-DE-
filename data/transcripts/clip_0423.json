@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0423",
+  "text": "Gap to Hulkenbergerhead now is 12 seconds. Gap six ahead. No pressure behind. Colobito Leclerc-Hals behind, starting laps. Real box box. So the Strat 13, Strat 13, currently a P1. Georgia Port.",
+  "words": [
+    {
+      "word": "Gap",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "to",
+      "start": 0.18,
+      "end": 0.28
+    },
+    {
+      "word": "Hulkenbergerhead",
+      "start": 0.28,
+      "end": 0.98
+    },
+    {
+      "word": "now",
+      "start": 0.98,
+      "end": 1.14
+    },
+    {
+      "word": "is",
+      "start": 1.14,
+      "end": 1.26
+    },
+    {
+      "word": "12",
+      "start": 1.26,
+      "end": 1.5
+    },
+    {
+      "word": "seconds.",
+      "start": 1.5,
+      "end": 2.02
+    },
+    {
+      "word": "Gap",
+      "start": 3.28,
+      "end": 3.96
+    },
+    {
+      "word": "six",
+      "start": 3.96,
+      "end": 4.16
+    },
+    {
+      "word": "ahead.",
+      "start": 4.16,
+      "end": 4.44
+    },
+    {
+      "word": "No",
+      "start": 5.36,
+      "end": 5.7
+    },
+    {
+      "word": "pressure",
+      "start": 5.7,
+      "end": 5.9
+    },
+    {
+      "word": "behind.",
+      "start": 5.9,
+      "end": 6.2
+    },
+    {
+      "word": "Colobito",
+      "start": 7.44,
+      "end": 8.12
+    },
+    {
+      "word": "Leclerc",
+      "start": 8.12,
+      "end": 8.78
+    },
+    {
+      "word": "-Hals",
+      "start": 8.78,
+      "end": 8.96
+    },
+    {
+      "word": "behind,",
+      "start": 8.96,
+      "end": 9.24
+    },
+    {
+      "word": "starting",
+      "start": 9.5,
+      "end": 9.86
+    },
+    {
+      "word": "laps.",
+      "start": 9.86,
+      "end": 10.2
+    },
+    {
+      "word": "Real",
+      "start": 12.34,
+      "end": 12.72
+    },
+    {
+      "word": "box",
+      "start": 12.72,
+      "end": 12.98
+    },
+    {
+      "word": "box.",
+      "start": 12.98,
+      "end": 13.32
+    },
+    {
+      "word": "So",
+      "start": 14.58,
+      "end": 15.0
+    },
+    {
+      "word": "the",
+      "start": 15.0,
+      "end": 15.1
+    },
+    {
+      "word": "Strat",
+      "start": 15.1,
+      "end": 15.26
+    },
+    {
+      "word": "13,",
+      "start": 15.26,
+      "end": 15.62
+    },
+    {
+      "word": "Strat",
+      "start": 15.78,
+      "end": 16.0
+    },
+    {
+      "word": "13,",
+      "start": 16.0,
+      "end": 16.38
+    },
+    {
+      "word": "currently",
+      "start": 16.56,
+      "end": 16.84
+    },
+    {
+      "word": "a",
+      "start": 16.84,
+      "end": 17.26
+    },
+    {
+      "word": "P1.",
+      "start": 17.26,
+      "end": 17.66
+    },
+    {
+      "word": "Georgia",
+      "start": 19.2,
+      "end": 19.62
+    },
+    {
+      "word": "Port.",
+      "start": 19.62,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

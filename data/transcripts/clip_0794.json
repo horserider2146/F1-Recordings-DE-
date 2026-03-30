@@ -1,0 +1,150 @@
+{
+  "clip_id": "clip_0794",
+  "text": "second gap behind, that's the two. Cute. Charge on, charge on, single go, single go. Off-lear behind, currently P7, 33.7. That's to my P9, 34.0.",
+  "words": [
+    {
+      "word": "second",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "gap",
+      "start": 0.3,
+      "end": 0.5
+    },
+    {
+      "word": "behind,",
+      "start": 0.5,
+      "end": 0.74
+    },
+    {
+      "word": "that's",
+      "start": 0.92,
+      "end": 1.08
+    },
+    {
+      "word": "the",
+      "start": 1.08,
+      "end": 1.14
+    },
+    {
+      "word": "two.",
+      "start": 1.14,
+      "end": 3.18
+    },
+    {
+      "word": "Cute.",
+      "start": 4.94,
+      "end": 5.36
+    },
+    {
+      "word": "Charge",
+      "start": 6.66,
+      "end": 7.26
+    },
+    {
+      "word": "on,",
+      "start": 7.26,
+      "end": 7.52
+    },
+    {
+      "word": "charge",
+      "start": 7.66,
+      "end": 7.76
+    },
+    {
+      "word": "on,",
+      "start": 7.76,
+      "end": 8.04
+    },
+    {
+      "word": "single",
+      "start": 8.2,
+      "end": 8.4
+    },
+    {
+      "word": "go,",
+      "start": 8.4,
+      "end": 8.72
+    },
+    {
+      "word": "single",
+      "start": 8.9,
+      "end": 9.04
+    },
+    {
+      "word": "go.",
+      "start": 9.04,
+      "end": 9.8
+    },
+    {
+      "word": "Off",
+      "start": 10.56,
+      "end": 11.16
+    },
+    {
+      "word": "-lear",
+      "start": 11.16,
+      "end": 11.32
+    },
+    {
+      "word": "behind,",
+      "start": 11.32,
+      "end": 11.62
+    },
+    {
+      "word": "currently",
+      "start": 12.4,
+      "end": 12.86
+    },
+    {
+      "word": "P7,",
+      "start": 12.86,
+      "end": 13.56
+    },
+    {
+      "word": "33",
+      "start": 13.94,
+      "end": 14.22
+    },
+    {
+      "word": ".7.",
+      "start": 14.22,
+      "end": 14.86
+    },
+    {
+      "word": "That's",
+      "start": 17.16,
+      "end": 17.46
+    },
+    {
+      "word": "to",
+      "start": 17.46,
+      "end": 17.54
+    },
+    {
+      "word": "my",
+      "start": 17.54,
+      "end": 17.66
+    },
+    {
+      "word": "P9,",
+      "start": 17.66,
+      "end": 18.06
+    },
+    {
+      "word": "34",
+      "start": 18.36,
+      "end": 18.68
+    },
+    {
+      "word": ".0.",
+      "start": 18.68,
+      "end": 19.2
+    }
+  ],
+  "language": "en",
+  "word_count": 25,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_1099",
+  "text": "You are ahead. Ocon is on medium. Don't lose time with Ocon, it's not our race. And select B-Ball 9, B-Ball 9. What is running 39.5 last lap?",
+  "words": [
+    {
+      "word": "You",
+      "start": 1.42,
+      "end": 1.98
+    },
+    {
+      "word": "are",
+      "start": 1.98,
+      "end": 2.08
+    },
+    {
+      "word": "ahead.",
+      "start": 2.08,
+      "end": 2.36
+    },
+    {
+      "word": "Ocon",
+      "start": 3.4,
+      "end": 3.96
+    },
+    {
+      "word": "is",
+      "start": 3.96,
+      "end": 4.14
+    },
+    {
+      "word": "on",
+      "start": 4.14,
+      "end": 4.28
+    },
+    {
+      "word": "medium.",
+      "start": 4.28,
+      "end": 4.54
+    },
+    {
+      "word": "Don't",
+      "start": 6.16,
+      "end": 6.62
+    },
+    {
+      "word": "lose",
+      "start": 6.62,
+      "end": 6.72
+    },
+    {
+      "word": "time",
+      "start": 6.72,
+      "end": 6.94
+    },
+    {
+      "word": "with",
+      "start": 6.94,
+      "end": 7.12
+    },
+    {
+      "word": "Ocon,",
+      "start": 7.12,
+      "end": 7.44
+    },
+    {
+      "word": "it's",
+      "start": 7.74,
+      "end": 7.88
+    },
+    {
+      "word": "not",
+      "start": 7.88,
+      "end": 8.0
+    },
+    {
+      "word": "our",
+      "start": 8.0,
+      "end": 8.22
+    },
+    {
+      "word": "race.",
+      "start": 8.22,
+      "end": 8.6
+    },
+    {
+      "word": "And",
+      "start": 10.16,
+      "end": 10.4
+    },
+    {
+      "word": "select",
+      "start": 10.4,
+      "end": 10.74
+    },
+    {
+      "word": "B",
+      "start": 10.74,
+      "end": 11.16
+    },
+    {
+      "word": "-Ball",
+      "start": 11.16,
+      "end": 11.42
+    },
+    {
+      "word": "9,",
+      "start": 11.42,
+      "end": 11.84
+    },
+    {
+      "word": "B",
+      "start": 12.14,
+      "end": 12.4
+    },
+    {
+      "word": "-Ball",
+      "start": 12.4,
+      "end": 12.62
+    },
+    {
+      "word": "9.",
+      "start": 12.62,
+      "end": 13.92
+    },
+    {
+      "word": "What",
+      "start": 14.42,
+      "end": 14.98
+    },
+    {
+      "word": "is",
+      "start": 14.98,
+      "end": 15.14
+    },
+    {
+      "word": "running",
+      "start": 15.14,
+      "end": 15.36
+    },
+    {
+      "word": "39",
+      "start": 15.36,
+      "end": 15.76
+    },
+    {
+      "word": ".5",
+      "start": 15.76,
+      "end": 16.3
+    },
+    {
+      "word": "last",
+      "start": 16.3,
+      "end": 16.58
+    },
+    {
+      "word": "lap?",
+      "start": 16.58,
+      "end": 16.8
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

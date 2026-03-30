@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_0662",
+  "text": "Yes, that's how old they are.",
+  "words": [
+    {
+      "word": "Yes,",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "that's",
+      "start": 0.5,
+      "end": 0.94
+    },
+    {
+      "word": "how",
+      "start": 0.94,
+      "end": 0.94
+    },
+    {
+      "word": "old",
+      "start": 0.94,
+      "end": 1.42
+    },
+    {
+      "word": "they",
+      "start": 1.42,
+      "end": 1.6
+    },
+    {
+      "word": "are.",
+      "start": 1.6,
+      "end": 2.04
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,60 @@
+{
+  "clip_id": "clip_0285",
+  "text": "Congrats to Kimmy. P4. Mode slow. Pick up please. Ho!",
+  "words": [
+    {
+      "word": "Congrats",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "to",
+      "start": 0.36,
+      "end": 0.48
+    },
+    {
+      "word": "Kimmy.",
+      "start": 0.48,
+      "end": 2.1
+    },
+    {
+      "word": "P4.",
+      "start": 8.56,
+      "end": 9.64
+    },
+    {
+      "word": "Mode",
+      "start": 10.18,
+      "end": 10.64
+    },
+    {
+      "word": "slow.",
+      "start": 10.64,
+      "end": 10.92
+    },
+    {
+      "word": "Pick",
+      "start": 11.54,
+      "end": 11.7
+    },
+    {
+      "word": "up",
+      "start": 11.7,
+      "end": 11.84
+    },
+    {
+      "word": "please.",
+      "start": 11.84,
+      "end": 12.08
+    },
+    {
+      "word": "Ho!",
+      "start": 18.86,
+      "end": 19.4
+    }
+  ],
+  "language": "en",
+  "word_count": 10,
+  "is_empty": false,
+  "is_very_short": false
+}

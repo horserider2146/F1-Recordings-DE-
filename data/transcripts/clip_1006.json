@@ -1,0 +1,215 @@
+{
+  "clip_id": "clip_1006",
+  "text": "George Russell passed by both Ferraris at the start of the hard tyre stint. We're gonna f***ing grab us. Hamilton knows how to win around here. Can he now take the lead like he did yesterday? That's the aim. Well done.",
+  "words": [
+    {
+      "word": "George",
+      "start": 1.14,
+      "end": 1.7
+    },
+    {
+      "word": "Russell",
+      "start": 1.7,
+      "end": 2.22
+    },
+    {
+      "word": "passed",
+      "start": 2.22,
+      "end": 2.6
+    },
+    {
+      "word": "by",
+      "start": 2.6,
+      "end": 2.86
+    },
+    {
+      "word": "both",
+      "start": 2.86,
+      "end": 3.14
+    },
+    {
+      "word": "Ferraris",
+      "start": 3.14,
+      "end": 3.76
+    },
+    {
+      "word": "at",
+      "start": 3.76,
+      "end": 3.84
+    },
+    {
+      "word": "the",
+      "start": 3.84,
+      "end": 3.94
+    },
+    {
+      "word": "start",
+      "start": 3.94,
+      "end": 4.24
+    },
+    {
+      "word": "of",
+      "start": 4.24,
+      "end": 4.5
+    },
+    {
+      "word": "the",
+      "start": 4.5,
+      "end": 4.62
+    },
+    {
+      "word": "hard",
+      "start": 4.62,
+      "end": 4.9
+    },
+    {
+      "word": "tyre",
+      "start": 4.9,
+      "end": 5.22
+    },
+    {
+      "word": "stint.",
+      "start": 5.22,
+      "end": 5.72
+    },
+    {
+      "word": "We're",
+      "start": 6.06,
+      "end": 6.38
+    },
+    {
+      "word": "gonna",
+      "start": 6.38,
+      "end": 6.48
+    },
+    {
+      "word": "f***ing",
+      "start": 6.48,
+      "end": 7.0
+    },
+    {
+      "word": "grab",
+      "start": 7.0,
+      "end": 7.14
+    },
+    {
+      "word": "us.",
+      "start": 7.14,
+      "end": 7.6
+    },
+    {
+      "word": "Hamilton",
+      "start": 12.8,
+      "end": 13.36
+    },
+    {
+      "word": "knows",
+      "start": 13.36,
+      "end": 13.82
+    },
+    {
+      "word": "how",
+      "start": 13.82,
+      "end": 14.06
+    },
+    {
+      "word": "to",
+      "start": 14.06,
+      "end": 14.16
+    },
+    {
+      "word": "win",
+      "start": 14.16,
+      "end": 14.34
+    },
+    {
+      "word": "around",
+      "start": 14.34,
+      "end": 14.6
+    },
+    {
+      "word": "here.",
+      "start": 14.6,
+      "end": 14.94
+    },
+    {
+      "word": "Can",
+      "start": 15.1,
+      "end": 15.3
+    },
+    {
+      "word": "he",
+      "start": 15.3,
+      "end": 15.48
+    },
+    {
+      "word": "now",
+      "start": 15.48,
+      "end": 15.86
+    },
+    {
+      "word": "take",
+      "start": 15.86,
+      "end": 16.22
+    },
+    {
+      "word": "the",
+      "start": 16.22,
+      "end": 16.4
+    },
+    {
+      "word": "lead",
+      "start": 16.4,
+      "end": 16.54
+    },
+    {
+      "word": "like",
+      "start": 16.54,
+      "end": 16.8
+    },
+    {
+      "word": "he",
+      "start": 16.8,
+      "end": 17.0
+    },
+    {
+      "word": "did",
+      "start": 17.0,
+      "end": 17.18
+    },
+    {
+      "word": "yesterday?",
+      "start": 17.18,
+      "end": 17.56
+    },
+    {
+      "word": "That's",
+      "start": 17.86,
+      "end": 18.06
+    },
+    {
+      "word": "the",
+      "start": 18.06,
+      "end": 18.2
+    },
+    {
+      "word": "aim.",
+      "start": 18.2,
+      "end": 18.5
+    },
+    {
+      "word": "Well",
+      "start": 18.86,
+      "end": 19.1
+    },
+    {
+      "word": "done.",
+      "start": 19.1,
+      "end": 19.42
+    }
+  ],
+  "language": "en",
+  "word_count": 41,
+  "is_empty": false,
+  "is_very_short": false
+}

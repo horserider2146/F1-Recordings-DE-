@@ -1,0 +1,70 @@
+{
+  "clip_id": "clip_0370",
+  "text": "And the first car on hard tire is P11 Hook and Bell",
+  "words": [
+    {
+      "word": "And",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "the",
+      "start": 0.12,
+      "end": 0.24
+    },
+    {
+      "word": "first",
+      "start": 0.24,
+      "end": 0.56
+    },
+    {
+      "word": "car",
+      "start": 0.56,
+      "end": 0.82
+    },
+    {
+      "word": "on",
+      "start": 0.82,
+      "end": 1.02
+    },
+    {
+      "word": "hard",
+      "start": 1.02,
+      "end": 1.32
+    },
+    {
+      "word": "tire",
+      "start": 1.32,
+      "end": 1.62
+    },
+    {
+      "word": "is",
+      "start": 1.62,
+      "end": 2.06
+    },
+    {
+      "word": "P11",
+      "start": 2.06,
+      "end": 2.74
+    },
+    {
+      "word": "Hook",
+      "start": 2.74,
+      "end": 3.18
+    },
+    {
+      "word": "and",
+      "start": 3.18,
+      "end": 3.34
+    },
+    {
+      "word": "Bell",
+      "start": 3.34,
+      "end": 3.5
+    }
+  ],
+  "language": "en",
+  "word_count": 12,
+  "is_empty": false,
+  "is_very_short": false
+}

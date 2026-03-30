@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_1017",
+  "text": "Well, that's late on the brakes in second position for Charles Leclerc, who gets past Lewis Hamilton. What the fuck's he doing? Lewis will have overtake. The front just backs up Lewis.",
+  "words": [
+    {
+      "word": "Well,",
+      "start": 2.5,
+      "end": 3.1
+    },
+    {
+      "word": "that's",
+      "start": 3.16,
+      "end": 3.4
+    },
+    {
+      "word": "late",
+      "start": 3.4,
+      "end": 3.5
+    },
+    {
+      "word": "on",
+      "start": 3.5,
+      "end": 3.64
+    },
+    {
+      "word": "the",
+      "start": 3.64,
+      "end": 3.72
+    },
+    {
+      "word": "brakes",
+      "start": 3.72,
+      "end": 3.96
+    },
+    {
+      "word": "in",
+      "start": 3.96,
+      "end": 4.14
+    },
+    {
+      "word": "second",
+      "start": 4.14,
+      "end": 4.44
+    },
+    {
+      "word": "position",
+      "start": 4.44,
+      "end": 4.96
+    },
+    {
+      "word": "for",
+      "start": 4.96,
+      "end": 5.26
+    },
+    {
+      "word": "Charles",
+      "start": 5.26,
+      "end": 5.58
+    },
+    {
+      "word": "Leclerc,",
+      "start": 5.58,
+      "end": 6.26
+    },
+    {
+      "word": "who",
+      "start": 6.34,
+      "end": 6.42
+    },
+    {
+      "word": "gets",
+      "start": 6.42,
+      "end": 6.6
+    },
+    {
+      "word": "past",
+      "start": 6.6,
+      "end": 6.94
+    },
+    {
+      "word": "Lewis",
+      "start": 6.94,
+      "end": 7.2
+    },
+    {
+      "word": "Hamilton.",
+      "start": 7.2,
+      "end": 7.64
+    },
+    {
+      "word": "What",
+      "start": 9.26,
+      "end": 9.86
+    },
+    {
+      "word": "the",
+      "start": 9.86,
+      "end": 9.98
+    },
+    {
+      "word": "fuck's",
+      "start": 9.98,
+      "end": 10.34
+    },
+    {
+      "word": "he",
+      "start": 10.34,
+      "end": 10.34
+    },
+    {
+      "word": "doing?",
+      "start": 10.34,
+      "end": 10.5
+    },
+    {
+      "word": "Lewis",
+      "start": 15.82,
+      "end": 16.26
+    },
+    {
+      "word": "will",
+      "start": 16.26,
+      "end": 16.64
+    },
+    {
+      "word": "have",
+      "start": 16.64,
+      "end": 16.9
+    },
+    {
+      "word": "overtake.",
+      "start": 16.9,
+      "end": 17.48
+    },
+    {
+      "word": "The",
+      "start": 18.1,
+      "end": 18.62
+    },
+    {
+      "word": "front",
+      "start": 18.62,
+      "end": 18.86
+    },
+    {
+      "word": "just",
+      "start": 18.86,
+      "end": 19.14
+    },
+    {
+      "word": "backs",
+      "start": 19.14,
+      "end": 19.4
+    },
+    {
+      "word": "up",
+      "start": 19.4,
+      "end": 19.66
+    },
+    {
+      "word": "Lewis.",
+      "start": 19.66,
+      "end": 19.84
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

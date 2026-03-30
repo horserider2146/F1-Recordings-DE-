@@ -1,0 +1,60 @@
+{
+  "clip_id": "clip_0819",
+  "text": "Yeah, but I can see flags, it's on the screen.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "but",
+      "start": 0.28,
+      "end": 0.34
+    },
+    {
+      "word": "I",
+      "start": 0.34,
+      "end": 0.98
+    },
+    {
+      "word": "can",
+      "start": 0.98,
+      "end": 1.12
+    },
+    {
+      "word": "see",
+      "start": 1.12,
+      "end": 1.38
+    },
+    {
+      "word": "flags,",
+      "start": 1.38,
+      "end": 1.76
+    },
+    {
+      "word": "it's",
+      "start": 1.82,
+      "end": 1.94
+    },
+    {
+      "word": "on",
+      "start": 1.94,
+      "end": 2.04
+    },
+    {
+      "word": "the",
+      "start": 2.04,
+      "end": 2.2
+    },
+    {
+      "word": "screen.",
+      "start": 2.2,
+      "end": 2.48
+    }
+  ],
+  "language": "en",
+  "word_count": 10,
+  "is_empty": false,
+  "is_very_short": false
+}

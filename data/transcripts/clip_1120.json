@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_1120",
+  "text": "lap in 39.4, the gap to him is for 18.4 seconds. Two laps to go. Last lap. That's the checker flag for us. Mode slow, mode slow. Take the pick up. You are P15. Race winner Antonina.",
+  "words": [
+    {
+      "word": "lap",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "in",
+      "start": 0.32,
+      "end": 0.54
+    },
+    {
+      "word": "39",
+      "start": 0.54,
+      "end": 1.02
+    },
+    {
+      "word": ".4,",
+      "start": 1.02,
+      "end": 1.74
+    },
+    {
+      "word": "the",
+      "start": 1.94,
+      "end": 2.06
+    },
+    {
+      "word": "gap",
+      "start": 2.06,
+      "end": 2.22
+    },
+    {
+      "word": "to",
+      "start": 2.22,
+      "end": 2.42
+    },
+    {
+      "word": "him",
+      "start": 2.42,
+      "end": 2.66
+    },
+    {
+      "word": "is",
+      "start": 2.66,
+      "end": 2.86
+    },
+    {
+      "word": "for",
+      "start": 2.86,
+      "end": 3.12
+    },
+    {
+      "word": "18",
+      "start": 3.12,
+      "end": 3.48
+    },
+    {
+      "word": ".4",
+      "start": 3.48,
+      "end": 4.14
+    },
+    {
+      "word": "seconds.",
+      "start": 4.14,
+      "end": 4.5
+    },
+    {
+      "word": "Two",
+      "start": 5.16,
+      "end": 5.78
+    },
+    {
+      "word": "laps",
+      "start": 5.78,
+      "end": 5.96
+    },
+    {
+      "word": "to",
+      "start": 5.96,
+      "end": 6.16
+    },
+    {
+      "word": "go.",
+      "start": 6.16,
+      "end": 6.4
+    },
+    {
+      "word": "Last",
+      "start": 7.46,
+      "end": 7.76
+    },
+    {
+      "word": "lap.",
+      "start": 7.76,
+      "end": 8.1
+    },
+    {
+      "word": "That's",
+      "start": 9.42,
+      "end": 10.04
+    },
+    {
+      "word": "the",
+      "start": 10.04,
+      "end": 10.38
+    },
+    {
+      "word": "checker",
+      "start": 10.38,
+      "end": 10.8
+    },
+    {
+      "word": "flag",
+      "start": 10.8,
+      "end": 10.98
+    },
+    {
+      "word": "for",
+      "start": 10.98,
+      "end": 11.24
+    },
+    {
+      "word": "us.",
+      "start": 11.24,
+      "end": 11.5
+    },
+    {
+      "word": "Mode",
+      "start": 11.92,
+      "end": 12.08
+    },
+    {
+      "word": "slow,",
+      "start": 12.08,
+      "end": 12.42
+    },
+    {
+      "word": "mode",
+      "start": 12.64,
+      "end": 12.74
+    },
+    {
+      "word": "slow.",
+      "start": 12.74,
+      "end": 13.14
+    },
+    {
+      "word": "Take",
+      "start": 13.46,
+      "end": 13.7
+    },
+    {
+      "word": "the",
+      "start": 13.7,
+      "end": 13.84
+    },
+    {
+      "word": "pick",
+      "start": 13.84,
+      "end": 14.0
+    },
+    {
+      "word": "up.",
+      "start": 14.0,
+      "end": 14.26
+    },
+    {
+      "word": "You",
+      "start": 15.36,
+      "end": 15.72
+    },
+    {
+      "word": "are",
+      "start": 15.72,
+      "end": 15.84
+    },
+    {
+      "word": "P15.",
+      "start": 15.84,
+      "end": 16.7
+    },
+    {
+      "word": "Race",
+      "start": 18.72,
+      "end": 19.28
+    },
+    {
+      "word": "winner",
+      "start": 19.28,
+      "end": 19.54
+    },
+    {
+      "word": "Antonina.",
+      "start": 19.54,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0565",
+  "text": "shift in 3 and lower gear in 6 and cool the car in p10 please cool the car 4 5 6 7 8 10 temperature over 5, temperature over 5. I have to do a little bit of photo view",
+  "words": [
+    {
+      "word": "shift",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "in",
+      "start": 0.22,
+      "end": 0.4
+    },
+    {
+      "word": "3",
+      "start": 0.4,
+      "end": 0.58
+    },
+    {
+      "word": "and",
+      "start": 0.58,
+      "end": 3.54
+    },
+    {
+      "word": "lower",
+      "start": 3.54,
+      "end": 3.9
+    },
+    {
+      "word": "gear",
+      "start": 3.9,
+      "end": 4.22
+    },
+    {
+      "word": "in",
+      "start": 4.22,
+      "end": 4.42
+    },
+    {
+      "word": "6",
+      "start": 4.42,
+      "end": 4.78
+    },
+    {
+      "word": "and",
+      "start": 4.78,
+      "end": 6.44
+    },
+    {
+      "word": "cool",
+      "start": 6.44,
+      "end": 6.66
+    },
+    {
+      "word": "the",
+      "start": 6.66,
+      "end": 6.84
+    },
+    {
+      "word": "car",
+      "start": 6.84,
+      "end": 7.08
+    },
+    {
+      "word": "in",
+      "start": 7.08,
+      "end": 7.24
+    },
+    {
+      "word": "p10",
+      "start": 7.24,
+      "end": 7.62
+    },
+    {
+      "word": "please",
+      "start": 7.62,
+      "end": 7.86
+    },
+    {
+      "word": "cool",
+      "start": 7.86,
+      "end": 8.22
+    },
+    {
+      "word": "the",
+      "start": 8.22,
+      "end": 8.36
+    },
+    {
+      "word": "car",
+      "start": 8.36,
+      "end": 9.3
+    },
+    {
+      "word": "4",
+      "start": 9.3,
+      "end": 10.52
+    },
+    {
+      "word": "5",
+      "start": 10.52,
+      "end": 11.46
+    },
+    {
+      "word": "6",
+      "start": 11.46,
+      "end": 12.32
+    },
+    {
+      "word": "7",
+      "start": 12.32,
+      "end": 13.28
+    },
+    {
+      "word": "8",
+      "start": 13.28,
+      "end": 14.18
+    },
+    {
+      "word": "10",
+      "start": 14.18,
+      "end": 14.94
+    },
+    {
+      "word": "temperature",
+      "start": 14.94,
+      "end": 15.2
+    },
+    {
+      "word": "over",
+      "start": 15.2,
+      "end": 15.52
+    },
+    {
+      "word": "5,",
+      "start": 15.52,
+      "end": 15.82
+    },
+    {
+      "word": "temperature",
+      "start": 15.86,
+      "end": 16.34
+    },
+    {
+      "word": "over",
+      "start": 16.34,
+      "end": 16.9
+    },
+    {
+      "word": "5.",
+      "start": 16.9,
+      "end": 17.64
+    },
+    {
+      "word": "I",
+      "start": 18.26,
+      "end": 18.56
+    },
+    {
+      "word": "have",
+      "start": 18.56,
+      "end": 18.62
+    },
+    {
+      "word": "to",
+      "start": 18.62,
+      "end": 18.8
+    },
+    {
+      "word": "do",
+      "start": 18.8,
+      "end": 18.96
+    },
+    {
+      "word": "a",
+      "start": 18.96,
+      "end": 19.08
+    },
+    {
+      "word": "little",
+      "start": 19.08,
+      "end": 19.22
+    },
+    {
+      "word": "bit",
+      "start": 19.22,
+      "end": 19.36
+    },
+    {
+      "word": "of",
+      "start": 19.36,
+      "end": 19.4
+    },
+    {
+      "word": "photo",
+      "start": 19.4,
+      "end": 19.58
+    },
+    {
+      "word": "view",
+      "start": 19.58,
+      "end": 19.74
+    }
+  ],
+  "language": "en",
+  "word_count": 40,
+  "is_empty": false,
+  "is_very_short": false
+}

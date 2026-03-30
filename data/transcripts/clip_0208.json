@@ -1,0 +1,260 @@
+{
+  "clip_id": "clip_0208",
+  "text": "8 bit last call Fast to go, you have a cut-hole, not a port hole The one on the port hole The one on the port hole The one on the port hole 3 We're releasing some hot glue, very often, not a port hole The voice is cold",
+  "words": [
+    {
+      "word": "8",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "bit",
+      "start": 0.48,
+      "end": 0.58
+    },
+    {
+      "word": "last",
+      "start": 0.58,
+      "end": 0.9
+    },
+    {
+      "word": "call",
+      "start": 0.9,
+      "end": 1.16
+    },
+    {
+      "word": "Fast",
+      "start": 2.32,
+      "end": 2.8
+    },
+    {
+      "word": "to",
+      "start": 2.8,
+      "end": 3.2
+    },
+    {
+      "word": "go,",
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "word": "you",
+      "start": 3.48,
+      "end": 3.58
+    },
+    {
+      "word": "have",
+      "start": 3.58,
+      "end": 3.82
+    },
+    {
+      "word": "a",
+      "start": 3.82,
+      "end": 3.94
+    },
+    {
+      "word": "cut",
+      "start": 3.94,
+      "end": 4.14
+    },
+    {
+      "word": "-hole,",
+      "start": 4.14,
+      "end": 4.38
+    },
+    {
+      "word": "not",
+      "start": 4.66,
+      "end": 4.8
+    },
+    {
+      "word": "a",
+      "start": 4.8,
+      "end": 4.98
+    },
+    {
+      "word": "port",
+      "start": 4.98,
+      "end": 5.06
+    },
+    {
+      "word": "hole",
+      "start": 5.06,
+      "end": 5.26
+    },
+    {
+      "word": "The",
+      "start": 6.98,
+      "end": 7.46
+    },
+    {
+      "word": "one",
+      "start": 7.46,
+      "end": 7.76
+    },
+    {
+      "word": "on",
+      "start": 7.76,
+      "end": 7.98
+    },
+    {
+      "word": "the",
+      "start": 7.98,
+      "end": 8.16
+    },
+    {
+      "word": "port",
+      "start": 8.16,
+      "end": 9.34
+    },
+    {
+      "word": "hole",
+      "start": 9.34,
+      "end": 9.34
+    },
+    {
+      "word": "The",
+      "start": 9.34,
+      "end": 9.8
+    },
+    {
+      "word": "one",
+      "start": 9.8,
+      "end": 10.2
+    },
+    {
+      "word": "on",
+      "start": 10.2,
+      "end": 10.44
+    },
+    {
+      "word": "the",
+      "start": 10.44,
+      "end": 10.56
+    },
+    {
+      "word": "port",
+      "start": 10.56,
+      "end": 10.76
+    },
+    {
+      "word": "hole",
+      "start": 10.76,
+      "end": 11.0
+    },
+    {
+      "word": "The",
+      "start": 11.54,
+      "end": 11.54
+    },
+    {
+      "word": "one",
+      "start": 11.54,
+      "end": 12.84
+    },
+    {
+      "word": "on",
+      "start": 12.84,
+      "end": 13.18
+    },
+    {
+      "word": "the",
+      "start": 13.18,
+      "end": 13.38
+    },
+    {
+      "word": "port",
+      "start": 13.38,
+      "end": 13.58
+    },
+    {
+      "word": "hole",
+      "start": 13.58,
+      "end": 13.58
+    },
+    {
+      "word": "3",
+      "start": 13.58,
+      "end": 13.64
+    },
+    {
+      "word": "We're",
+      "start": 14.14,
+      "end": 14.62
+    },
+    {
+      "word": "releasing",
+      "start": 14.62,
+      "end": 14.96
+    },
+    {
+      "word": "some",
+      "start": 14.96,
+      "end": 15.48
+    },
+    {
+      "word": "hot",
+      "start": 15.48,
+      "end": 15.94
+    },
+    {
+      "word": "glue,",
+      "start": 15.94,
+      "end": 16.12
+    },
+    {
+      "word": "very",
+      "start": 16.18,
+      "end": 16.4
+    },
+    {
+      "word": "often,",
+      "start": 16.4,
+      "end": 16.68
+    },
+    {
+      "word": "not",
+      "start": 16.86,
+      "end": 17.02
+    },
+    {
+      "word": "a",
+      "start": 17.02,
+      "end": 17.14
+    },
+    {
+      "word": "port",
+      "start": 17.14,
+      "end": 17.32
+    },
+    {
+      "word": "hole",
+      "start": 17.32,
+      "end": 18.04
+    },
+    {
+      "word": "The",
+      "start": 18.56,
+      "end": 19.04
+    },
+    {
+      "word": "voice",
+      "start": 19.04,
+      "end": 19.32
+    },
+    {
+      "word": "is",
+      "start": 19.32,
+      "end": 19.48
+    },
+    {
+      "word": "cold",
+      "start": 19.48,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 49,
+  "is_empty": false,
+  "is_very_short": false
+}

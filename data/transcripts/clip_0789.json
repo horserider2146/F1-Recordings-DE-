@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0789",
+  "text": "Okay, we're planning single fuel, Ollie, single fuel. Copy. Box, box is still clear behind. And we're good on timing. We've got about three minutes in the garage. We're wet, which... What was the wind in?",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 1.52,
+      "end": 1.96
+    },
+    {
+      "word": "we're",
+      "start": 2.04,
+      "end": 2.2
+    },
+    {
+      "word": "planning",
+      "start": 2.2,
+      "end": 2.44
+    },
+    {
+      "word": "single",
+      "start": 2.44,
+      "end": 2.82
+    },
+    {
+      "word": "fuel,",
+      "start": 2.82,
+      "end": 3.18
+    },
+    {
+      "word": "Ollie,",
+      "start": 3.32,
+      "end": 3.5
+    },
+    {
+      "word": "single",
+      "start": 3.6,
+      "end": 3.82
+    },
+    {
+      "word": "fuel.",
+      "start": 3.82,
+      "end": 4.52
+    },
+    {
+      "word": "Copy.",
+      "start": 6.28,
+      "end": 6.72
+    },
+    {
+      "word": "Box,",
+      "start": 8.56,
+      "end": 9.0
+    },
+    {
+      "word": "box",
+      "start": 9.1,
+      "end": 9.32
+    },
+    {
+      "word": "is",
+      "start": 9.32,
+      "end": 9.7
+    },
+    {
+      "word": "still",
+      "start": 9.7,
+      "end": 9.88
+    },
+    {
+      "word": "clear",
+      "start": 9.88,
+      "end": 10.06
+    },
+    {
+      "word": "behind.",
+      "start": 10.06,
+      "end": 10.4
+    },
+    {
+      "word": "And",
+      "start": 11.6,
+      "end": 12.04
+    },
+    {
+      "word": "we're",
+      "start": 12.04,
+      "end": 12.2
+    },
+    {
+      "word": "good",
+      "start": 12.2,
+      "end": 12.34
+    },
+    {
+      "word": "on",
+      "start": 12.34,
+      "end": 12.48
+    },
+    {
+      "word": "timing.",
+      "start": 12.48,
+      "end": 12.74
+    },
+    {
+      "word": "We've",
+      "start": 13.42,
+      "end": 13.6
+    },
+    {
+      "word": "got",
+      "start": 13.6,
+      "end": 13.66
+    },
+    {
+      "word": "about",
+      "start": 13.66,
+      "end": 13.82
+    },
+    {
+      "word": "three",
+      "start": 13.82,
+      "end": 14.1
+    },
+    {
+      "word": "minutes",
+      "start": 14.1,
+      "end": 14.3
+    },
+    {
+      "word": "in",
+      "start": 14.3,
+      "end": 14.48
+    },
+    {
+      "word": "the",
+      "start": 14.48,
+      "end": 14.6
+    },
+    {
+      "word": "garage.",
+      "start": 14.6,
+      "end": 14.82
+    },
+    {
+      "word": "We're",
+      "start": 17.02,
+      "end": 17.46
+    },
+    {
+      "word": "wet,",
+      "start": 17.46,
+      "end": 17.64
+    },
+    {
+      "word": "which...",
+      "start": 17.78,
+      "end": 18.0
+    },
+    {
+      "word": "What",
+      "start": 18.96,
+      "end": 19.22
+    },
+    {
+      "word": "was",
+      "start": 19.22,
+      "end": 19.36
+    },
+    {
+      "word": "the",
+      "start": 19.36,
+      "end": 19.52
+    },
+    {
+      "word": "wind",
+      "start": 19.52,
+      "end": 19.76
+    },
+    {
+      "word": "in?",
+      "start": 19.76,
+      "end": 19.88
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}

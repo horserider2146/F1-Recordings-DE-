@@ -1,0 +1,200 @@
+{
+  "clip_id": "clip_0808",
+  "text": "two dudes now yeah it's done really loose actually yeah, light and clear 1-0-0-6 behind pushing 1-0-0-4 220 in the straight 270 in the straight 1-0-0-3 270 KPH here",
+  "words": [
+    {
+      "word": "two",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "dudes",
+      "start": 0.22,
+      "end": 0.46
+    },
+    {
+      "word": "now",
+      "start": 0.46,
+      "end": 0.74
+    },
+    {
+      "word": "yeah",
+      "start": 1.66,
+      "end": 2.22
+    },
+    {
+      "word": "it's",
+      "start": 2.22,
+      "end": 2.44
+    },
+    {
+      "word": "done",
+      "start": 2.44,
+      "end": 3.02
+    },
+    {
+      "word": "really",
+      "start": 4.24,
+      "end": 4.8
+    },
+    {
+      "word": "loose",
+      "start": 4.8,
+      "end": 5.0
+    },
+    {
+      "word": "actually",
+      "start": 5.0,
+      "end": 5.5
+    },
+    {
+      "word": "yeah,",
+      "start": 5.5,
+      "end": 5.84
+    },
+    {
+      "word": "light",
+      "start": 5.96,
+      "end": 6.04
+    },
+    {
+      "word": "and",
+      "start": 6.04,
+      "end": 6.16
+    },
+    {
+      "word": "clear",
+      "start": 6.16,
+      "end": 6.4
+    },
+    {
+      "word": "1",
+      "start": 6.4,
+      "end": 7.3
+    },
+    {
+      "word": "-0",
+      "start": 7.3,
+      "end": 7.46
+    },
+    {
+      "word": "-0",
+      "start": 7.46,
+      "end": 7.62
+    },
+    {
+      "word": "-6",
+      "start": 7.62,
+      "end": 7.88
+    },
+    {
+      "word": "behind",
+      "start": 7.88,
+      "end": 8.16
+    },
+    {
+      "word": "pushing",
+      "start": 8.16,
+      "end": 8.5
+    },
+    {
+      "word": "1",
+      "start": 9.52,
+      "end": 10.08
+    },
+    {
+      "word": "-0",
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "word": "-0",
+      "start": 10.4,
+      "end": 10.58
+    },
+    {
+      "word": "-4",
+      "start": 10.58,
+      "end": 11.24
+    },
+    {
+      "word": "220",
+      "start": 12.0,
+      "end": 12.32
+    },
+    {
+      "word": "in",
+      "start": 12.32,
+      "end": 12.66
+    },
+    {
+      "word": "the",
+      "start": 12.66,
+      "end": 12.76
+    },
+    {
+      "word": "straight",
+      "start": 12.76,
+      "end": 13.04
+    },
+    {
+      "word": "270",
+      "start": 14.3,
+      "end": 14.86
+    },
+    {
+      "word": "in",
+      "start": 14.86,
+      "end": 15.24
+    },
+    {
+      "word": "the",
+      "start": 15.24,
+      "end": 15.38
+    },
+    {
+      "word": "straight",
+      "start": 15.38,
+      "end": 15.6
+    },
+    {
+      "word": "1",
+      "start": 15.6,
+      "end": 16.2
+    },
+    {
+      "word": "-0",
+      "start": 16.2,
+      "end": 16.38
+    },
+    {
+      "word": "-0",
+      "start": 16.38,
+      "end": 16.48
+    },
+    {
+      "word": "-3",
+      "start": 16.48,
+      "end": 16.98
+    },
+    {
+      "word": "270",
+      "start": 17.86,
+      "end": 18.42
+    },
+    {
+      "word": "KPH",
+      "start": 18.42,
+      "end": 18.88
+    },
+    {
+      "word": "here",
+      "start": 18.88,
+      "end": 19.28
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,30 @@
+{
+  "clip_id": "clip_0251",
+  "text": "Bye. Bye. Bye. Bye.",
+  "words": [
+    {
+      "word": "Bye.",
+      "start": 0.74,
+      "end": 1.06
+    },
+    {
+      "word": "Bye.",
+      "start": 2.02,
+      "end": 2.34
+    },
+    {
+      "word": "Bye.",
+      "start": 5.56,
+      "end": 5.88
+    },
+    {
+      "word": "Bye.",
+      "start": 6.02,
+      "end": 6.06
+    }
+  ],
+  "language": "en",
+  "word_count": 4,
+  "is_empty": false,
+  "is_very_short": false
+}

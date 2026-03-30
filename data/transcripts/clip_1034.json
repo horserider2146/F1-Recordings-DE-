@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_1034",
+  "text": "I'm not sure what's going on.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 2.54
+    },
+    {
+      "word": "not",
+      "start": 2.54,
+      "end": 10.0
+    },
+    {
+      "word": "sure",
+      "start": 10.0,
+      "end": 11.84
+    },
+    {
+      "word": "what's",
+      "start": 11.84,
+      "end": 18.5
+    },
+    {
+      "word": "going",
+      "start": 18.5,
+      "end": 18.52
+    },
+    {
+      "word": "on.",
+      "start": 18.52,
+      "end": 18.84
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

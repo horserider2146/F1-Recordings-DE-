@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_1008",
+  "text": "Good job. More saving. Turn seven. Russell finally makes headway. Surprises Ocon with a move down the inside at turn six. George Russell looking for the move to the inside. Oliver Bearman claiming seventh.",
+  "words": [
+    {
+      "word": "Good",
+      "start": 3.56,
+      "end": 4.2
+    },
+    {
+      "word": "job.",
+      "start": 4.2,
+      "end": 4.46
+    },
+    {
+      "word": "More",
+      "start": 4.74,
+      "end": 4.94
+    },
+    {
+      "word": "saving.",
+      "start": 4.94,
+      "end": 5.28
+    },
+    {
+      "word": "Turn",
+      "start": 5.6,
+      "end": 5.6
+    },
+    {
+      "word": "seven.",
+      "start": 5.6,
+      "end": 5.9
+    },
+    {
+      "word": "Russell",
+      "start": 8.02,
+      "end": 8.66
+    },
+    {
+      "word": "finally",
+      "start": 8.66,
+      "end": 9.12
+    },
+    {
+      "word": "makes",
+      "start": 9.12,
+      "end": 9.38
+    },
+    {
+      "word": "headway.",
+      "start": 9.38,
+      "end": 9.82
+    },
+    {
+      "word": "Surprises",
+      "start": 9.92,
+      "end": 10.38
+    },
+    {
+      "word": "Ocon",
+      "start": 10.38,
+      "end": 10.8
+    },
+    {
+      "word": "with",
+      "start": 10.8,
+      "end": 11.0
+    },
+    {
+      "word": "a",
+      "start": 11.0,
+      "end": 11.1
+    },
+    {
+      "word": "move",
+      "start": 11.1,
+      "end": 11.24
+    },
+    {
+      "word": "down",
+      "start": 11.24,
+      "end": 11.46
+    },
+    {
+      "word": "the",
+      "start": 11.46,
+      "end": 11.6
+    },
+    {
+      "word": "inside",
+      "start": 11.6,
+      "end": 11.98
+    },
+    {
+      "word": "at",
+      "start": 11.98,
+      "end": 12.3
+    },
+    {
+      "word": "turn",
+      "start": 12.3,
+      "end": 12.52
+    },
+    {
+      "word": "six.",
+      "start": 12.52,
+      "end": 12.96
+    },
+    {
+      "word": "George",
+      "start": 14.12,
+      "end": 14.76
+    },
+    {
+      "word": "Russell",
+      "start": 14.76,
+      "end": 15.12
+    },
+    {
+      "word": "looking",
+      "start": 15.12,
+      "end": 15.34
+    },
+    {
+      "word": "for",
+      "start": 15.34,
+      "end": 15.54
+    },
+    {
+      "word": "the",
+      "start": 15.54,
+      "end": 15.64
+    },
+    {
+      "word": "move",
+      "start": 15.64,
+      "end": 15.8
+    },
+    {
+      "word": "to",
+      "start": 15.8,
+      "end": 15.94
+    },
+    {
+      "word": "the",
+      "start": 15.94,
+      "end": 16.06
+    },
+    {
+      "word": "inside.",
+      "start": 16.06,
+      "end": 16.42
+    },
+    {
+      "word": "Oliver",
+      "start": 17.66,
+      "end": 18.3
+    },
+    {
+      "word": "Bearman",
+      "start": 18.3,
+      "end": 18.86
+    },
+    {
+      "word": "claiming",
+      "start": 18.86,
+      "end": 19.24
+    },
+    {
+      "word": "seventh.",
+      "start": 19.24,
+      "end": 19.78
+    }
+  ],
+  "language": "en",
+  "word_count": 34,
+  "is_empty": false,
+  "is_very_short": false
+}

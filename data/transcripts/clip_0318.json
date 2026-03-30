@@ -1,0 +1,135 @@
+{
+  "clip_id": "clip_0318",
+  "text": "Yeah, good job there and yeah, we'll polish these type of things to some homework. Yep, good job to everyone to finish both cars. Yep.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 3.72,
+      "end": 4.28
+    },
+    {
+      "word": "good",
+      "start": 4.32,
+      "end": 4.46
+    },
+    {
+      "word": "job",
+      "start": 4.46,
+      "end": 4.68
+    },
+    {
+      "word": "there",
+      "start": 4.68,
+      "end": 4.96
+    },
+    {
+      "word": "and",
+      "start": 4.96,
+      "end": 5.74
+    },
+    {
+      "word": "yeah,",
+      "start": 5.74,
+      "end": 6.6
+    },
+    {
+      "word": "we'll",
+      "start": 6.66,
+      "end": 7.08
+    },
+    {
+      "word": "polish",
+      "start": 7.08,
+      "end": 7.56
+    },
+    {
+      "word": "these",
+      "start": 7.56,
+      "end": 8.44
+    },
+    {
+      "word": "type",
+      "start": 8.44,
+      "end": 8.64
+    },
+    {
+      "word": "of",
+      "start": 8.64,
+      "end": 8.74
+    },
+    {
+      "word": "things",
+      "start": 8.74,
+      "end": 9.02
+    },
+    {
+      "word": "to",
+      "start": 9.02,
+      "end": 10.32
+    },
+    {
+      "word": "some",
+      "start": 10.32,
+      "end": 10.56
+    },
+    {
+      "word": "homework.",
+      "start": 10.56,
+      "end": 10.94
+    },
+    {
+      "word": "Yep,",
+      "start": 15.08,
+      "end": 15.64
+    },
+    {
+      "word": "good",
+      "start": 15.76,
+      "end": 15.94
+    },
+    {
+      "word": "job",
+      "start": 15.94,
+      "end": 16.22
+    },
+    {
+      "word": "to",
+      "start": 16.22,
+      "end": 16.34
+    },
+    {
+      "word": "everyone",
+      "start": 16.34,
+      "end": 16.52
+    },
+    {
+      "word": "to",
+      "start": 16.52,
+      "end": 16.84
+    },
+    {
+      "word": "finish",
+      "start": 16.84,
+      "end": 17.04
+    },
+    {
+      "word": "both",
+      "start": 17.04,
+      "end": 17.36
+    },
+    {
+      "word": "cars.",
+      "start": 17.36,
+      "end": 17.64
+    },
+    {
+      "word": "Yep.",
+      "start": 17.64,
+      "end": 19.18
+    }
+  ],
+  "language": "en",
+  "word_count": 25,
+  "is_empty": false,
+  "is_very_short": false
+}

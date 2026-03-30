@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0024",
+  "text": "Honestly, for me, we just need to...",
+  "words": [
+    {
+      "word": "Honestly,",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "for",
+      "start": 0.64,
+      "end": 1.42
+    },
+    {
+      "word": "me,",
+      "start": 1.42,
+      "end": 1.58
+    },
+    {
+      "word": "we",
+      "start": 1.64,
+      "end": 1.7
+    },
+    {
+      "word": "just",
+      "start": 1.7,
+      "end": 1.86
+    },
+    {
+      "word": "need",
+      "start": 1.86,
+      "end": 2.04
+    },
+    {
+      "word": "to...",
+      "start": 2.04,
+      "end": 2.22
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

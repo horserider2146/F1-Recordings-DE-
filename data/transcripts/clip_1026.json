@@ -1,0 +1,80 @@
+{
+  "clip_id": "clip_1026",
+  "text": "You stand your count. Oh, they were racing. Oh, God, I'm gonna exit here.",
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.06
+    },
+    {
+      "word": "stand",
+      "start": 0.06,
+      "end": 0.2
+    },
+    {
+      "word": "your",
+      "start": 0.2,
+      "end": 0.36
+    },
+    {
+      "word": "count.",
+      "start": 0.36,
+      "end": 0.6
+    },
+    {
+      "word": "Oh,",
+      "start": 2.5,
+      "end": 2.78
+    },
+    {
+      "word": "they",
+      "start": 2.8,
+      "end": 2.88
+    },
+    {
+      "word": "were",
+      "start": 2.88,
+      "end": 3.02
+    },
+    {
+      "word": "racing.",
+      "start": 3.02,
+      "end": 3.26
+    },
+    {
+      "word": "Oh,",
+      "start": 3.44,
+      "end": 3.58
+    },
+    {
+      "word": "God,",
+      "start": 3.58,
+      "end": 3.68
+    },
+    {
+      "word": "I'm",
+      "start": 3.76,
+      "end": 3.84
+    },
+    {
+      "word": "gonna",
+      "start": 3.84,
+      "end": 3.98
+    },
+    {
+      "word": "exit",
+      "start": 3.98,
+      "end": 4.24
+    },
+    {
+      "word": "here.",
+      "start": 4.24,
+      "end": 4.58
+    }
+  ],
+  "language": "en",
+  "word_count": 14,
+  "is_empty": false,
+  "is_very_short": false
+}

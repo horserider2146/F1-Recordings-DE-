@@ -1,0 +1,30 @@
+{
+  "clip_id": "clip_1125",
+  "text": "Thanks for watching guys!",
+  "words": [
+    {
+      "word": "Thanks",
+      "start": 18.26,
+      "end": 19.66
+    },
+    {
+      "word": "for",
+      "start": 19.66,
+      "end": 19.66
+    },
+    {
+      "word": "watching",
+      "start": 19.66,
+      "end": 19.66
+    },
+    {
+      "word": "guys!",
+      "start": 19.66,
+      "end": 19.66
+    }
+  ],
+  "language": "en",
+  "word_count": 4,
+  "is_empty": false,
+  "is_very_short": false
+}

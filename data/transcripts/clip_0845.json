@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_0845",
+  "text": "Stop! Mode raised, mode raised. Also the long zone exit. Mode SC, mode safety car, mode safety car. And reset mode D red, Deg. We're not going past once so far. What's the hell was that bugger behind me? Oh, where was it behind me?",
+  "words": [
+    {
+      "word": "Stop!",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "Mode",
+      "start": 1.04,
+      "end": 1.52
+    },
+    {
+      "word": "raised,",
+      "start": 1.52,
+      "end": 1.68
+    },
+    {
+      "word": "mode",
+      "start": 1.72,
+      "end": 1.86
+    },
+    {
+      "word": "raised.",
+      "start": 1.86,
+      "end": 2.52
+    },
+    {
+      "word": "Also",
+      "start": 3.52,
+      "end": 4.0
+    },
+    {
+      "word": "the",
+      "start": 4.0,
+      "end": 4.14
+    },
+    {
+      "word": "long",
+      "start": 4.14,
+      "end": 4.28
+    },
+    {
+      "word": "zone",
+      "start": 4.28,
+      "end": 4.42
+    },
+    {
+      "word": "exit.",
+      "start": 4.42,
+      "end": 4.68
+    },
+    {
+      "word": "Mode",
+      "start": 6.26,
+      "end": 6.74
+    },
+    {
+      "word": "SC,",
+      "start": 6.74,
+      "end": 7.08
+    },
+    {
+      "word": "mode",
+      "start": 7.34,
+      "end": 7.46
+    },
+    {
+      "word": "safety",
+      "start": 7.46,
+      "end": 7.7
+    },
+    {
+      "word": "car,",
+      "start": 7.7,
+      "end": 8.0
+    },
+    {
+      "word": "mode",
+      "start": 8.08,
+      "end": 8.2
+    },
+    {
+      "word": "safety",
+      "start": 8.2,
+      "end": 8.4
+    },
+    {
+      "word": "car.",
+      "start": 8.4,
+      "end": 8.78
+    },
+    {
+      "word": "And",
+      "start": 10.44,
+      "end": 10.92
+    },
+    {
+      "word": "reset",
+      "start": 10.92,
+      "end": 11.34
+    },
+    {
+      "word": "mode",
+      "start": 11.34,
+      "end": 11.68
+    },
+    {
+      "word": "D",
+      "start": 11.68,
+      "end": 11.84
+    },
+    {
+      "word": "red,",
+      "start": 11.84,
+      "end": 12.12
+    },
+    {
+      "word": "Deg.",
+      "start": 12.24,
+      "end": 12.46
+    },
+    {
+      "word": "We're",
+      "start": 14.28,
+      "end": 14.76
+    },
+    {
+      "word": "not",
+      "start": 14.76,
+      "end": 14.82
+    },
+    {
+      "word": "going",
+      "start": 14.82,
+      "end": 14.9
+    },
+    {
+      "word": "past",
+      "start": 14.9,
+      "end": 15.16
+    },
+    {
+      "word": "once",
+      "start": 15.16,
+      "end": 15.5
+    },
+    {
+      "word": "so",
+      "start": 15.5,
+      "end": 15.84
+    },
+    {
+      "word": "far.",
+      "start": 15.84,
+      "end": 16.1
+    },
+    {
+      "word": "What's",
+      "start": 16.58,
+      "end": 17.06
+    },
+    {
+      "word": "the",
+      "start": 17.06,
+      "end": 17.06
+    },
+    {
+      "word": "hell",
+      "start": 17.06,
+      "end": 17.18
+    },
+    {
+      "word": "was",
+      "start": 17.18,
+      "end": 17.38
+    },
+    {
+      "word": "that",
+      "start": 17.38,
+      "end": 17.58
+    },
+    {
+      "word": "bugger",
+      "start": 17.58,
+      "end": 17.96
+    },
+    {
+      "word": "behind",
+      "start": 17.96,
+      "end": 18.26
+    },
+    {
+      "word": "me?",
+      "start": 18.26,
+      "end": 18.52
+    },
+    {
+      "word": "Oh,",
+      "start": 18.7,
+      "end": 18.78
+    },
+    {
+      "word": "where",
+      "start": 18.84,
+      "end": 18.94
+    },
+    {
+      "word": "was",
+      "start": 18.94,
+      "end": 19.14
+    },
+    {
+      "word": "it",
+      "start": 19.14,
+      "end": 19.26
+    },
+    {
+      "word": "behind",
+      "start": 19.26,
+      "end": 19.48
+    },
+    {
+      "word": "me?",
+      "start": 19.48,
+      "end": 19.74
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

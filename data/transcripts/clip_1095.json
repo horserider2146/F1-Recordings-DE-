@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_1095",
+  "text": "You can use boost here to close the gap. You have overtake, you have overtake. I'll note everything on the main train. Yes, the car is starting, it will give you more. It will give you more. PU9 position 6.",
+  "words": [
+    {
+      "word": "You",
+      "start": 1.86,
+      "end": 2.26
+    },
+    {
+      "word": "can",
+      "start": 2.26,
+      "end": 2.38
+    },
+    {
+      "word": "use",
+      "start": 2.38,
+      "end": 2.56
+    },
+    {
+      "word": "boost",
+      "start": 2.56,
+      "end": 2.84
+    },
+    {
+      "word": "here",
+      "start": 2.84,
+      "end": 3.12
+    },
+    {
+      "word": "to",
+      "start": 3.12,
+      "end": 3.32
+    },
+    {
+      "word": "close",
+      "start": 3.32,
+      "end": 3.5
+    },
+    {
+      "word": "the",
+      "start": 3.5,
+      "end": 3.64
+    },
+    {
+      "word": "gap.",
+      "start": 3.64,
+      "end": 3.88
+    },
+    {
+      "word": "You",
+      "start": 5.12,
+      "end": 5.26
+    },
+    {
+      "word": "have",
+      "start": 5.26,
+      "end": 5.38
+    },
+    {
+      "word": "overtake,",
+      "start": 5.38,
+      "end": 5.86
+    },
+    {
+      "word": "you",
+      "start": 6.0,
+      "end": 6.1
+    },
+    {
+      "word": "have",
+      "start": 6.1,
+      "end": 6.2
+    },
+    {
+      "word": "overtake.",
+      "start": 6.2,
+      "end": 6.66
+    },
+    {
+      "word": "I'll",
+      "start": 8.28,
+      "end": 8.68
+    },
+    {
+      "word": "note",
+      "start": 8.68,
+      "end": 8.82
+    },
+    {
+      "word": "everything",
+      "start": 8.82,
+      "end": 9.14
+    },
+    {
+      "word": "on",
+      "start": 9.14,
+      "end": 9.34
+    },
+    {
+      "word": "the",
+      "start": 9.34,
+      "end": 9.44
+    },
+    {
+      "word": "main",
+      "start": 9.44,
+      "end": 9.58
+    },
+    {
+      "word": "train.",
+      "start": 9.58,
+      "end": 9.8
+    },
+    {
+      "word": "Yes,",
+      "start": 11.86,
+      "end": 12.26
+    },
+    {
+      "word": "the",
+      "start": 12.38,
+      "end": 12.44
+    },
+    {
+      "word": "car",
+      "start": 12.44,
+      "end": 12.64
+    },
+    {
+      "word": "is",
+      "start": 12.64,
+      "end": 12.74
+    },
+    {
+      "word": "starting,",
+      "start": 12.74,
+      "end": 13.1
+    },
+    {
+      "word": "it",
+      "start": 13.34,
+      "end": 13.34
+    },
+    {
+      "word": "will",
+      "start": 13.34,
+      "end": 13.46
+    },
+    {
+      "word": "give",
+      "start": 13.46,
+      "end": 13.66
+    },
+    {
+      "word": "you",
+      "start": 13.66,
+      "end": 13.8
+    },
+    {
+      "word": "more.",
+      "start": 13.8,
+      "end": 14.04
+    },
+    {
+      "word": "It",
+      "start": 14.28,
+      "end": 14.28
+    },
+    {
+      "word": "will",
+      "start": 14.28,
+      "end": 14.48
+    },
+    {
+      "word": "give",
+      "start": 14.48,
+      "end": 14.66
+    },
+    {
+      "word": "you",
+      "start": 14.66,
+      "end": 14.84
+    },
+    {
+      "word": "more.",
+      "start": 14.84,
+      "end": 15.04
+    },
+    {
+      "word": "PU9",
+      "start": 16.88,
+      "end": 17.28
+    },
+    {
+      "word": "position",
+      "start": 17.28,
+      "end": 17.6
+    },
+    {
+      "word": "6.",
+      "start": 17.6,
+      "end": 18.08
+    }
+  ],
+  "language": "en",
+  "word_count": 40,
+  "is_empty": false,
+  "is_very_short": false
+}

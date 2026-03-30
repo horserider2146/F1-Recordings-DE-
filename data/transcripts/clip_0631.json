@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0631",
+  "text": "Yeah, same approach, I struggled on the last stop, I'm a star. So, against Harvard, Indian, the two places are 123 and 6, so I think things were faster than before.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.72
+    },
+    {
+      "word": "same",
+      "start": 0.86,
+      "end": 1.04
+    },
+    {
+      "word": "approach,",
+      "start": 1.04,
+      "end": 1.32
+    },
+    {
+      "word": "I",
+      "start": 1.54,
+      "end": 1.68
+    },
+    {
+      "word": "struggled",
+      "start": 1.68,
+      "end": 2.0
+    },
+    {
+      "word": "on",
+      "start": 2.0,
+      "end": 2.18
+    },
+    {
+      "word": "the",
+      "start": 2.18,
+      "end": 2.26
+    },
+    {
+      "word": "last",
+      "start": 2.26,
+      "end": 2.46
+    },
+    {
+      "word": "stop,",
+      "start": 2.46,
+      "end": 2.76
+    },
+    {
+      "word": "I'm",
+      "start": 3.1,
+      "end": 3.38
+    },
+    {
+      "word": "a",
+      "start": 3.38,
+      "end": 3.44
+    },
+    {
+      "word": "star.",
+      "start": 3.44,
+      "end": 3.68
+    },
+    {
+      "word": "So,",
+      "start": 5.96,
+      "end": 6.46
+    },
+    {
+      "word": "against",
+      "start": 6.9,
+      "end": 7.2
+    },
+    {
+      "word": "Harvard,",
+      "start": 7.2,
+      "end": 7.62
+    },
+    {
+      "word": "Indian,",
+      "start": 7.9,
+      "end": 8.12
+    },
+    {
+      "word": "the",
+      "start": 8.78,
+      "end": 8.9
+    },
+    {
+      "word": "two",
+      "start": 8.9,
+      "end": 9.06
+    },
+    {
+      "word": "places",
+      "start": 9.06,
+      "end": 9.3
+    },
+    {
+      "word": "are",
+      "start": 9.3,
+      "end": 9.66
+    },
+    {
+      "word": "123",
+      "start": 9.66,
+      "end": 10.04
+    },
+    {
+      "word": "and",
+      "start": 10.04,
+      "end": 10.66
+    },
+    {
+      "word": "6,",
+      "start": 10.66,
+      "end": 10.98
+    },
+    {
+      "word": "so",
+      "start": 11.18,
+      "end": 11.34
+    },
+    {
+      "word": "I",
+      "start": 11.34,
+      "end": 11.46
+    },
+    {
+      "word": "think",
+      "start": 11.46,
+      "end": 11.6
+    },
+    {
+      "word": "things",
+      "start": 11.6,
+      "end": 11.84
+    },
+    {
+      "word": "were",
+      "start": 11.84,
+      "end": 12.18
+    },
+    {
+      "word": "faster",
+      "start": 12.18,
+      "end": 12.76
+    },
+    {
+      "word": "than",
+      "start": 12.76,
+      "end": 12.98
+    },
+    {
+      "word": "before.",
+      "start": 12.98,
+      "end": 13.22
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

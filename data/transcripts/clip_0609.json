@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0609",
+  "text": "Charles is 3 seconds, you are doing a good job. Charles 2.5 The time is... Apex 16 Gap behind, 3 seconds At 6.16 to improve, think about the right toggle there.",
+  "words": [
+    {
+      "word": "Charles",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "is",
+      "start": 0.24,
+      "end": 0.44
+    },
+    {
+      "word": "3",
+      "start": 0.44,
+      "end": 0.66
+    },
+    {
+      "word": "seconds,",
+      "start": 0.66,
+      "end": 1.02
+    },
+    {
+      "word": "you",
+      "start": 1.3,
+      "end": 1.4
+    },
+    {
+      "word": "are",
+      "start": 1.4,
+      "end": 1.5
+    },
+    {
+      "word": "doing",
+      "start": 1.5,
+      "end": 1.64
+    },
+    {
+      "word": "a",
+      "start": 1.64,
+      "end": 1.78
+    },
+    {
+      "word": "good",
+      "start": 1.78,
+      "end": 1.9
+    },
+    {
+      "word": "job.",
+      "start": 1.9,
+      "end": 2.46
+    },
+    {
+      "word": "Charles",
+      "start": 3.28,
+      "end": 3.82
+    },
+    {
+      "word": "2",
+      "start": 3.82,
+      "end": 4.2
+    },
+    {
+      "word": ".5",
+      "start": 4.2,
+      "end": 4.8
+    },
+    {
+      "word": "The",
+      "start": 5.9,
+      "end": 6.44
+    },
+    {
+      "word": "time",
+      "start": 6.44,
+      "end": 6.84
+    },
+    {
+      "word": "is...",
+      "start": 6.84,
+      "end": 7.5
+    },
+    {
+      "word": "Apex",
+      "start": 8.7,
+      "end": 9.24
+    },
+    {
+      "word": "16",
+      "start": 9.24,
+      "end": 9.78
+    },
+    {
+      "word": "Gap",
+      "start": 11.74,
+      "end": 12.28
+    },
+    {
+      "word": "behind,",
+      "start": 12.28,
+      "end": 12.54
+    },
+    {
+      "word": "3",
+      "start": 12.82,
+      "end": 13.04
+    },
+    {
+      "word": "seconds",
+      "start": 13.04,
+      "end": 13.48
+    },
+    {
+      "word": "At",
+      "start": 15.36,
+      "end": 15.9
+    },
+    {
+      "word": "6",
+      "start": 15.9,
+      "end": 16.12
+    },
+    {
+      "word": ".16",
+      "start": 16.12,
+      "end": 16.64
+    },
+    {
+      "word": "to",
+      "start": 16.64,
+      "end": 16.84
+    },
+    {
+      "word": "improve,",
+      "start": 16.84,
+      "end": 17.18
+    },
+    {
+      "word": "think",
+      "start": 17.4,
+      "end": 17.64
+    },
+    {
+      "word": "about",
+      "start": 17.64,
+      "end": 17.86
+    },
+    {
+      "word": "the",
+      "start": 17.86,
+      "end": 18.02
+    },
+    {
+      "word": "right",
+      "start": 18.02,
+      "end": 18.16
+    },
+    {
+      "word": "toggle",
+      "start": 18.16,
+      "end": 18.46
+    },
+    {
+      "word": "there.",
+      "start": 18.46,
+      "end": 18.74
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

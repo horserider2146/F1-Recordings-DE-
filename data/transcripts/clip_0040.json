@@ -1,0 +1,35 @@
+{
+  "clip_id": "clip_0040",
+  "text": "now okay let's go please",
+  "words": [
+    {
+      "word": "now",
+      "start": 18.58,
+      "end": 19.98
+    },
+    {
+      "word": "okay",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "let's",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "go",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "please",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 5,
+  "is_empty": false,
+  "is_very_short": false
+}

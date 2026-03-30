@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_0746",
+  "text": "Two cars are on soft hits both red bolts for stepping and had jar P8 P9",
+  "words": [
+    {
+      "word": "Two",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "cars",
+      "start": 0.2,
+      "end": 0.62
+    },
+    {
+      "word": "are",
+      "start": 0.62,
+      "end": 1.04
+    },
+    {
+      "word": "on",
+      "start": 1.04,
+      "end": 1.24
+    },
+    {
+      "word": "soft",
+      "start": 1.24,
+      "end": 1.72
+    },
+    {
+      "word": "hits",
+      "start": 1.72,
+      "end": 2.1
+    },
+    {
+      "word": "both",
+      "start": 2.1,
+      "end": 2.54
+    },
+    {
+      "word": "red",
+      "start": 2.54,
+      "end": 2.92
+    },
+    {
+      "word": "bolts",
+      "start": 2.92,
+      "end": 3.24
+    },
+    {
+      "word": "for",
+      "start": 3.24,
+      "end": 3.54
+    },
+    {
+      "word": "stepping",
+      "start": 3.54,
+      "end": 3.82
+    },
+    {
+      "word": "and",
+      "start": 3.82,
+      "end": 4.06
+    },
+    {
+      "word": "had",
+      "start": 4.06,
+      "end": 4.22
+    },
+    {
+      "word": "jar",
+      "start": 4.22,
+      "end": 4.42
+    },
+    {
+      "word": "P8",
+      "start": 4.42,
+      "end": 4.94
+    },
+    {
+      "word": "P9",
+      "start": 4.94,
+      "end": 5.4
+    }
+  ],
+  "language": "en",
+  "word_count": 16,
+  "is_empty": false,
+  "is_very_short": false
+}

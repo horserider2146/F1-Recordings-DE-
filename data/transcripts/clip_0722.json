@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0722",
+  "text": "radio check? Yeah radio is good Niko",
+  "words": [
+    {
+      "word": "radio",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "check?",
+      "start": 0.2,
+      "end": 0.44
+    },
+    {
+      "word": "Yeah",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "word": "radio",
+      "start": 1.2,
+      "end": 1.74
+    },
+    {
+      "word": "is",
+      "start": 1.74,
+      "end": 1.92
+    },
+    {
+      "word": "good",
+      "start": 1.92,
+      "end": 2.04
+    },
+    {
+      "word": "Niko",
+      "start": 2.04,
+      "end": 2.24
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

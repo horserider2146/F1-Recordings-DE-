@@ -1,0 +1,50 @@
+{
+  "clip_id": "clip_0946",
+  "text": "I want the gap and any corner blue.",
+  "words": [
+    {
+      "word": "I",
+      "start": 8.9,
+      "end": 9.06
+    },
+    {
+      "word": "want",
+      "start": 9.06,
+      "end": 9.14
+    },
+    {
+      "word": "the",
+      "start": 9.14,
+      "end": 9.16
+    },
+    {
+      "word": "gap",
+      "start": 9.16,
+      "end": 9.18
+    },
+    {
+      "word": "and",
+      "start": 9.18,
+      "end": 9.3
+    },
+    {
+      "word": "any",
+      "start": 9.3,
+      "end": 9.32
+    },
+    {
+      "word": "corner",
+      "start": 9.32,
+      "end": 9.64
+    },
+    {
+      "word": "blue.",
+      "start": 9.64,
+      "end": 9.66
+    }
+  ],
+  "language": "en",
+  "word_count": 8,
+  "is_empty": false,
+  "is_very_short": false
+}

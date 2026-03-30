@@ -1,0 +1,80 @@
+{
+  "clip_id": "clip_0780",
+  "text": "Okay, good job Tene Niko. We'll get the points next time. Tanful is there.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "good",
+      "start": 0.5,
+      "end": 0.84
+    },
+    {
+      "word": "job",
+      "start": 0.84,
+      "end": 1.04
+    },
+    {
+      "word": "Tene",
+      "start": 1.04,
+      "end": 1.22
+    },
+    {
+      "word": "Niko.",
+      "start": 1.22,
+      "end": 1.44
+    },
+    {
+      "word": "We'll",
+      "start": 1.76,
+      "end": 2.04
+    },
+    {
+      "word": "get",
+      "start": 2.04,
+      "end": 2.18
+    },
+    {
+      "word": "the",
+      "start": 2.18,
+      "end": 2.34
+    },
+    {
+      "word": "points",
+      "start": 2.34,
+      "end": 2.52
+    },
+    {
+      "word": "next",
+      "start": 2.52,
+      "end": 2.76
+    },
+    {
+      "word": "time.",
+      "start": 2.76,
+      "end": 3.02
+    },
+    {
+      "word": "Tanful",
+      "start": 3.26,
+      "end": 3.6
+    },
+    {
+      "word": "is",
+      "start": 3.6,
+      "end": 3.72
+    },
+    {
+      "word": "there.",
+      "start": 3.72,
+      "end": 3.88
+    }
+  ],
+  "language": "en",
+  "word_count": 14,
+  "is_empty": false,
+  "is_very_short": false
+}

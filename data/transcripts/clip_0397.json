@@ -1,0 +1,130 @@
+{
+  "clip_id": "clip_0397",
+  "text": "36 is 0 Maybe some February turn 7 8 36 George 30 so give me 35 Head of give me is three seconds Perez",
+  "words": [
+    {
+      "word": "36",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "is",
+      "start": 0.44,
+      "end": 0.9
+    },
+    {
+      "word": "0",
+      "start": 0.9,
+      "end": 1.3
+    },
+    {
+      "word": "Maybe",
+      "start": 2.48,
+      "end": 3.0
+    },
+    {
+      "word": "some",
+      "start": 3.0,
+      "end": 3.34
+    },
+    {
+      "word": "February",
+      "start": 3.34,
+      "end": 3.68
+    },
+    {
+      "word": "turn",
+      "start": 3.68,
+      "end": 4.02
+    },
+    {
+      "word": "7",
+      "start": 4.02,
+      "end": 4.46
+    },
+    {
+      "word": "8",
+      "start": 4.46,
+      "end": 5.02
+    },
+    {
+      "word": "36",
+      "start": 6.76,
+      "end": 7.2
+    },
+    {
+      "word": "George",
+      "start": 9.96,
+      "end": 10.4
+    },
+    {
+      "word": "30",
+      "start": 10.4,
+      "end": 11.28
+    },
+    {
+      "word": "so",
+      "start": 11.28,
+      "end": 11.66
+    },
+    {
+      "word": "give",
+      "start": 11.66,
+      "end": 11.94
+    },
+    {
+      "word": "me",
+      "start": 11.94,
+      "end": 12.06
+    },
+    {
+      "word": "35",
+      "start": 12.06,
+      "end": 12.88
+    },
+    {
+      "word": "Head",
+      "start": 13.88,
+      "end": 14.76
+    },
+    {
+      "word": "of",
+      "start": 14.76,
+      "end": 15.64
+    },
+    {
+      "word": "give",
+      "start": 15.64,
+      "end": 15.94
+    },
+    {
+      "word": "me",
+      "start": 15.94,
+      "end": 16.12
+    },
+    {
+      "word": "is",
+      "start": 16.12,
+      "end": 16.56
+    },
+    {
+      "word": "three",
+      "start": 16.56,
+      "end": 16.92
+    },
+    {
+      "word": "seconds",
+      "start": 16.92,
+      "end": 17.2
+    },
+    {
+      "word": "Perez",
+      "start": 17.2,
+      "end": 17.72
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

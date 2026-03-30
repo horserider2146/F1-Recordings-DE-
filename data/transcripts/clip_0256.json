@@ -1,0 +1,150 @@
+{
+  "clip_id": "clip_0256",
+  "text": "Both cross cars Both sliding overall and the cross cars Tire phase, update when you can Pantonelli 372 You have overtake? It's more difficult for overtake today actually",
+  "words": [
+    {
+      "word": "Both",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "cross",
+      "start": 0.16,
+      "end": 0.3
+    },
+    {
+      "word": "cars",
+      "start": 0.3,
+      "end": 0.7
+    },
+    {
+      "word": "Both",
+      "start": 1.67,
+      "end": 2.06
+    },
+    {
+      "word": "sliding",
+      "start": 2.06,
+      "end": 2.74
+    },
+    {
+      "word": "overall",
+      "start": 2.74,
+      "end": 3.28
+    },
+    {
+      "word": "and",
+      "start": 3.28,
+      "end": 3.66
+    },
+    {
+      "word": "the",
+      "start": 3.66,
+      "end": 3.82
+    },
+    {
+      "word": "cross",
+      "start": 3.82,
+      "end": 3.96
+    },
+    {
+      "word": "cars",
+      "start": 3.96,
+      "end": 4.4
+    },
+    {
+      "word": "Tire",
+      "start": 6.06,
+      "end": 6.84
+    },
+    {
+      "word": "phase,",
+      "start": 6.84,
+      "end": 7.18
+    },
+    {
+      "word": "update",
+      "start": 7.36,
+      "end": 7.76
+    },
+    {
+      "word": "when",
+      "start": 7.76,
+      "end": 8.16
+    },
+    {
+      "word": "you",
+      "start": 8.16,
+      "end": 8.3
+    },
+    {
+      "word": "can",
+      "start": 8.3,
+      "end": 8.56
+    },
+    {
+      "word": "Pantonelli",
+      "start": 10.18,
+      "end": 10.96
+    },
+    {
+      "word": "372",
+      "start": 10.96,
+      "end": 11.74
+    },
+    {
+      "word": "You",
+      "start": 11.74,
+      "end": 12.96
+    },
+    {
+      "word": "have",
+      "start": 12.96,
+      "end": 13.12
+    },
+    {
+      "word": "overtake?",
+      "start": 13.12,
+      "end": 13.76
+    },
+    {
+      "word": "It's",
+      "start": 14.88,
+      "end": 15.66
+    },
+    {
+      "word": "more",
+      "start": 15.66,
+      "end": 15.98
+    },
+    {
+      "word": "difficult",
+      "start": 15.98,
+      "end": 16.46
+    },
+    {
+      "word": "for",
+      "start": 16.46,
+      "end": 16.76
+    },
+    {
+      "word": "overtake",
+      "start": 16.76,
+      "end": 17.0
+    },
+    {
+      "word": "today",
+      "start": 17.0,
+      "end": 17.22
+    },
+    {
+      "word": "actually",
+      "start": 17.22,
+      "end": 17.46
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

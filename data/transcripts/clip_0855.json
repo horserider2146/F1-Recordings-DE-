@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0855",
+  "text": "Okay Oli, can you help me anywhere? Okay, there is a guy in the back there. That's my pace. Case is good, case is good. 32 to go Oli. Nice consistent lap, good job. Okay Oli, gap max is stable.",
+  "words": [
+    {
+      "word": "Okay",
+      "start": 0.0,
+      "end": 0.78
+    },
+    {
+      "word": "Oli,",
+      "start": 0.78,
+      "end": 1.04
+    },
+    {
+      "word": "can",
+      "start": 1.2,
+      "end": 1.32
+    },
+    {
+      "word": "you",
+      "start": 1.32,
+      "end": 1.36
+    },
+    {
+      "word": "help",
+      "start": 1.36,
+      "end": 1.58
+    },
+    {
+      "word": "me",
+      "start": 1.58,
+      "end": 1.8
+    },
+    {
+      "word": "anywhere?",
+      "start": 1.8,
+      "end": 1.98
+    },
+    {
+      "word": "Okay,",
+      "start": 3.9,
+      "end": 4.36
+    },
+    {
+      "word": "there",
+      "start": 4.56,
+      "end": 4.64
+    },
+    {
+      "word": "is",
+      "start": 4.64,
+      "end": 4.84
+    },
+    {
+      "word": "a",
+      "start": 4.84,
+      "end": 4.94
+    },
+    {
+      "word": "guy",
+      "start": 4.94,
+      "end": 5.02
+    },
+    {
+      "word": "in",
+      "start": 5.02,
+      "end": 5.12
+    },
+    {
+      "word": "the",
+      "start": 5.12,
+      "end": 5.14
+    },
+    {
+      "word": "back",
+      "start": 5.14,
+      "end": 5.3
+    },
+    {
+      "word": "there.",
+      "start": 5.3,
+      "end": 5.82
+    },
+    {
+      "word": "That's",
+      "start": 6.0,
+      "end": 6.46
+    },
+    {
+      "word": "my",
+      "start": 6.46,
+      "end": 6.62
+    },
+    {
+      "word": "pace.",
+      "start": 6.62,
+      "end": 6.92
+    },
+    {
+      "word": "Case",
+      "start": 7.92,
+      "end": 8.22
+    },
+    {
+      "word": "is",
+      "start": 8.22,
+      "end": 8.34
+    },
+    {
+      "word": "good,",
+      "start": 8.34,
+      "end": 8.54
+    },
+    {
+      "word": "case",
+      "start": 8.66,
+      "end": 8.8
+    },
+    {
+      "word": "is",
+      "start": 8.8,
+      "end": 8.96
+    },
+    {
+      "word": "good.",
+      "start": 8.96,
+      "end": 9.2
+    },
+    {
+      "word": "32",
+      "start": 12.1,
+      "end": 12.56
+    },
+    {
+      "word": "to",
+      "start": 12.56,
+      "end": 12.86
+    },
+    {
+      "word": "go",
+      "start": 12.86,
+      "end": 13.02
+    },
+    {
+      "word": "Oli.",
+      "start": 13.02,
+      "end": 13.38
+    },
+    {
+      "word": "Nice",
+      "start": 13.62,
+      "end": 13.9
+    },
+    {
+      "word": "consistent",
+      "start": 13.9,
+      "end": 14.32
+    },
+    {
+      "word": "lap,",
+      "start": 14.32,
+      "end": 14.64
+    },
+    {
+      "word": "good",
+      "start": 14.72,
+      "end": 14.86
+    },
+    {
+      "word": "job.",
+      "start": 14.86,
+      "end": 15.1
+    },
+    {
+      "word": "Okay",
+      "start": 17.02,
+      "end": 17.48
+    },
+    {
+      "word": "Oli,",
+      "start": 17.48,
+      "end": 17.8
+    },
+    {
+      "word": "gap",
+      "start": 17.84,
+      "end": 18.0
+    },
+    {
+      "word": "max",
+      "start": 18.0,
+      "end": 18.32
+    },
+    {
+      "word": "is",
+      "start": 18.32,
+      "end": 18.7
+    },
+    {
+      "word": "stable.",
+      "start": 18.7,
+      "end": 19.16
+    }
+  ],
+  "language": "en",
+  "word_count": 40,
+  "is_empty": false,
+  "is_very_short": false
+}

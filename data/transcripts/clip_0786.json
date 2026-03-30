@@ -1,0 +1,150 @@
+{
+  "clip_id": "clip_0786",
+  "text": "250 industry here, Halbohlson 2.3 yeah, confirm, right behind industry, 1414, 275 if you can confirm, tailwind 20 kph, turn 6, turn 11 60 kph, turn 14",
+  "words": [
+    {
+      "word": "250",
+      "start": 0.0,
+      "end": 0.68
+    },
+    {
+      "word": "industry",
+      "start": 0.68,
+      "end": 1.2
+    },
+    {
+      "word": "here,",
+      "start": 1.2,
+      "end": 1.58
+    },
+    {
+      "word": "Halbohlson",
+      "start": 1.64,
+      "end": 2.4
+    },
+    {
+      "word": "2",
+      "start": 2.4,
+      "end": 2.66
+    },
+    {
+      "word": ".3",
+      "start": 2.66,
+      "end": 3.28
+    },
+    {
+      "word": "yeah,",
+      "start": 5.48,
+      "end": 6.16
+    },
+    {
+      "word": "confirm,",
+      "start": 6.48,
+      "end": 7.06
+    },
+    {
+      "word": "right",
+      "start": 7.22,
+      "end": 7.36
+    },
+    {
+      "word": "behind",
+      "start": 7.36,
+      "end": 7.64
+    },
+    {
+      "word": "industry,",
+      "start": 7.64,
+      "end": 8.84
+    },
+    {
+      "word": "1414,",
+      "start": 9.18,
+      "end": 9.86
+    },
+    {
+      "word": "275",
+      "start": 9.98,
+      "end": 10.7
+    },
+    {
+      "word": "if",
+      "start": 10.7,
+      "end": 10.9
+    },
+    {
+      "word": "you",
+      "start": 10.9,
+      "end": 11.06
+    },
+    {
+      "word": "can",
+      "start": 11.06,
+      "end": 11.18
+    },
+    {
+      "word": "confirm,",
+      "start": 12.22,
+      "end": 12.9
+    },
+    {
+      "word": "tailwind",
+      "start": 13.14,
+      "end": 13.54
+    },
+    {
+      "word": "20",
+      "start": 13.54,
+      "end": 14.1
+    },
+    {
+      "word": "kph,",
+      "start": 14.1,
+      "end": 14.54
+    },
+    {
+      "word": "turn",
+      "start": 14.84,
+      "end": 15.0
+    },
+    {
+      "word": "6,",
+      "start": 15.0,
+      "end": 15.3
+    },
+    {
+      "word": "turn",
+      "start": 15.56,
+      "end": 15.68
+    },
+    {
+      "word": "11",
+      "start": 15.68,
+      "end": 16.14
+    },
+    {
+      "word": "60",
+      "start": 17.36,
+      "end": 18.04
+    },
+    {
+      "word": "kph,",
+      "start": 18.04,
+      "end": 18.48
+    },
+    {
+      "word": "turn",
+      "start": 18.68,
+      "end": 18.8
+    },
+    {
+      "word": "14",
+      "start": 18.8,
+      "end": 19.24
+    }
+  ],
+  "language": "en",
+  "word_count": 27,
+  "is_empty": false,
+  "is_very_short": false
+}

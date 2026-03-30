@@ -1,0 +1,135 @@
+{
+  "clip_id": "clip_1060",
+  "text": "We are P22, stroll ahead of us, 359, then Valtteri did 354, Penanda 352, Albon 347 and Science 343. Loss on P16 at 34.1.",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "are",
+      "start": 0.42,
+      "end": 0.56
+    },
+    {
+      "word": "P22,",
+      "start": 0.56,
+      "end": 1.42
+    },
+    {
+      "word": "stroll",
+      "start": 1.64,
+      "end": 1.94
+    },
+    {
+      "word": "ahead",
+      "start": 1.94,
+      "end": 2.18
+    },
+    {
+      "word": "of",
+      "start": 2.18,
+      "end": 2.38
+    },
+    {
+      "word": "us,",
+      "start": 2.38,
+      "end": 2.62
+    },
+    {
+      "word": "359,",
+      "start": 2.78,
+      "end": 3.64
+    },
+    {
+      "word": "then",
+      "start": 3.96,
+      "end": 4.14
+    },
+    {
+      "word": "Valtteri",
+      "start": 4.14,
+      "end": 4.86
+    },
+    {
+      "word": "did",
+      "start": 4.86,
+      "end": 5.0
+    },
+    {
+      "word": "354,",
+      "start": 5.0,
+      "end": 6.02
+    },
+    {
+      "word": "Penanda",
+      "start": 6.74,
+      "end": 7.18
+    },
+    {
+      "word": "352,",
+      "start": 7.18,
+      "end": 8.1
+    },
+    {
+      "word": "Albon",
+      "start": 8.58,
+      "end": 8.98
+    },
+    {
+      "word": "347",
+      "start": 8.98,
+      "end": 10.02
+    },
+    {
+      "word": "and",
+      "start": 10.02,
+      "end": 10.58
+    },
+    {
+      "word": "Science",
+      "start": 10.58,
+      "end": 10.86
+    },
+    {
+      "word": "343.",
+      "start": 10.86,
+      "end": 11.82
+    },
+    {
+      "word": "Loss",
+      "start": 12.44,
+      "end": 12.94
+    },
+    {
+      "word": "on",
+      "start": 12.94,
+      "end": 13.1
+    },
+    {
+      "word": "P16",
+      "start": 13.1,
+      "end": 13.82
+    },
+    {
+      "word": "at",
+      "start": 13.82,
+      "end": 14.22
+    },
+    {
+      "word": "34",
+      "start": 14.22,
+      "end": 14.8
+    },
+    {
+      "word": ".1.",
+      "start": 14.8,
+      "end": 15.42
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_1163",
+  "text": "Okay, so we're stopped at 0.2 ahead of me. That's contact in turn three. I'm gonna check on it by left rear. Copy that. Tires look okay. Pressure's good. Overtake enabled. Okay, so Strat 3 is working as expected.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 2.0,
+      "end": 2.56
+    },
+    {
+      "word": "so",
+      "start": 2.64,
+      "end": 2.72
+    },
+    {
+      "word": "we're",
+      "start": 2.72,
+      "end": 2.9
+    },
+    {
+      "word": "stopped",
+      "start": 2.9,
+      "end": 3.12
+    },
+    {
+      "word": "at",
+      "start": 3.12,
+      "end": 3.4
+    },
+    {
+      "word": "0",
+      "start": 3.4,
+      "end": 3.84
+    },
+    {
+      "word": ".2",
+      "start": 3.84,
+      "end": 4.38
+    },
+    {
+      "word": "ahead",
+      "start": 4.38,
+      "end": 4.64
+    },
+    {
+      "word": "of",
+      "start": 4.64,
+      "end": 4.74
+    },
+    {
+      "word": "me.",
+      "start": 4.74,
+      "end": 5.18
+    },
+    {
+      "word": "That's",
+      "start": 6.64,
+      "end": 7.2
+    },
+    {
+      "word": "contact",
+      "start": 7.2,
+      "end": 7.52
+    },
+    {
+      "word": "in",
+      "start": 7.52,
+      "end": 7.84
+    },
+    {
+      "word": "turn",
+      "start": 7.84,
+      "end": 8.02
+    },
+    {
+      "word": "three.",
+      "start": 8.02,
+      "end": 8.4
+    },
+    {
+      "word": "I'm",
+      "start": 9.0,
+      "end": 9.18
+    },
+    {
+      "word": "gonna",
+      "start": 9.18,
+      "end": 9.24
+    },
+    {
+      "word": "check",
+      "start": 9.24,
+      "end": 9.62
+    },
+    {
+      "word": "on",
+      "start": 9.62,
+      "end": 9.86
+    },
+    {
+      "word": "it",
+      "start": 9.86,
+      "end": 9.96
+    },
+    {
+      "word": "by",
+      "start": 9.96,
+      "end": 10.16
+    },
+    {
+      "word": "left",
+      "start": 10.16,
+      "end": 10.5
+    },
+    {
+      "word": "rear.",
+      "start": 10.5,
+      "end": 10.88
+    },
+    {
+      "word": "Copy",
+      "start": 11.86,
+      "end": 12.42
+    },
+    {
+      "word": "that.",
+      "start": 12.42,
+      "end": 12.7
+    },
+    {
+      "word": "Tires",
+      "start": 12.9,
+      "end": 13.3
+    },
+    {
+      "word": "look",
+      "start": 13.3,
+      "end": 13.5
+    },
+    {
+      "word": "okay.",
+      "start": 13.5,
+      "end": 13.88
+    },
+    {
+      "word": "Pressure's",
+      "start": 14.08,
+      "end": 14.46
+    },
+    {
+      "word": "good.",
+      "start": 14.46,
+      "end": 14.66
+    },
+    {
+      "word": "Overtake",
+      "start": 14.92,
+      "end": 15.36
+    },
+    {
+      "word": "enabled.",
+      "start": 15.36,
+      "end": 15.74
+    },
+    {
+      "word": "Okay,",
+      "start": 17.64,
+      "end": 18.2
+    },
+    {
+      "word": "so",
+      "start": 18.32,
+      "end": 18.42
+    },
+    {
+      "word": "Strat",
+      "start": 18.42,
+      "end": 18.7
+    },
+    {
+      "word": "3",
+      "start": 18.7,
+      "end": 19.0
+    },
+    {
+      "word": "is",
+      "start": 19.0,
+      "end": 19.18
+    },
+    {
+      "word": "working",
+      "start": 19.18,
+      "end": 19.4
+    },
+    {
+      "word": "as",
+      "start": 19.4,
+      "end": 19.72
+    },
+    {
+      "word": "expected.",
+      "start": 19.72,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

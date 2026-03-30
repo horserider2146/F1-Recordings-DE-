@@ -1,0 +1,50 @@
+{
+  "clip_id": "clip_1061",
+  "text": "and keep your Delta negative target negative tree.",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "keep",
+      "start": 0.38,
+      "end": 0.84
+    },
+    {
+      "word": "your",
+      "start": 0.84,
+      "end": 1.0
+    },
+    {
+      "word": "Delta",
+      "start": 1.0,
+      "end": 1.26
+    },
+    {
+      "word": "negative",
+      "start": 1.26,
+      "end": 1.68
+    },
+    {
+      "word": "target",
+      "start": 1.68,
+      "end": 2.12
+    },
+    {
+      "word": "negative",
+      "start": 2.12,
+      "end": 2.48
+    },
+    {
+      "word": "tree.",
+      "start": 2.48,
+      "end": 2.94
+    }
+  ],
+  "language": "en",
+  "word_count": 8,
+  "is_empty": false,
+  "is_very_short": false
+}

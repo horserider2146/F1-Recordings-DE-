@@ -1,0 +1,85 @@
+{
+  "clip_id": "clip_0131",
+  "text": "Copy Ok Carlos, I'm in less than 2 minutes and one minute will power up",
+  "words": [
+    {
+      "word": "Copy",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "Ok",
+      "start": 1.5,
+      "end": 1.9
+    },
+    {
+      "word": "Carlos,",
+      "start": 1.9,
+      "end": 2.3
+    },
+    {
+      "word": "I'm",
+      "start": 2.68,
+      "end": 2.92
+    },
+    {
+      "word": "in",
+      "start": 2.92,
+      "end": 3.02
+    },
+    {
+      "word": "less",
+      "start": 3.02,
+      "end": 3.18
+    },
+    {
+      "word": "than",
+      "start": 3.18,
+      "end": 3.36
+    },
+    {
+      "word": "2",
+      "start": 3.36,
+      "end": 3.54
+    },
+    {
+      "word": "minutes",
+      "start": 3.54,
+      "end": 3.86
+    },
+    {
+      "word": "and",
+      "start": 3.86,
+      "end": 4.32
+    },
+    {
+      "word": "one",
+      "start": 4.32,
+      "end": 4.48
+    },
+    {
+      "word": "minute",
+      "start": 4.48,
+      "end": 4.68
+    },
+    {
+      "word": "will",
+      "start": 4.68,
+      "end": 4.88
+    },
+    {
+      "word": "power",
+      "start": 4.88,
+      "end": 5.14
+    },
+    {
+      "word": "up",
+      "start": 5.14,
+      "end": 5.32
+    }
+  ],
+  "language": "en",
+  "word_count": 15,
+  "is_empty": false,
+  "is_very_short": false
+}

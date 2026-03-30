@@ -1,0 +1,260 @@
+{
+  "clip_id": "clip_0940",
+  "text": "So two and a half to Norris in front and another half to Tencent to the S3. Box box into power front. So, what was the time of the Red Bull? The staff in 33.0, he's in 38 and another 10th and a bit off for Hajar, 33.1.",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "two",
+      "start": 0.36,
+      "end": 0.66
+    },
+    {
+      "word": "and",
+      "start": 0.66,
+      "end": 0.76
+    },
+    {
+      "word": "a",
+      "start": 0.76,
+      "end": 0.82
+    },
+    {
+      "word": "half",
+      "start": 0.82,
+      "end": 1.06
+    },
+    {
+      "word": "to",
+      "start": 1.06,
+      "end": 1.14
+    },
+    {
+      "word": "Norris",
+      "start": 1.14,
+      "end": 1.5
+    },
+    {
+      "word": "in",
+      "start": 1.5,
+      "end": 1.62
+    },
+    {
+      "word": "front",
+      "start": 1.62,
+      "end": 1.82
+    },
+    {
+      "word": "and",
+      "start": 1.82,
+      "end": 2.62
+    },
+    {
+      "word": "another",
+      "start": 2.62,
+      "end": 2.86
+    },
+    {
+      "word": "half",
+      "start": 2.86,
+      "end": 3.1
+    },
+    {
+      "word": "to",
+      "start": 3.1,
+      "end": 3.26
+    },
+    {
+      "word": "Tencent",
+      "start": 3.26,
+      "end": 3.56
+    },
+    {
+      "word": "to",
+      "start": 3.56,
+      "end": 3.72
+    },
+    {
+      "word": "the",
+      "start": 3.72,
+      "end": 3.78
+    },
+    {
+      "word": "S3.",
+      "start": 3.78,
+      "end": 4.08
+    },
+    {
+      "word": "Box",
+      "start": 4.64,
+      "end": 4.94
+    },
+    {
+      "word": "box",
+      "start": 4.94,
+      "end": 5.2
+    },
+    {
+      "word": "into",
+      "start": 5.2,
+      "end": 5.4
+    },
+    {
+      "word": "power",
+      "start": 5.4,
+      "end": 5.66
+    },
+    {
+      "word": "front.",
+      "start": 5.66,
+      "end": 5.78
+    },
+    {
+      "word": "So,",
+      "start": 7.96,
+      "end": 8.44
+    },
+    {
+      "word": "what",
+      "start": 8.82,
+      "end": 9.06
+    },
+    {
+      "word": "was",
+      "start": 9.06,
+      "end": 9.24
+    },
+    {
+      "word": "the",
+      "start": 9.24,
+      "end": 9.48
+    },
+    {
+      "word": "time",
+      "start": 9.48,
+      "end": 9.96
+    },
+    {
+      "word": "of",
+      "start": 9.96,
+      "end": 10.12
+    },
+    {
+      "word": "the",
+      "start": 10.12,
+      "end": 10.26
+    },
+    {
+      "word": "Red",
+      "start": 10.26,
+      "end": 10.42
+    },
+    {
+      "word": "Bull?",
+      "start": 10.42,
+      "end": 10.56
+    },
+    {
+      "word": "The",
+      "start": 11.94,
+      "end": 12.2
+    },
+    {
+      "word": "staff",
+      "start": 12.2,
+      "end": 12.46
+    },
+    {
+      "word": "in",
+      "start": 12.46,
+      "end": 12.7
+    },
+    {
+      "word": "33",
+      "start": 12.7,
+      "end": 13.3
+    },
+    {
+      "word": ".0,",
+      "start": 13.3,
+      "end": 13.9
+    },
+    {
+      "word": "he's",
+      "start": 14.06,
+      "end": 14.2
+    },
+    {
+      "word": "in",
+      "start": 14.2,
+      "end": 14.3
+    },
+    {
+      "word": "38",
+      "start": 14.3,
+      "end": 14.64
+    },
+    {
+      "word": "and",
+      "start": 14.64,
+      "end": 15.4
+    },
+    {
+      "word": "another",
+      "start": 15.4,
+      "end": 15.94
+    },
+    {
+      "word": "10th",
+      "start": 15.94,
+      "end": 16.7
+    },
+    {
+      "word": "and",
+      "start": 16.7,
+      "end": 16.76
+    },
+    {
+      "word": "a",
+      "start": 16.76,
+      "end": 16.82
+    },
+    {
+      "word": "bit",
+      "start": 16.82,
+      "end": 16.92
+    },
+    {
+      "word": "off",
+      "start": 16.92,
+      "end": 17.08
+    },
+    {
+      "word": "for",
+      "start": 17.08,
+      "end": 17.22
+    },
+    {
+      "word": "Hajar,",
+      "start": 17.22,
+      "end": 17.58
+    },
+    {
+      "word": "33",
+      "start": 17.7,
+      "end": 18.06
+    },
+    {
+      "word": ".1.",
+      "start": 18.06,
+      "end": 18.42
+    }
+  ],
+  "language": "en",
+  "word_count": 48,
+  "is_empty": false,
+  "is_very_short": false
+}

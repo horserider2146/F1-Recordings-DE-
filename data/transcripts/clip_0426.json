@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0426",
+  "text": "So that's that could be all clear",
+  "words": [
+    {
+      "word": "So",
+      "start": 1.28,
+      "end": 1.6
+    },
+    {
+      "word": "that's",
+      "start": 1.6,
+      "end": 1.8
+    },
+    {
+      "word": "that",
+      "start": 1.8,
+      "end": 1.88
+    },
+    {
+      "word": "could",
+      "start": 1.88,
+      "end": 2.02
+    },
+    {
+      "word": "be",
+      "start": 2.02,
+      "end": 2.12
+    },
+    {
+      "word": "all",
+      "start": 2.12,
+      "end": 2.32
+    },
+    {
+      "word": "clear",
+      "start": 2.32,
+      "end": 2.48
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

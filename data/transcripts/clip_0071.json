@@ -1,0 +1,255 @@
+{
+  "clip_id": "clip_0071",
+  "text": "Hot tap was good. Only correction if you try to avoid the stop exit last corner. Hot tap marche. So it's 20 milliseconds to liam on 10-6 main limitation. We have a look. Oops, oops, sorry, I'm sorry. Happy no-clap at your target. We maximized the score.",
+  "words": [
+    {
+      "word": "Hot",
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "word": "tap",
+      "start": 1.04,
+      "end": 1.16
+    },
+    {
+      "word": "was",
+      "start": 1.16,
+      "end": 1.3
+    },
+    {
+      "word": "good.",
+      "start": 1.3,
+      "end": 1.52
+    },
+    {
+      "word": "Only",
+      "start": 3.1,
+      "end": 3.5
+    },
+    {
+      "word": "correction",
+      "start": 3.5,
+      "end": 3.9
+    },
+    {
+      "word": "if",
+      "start": 3.9,
+      "end": 4.1
+    },
+    {
+      "word": "you",
+      "start": 4.1,
+      "end": 4.18
+    },
+    {
+      "word": "try",
+      "start": 4.18,
+      "end": 4.3
+    },
+    {
+      "word": "to",
+      "start": 4.3,
+      "end": 4.44
+    },
+    {
+      "word": "avoid",
+      "start": 4.44,
+      "end": 4.74
+    },
+    {
+      "word": "the",
+      "start": 4.74,
+      "end": 4.98
+    },
+    {
+      "word": "stop",
+      "start": 4.98,
+      "end": 5.18
+    },
+    {
+      "word": "exit",
+      "start": 5.18,
+      "end": 5.6
+    },
+    {
+      "word": "last",
+      "start": 5.6,
+      "end": 5.86
+    },
+    {
+      "word": "corner.",
+      "start": 5.86,
+      "end": 6.14
+    },
+    {
+      "word": "Hot",
+      "start": 6.54,
+      "end": 6.62
+    },
+    {
+      "word": "tap",
+      "start": 6.62,
+      "end": 6.8
+    },
+    {
+      "word": "marche.",
+      "start": 6.8,
+      "end": 6.98
+    },
+    {
+      "word": "So",
+      "start": 8.62,
+      "end": 9.02
+    },
+    {
+      "word": "it's",
+      "start": 9.02,
+      "end": 9.22
+    },
+    {
+      "word": "20",
+      "start": 9.22,
+      "end": 9.7
+    },
+    {
+      "word": "milliseconds",
+      "start": 9.7,
+      "end": 10.9
+    },
+    {
+      "word": "to",
+      "start": 10.9,
+      "end": 11.3
+    },
+    {
+      "word": "liam",
+      "start": 11.3,
+      "end": 11.52
+    },
+    {
+      "word": "on",
+      "start": 11.52,
+      "end": 11.94
+    },
+    {
+      "word": "10",
+      "start": 11.94,
+      "end": 12.12
+    },
+    {
+      "word": "-6",
+      "start": 12.12,
+      "end": 12.4
+    },
+    {
+      "word": "main",
+      "start": 12.4,
+      "end": 12.6
+    },
+    {
+      "word": "limitation.",
+      "start": 12.6,
+      "end": 12.92
+    },
+    {
+      "word": "We",
+      "start": 13.34,
+      "end": 13.4
+    },
+    {
+      "word": "have",
+      "start": 13.4,
+      "end": 13.52
+    },
+    {
+      "word": "a",
+      "start": 13.52,
+      "end": 13.56
+    },
+    {
+      "word": "look.",
+      "start": 13.56,
+      "end": 13.64
+    },
+    {
+      "word": "Oops,",
+      "start": 14.24,
+      "end": 14.4
+    },
+    {
+      "word": "oops,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "sorry,",
+      "start": 15.1,
+      "end": 15.26
+    },
+    {
+      "word": "I'm",
+      "start": 15.3,
+      "end": 15.38
+    },
+    {
+      "word": "sorry.",
+      "start": 15.38,
+      "end": 15.5
+    },
+    {
+      "word": "Happy",
+      "start": 17.08,
+      "end": 17.48
+    },
+    {
+      "word": "no",
+      "start": 17.48,
+      "end": 17.66
+    },
+    {
+      "word": "-clap",
+      "start": 17.66,
+      "end": 17.82
+    },
+    {
+      "word": "at",
+      "start": 17.82,
+      "end": 17.94
+    },
+    {
+      "word": "your",
+      "start": 17.94,
+      "end": 18.08
+    },
+    {
+      "word": "target.",
+      "start": 18.08,
+      "end": 18.54
+    },
+    {
+      "word": "We",
+      "start": 18.86,
+      "end": 18.92
+    },
+    {
+      "word": "maximized",
+      "start": 18.92,
+      "end": 19.38
+    },
+    {
+      "word": "the",
+      "start": 19.38,
+      "end": 19.46
+    },
+    {
+      "word": "score.",
+      "start": 19.46,
+      "end": 19.62
+    }
+  ],
+  "language": "en",
+  "word_count": 47,
+  "is_empty": false,
+  "is_very_short": false
+}

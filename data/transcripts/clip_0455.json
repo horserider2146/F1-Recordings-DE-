@@ -1,0 +1,135 @@
+{
+  "clip_id": "clip_0455",
+  "text": "7.5 used available to defend 0.9 1.0 0.9 0.9 0.9 that thresholds at 1.8 0.8 debris off",
+  "words": [
+    {
+      "word": "7",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": ".5",
+      "start": 0.14,
+      "end": 0.76
+    },
+    {
+      "word": "used",
+      "start": 2.0,
+      "end": 2.6
+    },
+    {
+      "word": "available",
+      "start": 2.6,
+      "end": 2.86
+    },
+    {
+      "word": "to",
+      "start": 2.86,
+      "end": 3.12
+    },
+    {
+      "word": "defend",
+      "start": 3.12,
+      "end": 3.42
+    },
+    {
+      "word": "0",
+      "start": 4.0,
+      "end": 4.82
+    },
+    {
+      "word": ".9",
+      "start": 4.82,
+      "end": 5.26
+    },
+    {
+      "word": "1",
+      "start": 6.0,
+      "end": 7.22
+    },
+    {
+      "word": ".0",
+      "start": 7.22,
+      "end": 7.7
+    },
+    {
+      "word": "0",
+      "start": 7.7,
+      "end": 8.8
+    },
+    {
+      "word": ".9",
+      "start": 8.8,
+      "end": 10.46
+    },
+    {
+      "word": "0",
+      "start": 10.46,
+      "end": 10.46
+    },
+    {
+      "word": ".9",
+      "start": 10.46,
+      "end": 12.38
+    },
+    {
+      "word": "0",
+      "start": 12.38,
+      "end": 12.38
+    },
+    {
+      "word": ".9",
+      "start": 12.38,
+      "end": 13.52
+    },
+    {
+      "word": "that",
+      "start": 13.52,
+      "end": 13.76
+    },
+    {
+      "word": "thresholds",
+      "start": 13.76,
+      "end": 14.56
+    },
+    {
+      "word": "at",
+      "start": 14.56,
+      "end": 14.68
+    },
+    {
+      "word": "1",
+      "start": 14.68,
+      "end": 14.96
+    },
+    {
+      "word": ".8",
+      "start": 14.96,
+      "end": 16.32
+    },
+    {
+      "word": "0",
+      "start": 16.32,
+      "end": 16.4
+    },
+    {
+      "word": ".8",
+      "start": 16.4,
+      "end": 18.0
+    },
+    {
+      "word": "debris",
+      "start": 19.3,
+      "end": 19.3
+    },
+    {
+      "word": "off",
+      "start": 19.3,
+      "end": 19.6
+    }
+  ],
+  "language": "en",
+  "word_count": 17,
+  "is_empty": false,
+  "is_very_short": false
+}

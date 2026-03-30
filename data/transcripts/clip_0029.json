@@ -1,0 +1,95 @@
+{
+  "clip_id": "clip_0029",
+  "text": "A bit info, position 11 and 14 on the grid. There was a little bit of dust.",
+  "words": [
+    {
+      "word": "A",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "bit",
+      "start": 0.16,
+      "end": 0.3
+    },
+    {
+      "word": "info,",
+      "start": 0.3,
+      "end": 0.72
+    },
+    {
+      "word": "position",
+      "start": 1.1,
+      "end": 1.5
+    },
+    {
+      "word": "11",
+      "start": 1.5,
+      "end": 1.88
+    },
+    {
+      "word": "and",
+      "start": 1.88,
+      "end": 2.12
+    },
+    {
+      "word": "14",
+      "start": 2.12,
+      "end": 2.44
+    },
+    {
+      "word": "on",
+      "start": 2.44,
+      "end": 2.58
+    },
+    {
+      "word": "the",
+      "start": 2.58,
+      "end": 2.68
+    },
+    {
+      "word": "grid.",
+      "start": 2.68,
+      "end": 2.86
+    },
+    {
+      "word": "There",
+      "start": 3.52,
+      "end": 3.78
+    },
+    {
+      "word": "was",
+      "start": 3.78,
+      "end": 3.92
+    },
+    {
+      "word": "a",
+      "start": 3.92,
+      "end": 4.04
+    },
+    {
+      "word": "little",
+      "start": 4.04,
+      "end": 4.16
+    },
+    {
+      "word": "bit",
+      "start": 4.16,
+      "end": 4.34
+    },
+    {
+      "word": "of",
+      "start": 4.34,
+      "end": 4.54
+    },
+    {
+      "word": "dust.",
+      "start": 4.54,
+      "end": 5.2
+    }
+  ],
+  "language": "en",
+  "word_count": 17,
+  "is_empty": false,
+  "is_very_short": false
+}

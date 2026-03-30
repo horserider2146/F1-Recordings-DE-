@@ -1,0 +1,130 @@
+{
+  "clip_id": "clip_0704",
+  "text": "and the dynamic in this target would be struner this to the end so look after it I'll try everybody probably in the south",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 2.4
+    },
+    {
+      "word": "dynamic",
+      "start": 2.4,
+      "end": 2.74
+    },
+    {
+      "word": "in",
+      "start": 2.74,
+      "end": 3.14
+    },
+    {
+      "word": "this",
+      "start": 3.14,
+      "end": 3.48
+    },
+    {
+      "word": "target",
+      "start": 3.48,
+      "end": 5.22
+    },
+    {
+      "word": "would",
+      "start": 5.22,
+      "end": 6.74
+    },
+    {
+      "word": "be",
+      "start": 6.74,
+      "end": 6.9
+    },
+    {
+      "word": "struner",
+      "start": 6.9,
+      "end": 7.38
+    },
+    {
+      "word": "this",
+      "start": 7.38,
+      "end": 7.56
+    },
+    {
+      "word": "to",
+      "start": 7.56,
+      "end": 7.76
+    },
+    {
+      "word": "the",
+      "start": 7.76,
+      "end": 7.88
+    },
+    {
+      "word": "end",
+      "start": 7.88,
+      "end": 8.08
+    },
+    {
+      "word": "so",
+      "start": 8.08,
+      "end": 8.22
+    },
+    {
+      "word": "look",
+      "start": 8.22,
+      "end": 9.1
+    },
+    {
+      "word": "after",
+      "start": 9.1,
+      "end": 9.34
+    },
+    {
+      "word": "it",
+      "start": 9.34,
+      "end": 10.0
+    },
+    {
+      "word": "I'll",
+      "start": 11.98,
+      "end": 12.66
+    },
+    {
+      "word": "try",
+      "start": 12.66,
+      "end": 13.04
+    },
+    {
+      "word": "everybody",
+      "start": 18.22,
+      "end": 18.9
+    },
+    {
+      "word": "probably",
+      "start": 18.9,
+      "end": 19.58
+    },
+    {
+      "word": "in",
+      "start": 19.58,
+      "end": 19.74
+    },
+    {
+      "word": "the",
+      "start": 19.74,
+      "end": 19.88
+    },
+    {
+      "word": "south",
+      "start": 19.88,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

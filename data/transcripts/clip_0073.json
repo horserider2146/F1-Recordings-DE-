@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_0073",
+  "text": "I'll be able to show the main loss is 26 against Liam, we lose 1-10 in there. I still see some instability mid-corner. What do you think of using push toggle there?",
+  "words": [
+    {
+      "word": "I'll",
+      "start": 0.54,
+      "end": 1.06
+    },
+    {
+      "word": "be",
+      "start": 1.06,
+      "end": 1.16
+    },
+    {
+      "word": "able",
+      "start": 1.16,
+      "end": 1.26
+    },
+    {
+      "word": "to",
+      "start": 1.26,
+      "end": 1.34
+    },
+    {
+      "word": "show",
+      "start": 1.34,
+      "end": 1.44
+    },
+    {
+      "word": "the",
+      "start": 1.44,
+      "end": 1.58
+    },
+    {
+      "word": "main",
+      "start": 1.58,
+      "end": 1.78
+    },
+    {
+      "word": "loss",
+      "start": 1.78,
+      "end": 2.12
+    },
+    {
+      "word": "is",
+      "start": 2.12,
+      "end": 2.54
+    },
+    {
+      "word": "26",
+      "start": 2.54,
+      "end": 3.38
+    },
+    {
+      "word": "against",
+      "start": 3.38,
+      "end": 3.9
+    },
+    {
+      "word": "Liam,",
+      "start": 3.9,
+      "end": 4.22
+    },
+    {
+      "word": "we",
+      "start": 4.74,
+      "end": 4.88
+    },
+    {
+      "word": "lose",
+      "start": 4.88,
+      "end": 5.1
+    },
+    {
+      "word": "1",
+      "start": 5.1,
+      "end": 5.68
+    },
+    {
+      "word": "-10",
+      "start": 5.68,
+      "end": 5.94
+    },
+    {
+      "word": "in",
+      "start": 5.94,
+      "end": 6.12
+    },
+    {
+      "word": "there.",
+      "start": 6.12,
+      "end": 6.38
+    },
+    {
+      "word": "I",
+      "start": 7.0,
+      "end": 7.16
+    },
+    {
+      "word": "still",
+      "start": 7.16,
+      "end": 7.42
+    },
+    {
+      "word": "see",
+      "start": 7.42,
+      "end": 7.6
+    },
+    {
+      "word": "some",
+      "start": 7.6,
+      "end": 7.94
+    },
+    {
+      "word": "instability",
+      "start": 7.94,
+      "end": 8.72
+    },
+    {
+      "word": "mid",
+      "start": 8.72,
+      "end": 9.12
+    },
+    {
+      "word": "-corner.",
+      "start": 9.12,
+      "end": 9.58
+    },
+    {
+      "word": "What",
+      "start": 10.14,
+      "end": 10.4
+    },
+    {
+      "word": "do",
+      "start": 10.4,
+      "end": 10.54
+    },
+    {
+      "word": "you",
+      "start": 10.54,
+      "end": 10.64
+    },
+    {
+      "word": "think",
+      "start": 10.64,
+      "end": 10.84
+    },
+    {
+      "word": "of",
+      "start": 10.84,
+      "end": 11.08
+    },
+    {
+      "word": "using",
+      "start": 11.08,
+      "end": 11.5
+    },
+    {
+      "word": "push",
+      "start": 11.5,
+      "end": 11.8
+    },
+    {
+      "word": "toggle",
+      "start": 11.8,
+      "end": 12.1
+    },
+    {
+      "word": "there?",
+      "start": 12.1,
+      "end": 12.36
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

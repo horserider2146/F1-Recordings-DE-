@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0827",
+  "text": "Now we just pick on the garage It's not the dump That's Gazzly ahead It's 6, 5, 4, 3, 2 and 1 It's good, Gazzly 5 ahead Gazzly 6 ahead Target 270, industry",
+  "words": [
+    {
+      "word": "Now",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "we",
+      "start": 0.42,
+      "end": 0.62
+    },
+    {
+      "word": "just",
+      "start": 0.62,
+      "end": 0.78
+    },
+    {
+      "word": "pick",
+      "start": 0.78,
+      "end": 0.94
+    },
+    {
+      "word": "on",
+      "start": 0.94,
+      "end": 1.06
+    },
+    {
+      "word": "the",
+      "start": 1.06,
+      "end": 1.12
+    },
+    {
+      "word": "garage",
+      "start": 1.12,
+      "end": 1.4
+    },
+    {
+      "word": "It's",
+      "start": 2.6,
+      "end": 3.24
+    },
+    {
+      "word": "not",
+      "start": 3.24,
+      "end": 3.3
+    },
+    {
+      "word": "the",
+      "start": 3.3,
+      "end": 3.44
+    },
+    {
+      "word": "dump",
+      "start": 3.44,
+      "end": 3.64
+    },
+    {
+      "word": "That's",
+      "start": 3.64,
+      "end": 4.86
+    },
+    {
+      "word": "Gazzly",
+      "start": 4.86,
+      "end": 5.36
+    },
+    {
+      "word": "ahead",
+      "start": 5.36,
+      "end": 5.66
+    },
+    {
+      "word": "It's",
+      "start": 6.86,
+      "end": 7.5
+    },
+    {
+      "word": "6,",
+      "start": 7.5,
+      "end": 8.0
+    },
+    {
+      "word": "5,",
+      "start": 8.16,
+      "end": 8.6
+    },
+    {
+      "word": "4,",
+      "start": 8.76,
+      "end": 9.42
+    },
+    {
+      "word": "3,",
+      "start": 9.52,
+      "end": 10.1
+    },
+    {
+      "word": "2",
+      "start": 10.22,
+      "end": 10.82
+    },
+    {
+      "word": "and",
+      "start": 10.82,
+      "end": 11.32
+    },
+    {
+      "word": "1",
+      "start": 11.32,
+      "end": 11.62
+    },
+    {
+      "word": "It's",
+      "start": 11.62,
+      "end": 12.86
+    },
+    {
+      "word": "good,",
+      "start": 12.86,
+      "end": 13.0
+    },
+    {
+      "word": "Gazzly",
+      "start": 13.16,
+      "end": 13.48
+    },
+    {
+      "word": "5",
+      "start": 13.48,
+      "end": 13.8
+    },
+    {
+      "word": "ahead",
+      "start": 13.8,
+      "end": 14.08
+    },
+    {
+      "word": "Gazzly",
+      "start": 14.08,
+      "end": 14.52
+    },
+    {
+      "word": "6",
+      "start": 14.52,
+      "end": 14.76
+    },
+    {
+      "word": "ahead",
+      "start": 14.76,
+      "end": 15.1
+    },
+    {
+      "word": "Target",
+      "start": 16.76,
+      "end": 17.4
+    },
+    {
+      "word": "270,",
+      "start": 17.4,
+      "end": 17.92
+    },
+    {
+      "word": "industry",
+      "start": 18.46,
+      "end": 18.82
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

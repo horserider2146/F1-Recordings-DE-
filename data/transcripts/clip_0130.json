@@ -1,0 +1,95 @@
+{
+  "clip_id": "clip_0130",
+  "text": "So on you everybody on AARP, but lots of respect to KLSR8 and PermanentP10 and both cadillacs.",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "on",
+      "start": 0.16,
+      "end": 0.34
+    },
+    {
+      "word": "you",
+      "start": 0.34,
+      "end": 0.58
+    },
+    {
+      "word": "everybody",
+      "start": 0.58,
+      "end": 1.14
+    },
+    {
+      "word": "on",
+      "start": 1.14,
+      "end": 1.4
+    },
+    {
+      "word": "AARP,",
+      "start": 1.4,
+      "end": 2.04
+    },
+    {
+      "word": "but",
+      "start": 2.06,
+      "end": 2.3
+    },
+    {
+      "word": "lots",
+      "start": 2.3,
+      "end": 3.08
+    },
+    {
+      "word": "of",
+      "start": 3.08,
+      "end": 3.26
+    },
+    {
+      "word": "respect",
+      "start": 3.26,
+      "end": 3.52
+    },
+    {
+      "word": "to",
+      "start": 3.52,
+      "end": 3.72
+    },
+    {
+      "word": "KLSR8",
+      "start": 3.72,
+      "end": 4.64
+    },
+    {
+      "word": "and",
+      "start": 4.64,
+      "end": 5.08
+    },
+    {
+      "word": "PermanentP10",
+      "start": 5.08,
+      "end": 5.86
+    },
+    {
+      "word": "and",
+      "start": 5.86,
+      "end": 6.8
+    },
+    {
+      "word": "both",
+      "start": 6.8,
+      "end": 6.98
+    },
+    {
+      "word": "cadillacs.",
+      "start": 6.98,
+      "end": 7.26
+    }
+  ],
+  "language": "en",
+  "word_count": 17,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_1159",
+  "text": "The back temp has come down a couple degrees since we've been here and there's no major change to the wind. Three minutes to go. Two minutes to go. So final reminder, one singe is fired up, the plane is being on K2.",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": "back",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "temp",
+      "start": 0.16,
+      "end": 0.4
+    },
+    {
+      "word": "has",
+      "start": 0.4,
+      "end": 0.6
+    },
+    {
+      "word": "come",
+      "start": 0.6,
+      "end": 0.8
+    },
+    {
+      "word": "down",
+      "start": 0.8,
+      "end": 1.1
+    },
+    {
+      "word": "a",
+      "start": 1.1,
+      "end": 1.68
+    },
+    {
+      "word": "couple",
+      "start": 1.68,
+      "end": 1.92
+    },
+    {
+      "word": "degrees",
+      "start": 1.92,
+      "end": 2.22
+    },
+    {
+      "word": "since",
+      "start": 2.22,
+      "end": 2.72
+    },
+    {
+      "word": "we've",
+      "start": 2.72,
+      "end": 3.06
+    },
+    {
+      "word": "been",
+      "start": 3.06,
+      "end": 3.14
+    },
+    {
+      "word": "here",
+      "start": 3.14,
+      "end": 3.4
+    },
+    {
+      "word": "and",
+      "start": 3.4,
+      "end": 4.24
+    },
+    {
+      "word": "there's",
+      "start": 4.24,
+      "end": 4.44
+    },
+    {
+      "word": "no",
+      "start": 4.44,
+      "end": 4.64
+    },
+    {
+      "word": "major",
+      "start": 4.64,
+      "end": 5.02
+    },
+    {
+      "word": "change",
+      "start": 5.02,
+      "end": 5.3
+    },
+    {
+      "word": "to",
+      "start": 5.3,
+      "end": 5.5
+    },
+    {
+      "word": "the",
+      "start": 5.5,
+      "end": 5.6
+    },
+    {
+      "word": "wind.",
+      "start": 5.6,
+      "end": 5.8
+    },
+    {
+      "word": "Three",
+      "start": 7.88,
+      "end": 8.32
+    },
+    {
+      "word": "minutes",
+      "start": 8.32,
+      "end": 8.7
+    },
+    {
+      "word": "to",
+      "start": 8.7,
+      "end": 8.86
+    },
+    {
+      "word": "go.",
+      "start": 8.86,
+      "end": 9.08
+    },
+    {
+      "word": "Two",
+      "start": 10.82,
+      "end": 11.26
+    },
+    {
+      "word": "minutes",
+      "start": 11.26,
+      "end": 11.56
+    },
+    {
+      "word": "to",
+      "start": 11.56,
+      "end": 11.94
+    },
+    {
+      "word": "go.",
+      "start": 11.94,
+      "end": 12.14
+    },
+    {
+      "word": "So",
+      "start": 12.66,
+      "end": 12.76
+    },
+    {
+      "word": "final",
+      "start": 12.76,
+      "end": 12.96
+    },
+    {
+      "word": "reminder,",
+      "start": 12.96,
+      "end": 13.28
+    },
+    {
+      "word": "one",
+      "start": 13.44,
+      "end": 13.48
+    },
+    {
+      "word": "singe",
+      "start": 13.48,
+      "end": 13.74
+    },
+    {
+      "word": "is",
+      "start": 13.74,
+      "end": 13.84
+    },
+    {
+      "word": "fired",
+      "start": 13.84,
+      "end": 14.02
+    },
+    {
+      "word": "up,",
+      "start": 14.02,
+      "end": 14.2
+    },
+    {
+      "word": "the",
+      "start": 14.42,
+      "end": 14.44
+    },
+    {
+      "word": "plane",
+      "start": 14.44,
+      "end": 14.62
+    },
+    {
+      "word": "is",
+      "start": 14.62,
+      "end": 14.76
+    },
+    {
+      "word": "being",
+      "start": 14.76,
+      "end": 14.88
+    },
+    {
+      "word": "on",
+      "start": 14.88,
+      "end": 15.22
+    },
+    {
+      "word": "K2.",
+      "start": 15.22,
+      "end": 16.2
+    }
+  ],
+  "language": "en",
+  "word_count": 43,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,160 @@
+{
+  "clip_id": "clip_1132",
+  "text": "I want you done on the way bridge. Back to ignition on, fire up when we can come stop in the box. Just keep an eye on Alping. Okay, voucher.",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "word": "want",
+      "start": 0.08,
+      "end": 0.16
+    },
+    {
+      "word": "you",
+      "start": 0.16,
+      "end": 0.3
+    },
+    {
+      "word": "done",
+      "start": 0.3,
+      "end": 0.46
+    },
+    {
+      "word": "on",
+      "start": 0.46,
+      "end": 0.58
+    },
+    {
+      "word": "the",
+      "start": 0.58,
+      "end": 0.64
+    },
+    {
+      "word": "way",
+      "start": 0.64,
+      "end": 0.78
+    },
+    {
+      "word": "bridge.",
+      "start": 0.78,
+      "end": 1.06
+    },
+    {
+      "word": "Back",
+      "start": 1.38,
+      "end": 1.74
+    },
+    {
+      "word": "to",
+      "start": 1.74,
+      "end": 1.86
+    },
+    {
+      "word": "ignition",
+      "start": 1.86,
+      "end": 2.12
+    },
+    {
+      "word": "on,",
+      "start": 2.12,
+      "end": 2.34
+    },
+    {
+      "word": "fire",
+      "start": 2.46,
+      "end": 2.64
+    },
+    {
+      "word": "up",
+      "start": 2.64,
+      "end": 2.8
+    },
+    {
+      "word": "when",
+      "start": 2.8,
+      "end": 2.9
+    },
+    {
+      "word": "we",
+      "start": 2.9,
+      "end": 3.0
+    },
+    {
+      "word": "can",
+      "start": 3.0,
+      "end": 3.14
+    },
+    {
+      "word": "come",
+      "start": 3.14,
+      "end": 3.34
+    },
+    {
+      "word": "stop",
+      "start": 3.34,
+      "end": 3.76
+    },
+    {
+      "word": "in",
+      "start": 3.76,
+      "end": 3.94
+    },
+    {
+      "word": "the",
+      "start": 3.94,
+      "end": 4.0
+    },
+    {
+      "word": "box.",
+      "start": 4.0,
+      "end": 4.28
+    },
+    {
+      "word": "Just",
+      "start": 4.6,
+      "end": 4.78
+    },
+    {
+      "word": "keep",
+      "start": 4.78,
+      "end": 4.96
+    },
+    {
+      "word": "an",
+      "start": 4.96,
+      "end": 5.12
+    },
+    {
+      "word": "eye",
+      "start": 5.12,
+      "end": 5.28
+    },
+    {
+      "word": "on",
+      "start": 5.28,
+      "end": 5.48
+    },
+    {
+      "word": "Alping.",
+      "start": 5.48,
+      "end": 5.98
+    },
+    {
+      "word": "Okay,",
+      "start": 7.8,
+      "end": 8.16
+    },
+    {
+      "word": "voucher.",
+      "start": 8.24,
+      "end": 8.48
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

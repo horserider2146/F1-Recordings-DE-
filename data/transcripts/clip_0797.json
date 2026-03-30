@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0797",
+  "text": "It's just min-speed. Signs have a look in the lock. Yeah, I... I... There's a pencil there, I don't want to... Fuck this lock. Mode in, mode in. Let's check the flag.",
+  "words": [
+    {
+      "word": "It's",
+      "start": 0.0,
+      "end": 0.96
+    },
+    {
+      "word": "just",
+      "start": 0.96,
+      "end": 1.04
+    },
+    {
+      "word": "min",
+      "start": 1.04,
+      "end": 1.32
+    },
+    {
+      "word": "-speed.",
+      "start": 1.32,
+      "end": 1.66
+    },
+    {
+      "word": "Signs",
+      "start": 3.66,
+      "end": 4.14
+    },
+    {
+      "word": "have",
+      "start": 4.14,
+      "end": 4.24
+    },
+    {
+      "word": "a",
+      "start": 4.24,
+      "end": 4.36
+    },
+    {
+      "word": "look",
+      "start": 4.36,
+      "end": 4.48
+    },
+    {
+      "word": "in",
+      "start": 4.48,
+      "end": 4.6
+    },
+    {
+      "word": "the",
+      "start": 4.6,
+      "end": 4.72
+    },
+    {
+      "word": "lock.",
+      "start": 4.72,
+      "end": 4.86
+    },
+    {
+      "word": "Yeah,",
+      "start": 8.24,
+      "end": 8.72
+    },
+    {
+      "word": "I...",
+      "start": 8.72,
+      "end": 9.2
+    },
+    {
+      "word": "I...",
+      "start": 9.2,
+      "end": 9.42
+    },
+    {
+      "word": "There's",
+      "start": 9.42,
+      "end": 9.66
+    },
+    {
+      "word": "a",
+      "start": 9.66,
+      "end": 9.76
+    },
+    {
+      "word": "pencil",
+      "start": 9.76,
+      "end": 10.0
+    },
+    {
+      "word": "there,",
+      "start": 10.0,
+      "end": 10.26
+    },
+    {
+      "word": "I",
+      "start": 10.38,
+      "end": 10.44
+    },
+    {
+      "word": "don't",
+      "start": 10.44,
+      "end": 10.66
+    },
+    {
+      "word": "want",
+      "start": 10.66,
+      "end": 10.76
+    },
+    {
+      "word": "to...",
+      "start": 10.76,
+      "end": 11.26
+    },
+    {
+      "word": "Fuck",
+      "start": 11.26,
+      "end": 11.58
+    },
+    {
+      "word": "this",
+      "start": 11.58,
+      "end": 11.74
+    },
+    {
+      "word": "lock.",
+      "start": 11.74,
+      "end": 11.96
+    },
+    {
+      "word": "Mode",
+      "start": 16.14,
+      "end": 16.62
+    },
+    {
+      "word": "in,",
+      "start": 16.62,
+      "end": 16.92
+    },
+    {
+      "word": "mode",
+      "start": 17.04,
+      "end": 17.22
+    },
+    {
+      "word": "in.",
+      "start": 17.22,
+      "end": 17.54
+    },
+    {
+      "word": "Let's",
+      "start": 18.72,
+      "end": 19.2
+    },
+    {
+      "word": "check",
+      "start": 19.2,
+      "end": 19.42
+    },
+    {
+      "word": "the",
+      "start": 19.42,
+      "end": 19.56
+    },
+    {
+      "word": "flag.",
+      "start": 19.56,
+      "end": 19.84
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,155 @@
+{
+  "clip_id": "clip_1033",
+  "text": "Please Let's retire the car please retire the car Anything that I need to press No, I need to go somewhere to vector the pits. Let's probably back home",
+  "words": [
+    {
+      "word": "Please",
+      "start": 0.0,
+      "end": 0.68
+    },
+    {
+      "word": "Let's",
+      "start": 2.12,
+      "end": 2.6
+    },
+    {
+      "word": "retire",
+      "start": 2.6,
+      "end": 2.86
+    },
+    {
+      "word": "the",
+      "start": 2.86,
+      "end": 2.98
+    },
+    {
+      "word": "car",
+      "start": 2.98,
+      "end": 3.12
+    },
+    {
+      "word": "please",
+      "start": 3.12,
+      "end": 3.36
+    },
+    {
+      "word": "retire",
+      "start": 3.36,
+      "end": 3.84
+    },
+    {
+      "word": "the",
+      "start": 3.84,
+      "end": 3.98
+    },
+    {
+      "word": "car",
+      "start": 3.98,
+      "end": 4.18
+    },
+    {
+      "word": "Anything",
+      "start": 5.16,
+      "end": 5.64
+    },
+    {
+      "word": "that",
+      "start": 5.64,
+      "end": 5.94
+    },
+    {
+      "word": "I",
+      "start": 5.94,
+      "end": 6.04
+    },
+    {
+      "word": "need",
+      "start": 6.04,
+      "end": 6.22
+    },
+    {
+      "word": "to",
+      "start": 6.22,
+      "end": 6.32
+    },
+    {
+      "word": "press",
+      "start": 6.32,
+      "end": 6.68
+    },
+    {
+      "word": "No,",
+      "start": 7.5,
+      "end": 7.98
+    },
+    {
+      "word": "I",
+      "start": 7.98,
+      "end": 8.46
+    },
+    {
+      "word": "need",
+      "start": 8.46,
+      "end": 8.54
+    },
+    {
+      "word": "to",
+      "start": 8.54,
+      "end": 8.66
+    },
+    {
+      "word": "go",
+      "start": 8.66,
+      "end": 8.8
+    },
+    {
+      "word": "somewhere",
+      "start": 8.8,
+      "end": 9.24
+    },
+    {
+      "word": "to",
+      "start": 9.24,
+      "end": 9.84
+    },
+    {
+      "word": "vector",
+      "start": 9.84,
+      "end": 10.08
+    },
+    {
+      "word": "the",
+      "start": 10.08,
+      "end": 10.3
+    },
+    {
+      "word": "pits.",
+      "start": 10.3,
+      "end": 10.48
+    },
+    {
+      "word": "Let's",
+      "start": 11.16,
+      "end": 11.64
+    },
+    {
+      "word": "probably",
+      "start": 11.64,
+      "end": 11.88
+    },
+    {
+      "word": "back",
+      "start": 11.88,
+      "end": 12.06
+    },
+    {
+      "word": "home",
+      "start": 12.06,
+      "end": 12.66
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

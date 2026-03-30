@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0445",
+  "text": "Safety cart with them. Safety cart, safety cart. So box, box. So it's strut loading one. Watch the white line on entry. So it goes out. It should be all clear on exits. Safety car just ahead. Colour pits.",
+  "words": [
+    {
+      "word": "Safety",
+      "start": 0.0,
+      "end": 0.88
+    },
+    {
+      "word": "cart",
+      "start": 0.88,
+      "end": 1.26
+    },
+    {
+      "word": "with",
+      "start": 1.26,
+      "end": 1.44
+    },
+    {
+      "word": "them.",
+      "start": 1.44,
+      "end": 1.88
+    },
+    {
+      "word": "Safety",
+      "start": 3.54,
+      "end": 3.62
+    },
+    {
+      "word": "cart,",
+      "start": 3.62,
+      "end": 3.92
+    },
+    {
+      "word": "safety",
+      "start": 4.02,
+      "end": 4.18
+    },
+    {
+      "word": "cart.",
+      "start": 4.18,
+      "end": 4.6
+    },
+    {
+      "word": "So",
+      "start": 5.44,
+      "end": 5.9
+    },
+    {
+      "word": "box,",
+      "start": 5.9,
+      "end": 6.14
+    },
+    {
+      "word": "box.",
+      "start": 6.22,
+      "end": 6.52
+    },
+    {
+      "word": "So",
+      "start": 8.06,
+      "end": 8.4
+    },
+    {
+      "word": "it's",
+      "start": 8.4,
+      "end": 8.6
+    },
+    {
+      "word": "strut",
+      "start": 8.6,
+      "end": 8.76
+    },
+    {
+      "word": "loading",
+      "start": 8.76,
+      "end": 8.94
+    },
+    {
+      "word": "one.",
+      "start": 8.94,
+      "end": 9.18
+    },
+    {
+      "word": "Watch",
+      "start": 9.88,
+      "end": 10.1
+    },
+    {
+      "word": "the",
+      "start": 10.1,
+      "end": 10.22
+    },
+    {
+      "word": "white",
+      "start": 10.22,
+      "end": 10.38
+    },
+    {
+      "word": "line",
+      "start": 10.38,
+      "end": 10.58
+    },
+    {
+      "word": "on",
+      "start": 10.58,
+      "end": 10.72
+    },
+    {
+      "word": "entry.",
+      "start": 10.72,
+      "end": 10.92
+    },
+    {
+      "word": "So",
+      "start": 12.98,
+      "end": 13.26
+    },
+    {
+      "word": "it",
+      "start": 13.26,
+      "end": 13.4
+    },
+    {
+      "word": "goes",
+      "start": 13.4,
+      "end": 13.54
+    },
+    {
+      "word": "out.",
+      "start": 13.54,
+      "end": 13.82
+    },
+    {
+      "word": "It",
+      "start": 15.0,
+      "end": 15.46
+    },
+    {
+      "word": "should",
+      "start": 15.46,
+      "end": 15.58
+    },
+    {
+      "word": "be",
+      "start": 15.58,
+      "end": 15.7
+    },
+    {
+      "word": "all",
+      "start": 15.7,
+      "end": 15.84
+    },
+    {
+      "word": "clear",
+      "start": 15.84,
+      "end": 15.98
+    },
+    {
+      "word": "on",
+      "start": 15.98,
+      "end": 16.14
+    },
+    {
+      "word": "exits.",
+      "start": 16.14,
+      "end": 16.34
+    },
+    {
+      "word": "Safety",
+      "start": 18.12,
+      "end": 18.58
+    },
+    {
+      "word": "car",
+      "start": 18.58,
+      "end": 18.84
+    },
+    {
+      "word": "just",
+      "start": 18.84,
+      "end": 19.0
+    },
+    {
+      "word": "ahead.",
+      "start": 19.0,
+      "end": 19.28
+    },
+    {
+      "word": "Colour",
+      "start": 19.54,
+      "end": 19.8
+    },
+    {
+      "word": "pits.",
+      "start": 19.8,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

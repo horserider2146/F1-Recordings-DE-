@@ -1,0 +1,120 @@
+{
+  "clip_id": "clip_0393",
+  "text": "1 second, 0.8 The clerk will have to overtake That's about time for a pimmie 36, 2 0.9 Get fired",
+  "words": [
+    {
+      "word": "1",
+      "start": 1.74,
+      "end": 2.46
+    },
+    {
+      "word": "second,",
+      "start": 2.46,
+      "end": 2.84
+    },
+    {
+      "word": "0",
+      "start": 3.16,
+      "end": 3.52
+    },
+    {
+      "word": ".8",
+      "start": 3.52,
+      "end": 4.62
+    },
+    {
+      "word": "The",
+      "start": 5.36,
+      "end": 6.08
+    },
+    {
+      "word": "clerk",
+      "start": 6.08,
+      "end": 6.28
+    },
+    {
+      "word": "will",
+      "start": 6.28,
+      "end": 6.64
+    },
+    {
+      "word": "have",
+      "start": 6.64,
+      "end": 6.9
+    },
+    {
+      "word": "to",
+      "start": 6.9,
+      "end": 7.06
+    },
+    {
+      "word": "overtake",
+      "start": 7.06,
+      "end": 7.52
+    },
+    {
+      "word": "That's",
+      "start": 9.04,
+      "end": 9.76
+    },
+    {
+      "word": "about",
+      "start": 9.76,
+      "end": 10.04
+    },
+    {
+      "word": "time",
+      "start": 10.04,
+      "end": 10.16
+    },
+    {
+      "word": "for",
+      "start": 10.16,
+      "end": 10.26
+    },
+    {
+      "word": "a",
+      "start": 10.26,
+      "end": 10.36
+    },
+    {
+      "word": "pimmie",
+      "start": 10.36,
+      "end": 10.9
+    },
+    {
+      "word": "36,",
+      "start": 12.58,
+      "end": 13.3
+    },
+    {
+      "word": "2",
+      "start": 13.56,
+      "end": 13.84
+    },
+    {
+      "word": "0",
+      "start": 13.84,
+      "end": 14.94
+    },
+    {
+      "word": ".9",
+      "start": 14.94,
+      "end": 17.26
+    },
+    {
+      "word": "Get",
+      "start": 18.6,
+      "end": 19.32
+    },
+    {
+      "word": "fired",
+      "start": 19.32,
+      "end": 19.66
+    }
+  ],
+  "language": "en",
+  "word_count": 20,
+  "is_empty": false,
+  "is_very_short": false
+}

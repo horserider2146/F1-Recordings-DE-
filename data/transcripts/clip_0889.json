@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0889",
+  "text": "All right, 10 seconds to the green.",
+  "words": [
+    {
+      "word": "All",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "right,",
+      "start": 0.16,
+      "end": 0.3
+    },
+    {
+      "word": "10",
+      "start": 0.38,
+      "end": 0.52
+    },
+    {
+      "word": "seconds",
+      "start": 0.52,
+      "end": 0.94
+    },
+    {
+      "word": "to",
+      "start": 0.94,
+      "end": 1.58
+    },
+    {
+      "word": "the",
+      "start": 1.58,
+      "end": 1.66
+    },
+    {
+      "word": "green.",
+      "start": 1.66,
+      "end": 1.8
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

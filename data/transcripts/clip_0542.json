@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_0542",
+  "text": "And clearly he's just passed that finish line, he's safe to go so he'll be ahead.",
+  "words": [
+    {
+      "word": "And",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "clearly",
+      "start": 0.18,
+      "end": 0.38
+    },
+    {
+      "word": "he's",
+      "start": 0.38,
+      "end": 0.62
+    },
+    {
+      "word": "just",
+      "start": 0.62,
+      "end": 0.82
+    },
+    {
+      "word": "passed",
+      "start": 0.82,
+      "end": 1.28
+    },
+    {
+      "word": "that",
+      "start": 1.28,
+      "end": 1.46
+    },
+    {
+      "word": "finish",
+      "start": 1.46,
+      "end": 1.68
+    },
+    {
+      "word": "line,",
+      "start": 1.68,
+      "end": 1.94
+    },
+    {
+      "word": "he's",
+      "start": 2.1,
+      "end": 2.24
+    },
+    {
+      "word": "safe",
+      "start": 2.24,
+      "end": 2.6
+    },
+    {
+      "word": "to",
+      "start": 2.6,
+      "end": 2.74
+    },
+    {
+      "word": "go",
+      "start": 2.74,
+      "end": 2.9
+    },
+    {
+      "word": "so",
+      "start": 2.9,
+      "end": 3.02
+    },
+    {
+      "word": "he'll",
+      "start": 3.02,
+      "end": 3.18
+    },
+    {
+      "word": "be",
+      "start": 3.18,
+      "end": 3.28
+    },
+    {
+      "word": "ahead.",
+      "start": 3.28,
+      "end": 3.52
+    }
+  ],
+  "language": "en",
+  "word_count": 16,
+  "is_empty": false,
+  "is_very_short": false
+}

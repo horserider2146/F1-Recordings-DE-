@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0230",
+  "text": "and P1 and Box Charles Box. We're happy with this lap. And watch the time on your dash as I go up. Main place is to improve turn 2 and turn 6 at 10th each. And Box Charles Box.",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.7
+    },
+    {
+      "word": "P1",
+      "start": 0.7,
+      "end": 1.4
+    },
+    {
+      "word": "and",
+      "start": 1.4,
+      "end": 2.28
+    },
+    {
+      "word": "Box",
+      "start": 2.28,
+      "end": 2.52
+    },
+    {
+      "word": "Charles",
+      "start": 2.52,
+      "end": 2.78
+    },
+    {
+      "word": "Box.",
+      "start": 2.78,
+      "end": 3.02
+    },
+    {
+      "word": "We're",
+      "start": 3.22,
+      "end": 3.4
+    },
+    {
+      "word": "happy",
+      "start": 3.4,
+      "end": 3.56
+    },
+    {
+      "word": "with",
+      "start": 3.56,
+      "end": 3.76
+    },
+    {
+      "word": "this",
+      "start": 3.76,
+      "end": 3.9
+    },
+    {
+      "word": "lap.",
+      "start": 3.9,
+      "end": 4.1
+    },
+    {
+      "word": "And",
+      "start": 5.78,
+      "end": 6.12
+    },
+    {
+      "word": "watch",
+      "start": 6.12,
+      "end": 6.36
+    },
+    {
+      "word": "the",
+      "start": 6.36,
+      "end": 6.56
+    },
+    {
+      "word": "time",
+      "start": 6.56,
+      "end": 6.86
+    },
+    {
+      "word": "on",
+      "start": 6.86,
+      "end": 7.16
+    },
+    {
+      "word": "your",
+      "start": 7.16,
+      "end": 7.28
+    },
+    {
+      "word": "dash",
+      "start": 7.28,
+      "end": 7.56
+    },
+    {
+      "word": "as",
+      "start": 7.56,
+      "end": 8.02
+    },
+    {
+      "word": "I",
+      "start": 8.02,
+      "end": 8.18
+    },
+    {
+      "word": "go",
+      "start": 8.18,
+      "end": 8.38
+    },
+    {
+      "word": "up.",
+      "start": 8.38,
+      "end": 8.6
+    },
+    {
+      "word": "Main",
+      "start": 9.82,
+      "end": 10.42
+    },
+    {
+      "word": "place",
+      "start": 10.42,
+      "end": 10.74
+    },
+    {
+      "word": "is",
+      "start": 10.74,
+      "end": 10.96
+    },
+    {
+      "word": "to",
+      "start": 10.96,
+      "end": 11.12
+    },
+    {
+      "word": "improve",
+      "start": 11.12,
+      "end": 11.56
+    },
+    {
+      "word": "turn",
+      "start": 11.56,
+      "end": 12.08
+    },
+    {
+      "word": "2",
+      "start": 12.08,
+      "end": 12.48
+    },
+    {
+      "word": "and",
+      "start": 12.48,
+      "end": 13.14
+    },
+    {
+      "word": "turn",
+      "start": 13.14,
+      "end": 13.38
+    },
+    {
+      "word": "6",
+      "start": 13.38,
+      "end": 13.84
+    },
+    {
+      "word": "at",
+      "start": 13.84,
+      "end": 14.2
+    },
+    {
+      "word": "10th",
+      "start": 14.2,
+      "end": 14.52
+    },
+    {
+      "word": "each.",
+      "start": 14.52,
+      "end": 14.74
+    },
+    {
+      "word": "And",
+      "start": 16.38,
+      "end": 16.98
+    },
+    {
+      "word": "Box",
+      "start": 16.98,
+      "end": 17.28
+    },
+    {
+      "word": "Charles",
+      "start": 17.28,
+      "end": 17.76
+    },
+    {
+      "word": "Box.",
+      "start": 17.76,
+      "end": 18.08
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

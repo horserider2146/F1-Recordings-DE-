@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0870",
+  "text": "3.8. Gap to Gazzie is 3 seconds, good job. No more time management required. Gap is stable at 3 seconds, he only took a 10-30, you lost Gap to Gazzie. Gap to Gazzie.",
+  "words": [
+    {
+      "word": "3",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": ".8.",
+      "start": 0.32,
+      "end": 0.72
+    },
+    {
+      "word": "Gap",
+      "start": 1.78,
+      "end": 2.34
+    },
+    {
+      "word": "to",
+      "start": 2.34,
+      "end": 2.48
+    },
+    {
+      "word": "Gazzie",
+      "start": 2.48,
+      "end": 2.76
+    },
+    {
+      "word": "is",
+      "start": 2.76,
+      "end": 2.88
+    },
+    {
+      "word": "3",
+      "start": 2.88,
+      "end": 3.2
+    },
+    {
+      "word": "seconds,",
+      "start": 3.2,
+      "end": 3.56
+    },
+    {
+      "word": "good",
+      "start": 3.84,
+      "end": 3.94
+    },
+    {
+      "word": "job.",
+      "start": 3.94,
+      "end": 4.18
+    },
+    {
+      "word": "No",
+      "start": 5.74,
+      "end": 6.3
+    },
+    {
+      "word": "more",
+      "start": 6.3,
+      "end": 6.48
+    },
+    {
+      "word": "time",
+      "start": 6.48,
+      "end": 6.76
+    },
+    {
+      "word": "management",
+      "start": 6.76,
+      "end": 7.06
+    },
+    {
+      "word": "required.",
+      "start": 7.06,
+      "end": 7.48
+    },
+    {
+      "word": "Gap",
+      "start": 10.54,
+      "end": 11.1
+    },
+    {
+      "word": "is",
+      "start": 11.1,
+      "end": 11.3
+    },
+    {
+      "word": "stable",
+      "start": 11.3,
+      "end": 11.64
+    },
+    {
+      "word": "at",
+      "start": 11.64,
+      "end": 11.82
+    },
+    {
+      "word": "3",
+      "start": 11.82,
+      "end": 12.08
+    },
+    {
+      "word": "seconds,",
+      "start": 12.08,
+      "end": 12.46
+    },
+    {
+      "word": "he",
+      "start": 12.62,
+      "end": 12.7
+    },
+    {
+      "word": "only",
+      "start": 12.7,
+      "end": 12.78
+    },
+    {
+      "word": "took",
+      "start": 12.78,
+      "end": 12.9
+    },
+    {
+      "word": "a",
+      "start": 12.9,
+      "end": 13.0
+    },
+    {
+      "word": "10",
+      "start": 13.0,
+      "end": 13.22
+    },
+    {
+      "word": "-30,",
+      "start": 13.22,
+      "end": 13.46
+    },
+    {
+      "word": "you",
+      "start": 13.62,
+      "end": 13.62
+    },
+    {
+      "word": "lost",
+      "start": 13.62,
+      "end": 13.82
+    },
+    {
+      "word": "Gap",
+      "start": 13.82,
+      "end": 14.0
+    },
+    {
+      "word": "to",
+      "start": 14.0,
+      "end": 14.2
+    },
+    {
+      "word": "Gazzie.",
+      "start": 14.2,
+      "end": 15.24
+    },
+    {
+      "word": "Gap",
+      "start": 15.76,
+      "end": 16.32
+    },
+    {
+      "word": "to",
+      "start": 16.32,
+      "end": 17.22
+    },
+    {
+      "word": "Gazzie.",
+      "start": 17.22,
+      "end": 18.16
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

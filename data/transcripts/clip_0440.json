@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0440",
+  "text": "Gap at a 1.2 behind, now 1.0 Gap at a 0.9 behind, 0.9 behind George now the car behind at 0.9 This easy pass into 1 with overtake 0.9 behind, 0.1 behind",
+  "words": [
+    {
+      "word": "Gap",
+      "start": 1.88,
+      "end": 2.48
+    },
+    {
+      "word": "at",
+      "start": 2.48,
+      "end": 2.64
+    },
+    {
+      "word": "a",
+      "start": 2.64,
+      "end": 2.8
+    },
+    {
+      "word": "1",
+      "start": 2.8,
+      "end": 3.04
+    },
+    {
+      "word": ".2",
+      "start": 3.04,
+      "end": 3.54
+    },
+    {
+      "word": "behind,",
+      "start": 3.54,
+      "end": 3.8
+    },
+    {
+      "word": "now",
+      "start": 4.08,
+      "end": 4.38
+    },
+    {
+      "word": "1",
+      "start": 4.38,
+      "end": 4.54
+    },
+    {
+      "word": ".0",
+      "start": 4.54,
+      "end": 4.88
+    },
+    {
+      "word": "Gap",
+      "start": 6.4,
+      "end": 7.0
+    },
+    {
+      "word": "at",
+      "start": 7.0,
+      "end": 7.06
+    },
+    {
+      "word": "a",
+      "start": 7.06,
+      "end": 7.06
+    },
+    {
+      "word": "0",
+      "start": 7.06,
+      "end": 7.2
+    },
+    {
+      "word": ".9",
+      "start": 7.2,
+      "end": 7.56
+    },
+    {
+      "word": "behind,",
+      "start": 7.56,
+      "end": 7.86
+    },
+    {
+      "word": "0",
+      "start": 8.04,
+      "end": 8.38
+    },
+    {
+      "word": ".9",
+      "start": 8.38,
+      "end": 9.34
+    },
+    {
+      "word": "behind",
+      "start": 9.34,
+      "end": 9.88
+    },
+    {
+      "word": "George",
+      "start": 9.88,
+      "end": 11.04
+    },
+    {
+      "word": "now",
+      "start": 11.04,
+      "end": 11.3
+    },
+    {
+      "word": "the",
+      "start": 11.3,
+      "end": 11.44
+    },
+    {
+      "word": "car",
+      "start": 11.44,
+      "end": 11.56
+    },
+    {
+      "word": "behind",
+      "start": 11.56,
+      "end": 11.82
+    },
+    {
+      "word": "at",
+      "start": 11.82,
+      "end": 12.0
+    },
+    {
+      "word": "0",
+      "start": 12.0,
+      "end": 12.2
+    },
+    {
+      "word": ".9",
+      "start": 12.2,
+      "end": 12.62
+    },
+    {
+      "word": "This",
+      "start": 12.62,
+      "end": 13.24
+    },
+    {
+      "word": "easy",
+      "start": 13.24,
+      "end": 13.58
+    },
+    {
+      "word": "pass",
+      "start": 13.58,
+      "end": 13.84
+    },
+    {
+      "word": "into",
+      "start": 13.84,
+      "end": 14.22
+    },
+    {
+      "word": "1",
+      "start": 14.22,
+      "end": 14.54
+    },
+    {
+      "word": "with",
+      "start": 14.54,
+      "end": 14.8
+    },
+    {
+      "word": "overtake",
+      "start": 14.8,
+      "end": 15.26
+    },
+    {
+      "word": "0",
+      "start": 15.26,
+      "end": 15.7
+    },
+    {
+      "word": ".9",
+      "start": 15.7,
+      "end": 17.38
+    },
+    {
+      "word": "behind,",
+      "start": 17.38,
+      "end": 17.76
+    },
+    {
+      "word": "0",
+      "start": 17.96,
+      "end": 18.56
+    },
+    {
+      "word": ".1",
+      "start": 18.56,
+      "end": 19.76
+    },
+    {
+      "word": "behind",
+      "start": 19.76,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

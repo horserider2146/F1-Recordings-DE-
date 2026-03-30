@@ -1,0 +1,130 @@
+{
+  "clip_id": "clip_0642",
+  "text": "Happy to get what sir? We can go to zero now and then like that we don't just sink into the after a platform.",
+  "words": [
+    {
+      "word": "Happy",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "to",
+      "start": 0.2,
+      "end": 0.32
+    },
+    {
+      "word": "get",
+      "start": 0.32,
+      "end": 0.44
+    },
+    {
+      "word": "what",
+      "start": 0.44,
+      "end": 0.64
+    },
+    {
+      "word": "sir?",
+      "start": 0.64,
+      "end": 0.86
+    },
+    {
+      "word": "We",
+      "start": 1.42,
+      "end": 1.58
+    },
+    {
+      "word": "can",
+      "start": 1.58,
+      "end": 1.72
+    },
+    {
+      "word": "go",
+      "start": 1.72,
+      "end": 1.9
+    },
+    {
+      "word": "to",
+      "start": 1.9,
+      "end": 2.02
+    },
+    {
+      "word": "zero",
+      "start": 2.02,
+      "end": 2.24
+    },
+    {
+      "word": "now",
+      "start": 2.24,
+      "end": 2.46
+    },
+    {
+      "word": "and",
+      "start": 2.46,
+      "end": 2.68
+    },
+    {
+      "word": "then",
+      "start": 2.68,
+      "end": 2.84
+    },
+    {
+      "word": "like",
+      "start": 2.84,
+      "end": 3.02
+    },
+    {
+      "word": "that",
+      "start": 3.02,
+      "end": 3.24
+    },
+    {
+      "word": "we",
+      "start": 3.24,
+      "end": 3.36
+    },
+    {
+      "word": "don't",
+      "start": 3.36,
+      "end": 3.7
+    },
+    {
+      "word": "just",
+      "start": 3.7,
+      "end": 3.92
+    },
+    {
+      "word": "sink",
+      "start": 3.92,
+      "end": 4.42
+    },
+    {
+      "word": "into",
+      "start": 4.42,
+      "end": 4.6
+    },
+    {
+      "word": "the",
+      "start": 4.6,
+      "end": 4.8
+    },
+    {
+      "word": "after",
+      "start": 4.8,
+      "end": 5.12
+    },
+    {
+      "word": "a",
+      "start": 5.12,
+      "end": 5.38
+    },
+    {
+      "word": "platform.",
+      "start": 5.38,
+      "end": 5.56
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

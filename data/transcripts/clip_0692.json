@@ -1,0 +1,115 @@
+{
+  "clip_id": "clip_0692",
+  "text": "Exit samples. Slow button. Boxes left. Keep up the pace. Box max. 0, 1, 2, 3, 4, 5, 6, 7, 8.",
+  "words": [
+    {
+      "word": "Exit",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "samples.",
+      "start": 0.38,
+      "end": 0.66
+    },
+    {
+      "word": "Slow",
+      "start": 2.92,
+      "end": 3.66
+    },
+    {
+      "word": "button.",
+      "start": 3.66,
+      "end": 3.96
+    },
+    {
+      "word": "Boxes",
+      "start": 5.44,
+      "end": 6.18
+    },
+    {
+      "word": "left.",
+      "start": 6.18,
+      "end": 6.4
+    },
+    {
+      "word": "Keep",
+      "start": 8.1,
+      "end": 8.84
+    },
+    {
+      "word": "up",
+      "start": 8.84,
+      "end": 9.0
+    },
+    {
+      "word": "the",
+      "start": 9.0,
+      "end": 9.1
+    },
+    {
+      "word": "pace.",
+      "start": 9.1,
+      "end": 9.28
+    },
+    {
+      "word": "Box",
+      "start": 10.36,
+      "end": 11.1
+    },
+    {
+      "word": "max.",
+      "start": 11.1,
+      "end": 11.34
+    },
+    {
+      "word": "0,",
+      "start": 12.18,
+      "end": 12.92
+    },
+    {
+      "word": "1,",
+      "start": 13.24,
+      "end": 13.96
+    },
+    {
+      "word": "2,",
+      "start": 14.32,
+      "end": 15.1
+    },
+    {
+      "word": "3,",
+      "start": 15.38,
+      "end": 16.18
+    },
+    {
+      "word": "4,",
+      "start": 16.34,
+      "end": 17.78
+    },
+    {
+      "word": "5,",
+      "start": 17.84,
+      "end": 18.06
+    },
+    {
+      "word": "6,",
+      "start": 18.06,
+      "end": 18.82
+    },
+    {
+      "word": "7,",
+      "start": 18.92,
+      "end": 19.02
+    },
+    {
+      "word": "8.",
+      "start": 19.44,
+      "end": 19.82
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_0593",
+  "text": "Why? Get up behind. Okay, where?",
+  "words": [
+    {
+      "word": "Why?",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "Get",
+      "start": 1.95,
+      "end": 2.32
+    },
+    {
+      "word": "up",
+      "start": 2.32,
+      "end": 2.46
+    },
+    {
+      "word": "behind.",
+      "start": 2.46,
+      "end": 2.7
+    },
+    {
+      "word": "Okay,",
+      "start": 6.73,
+      "end": 7.1
+    },
+    {
+      "word": "where?",
+      "start": 7.16,
+      "end": 7.4
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

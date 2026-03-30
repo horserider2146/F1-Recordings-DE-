@@ -1,0 +1,310 @@
+{
+  "clip_id": "clip_0960",
+  "text": "where we can this lap we want to avoid going above 50% throttle, where we can avoid 50% throttle and above. Remind you've got that red line on your dash to help guide you that. So the safety car is in this lap so let's maintain heart throttle until low. Where best? No, do I slip? Yes, one.",
+  "words": [
+    {
+      "word": "where",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "we",
+      "start": 0.2,
+      "end": 0.36
+    },
+    {
+      "word": "can",
+      "start": 0.36,
+      "end": 0.66
+    },
+    {
+      "word": "this",
+      "start": 0.66,
+      "end": 0.86
+    },
+    {
+      "word": "lap",
+      "start": 0.86,
+      "end": 1.06
+    },
+    {
+      "word": "we",
+      "start": 1.06,
+      "end": 1.24
+    },
+    {
+      "word": "want",
+      "start": 1.24,
+      "end": 1.36
+    },
+    {
+      "word": "to",
+      "start": 1.36,
+      "end": 1.5
+    },
+    {
+      "word": "avoid",
+      "start": 1.5,
+      "end": 1.84
+    },
+    {
+      "word": "going",
+      "start": 1.84,
+      "end": 2.26
+    },
+    {
+      "word": "above",
+      "start": 2.26,
+      "end": 2.58
+    },
+    {
+      "word": "50",
+      "start": 2.58,
+      "end": 3.1
+    },
+    {
+      "word": "%",
+      "start": 3.1,
+      "end": 3.42
+    },
+    {
+      "word": "throttle,",
+      "start": 3.42,
+      "end": 3.74
+    },
+    {
+      "word": "where",
+      "start": 3.84,
+      "end": 3.98
+    },
+    {
+      "word": "we",
+      "start": 3.98,
+      "end": 4.12
+    },
+    {
+      "word": "can",
+      "start": 4.12,
+      "end": 4.32
+    },
+    {
+      "word": "avoid",
+      "start": 4.32,
+      "end": 4.72
+    },
+    {
+      "word": "50",
+      "start": 4.72,
+      "end": 5.26
+    },
+    {
+      "word": "%",
+      "start": 5.26,
+      "end": 5.6
+    },
+    {
+      "word": "throttle",
+      "start": 5.6,
+      "end": 6.02
+    },
+    {
+      "word": "and",
+      "start": 6.02,
+      "end": 6.3
+    },
+    {
+      "word": "above.",
+      "start": 6.3,
+      "end": 6.48
+    },
+    {
+      "word": "Remind",
+      "start": 7.6,
+      "end": 8.1
+    },
+    {
+      "word": "you've",
+      "start": 8.1,
+      "end": 8.3
+    },
+    {
+      "word": "got",
+      "start": 8.3,
+      "end": 8.42
+    },
+    {
+      "word": "that",
+      "start": 8.42,
+      "end": 8.56
+    },
+    {
+      "word": "red",
+      "start": 8.56,
+      "end": 8.84
+    },
+    {
+      "word": "line",
+      "start": 8.84,
+      "end": 9.1
+    },
+    {
+      "word": "on",
+      "start": 9.1,
+      "end": 9.26
+    },
+    {
+      "word": "your",
+      "start": 9.26,
+      "end": 9.3
+    },
+    {
+      "word": "dash",
+      "start": 9.3,
+      "end": 9.44
+    },
+    {
+      "word": "to",
+      "start": 9.44,
+      "end": 9.7
+    },
+    {
+      "word": "help",
+      "start": 9.7,
+      "end": 9.82
+    },
+    {
+      "word": "guide",
+      "start": 9.82,
+      "end": 10.02
+    },
+    {
+      "word": "you",
+      "start": 10.02,
+      "end": 10.2
+    },
+    {
+      "word": "that.",
+      "start": 10.2,
+      "end": 10.34
+    },
+    {
+      "word": "So",
+      "start": 10.96,
+      "end": 11.36
+    },
+    {
+      "word": "the",
+      "start": 11.36,
+      "end": 11.66
+    },
+    {
+      "word": "safety",
+      "start": 11.66,
+      "end": 11.66
+    },
+    {
+      "word": "car",
+      "start": 11.66,
+      "end": 11.94
+    },
+    {
+      "word": "is",
+      "start": 11.94,
+      "end": 12.08
+    },
+    {
+      "word": "in",
+      "start": 12.08,
+      "end": 12.22
+    },
+    {
+      "word": "this",
+      "start": 12.22,
+      "end": 12.44
+    },
+    {
+      "word": "lap",
+      "start": 12.44,
+      "end": 12.68
+    },
+    {
+      "word": "so",
+      "start": 12.68,
+      "end": 13.02
+    },
+    {
+      "word": "let's",
+      "start": 13.02,
+      "end": 13.5
+    },
+    {
+      "word": "maintain",
+      "start": 13.5,
+      "end": 13.96
+    },
+    {
+      "word": "heart",
+      "start": 13.96,
+      "end": 14.48
+    },
+    {
+      "word": "throttle",
+      "start": 14.48,
+      "end": 14.86
+    },
+    {
+      "word": "until",
+      "start": 14.86,
+      "end": 15.24
+    },
+    {
+      "word": "low.",
+      "start": 15.24,
+      "end": 15.54
+    },
+    {
+      "word": "Where",
+      "start": 16.8,
+      "end": 17.24
+    },
+    {
+      "word": "best?",
+      "start": 17.24,
+      "end": 17.52
+    },
+    {
+      "word": "No,",
+      "start": 18.12,
+      "end": 18.28
+    },
+    {
+      "word": "do",
+      "start": 18.32,
+      "end": 18.38
+    },
+    {
+      "word": "I",
+      "start": 18.38,
+      "end": 18.5
+    },
+    {
+      "word": "slip?",
+      "start": 18.5,
+      "end": 18.7
+    },
+    {
+      "word": "Yes,",
+      "start": 19.22,
+      "end": 19.56
+    },
+    {
+      "word": "one.",
+      "start": 19.7,
+      "end": 19.84
+    }
+  ],
+  "language": "en",
+  "word_count": 58,
+  "is_empty": false,
+  "is_very_short": false
+}

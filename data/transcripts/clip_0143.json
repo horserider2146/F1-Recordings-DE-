@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_0143",
+  "text": "16th, German, you can back off, arm, start the steering, 5th, German, you can start the steering You want to go, S-Manage, turn 8, 4, Lighting, German, 4, 4th of you, with overtaking German, you can back off, arm, head down",
+  "words": [
+    {
+      "word": "16th,",
+      "start": 0.58,
+      "end": 1.02
+    },
+    {
+      "word": "German,",
+      "start": 1.1,
+      "end": 1.38
+    },
+    {
+      "word": "you",
+      "start": 1.54,
+      "end": 1.62
+    },
+    {
+      "word": "can",
+      "start": 1.62,
+      "end": 1.78
+    },
+    {
+      "word": "back",
+      "start": 1.78,
+      "end": 2.04
+    },
+    {
+      "word": "off,",
+      "start": 2.04,
+      "end": 2.22
+    },
+    {
+      "word": "arm,",
+      "start": 2.4,
+      "end": 2.68
+    },
+    {
+      "word": "start",
+      "start": 3.02,
+      "end": 3.24
+    },
+    {
+      "word": "the",
+      "start": 3.24,
+      "end": 3.54
+    },
+    {
+      "word": "steering,",
+      "start": 3.54,
+      "end": 3.82
+    },
+    {
+      "word": "5th,",
+      "start": 4.04,
+      "end": 4.76
+    },
+    {
+      "word": "German,",
+      "start": 4.88,
+      "end": 4.96
+    },
+    {
+      "word": "you",
+      "start": 5.16,
+      "end": 5.2
+    },
+    {
+      "word": "can",
+      "start": 5.2,
+      "end": 5.24
+    },
+    {
+      "word": "start",
+      "start": 5.24,
+      "end": 5.36
+    },
+    {
+      "word": "the",
+      "start": 5.36,
+      "end": 5.52
+    },
+    {
+      "word": "steering",
+      "start": 5.52,
+      "end": 5.86
+    },
+    {
+      "word": "You",
+      "start": 8.2,
+      "end": 8.64
+    },
+    {
+      "word": "want",
+      "start": 8.64,
+      "end": 8.84
+    },
+    {
+      "word": "to",
+      "start": 8.84,
+      "end": 9.08
+    },
+    {
+      "word": "go,",
+      "start": 9.08,
+      "end": 9.24
+    },
+    {
+      "word": "S",
+      "start": 9.42,
+      "end": 9.58
+    },
+    {
+      "word": "-Manage,",
+      "start": 9.58,
+      "end": 10.02
+    },
+    {
+      "word": "turn",
+      "start": 10.24,
+      "end": 10.38
+    },
+    {
+      "word": "8,",
+      "start": 10.38,
+      "end": 10.78
+    },
+    {
+      "word": "4,",
+      "start": 10.98,
+      "end": 11.28
+    },
+    {
+      "word": "Lighting,",
+      "start": 12.22,
+      "end": 12.66
+    },
+    {
+      "word": "German,",
+      "start": 12.88,
+      "end": 13.26
+    },
+    {
+      "word": "4,",
+      "start": 13.5,
+      "end": 13.94
+    },
+    {
+      "word": "4th",
+      "start": 14.12,
+      "end": 14.38
+    },
+    {
+      "word": "of",
+      "start": 14.38,
+      "end": 14.48
+    },
+    {
+      "word": "you,",
+      "start": 14.48,
+      "end": 14.58
+    },
+    {
+      "word": "with",
+      "start": 14.64,
+      "end": 14.74
+    },
+    {
+      "word": "overtaking",
+      "start": 14.74,
+      "end": 15.12
+    },
+    {
+      "word": "German,",
+      "start": 15.78,
+      "end": 16.22
+    },
+    {
+      "word": "you",
+      "start": 17.68,
+      "end": 17.74
+    },
+    {
+      "word": "can",
+      "start": 17.74,
+      "end": 17.96
+    },
+    {
+      "word": "back",
+      "start": 17.96,
+      "end": 18.12
+    },
+    {
+      "word": "off,",
+      "start": 18.12,
+      "end": 18.4
+    },
+    {
+      "word": "arm,",
+      "start": 18.56,
+      "end": 18.82
+    },
+    {
+      "word": "head",
+      "start": 19.04,
+      "end": 19.12
+    },
+    {
+      "word": "down",
+      "start": 19.12,
+      "end": 19.42
+    }
+  ],
+  "language": "en",
+  "word_count": 41,
+  "is_empty": false,
+  "is_very_short": false
+}

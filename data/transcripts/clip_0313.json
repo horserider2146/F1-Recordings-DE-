@@ -1,0 +1,35 @@
+{
+  "clip_id": "clip_0313",
+  "text": "the the the the the",
+  "words": [
+    {
+      "word": "the",
+      "start": 3.7,
+      "end": 5.1
+    },
+    {
+      "word": "the",
+      "start": 7.86,
+      "end": 9.26
+    },
+    {
+      "word": "the",
+      "start": 9.26,
+      "end": 9.28
+    },
+    {
+      "word": "the",
+      "start": 9.28,
+      "end": 10.08
+    },
+    {
+      "word": "the",
+      "start": 10.08,
+      "end": 10.76
+    }
+  ],
+  "language": "en",
+  "word_count": 5,
+  "is_empty": false,
+  "is_very_short": false
+}

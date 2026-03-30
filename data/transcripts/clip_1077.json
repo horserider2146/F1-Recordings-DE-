@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_1077",
+  "text": "And Fultery is 5 seconds ahead of you. Safety car. B-U9, position 5. Yes, I'm there. Yeah, yeah, confirmed, that's good. Oh, they see, watch your Delta, keep it positive. Keep it positive.",
+  "words": [
+    {
+      "word": "And",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "word": "Fultery",
+      "start": 0.6,
+      "end": 1.46
+    },
+    {
+      "word": "is",
+      "start": 1.46,
+      "end": 1.7
+    },
+    {
+      "word": "5",
+      "start": 1.7,
+      "end": 1.94
+    },
+    {
+      "word": "seconds",
+      "start": 1.94,
+      "end": 2.26
+    },
+    {
+      "word": "ahead",
+      "start": 2.26,
+      "end": 2.5
+    },
+    {
+      "word": "of",
+      "start": 2.5,
+      "end": 2.66
+    },
+    {
+      "word": "you.",
+      "start": 2.66,
+      "end": 2.86
+    },
+    {
+      "word": "Safety",
+      "start": 4.2,
+      "end": 4.64
+    },
+    {
+      "word": "car.",
+      "start": 4.64,
+      "end": 5.04
+    },
+    {
+      "word": "B",
+      "start": 7.96,
+      "end": 8.4
+    },
+    {
+      "word": "-U9,",
+      "start": 8.4,
+      "end": 8.84
+    },
+    {
+      "word": "position",
+      "start": 9.02,
+      "end": 9.2
+    },
+    {
+      "word": "5.",
+      "start": 9.2,
+      "end": 9.6
+    },
+    {
+      "word": "Yes,",
+      "start": 11.58,
+      "end": 11.96
+    },
+    {
+      "word": "I'm",
+      "start": 12.04,
+      "end": 12.22
+    },
+    {
+      "word": "there.",
+      "start": 12.22,
+      "end": 12.38
+    },
+    {
+      "word": "Yeah,",
+      "start": 13.04,
+      "end": 13.28
+    },
+    {
+      "word": "yeah,",
+      "start": 13.38,
+      "end": 13.5
+    },
+    {
+      "word": "confirmed,",
+      "start": 13.64,
+      "end": 13.86
+    },
+    {
+      "word": "that's",
+      "start": 14.04,
+      "end": 14.16
+    },
+    {
+      "word": "good.",
+      "start": 14.16,
+      "end": 14.3
+    },
+    {
+      "word": "Oh,",
+      "start": 16.22,
+      "end": 16.46
+    },
+    {
+      "word": "they",
+      "start": 16.5,
+      "end": 16.56
+    },
+    {
+      "word": "see,",
+      "start": 16.56,
+      "end": 16.76
+    },
+    {
+      "word": "watch",
+      "start": 16.88,
+      "end": 17.0
+    },
+    {
+      "word": "your",
+      "start": 17.0,
+      "end": 17.16
+    },
+    {
+      "word": "Delta,",
+      "start": 17.16,
+      "end": 17.46
+    },
+    {
+      "word": "keep",
+      "start": 17.7,
+      "end": 17.82
+    },
+    {
+      "word": "it",
+      "start": 17.82,
+      "end": 18.02
+    },
+    {
+      "word": "positive.",
+      "start": 18.02,
+      "end": 18.36
+    },
+    {
+      "word": "Keep",
+      "start": 18.78,
+      "end": 18.88
+    },
+    {
+      "word": "it",
+      "start": 18.88,
+      "end": 19.04
+    },
+    {
+      "word": "positive.",
+      "start": 19.04,
+      "end": 19.34
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

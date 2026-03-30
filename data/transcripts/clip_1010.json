@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_1010",
+  "text": "the cars ahead still have to stop call it an Estaban.",
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "cars",
+      "start": 0.18,
+      "end": 0.64
+    },
+    {
+      "word": "ahead",
+      "start": 0.64,
+      "end": 0.92
+    },
+    {
+      "word": "still",
+      "start": 0.92,
+      "end": 1.16
+    },
+    {
+      "word": "have",
+      "start": 1.16,
+      "end": 1.32
+    },
+    {
+      "word": "to",
+      "start": 1.32,
+      "end": 1.44
+    },
+    {
+      "word": "stop",
+      "start": 1.44,
+      "end": 1.66
+    },
+    {
+      "word": "call",
+      "start": 1.66,
+      "end": 2.1
+    },
+    {
+      "word": "it",
+      "start": 2.1,
+      "end": 2.22
+    },
+    {
+      "word": "an",
+      "start": 2.22,
+      "end": 2.3
+    },
+    {
+      "word": "Estaban.",
+      "start": 2.3,
+      "end": 2.86
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,60 @@
+{
+  "clip_id": "clip_0052",
+  "text": "Yeah sure, just switch to lap 1 and turn 6",
+  "words": [
+    {
+      "word": "Yeah",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "sure,",
+      "start": 0.14,
+      "end": 0.3
+    },
+    {
+      "word": "just",
+      "start": 0.4,
+      "end": 0.52
+    },
+    {
+      "word": "switch",
+      "start": 0.52,
+      "end": 0.76
+    },
+    {
+      "word": "to",
+      "start": 0.76,
+      "end": 0.92
+    },
+    {
+      "word": "lap",
+      "start": 0.92,
+      "end": 1.18
+    },
+    {
+      "word": "1",
+      "start": 1.18,
+      "end": 1.48
+    },
+    {
+      "word": "and",
+      "start": 1.48,
+      "end": 1.9
+    },
+    {
+      "word": "turn",
+      "start": 1.9,
+      "end": 2.24
+    },
+    {
+      "word": "6",
+      "start": 2.24,
+      "end": 2.32
+    }
+  ],
+  "language": "en",
+  "word_count": 10,
+  "is_empty": false,
+  "is_very_short": false
+}

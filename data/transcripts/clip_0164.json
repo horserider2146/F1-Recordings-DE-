@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0164",
+  "text": "I'm going to go slow, I'm going to turn back to the other arm I'm going to go slow, I'm going to turn back I'm going to go flying, turn right I'm going to go up",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 1.02,
+      "end": 1.46
+    },
+    {
+      "word": "going",
+      "start": 1.46,
+      "end": 1.48
+    },
+    {
+      "word": "to",
+      "start": 1.48,
+      "end": 1.56
+    },
+    {
+      "word": "go",
+      "start": 1.56,
+      "end": 1.56
+    },
+    {
+      "word": "slow,",
+      "start": 1.56,
+      "end": 2.78
+    },
+    {
+      "word": "I'm",
+      "start": 2.94,
+      "end": 4.12
+    },
+    {
+      "word": "going",
+      "start": 4.12,
+      "end": 4.2
+    },
+    {
+      "word": "to",
+      "start": 4.2,
+      "end": 4.2
+    },
+    {
+      "word": "turn",
+      "start": 4.2,
+      "end": 4.26
+    },
+    {
+      "word": "back",
+      "start": 4.26,
+      "end": 4.5
+    },
+    {
+      "word": "to",
+      "start": 4.5,
+      "end": 4.72
+    },
+    {
+      "word": "the",
+      "start": 4.72,
+      "end": 4.8
+    },
+    {
+      "word": "other",
+      "start": 4.8,
+      "end": 5.26
+    },
+    {
+      "word": "arm",
+      "start": 5.26,
+      "end": 5.62
+    },
+    {
+      "word": "I'm",
+      "start": 9.6,
+      "end": 10.04
+    },
+    {
+      "word": "going",
+      "start": 10.04,
+      "end": 10.48
+    },
+    {
+      "word": "to",
+      "start": 10.48,
+      "end": 10.56
+    },
+    {
+      "word": "go",
+      "start": 10.56,
+      "end": 10.56
+    },
+    {
+      "word": "slow,",
+      "start": 10.56,
+      "end": 10.58
+    },
+    {
+      "word": "I'm",
+      "start": 10.74,
+      "end": 11.64
+    },
+    {
+      "word": "going",
+      "start": 11.64,
+      "end": 12.58
+    },
+    {
+      "word": "to",
+      "start": 12.58,
+      "end": 12.8
+    },
+    {
+      "word": "turn",
+      "start": 12.8,
+      "end": 12.94
+    },
+    {
+      "word": "back",
+      "start": 12.94,
+      "end": 13.3
+    },
+    {
+      "word": "I'm",
+      "start": 15.6,
+      "end": 16.04
+    },
+    {
+      "word": "going",
+      "start": 16.04,
+      "end": 16.1
+    },
+    {
+      "word": "to",
+      "start": 16.1,
+      "end": 16.38
+    },
+    {
+      "word": "go",
+      "start": 16.38,
+      "end": 16.38
+    },
+    {
+      "word": "flying,",
+      "start": 16.38,
+      "end": 16.7
+    },
+    {
+      "word": "turn",
+      "start": 16.8,
+      "end": 17.04
+    },
+    {
+      "word": "right",
+      "start": 17.04,
+      "end": 17.26
+    },
+    {
+      "word": "I'm",
+      "start": 18.9,
+      "end": 19.34
+    },
+    {
+      "word": "going",
+      "start": 19.34,
+      "end": 19.5
+    },
+    {
+      "word": "to",
+      "start": 19.5,
+      "end": 19.5
+    },
+    {
+      "word": "go",
+      "start": 19.5,
+      "end": 19.68
+    },
+    {
+      "word": "up",
+      "start": 19.68,
+      "end": 19.8
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}

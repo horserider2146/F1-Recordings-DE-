@@ -1,0 +1,85 @@
+{
+  "clip_id": "clip_1150",
+  "text": "reminders once the engine is fired up. Won't go pit lane speed limit are on.",
+  "words": [
+    {
+      "word": "reminders",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "once",
+      "start": 0.44,
+      "end": 1.02
+    },
+    {
+      "word": "the",
+      "start": 1.02,
+      "end": 1.24
+    },
+    {
+      "word": "engine",
+      "start": 1.24,
+      "end": 1.44
+    },
+    {
+      "word": "is",
+      "start": 1.44,
+      "end": 1.64
+    },
+    {
+      "word": "fired",
+      "start": 1.64,
+      "end": 1.9
+    },
+    {
+      "word": "up.",
+      "start": 1.9,
+      "end": 2.1
+    },
+    {
+      "word": "Won't",
+      "start": 2.24,
+      "end": 2.32
+    },
+    {
+      "word": "go",
+      "start": 2.32,
+      "end": 2.38
+    },
+    {
+      "word": "pit",
+      "start": 2.38,
+      "end": 2.56
+    },
+    {
+      "word": "lane",
+      "start": 2.56,
+      "end": 2.74
+    },
+    {
+      "word": "speed",
+      "start": 2.74,
+      "end": 2.94
+    },
+    {
+      "word": "limit",
+      "start": 2.94,
+      "end": 3.16
+    },
+    {
+      "word": "are",
+      "start": 3.16,
+      "end": 3.32
+    },
+    {
+      "word": "on.",
+      "start": 3.32,
+      "end": 3.56
+    }
+  ],
+  "language": "en",
+  "word_count": 15,
+  "is_empty": false,
+  "is_very_short": false
+}

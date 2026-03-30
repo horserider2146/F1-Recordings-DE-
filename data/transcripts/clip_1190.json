@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_1190",
+  "text": "Blue flag for Hamilton, 3 seconds behind Hamilton is Leclerc, Leclerc the car behind 1.4, we have the blue flag for Leclerc, Checo is 18 seconds behind Leclerc, so the Checo is",
+  "words": [
+    {
+      "word": "Blue",
+      "start": 1.06,
+      "end": 1.74
+    },
+    {
+      "word": "flag",
+      "start": 1.74,
+      "end": 2.0
+    },
+    {
+      "word": "for",
+      "start": 2.0,
+      "end": 2.28
+    },
+    {
+      "word": "Hamilton,",
+      "start": 2.28,
+      "end": 2.62
+    },
+    {
+      "word": "3",
+      "start": 3.36,
+      "end": 4.54
+    },
+    {
+      "word": "seconds",
+      "start": 4.54,
+      "end": 4.76
+    },
+    {
+      "word": "behind",
+      "start": 4.76,
+      "end": 5.06
+    },
+    {
+      "word": "Hamilton",
+      "start": 5.06,
+      "end": 5.5
+    },
+    {
+      "word": "is",
+      "start": 5.5,
+      "end": 5.82
+    },
+    {
+      "word": "Leclerc,",
+      "start": 5.82,
+      "end": 7.34
+    },
+    {
+      "word": "Leclerc",
+      "start": 7.34,
+      "end": 8.16
+    },
+    {
+      "word": "the",
+      "start": 8.16,
+      "end": 8.36
+    },
+    {
+      "word": "car",
+      "start": 8.36,
+      "end": 8.56
+    },
+    {
+      "word": "behind",
+      "start": 8.56,
+      "end": 8.88
+    },
+    {
+      "word": "1",
+      "start": 8.88,
+      "end": 9.36
+    },
+    {
+      "word": ".4,",
+      "start": 9.36,
+      "end": 9.98
+    },
+    {
+      "word": "we",
+      "start": 11.38,
+      "end": 11.64
+    },
+    {
+      "word": "have",
+      "start": 11.64,
+      "end": 11.8
+    },
+    {
+      "word": "the",
+      "start": 11.8,
+      "end": 11.92
+    },
+    {
+      "word": "blue",
+      "start": 11.92,
+      "end": 12.18
+    },
+    {
+      "word": "flag",
+      "start": 12.18,
+      "end": 12.52
+    },
+    {
+      "word": "for",
+      "start": 12.52,
+      "end": 12.96
+    },
+    {
+      "word": "Leclerc,",
+      "start": 12.96,
+      "end": 14.84
+    },
+    {
+      "word": "Checo",
+      "start": 14.84,
+      "end": 15.26
+    },
+    {
+      "word": "is",
+      "start": 15.26,
+      "end": 15.52
+    },
+    {
+      "word": "18",
+      "start": 15.52,
+      "end": 16.08
+    },
+    {
+      "word": "seconds",
+      "start": 16.08,
+      "end": 16.72
+    },
+    {
+      "word": "behind",
+      "start": 16.72,
+      "end": 17.18
+    },
+    {
+      "word": "Leclerc,",
+      "start": 17.18,
+      "end": 17.88
+    },
+    {
+      "word": "so",
+      "start": 19.44,
+      "end": 19.76
+    },
+    {
+      "word": "the",
+      "start": 19.76,
+      "end": 19.9
+    },
+    {
+      "word": "Checo",
+      "start": 19.9,
+      "end": 19.98
+    },
+    {
+      "word": "is",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0884",
+  "text": "other than that both cars same POU all those smaller details.",
+  "words": [
+    {
+      "word": "other",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "than",
+      "start": 0.18,
+      "end": 0.26
+    },
+    {
+      "word": "that",
+      "start": 0.26,
+      "end": 0.36
+    },
+    {
+      "word": "both",
+      "start": 0.36,
+      "end": 0.54
+    },
+    {
+      "word": "cars",
+      "start": 0.54,
+      "end": 0.84
+    },
+    {
+      "word": "same",
+      "start": 0.84,
+      "end": 1.8
+    },
+    {
+      "word": "POU",
+      "start": 1.8,
+      "end": 2.3
+    },
+    {
+      "word": "all",
+      "start": 2.3,
+      "end": 2.88
+    },
+    {
+      "word": "those",
+      "start": 2.88,
+      "end": 3.12
+    },
+    {
+      "word": "smaller",
+      "start": 3.12,
+      "end": 3.8
+    },
+    {
+      "word": "details.",
+      "start": 3.8,
+      "end": 4.06
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

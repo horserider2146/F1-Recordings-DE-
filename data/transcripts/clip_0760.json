@@ -1,0 +1,305 @@
+{
+  "clip_id": "clip_0760",
+  "text": "We will select mode race after turn 10. Mode race. And remind there will be a present hold energy from turn 14 all the way to turn 1. Safety car is in turn 14. The leader is in turn 14. Safety car is in the pit. The car behind is Bearman. We're going to have the drivability out of...",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.94
+    },
+    {
+      "word": "will",
+      "start": 0.94,
+      "end": 1.06
+    },
+    {
+      "word": "select",
+      "start": 1.06,
+      "end": 1.4
+    },
+    {
+      "word": "mode",
+      "start": 1.4,
+      "end": 1.64
+    },
+    {
+      "word": "race",
+      "start": 1.64,
+      "end": 1.98
+    },
+    {
+      "word": "after",
+      "start": 1.98,
+      "end": 2.44
+    },
+    {
+      "word": "turn",
+      "start": 2.44,
+      "end": 2.86
+    },
+    {
+      "word": "10.",
+      "start": 2.86,
+      "end": 3.22
+    },
+    {
+      "word": "Mode",
+      "start": 4.22,
+      "end": 4.7
+    },
+    {
+      "word": "race.",
+      "start": 4.7,
+      "end": 5.08
+    },
+    {
+      "word": "And",
+      "start": 5.86,
+      "end": 6.08
+    },
+    {
+      "word": "remind",
+      "start": 6.08,
+      "end": 6.32
+    },
+    {
+      "word": "there",
+      "start": 6.32,
+      "end": 6.48
+    },
+    {
+      "word": "will",
+      "start": 6.48,
+      "end": 6.58
+    },
+    {
+      "word": "be",
+      "start": 6.58,
+      "end": 6.7
+    },
+    {
+      "word": "a",
+      "start": 6.7,
+      "end": 6.76
+    },
+    {
+      "word": "present",
+      "start": 6.76,
+      "end": 6.96
+    },
+    {
+      "word": "hold",
+      "start": 6.96,
+      "end": 7.2
+    },
+    {
+      "word": "energy",
+      "start": 7.2,
+      "end": 7.56
+    },
+    {
+      "word": "from",
+      "start": 7.56,
+      "end": 8.14
+    },
+    {
+      "word": "turn",
+      "start": 8.14,
+      "end": 8.42
+    },
+    {
+      "word": "14",
+      "start": 8.42,
+      "end": 8.92
+    },
+    {
+      "word": "all",
+      "start": 8.92,
+      "end": 9.48
+    },
+    {
+      "word": "the",
+      "start": 9.48,
+      "end": 9.6
+    },
+    {
+      "word": "way",
+      "start": 9.6,
+      "end": 9.72
+    },
+    {
+      "word": "to",
+      "start": 9.72,
+      "end": 9.86
+    },
+    {
+      "word": "turn",
+      "start": 9.86,
+      "end": 10.02
+    },
+    {
+      "word": "1.",
+      "start": 10.02,
+      "end": 10.3
+    },
+    {
+      "word": "Safety",
+      "start": 10.78,
+      "end": 11.26
+    },
+    {
+      "word": "car",
+      "start": 11.26,
+      "end": 11.56
+    },
+    {
+      "word": "is",
+      "start": 11.56,
+      "end": 11.68
+    },
+    {
+      "word": "in",
+      "start": 11.68,
+      "end": 11.82
+    },
+    {
+      "word": "turn",
+      "start": 11.82,
+      "end": 11.98
+    },
+    {
+      "word": "14.",
+      "start": 11.98,
+      "end": 12.54
+    },
+    {
+      "word": "The",
+      "start": 13.02,
+      "end": 13.38
+    },
+    {
+      "word": "leader",
+      "start": 13.38,
+      "end": 13.58
+    },
+    {
+      "word": "is",
+      "start": 13.58,
+      "end": 13.76
+    },
+    {
+      "word": "in",
+      "start": 13.76,
+      "end": 13.88
+    },
+    {
+      "word": "turn",
+      "start": 13.88,
+      "end": 14.04
+    },
+    {
+      "word": "14.",
+      "start": 14.04,
+      "end": 14.44
+    },
+    {
+      "word": "Safety",
+      "start": 14.68,
+      "end": 14.78
+    },
+    {
+      "word": "car",
+      "start": 14.78,
+      "end": 15.06
+    },
+    {
+      "word": "is",
+      "start": 15.06,
+      "end": 15.16
+    },
+    {
+      "word": "in",
+      "start": 15.16,
+      "end": 15.24
+    },
+    {
+      "word": "the",
+      "start": 15.24,
+      "end": 15.34
+    },
+    {
+      "word": "pit.",
+      "start": 15.34,
+      "end": 15.44
+    },
+    {
+      "word": "The",
+      "start": 15.8,
+      "end": 16.0
+    },
+    {
+      "word": "car",
+      "start": 16.0,
+      "end": 16.56
+    },
+    {
+      "word": "behind",
+      "start": 16.56,
+      "end": 16.82
+    },
+    {
+      "word": "is",
+      "start": 16.82,
+      "end": 17.04
+    },
+    {
+      "word": "Bearman.",
+      "start": 17.04,
+      "end": 17.38
+    },
+    {
+      "word": "We're",
+      "start": 18.18,
+      "end": 18.5
+    },
+    {
+      "word": "going",
+      "start": 18.5,
+      "end": 18.54
+    },
+    {
+      "word": "to",
+      "start": 18.54,
+      "end": 18.58
+    },
+    {
+      "word": "have",
+      "start": 18.58,
+      "end": 18.66
+    },
+    {
+      "word": "the",
+      "start": 18.66,
+      "end": 18.78
+    },
+    {
+      "word": "drivability",
+      "start": 18.78,
+      "end": 19.36
+    },
+    {
+      "word": "out",
+      "start": 19.36,
+      "end": 19.84
+    },
+    {
+      "word": "of...",
+      "start": 19.84,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 59,
+  "is_empty": false,
+  "is_very_short": false
+}

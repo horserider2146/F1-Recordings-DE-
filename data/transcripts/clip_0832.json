@@ -1,0 +1,280 @@
+{
+  "clip_id": "clip_0832",
+  "text": "go away if I straight through the sides. Yeah, we think we know what it is. We can talk in your back in the garage. Well done, that's Q3, excellent work. P10, good place to start the race tomorrow. Yeah, good job everybody. proud of your hard work. We're excited about the good quality.",
+  "words": [
+    {
+      "word": "go",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "away",
+      "start": 0.14,
+      "end": 0.44
+    },
+    {
+      "word": "if",
+      "start": 0.44,
+      "end": 0.58
+    },
+    {
+      "word": "I",
+      "start": 0.58,
+      "end": 0.7
+    },
+    {
+      "word": "straight",
+      "start": 0.7,
+      "end": 0.92
+    },
+    {
+      "word": "through",
+      "start": 0.92,
+      "end": 1.22
+    },
+    {
+      "word": "the",
+      "start": 1.22,
+      "end": 1.38
+    },
+    {
+      "word": "sides.",
+      "start": 1.38,
+      "end": 1.58
+    },
+    {
+      "word": "Yeah,",
+      "start": 3.24,
+      "end": 3.52
+    },
+    {
+      "word": "we",
+      "start": 3.62,
+      "end": 3.9
+    },
+    {
+      "word": "think",
+      "start": 3.9,
+      "end": 4.04
+    },
+    {
+      "word": "we",
+      "start": 4.04,
+      "end": 4.4
+    },
+    {
+      "word": "know",
+      "start": 4.4,
+      "end": 4.58
+    },
+    {
+      "word": "what",
+      "start": 4.58,
+      "end": 4.74
+    },
+    {
+      "word": "it",
+      "start": 4.74,
+      "end": 4.86
+    },
+    {
+      "word": "is.",
+      "start": 4.86,
+      "end": 5.1
+    },
+    {
+      "word": "We",
+      "start": 5.54,
+      "end": 5.62
+    },
+    {
+      "word": "can",
+      "start": 5.62,
+      "end": 5.76
+    },
+    {
+      "word": "talk",
+      "start": 5.76,
+      "end": 6.04
+    },
+    {
+      "word": "in",
+      "start": 6.04,
+      "end": 6.5
+    },
+    {
+      "word": "your",
+      "start": 6.5,
+      "end": 6.56
+    },
+    {
+      "word": "back",
+      "start": 6.56,
+      "end": 6.72
+    },
+    {
+      "word": "in",
+      "start": 6.72,
+      "end": 6.86
+    },
+    {
+      "word": "the",
+      "start": 6.86,
+      "end": 6.94
+    },
+    {
+      "word": "garage.",
+      "start": 6.94,
+      "end": 7.12
+    },
+    {
+      "word": "Well",
+      "start": 7.34,
+      "end": 7.52
+    },
+    {
+      "word": "done,",
+      "start": 7.52,
+      "end": 7.76
+    },
+    {
+      "word": "that's",
+      "start": 8.26,
+      "end": 8.36
+    },
+    {
+      "word": "Q3,",
+      "start": 8.36,
+      "end": 8.8
+    },
+    {
+      "word": "excellent",
+      "start": 9.12,
+      "end": 9.42
+    },
+    {
+      "word": "work.",
+      "start": 9.42,
+      "end": 9.68
+    },
+    {
+      "word": "P10,",
+      "start": 10.34,
+      "end": 10.7
+    },
+    {
+      "word": "good",
+      "start": 11.04,
+      "end": 11.2
+    },
+    {
+      "word": "place",
+      "start": 11.2,
+      "end": 11.4
+    },
+    {
+      "word": "to",
+      "start": 11.4,
+      "end": 11.58
+    },
+    {
+      "word": "start",
+      "start": 11.58,
+      "end": 11.7
+    },
+    {
+      "word": "the",
+      "start": 11.7,
+      "end": 11.84
+    },
+    {
+      "word": "race",
+      "start": 11.84,
+      "end": 11.98
+    },
+    {
+      "word": "tomorrow.",
+      "start": 11.98,
+      "end": 12.24
+    },
+    {
+      "word": "Yeah,",
+      "start": 14.28,
+      "end": 14.72
+    },
+    {
+      "word": "good",
+      "start": 14.76,
+      "end": 14.94
+    },
+    {
+      "word": "job",
+      "start": 14.94,
+      "end": 15.2
+    },
+    {
+      "word": "everybody.",
+      "start": 15.2,
+      "end": 15.52
+    },
+    {
+      "word": "proud",
+      "start": 16.46,
+      "end": 16.74
+    },
+    {
+      "word": "of",
+      "start": 16.74,
+      "end": 16.88
+    },
+    {
+      "word": "your",
+      "start": 16.88,
+      "end": 17.0
+    },
+    {
+      "word": "hard",
+      "start": 17.0,
+      "end": 17.24
+    },
+    {
+      "word": "work.",
+      "start": 17.24,
+      "end": 17.5
+    },
+    {
+      "word": "We're",
+      "start": 18.28,
+      "end": 18.68
+    },
+    {
+      "word": "excited",
+      "start": 18.68,
+      "end": 18.84
+    },
+    {
+      "word": "about",
+      "start": 18.84,
+      "end": 19.24
+    },
+    {
+      "word": "the",
+      "start": 19.24,
+      "end": 19.4
+    },
+    {
+      "word": "good",
+      "start": 19.4,
+      "end": 19.54
+    },
+    {
+      "word": "quality.",
+      "start": 19.54,
+      "end": 19.8
+    }
+  ],
+  "language": "en",
+  "word_count": 54,
+  "is_empty": false,
+  "is_very_short": false
+}

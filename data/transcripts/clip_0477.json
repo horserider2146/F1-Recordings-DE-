@@ -1,0 +1,160 @@
+{
+  "clip_id": "clip_0477",
+  "text": "You've got Colpito at sight ahead. Colpito ahead doing 37.6. George at 35.9. To sight ahead 2 seconds, head free air. George say back time, gap 9.5.",
+  "words": [
+    {
+      "word": "You've",
+      "start": 1.68,
+      "end": 2.32
+    },
+    {
+      "word": "got",
+      "start": 2.32,
+      "end": 2.4
+    },
+    {
+      "word": "Colpito",
+      "start": 2.4,
+      "end": 2.9
+    },
+    {
+      "word": "at",
+      "start": 2.9,
+      "end": 3.16
+    },
+    {
+      "word": "sight",
+      "start": 3.16,
+      "end": 3.48
+    },
+    {
+      "word": "ahead.",
+      "start": 3.48,
+      "end": 4.04
+    },
+    {
+      "word": "Colpito",
+      "start": 5.6,
+      "end": 6.24
+    },
+    {
+      "word": "ahead",
+      "start": 6.24,
+      "end": 6.48
+    },
+    {
+      "word": "doing",
+      "start": 6.48,
+      "end": 6.72
+    },
+    {
+      "word": "37",
+      "start": 6.72,
+      "end": 7.1
+    },
+    {
+      "word": ".6.",
+      "start": 7.1,
+      "end": 7.52
+    },
+    {
+      "word": "George",
+      "start": 8.42,
+      "end": 9.06
+    },
+    {
+      "word": "at",
+      "start": 9.06,
+      "end": 9.32
+    },
+    {
+      "word": "35",
+      "start": 9.32,
+      "end": 9.74
+    },
+    {
+      "word": ".9.",
+      "start": 9.74,
+      "end": 10.12
+    },
+    {
+      "word": "To",
+      "start": 12.08,
+      "end": 12.72
+    },
+    {
+      "word": "sight",
+      "start": 12.72,
+      "end": 12.96
+    },
+    {
+      "word": "ahead",
+      "start": 12.96,
+      "end": 13.14
+    },
+    {
+      "word": "2",
+      "start": 13.14,
+      "end": 13.38
+    },
+    {
+      "word": "seconds,",
+      "start": 13.38,
+      "end": 13.66
+    },
+    {
+      "word": "head",
+      "start": 13.84,
+      "end": 14.0
+    },
+    {
+      "word": "free",
+      "start": 14.0,
+      "end": 14.22
+    },
+    {
+      "word": "air.",
+      "start": 14.22,
+      "end": 14.4
+    },
+    {
+      "word": "George",
+      "start": 16.08,
+      "end": 16.72
+    },
+    {
+      "word": "say",
+      "start": 16.72,
+      "end": 16.96
+    },
+    {
+      "word": "back",
+      "start": 16.96,
+      "end": 17.16
+    },
+    {
+      "word": "time,",
+      "start": 17.16,
+      "end": 17.48
+    },
+    {
+      "word": "gap",
+      "start": 17.68,
+      "end": 17.96
+    },
+    {
+      "word": "9",
+      "start": 17.96,
+      "end": 18.24
+    },
+    {
+      "word": ".5.",
+      "start": 18.24,
+      "end": 18.7
+    }
+  ],
+  "language": "en",
+  "word_count": 27,
+  "is_empty": false,
+  "is_very_short": false
+}

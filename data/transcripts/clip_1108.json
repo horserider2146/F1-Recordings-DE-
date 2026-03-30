@@ -1,0 +1,155 @@
+{
+  "clip_id": "clip_1108",
+  "text": "Even position Altar has taken the blue flag as well B by 3 And for info we have overtakes Russell is car behind 1.8 seconds 15 laps remaining",
+  "words": [
+    {
+      "word": "Even",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "word": "position",
+      "start": 0.54,
+      "end": 1.04
+    },
+    {
+      "word": "Altar",
+      "start": 3.96,
+      "end": 4.6
+    },
+    {
+      "word": "has",
+      "start": 4.6,
+      "end": 4.8
+    },
+    {
+      "word": "taken",
+      "start": 4.8,
+      "end": 5.12
+    },
+    {
+      "word": "the",
+      "start": 5.12,
+      "end": 5.32
+    },
+    {
+      "word": "blue",
+      "start": 5.32,
+      "end": 5.5
+    },
+    {
+      "word": "flag",
+      "start": 5.5,
+      "end": 5.76
+    },
+    {
+      "word": "as",
+      "start": 5.76,
+      "end": 5.92
+    },
+    {
+      "word": "well",
+      "start": 5.92,
+      "end": 6.24
+    },
+    {
+      "word": "B",
+      "start": 7.34,
+      "end": 7.98
+    },
+    {
+      "word": "by",
+      "start": 7.98,
+      "end": 8.12
+    },
+    {
+      "word": "3",
+      "start": 8.12,
+      "end": 8.44
+    },
+    {
+      "word": "And",
+      "start": 9.66,
+      "end": 10.3
+    },
+    {
+      "word": "for",
+      "start": 10.3,
+      "end": 10.54
+    },
+    {
+      "word": "info",
+      "start": 10.54,
+      "end": 10.72
+    },
+    {
+      "word": "we",
+      "start": 10.72,
+      "end": 10.96
+    },
+    {
+      "word": "have",
+      "start": 10.96,
+      "end": 11.12
+    },
+    {
+      "word": "overtakes",
+      "start": 11.12,
+      "end": 11.92
+    },
+    {
+      "word": "Russell",
+      "start": 13.88,
+      "end": 14.52
+    },
+    {
+      "word": "is",
+      "start": 14.52,
+      "end": 14.8
+    },
+    {
+      "word": "car",
+      "start": 14.8,
+      "end": 15.08
+    },
+    {
+      "word": "behind",
+      "start": 15.08,
+      "end": 15.48
+    },
+    {
+      "word": "1",
+      "start": 15.48,
+      "end": 16.1
+    },
+    {
+      "word": ".8",
+      "start": 16.1,
+      "end": 16.66
+    },
+    {
+      "word": "seconds",
+      "start": 16.66,
+      "end": 17.14
+    },
+    {
+      "word": "15",
+      "start": 17.14,
+      "end": 18.9
+    },
+    {
+      "word": "laps",
+      "start": 18.9,
+      "end": 19.14
+    },
+    {
+      "word": "remaining",
+      "start": 19.14,
+      "end": 19.42
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,50 @@
+{
+  "clip_id": "clip_0151",
+  "text": "I think we should have done an opposite",
+  "words": [
+    {
+      "word": "I",
+      "start": 17.18,
+      "end": 18.58
+    },
+    {
+      "word": "think",
+      "start": 18.58,
+      "end": 19.98
+    },
+    {
+      "word": "we",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "should",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "have",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "done",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "an",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "opposite",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 8,
+  "is_empty": false,
+  "is_very_short": false
+}

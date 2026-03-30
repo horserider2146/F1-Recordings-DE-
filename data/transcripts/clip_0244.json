@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0244",
+  "text": "Next car pushing, Yastree 10. The wind rotates a little bit now. Come back to you on the wind. No, looks the same. 20 milliseconds turn 6 as well. And Lewis had a...",
+  "words": [
+    {
+      "word": "Next",
+      "start": 1.24,
+      "end": 1.82
+    },
+    {
+      "word": "car",
+      "start": 1.82,
+      "end": 2.06
+    },
+    {
+      "word": "pushing,",
+      "start": 2.06,
+      "end": 2.36
+    },
+    {
+      "word": "Yastree",
+      "start": 2.56,
+      "end": 2.94
+    },
+    {
+      "word": "10.",
+      "start": 2.94,
+      "end": 3.28
+    },
+    {
+      "word": "The",
+      "start": 4.64,
+      "end": 4.82
+    },
+    {
+      "word": "wind",
+      "start": 4.82,
+      "end": 5.1
+    },
+    {
+      "word": "rotates",
+      "start": 5.1,
+      "end": 5.46
+    },
+    {
+      "word": "a",
+      "start": 5.46,
+      "end": 5.76
+    },
+    {
+      "word": "little",
+      "start": 5.76,
+      "end": 5.98
+    },
+    {
+      "word": "bit",
+      "start": 5.98,
+      "end": 6.18
+    },
+    {
+      "word": "now.",
+      "start": 6.18,
+      "end": 6.36
+    },
+    {
+      "word": "Come",
+      "start": 8.24,
+      "end": 8.82
+    },
+    {
+      "word": "back",
+      "start": 8.82,
+      "end": 8.98
+    },
+    {
+      "word": "to",
+      "start": 8.98,
+      "end": 9.14
+    },
+    {
+      "word": "you",
+      "start": 9.14,
+      "end": 9.24
+    },
+    {
+      "word": "on",
+      "start": 9.24,
+      "end": 9.36
+    },
+    {
+      "word": "the",
+      "start": 9.36,
+      "end": 9.46
+    },
+    {
+      "word": "wind.",
+      "start": 9.46,
+      "end": 9.68
+    },
+    {
+      "word": "No,",
+      "start": 10.56,
+      "end": 10.86
+    },
+    {
+      "word": "looks",
+      "start": 11.46,
+      "end": 11.72
+    },
+    {
+      "word": "the",
+      "start": 11.72,
+      "end": 11.96
+    },
+    {
+      "word": "same.",
+      "start": 11.96,
+      "end": 12.18
+    },
+    {
+      "word": "20",
+      "start": 12.72,
+      "end": 13.0
+    },
+    {
+      "word": "milliseconds",
+      "start": 13.0,
+      "end": 13.56
+    },
+    {
+      "word": "turn",
+      "start": 13.56,
+      "end": 13.94
+    },
+    {
+      "word": "6",
+      "start": 13.94,
+      "end": 14.34
+    },
+    {
+      "word": "as",
+      "start": 14.34,
+      "end": 14.94
+    },
+    {
+      "word": "well.",
+      "start": 14.94,
+      "end": 16.42
+    },
+    {
+      "word": "And",
+      "start": 18.9,
+      "end": 19.28
+    },
+    {
+      "word": "Lewis",
+      "start": 19.28,
+      "end": 19.5
+    },
+    {
+      "word": "had",
+      "start": 19.5,
+      "end": 19.78
+    },
+    {
+      "word": "a...",
+      "start": 19.78,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,125 @@
+{
+  "clip_id": "clip_0597",
+  "text": "Hey My apex still down Let's see Turn 16 Apex speed turn 3 Apex speed turn 16 You have overtake? You have overtake?",
+  "words": [
+    {
+      "word": "Hey",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "My",
+      "start": 1.4,
+      "end": 1.86
+    },
+    {
+      "word": "apex",
+      "start": 1.86,
+      "end": 2.1
+    },
+    {
+      "word": "still",
+      "start": 2.1,
+      "end": 2.44
+    },
+    {
+      "word": "down",
+      "start": 2.44,
+      "end": 2.78
+    },
+    {
+      "word": "Let's",
+      "start": 3.2,
+      "end": 3.66
+    },
+    {
+      "word": "see",
+      "start": 3.66,
+      "end": 3.8
+    },
+    {
+      "word": "Turn",
+      "start": 3.8,
+      "end": 5.22
+    },
+    {
+      "word": "16",
+      "start": 5.22,
+      "end": 6.62
+    },
+    {
+      "word": "Apex",
+      "start": 8.42,
+      "end": 8.88
+    },
+    {
+      "word": "speed",
+      "start": 8.88,
+      "end": 9.22
+    },
+    {
+      "word": "turn",
+      "start": 9.22,
+      "end": 9.62
+    },
+    {
+      "word": "3",
+      "start": 9.62,
+      "end": 9.98
+    },
+    {
+      "word": "Apex",
+      "start": 9.98,
+      "end": 10.64
+    },
+    {
+      "word": "speed",
+      "start": 10.64,
+      "end": 10.96
+    },
+    {
+      "word": "turn",
+      "start": 10.96,
+      "end": 11.54
+    },
+    {
+      "word": "16",
+      "start": 11.54,
+      "end": 13.08
+    },
+    {
+      "word": "You",
+      "start": 14.8,
+      "end": 15.26
+    },
+    {
+      "word": "have",
+      "start": 15.26,
+      "end": 15.72
+    },
+    {
+      "word": "overtake?",
+      "start": 15.72,
+      "end": 16.18
+    },
+    {
+      "word": "You",
+      "start": 18.06,
+      "end": 18.52
+    },
+    {
+      "word": "have",
+      "start": 18.52,
+      "end": 18.68
+    },
+    {
+      "word": "overtake?",
+      "start": 18.68,
+      "end": 19.22
+    }
+  ],
+  "language": "en",
+  "word_count": 23,
+  "is_empty": false,
+  "is_very_short": false
+}

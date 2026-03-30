@@ -1,0 +1,130 @@
+{
+  "clip_id": "clip_0317",
+  "text": "flag for us, mode slow, mode slow, take the pick up you are P15 uh, copy far too many issues with the engine unfortunately",
+  "words": [
+    {
+      "word": "flag",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "for",
+      "start": 0.16,
+      "end": 0.42
+    },
+    {
+      "word": "us,",
+      "start": 0.42,
+      "end": 0.7
+    },
+    {
+      "word": "mode",
+      "start": 1.08,
+      "end": 1.24
+    },
+    {
+      "word": "slow,",
+      "start": 1.24,
+      "end": 1.6
+    },
+    {
+      "word": "mode",
+      "start": 1.82,
+      "end": 1.94
+    },
+    {
+      "word": "slow,",
+      "start": 1.94,
+      "end": 2.68
+    },
+    {
+      "word": "take",
+      "start": 2.92,
+      "end": 3.28
+    },
+    {
+      "word": "the",
+      "start": 3.28,
+      "end": 3.44
+    },
+    {
+      "word": "pick",
+      "start": 3.44,
+      "end": 3.6
+    },
+    {
+      "word": "up",
+      "start": 3.6,
+      "end": 3.85
+    },
+    {
+      "word": "you",
+      "start": 8.78,
+      "end": 9.28
+    },
+    {
+      "word": "are",
+      "start": 9.28,
+      "end": 9.78
+    },
+    {
+      "word": "P15",
+      "start": 9.78,
+      "end": 10.64
+    },
+    {
+      "word": "uh,",
+      "start": 13.72,
+      "end": 14.22
+    },
+    {
+      "word": "copy",
+      "start": 14.36,
+      "end": 14.58
+    },
+    {
+      "word": "far",
+      "start": 16.24,
+      "end": 16.74
+    },
+    {
+      "word": "too",
+      "start": 16.74,
+      "end": 16.92
+    },
+    {
+      "word": "many",
+      "start": 16.92,
+      "end": 17.1
+    },
+    {
+      "word": "issues",
+      "start": 17.1,
+      "end": 17.38
+    },
+    {
+      "word": "with",
+      "start": 17.38,
+      "end": 17.62
+    },
+    {
+      "word": "the",
+      "start": 17.62,
+      "end": 17.78
+    },
+    {
+      "word": "engine",
+      "start": 17.78,
+      "end": 17.98
+    },
+    {
+      "word": "unfortunately",
+      "start": 17.98,
+      "end": 18.34
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

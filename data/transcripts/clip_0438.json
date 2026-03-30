@@ -1,0 +1,200 @@
+{
+  "clip_id": "clip_0438",
+  "text": "All gone up steps. Last car approaching the grid. Now, remember early press turn four. So Lewis 1.3 ahead, Mclare put four behind. One second ahead, put seven behind. Maybe debris exit turn three, overtake mode enabled.",
+  "words": [
+    {
+      "word": "All",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "gone",
+      "start": 0.34,
+      "end": 0.46
+    },
+    {
+      "word": "up",
+      "start": 0.46,
+      "end": 0.58
+    },
+    {
+      "word": "steps.",
+      "start": 0.58,
+      "end": 0.86
+    },
+    {
+      "word": "Last",
+      "start": 1.46,
+      "end": 1.8
+    },
+    {
+      "word": "car",
+      "start": 1.8,
+      "end": 2.08
+    },
+    {
+      "word": "approaching",
+      "start": 2.08,
+      "end": 3.18
+    },
+    {
+      "word": "the",
+      "start": 3.18,
+      "end": 3.42
+    },
+    {
+      "word": "grid.",
+      "start": 3.42,
+      "end": 3.6
+    },
+    {
+      "word": "Now,",
+      "start": 4.44,
+      "end": 4.46
+    },
+    {
+      "word": "remember",
+      "start": 5.4,
+      "end": 5.74
+    },
+    {
+      "word": "early",
+      "start": 5.74,
+      "end": 6.04
+    },
+    {
+      "word": "press",
+      "start": 6.04,
+      "end": 6.32
+    },
+    {
+      "word": "turn",
+      "start": 6.32,
+      "end": 6.56
+    },
+    {
+      "word": "four.",
+      "start": 6.56,
+      "end": 6.88
+    },
+    {
+      "word": "So",
+      "start": 8.3,
+      "end": 8.5
+    },
+    {
+      "word": "Lewis",
+      "start": 8.5,
+      "end": 8.74
+    },
+    {
+      "word": "1",
+      "start": 8.74,
+      "end": 8.94
+    },
+    {
+      "word": ".3",
+      "start": 8.94,
+      "end": 9.28
+    },
+    {
+      "word": "ahead,",
+      "start": 9.28,
+      "end": 9.48
+    },
+    {
+      "word": "Mclare",
+      "start": 9.64,
+      "end": 9.96
+    },
+    {
+      "word": "put",
+      "start": 9.96,
+      "end": 10.14
+    },
+    {
+      "word": "four",
+      "start": 10.14,
+      "end": 10.48
+    },
+    {
+      "word": "behind.",
+      "start": 10.48,
+      "end": 10.82
+    },
+    {
+      "word": "One",
+      "start": 12.36,
+      "end": 12.94
+    },
+    {
+      "word": "second",
+      "start": 12.94,
+      "end": 13.24
+    },
+    {
+      "word": "ahead,",
+      "start": 13.24,
+      "end": 13.48
+    },
+    {
+      "word": "put",
+      "start": 13.7,
+      "end": 13.76
+    },
+    {
+      "word": "seven",
+      "start": 13.76,
+      "end": 13.98
+    },
+    {
+      "word": "behind.",
+      "start": 13.98,
+      "end": 14.36
+    },
+    {
+      "word": "Maybe",
+      "start": 15.9,
+      "end": 16.22
+    },
+    {
+      "word": "debris",
+      "start": 16.22,
+      "end": 16.5
+    },
+    {
+      "word": "exit",
+      "start": 16.5,
+      "end": 16.8
+    },
+    {
+      "word": "turn",
+      "start": 16.8,
+      "end": 17.08
+    },
+    {
+      "word": "three,",
+      "start": 17.08,
+      "end": 17.32
+    },
+    {
+      "word": "overtake",
+      "start": 17.52,
+      "end": 17.9
+    },
+    {
+      "word": "mode",
+      "start": 17.9,
+      "end": 18.1
+    },
+    {
+      "word": "enabled.",
+      "start": 18.1,
+      "end": 18.46
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

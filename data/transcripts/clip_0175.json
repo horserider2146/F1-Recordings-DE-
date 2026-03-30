@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0175",
+  "text": "Plan B will not work with those native tires. Either they are a D or a R. It's not the tire to be on today, unfortunately. Okay, we come back to 30. 30.",
+  "words": [
+    {
+      "word": "Plan",
+      "start": 0.86,
+      "end": 1.22
+    },
+    {
+      "word": "B",
+      "start": 1.22,
+      "end": 1.52
+    },
+    {
+      "word": "will",
+      "start": 1.52,
+      "end": 1.82
+    },
+    {
+      "word": "not",
+      "start": 1.82,
+      "end": 2.0
+    },
+    {
+      "word": "work",
+      "start": 2.0,
+      "end": 2.36
+    },
+    {
+      "word": "with",
+      "start": 2.36,
+      "end": 2.52
+    },
+    {
+      "word": "those",
+      "start": 2.52,
+      "end": 2.7
+    },
+    {
+      "word": "native",
+      "start": 2.7,
+      "end": 3.04
+    },
+    {
+      "word": "tires.",
+      "start": 3.04,
+      "end": 3.38
+    },
+    {
+      "word": "Either",
+      "start": 4.38,
+      "end": 4.74
+    },
+    {
+      "word": "they",
+      "start": 4.74,
+      "end": 4.78
+    },
+    {
+      "word": "are",
+      "start": 4.78,
+      "end": 4.9
+    },
+    {
+      "word": "a",
+      "start": 4.9,
+      "end": 5.02
+    },
+    {
+      "word": "D",
+      "start": 5.02,
+      "end": 5.06
+    },
+    {
+      "word": "or",
+      "start": 5.06,
+      "end": 5.22
+    },
+    {
+      "word": "a",
+      "start": 5.22,
+      "end": 5.38
+    },
+    {
+      "word": "R.",
+      "start": 5.38,
+      "end": 5.52
+    },
+    {
+      "word": "It's",
+      "start": 6.72,
+      "end": 7.08
+    },
+    {
+      "word": "not",
+      "start": 7.08,
+      "end": 7.24
+    },
+    {
+      "word": "the",
+      "start": 7.24,
+      "end": 7.42
+    },
+    {
+      "word": "tire",
+      "start": 7.42,
+      "end": 7.6
+    },
+    {
+      "word": "to",
+      "start": 7.6,
+      "end": 7.78
+    },
+    {
+      "word": "be",
+      "start": 7.78,
+      "end": 7.9
+    },
+    {
+      "word": "on",
+      "start": 7.9,
+      "end": 8.04
+    },
+    {
+      "word": "today,",
+      "start": 8.04,
+      "end": 8.32
+    },
+    {
+      "word": "unfortunately.",
+      "start": 8.5,
+      "end": 8.86
+    },
+    {
+      "word": "Okay,",
+      "start": 13.62,
+      "end": 13.98
+    },
+    {
+      "word": "we",
+      "start": 14.02,
+      "end": 14.1
+    },
+    {
+      "word": "come",
+      "start": 14.1,
+      "end": 14.24
+    },
+    {
+      "word": "back",
+      "start": 14.24,
+      "end": 14.4
+    },
+    {
+      "word": "to",
+      "start": 14.4,
+      "end": 14.56
+    },
+    {
+      "word": "30.",
+      "start": 14.56,
+      "end": 15.0
+    },
+    {
+      "word": "30.",
+      "start": 15.5,
+      "end": 15.86
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

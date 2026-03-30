@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_0521",
+  "text": "Linnblad B is turn 2 About eight cars ahead of us to go Linnblad failed, so it's Stroll in turn 10 If you include the Williams ahead, then there's five cars to go Yeah, the mirror is not working at all, so...",
+  "words": [
+    {
+      "word": "Linnblad",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "B",
+      "start": 0.48,
+      "end": 0.74
+    },
+    {
+      "word": "is",
+      "start": 0.74,
+      "end": 1.04
+    },
+    {
+      "word": "turn",
+      "start": 1.04,
+      "end": 1.38
+    },
+    {
+      "word": "2",
+      "start": 1.38,
+      "end": 1.96
+    },
+    {
+      "word": "About",
+      "start": 3.5,
+      "end": 4.02
+    },
+    {
+      "word": "eight",
+      "start": 4.02,
+      "end": 4.44
+    },
+    {
+      "word": "cars",
+      "start": 4.44,
+      "end": 4.72
+    },
+    {
+      "word": "ahead",
+      "start": 4.72,
+      "end": 4.96
+    },
+    {
+      "word": "of",
+      "start": 4.96,
+      "end": 5.04
+    },
+    {
+      "word": "us",
+      "start": 5.04,
+      "end": 5.22
+    },
+    {
+      "word": "to",
+      "start": 5.22,
+      "end": 5.34
+    },
+    {
+      "word": "go",
+      "start": 5.34,
+      "end": 5.6
+    },
+    {
+      "word": "Linnblad",
+      "start": 7.42,
+      "end": 7.94
+    },
+    {
+      "word": "failed,",
+      "start": 7.94,
+      "end": 8.4
+    },
+    {
+      "word": "so",
+      "start": 8.58,
+      "end": 8.68
+    },
+    {
+      "word": "it's",
+      "start": 8.68,
+      "end": 8.82
+    },
+    {
+      "word": "Stroll",
+      "start": 8.82,
+      "end": 9.2
+    },
+    {
+      "word": "in",
+      "start": 9.2,
+      "end": 9.58
+    },
+    {
+      "word": "turn",
+      "start": 9.58,
+      "end": 9.88
+    },
+    {
+      "word": "10",
+      "start": 9.88,
+      "end": 10.26
+    },
+    {
+      "word": "If",
+      "start": 11.14,
+      "end": 11.66
+    },
+    {
+      "word": "you",
+      "start": 11.66,
+      "end": 11.72
+    },
+    {
+      "word": "include",
+      "start": 11.72,
+      "end": 12.06
+    },
+    {
+      "word": "the",
+      "start": 12.06,
+      "end": 12.26
+    },
+    {
+      "word": "Williams",
+      "start": 12.26,
+      "end": 12.5
+    },
+    {
+      "word": "ahead,",
+      "start": 12.5,
+      "end": 12.88
+    },
+    {
+      "word": "then",
+      "start": 13.02,
+      "end": 13.22
+    },
+    {
+      "word": "there's",
+      "start": 13.22,
+      "end": 13.42
+    },
+    {
+      "word": "five",
+      "start": 13.42,
+      "end": 13.68
+    },
+    {
+      "word": "cars",
+      "start": 13.68,
+      "end": 14.06
+    },
+    {
+      "word": "to",
+      "start": 14.06,
+      "end": 14.24
+    },
+    {
+      "word": "go",
+      "start": 14.24,
+      "end": 14.46
+    },
+    {
+      "word": "Yeah,",
+      "start": 15.84,
+      "end": 16.36
+    },
+    {
+      "word": "the",
+      "start": 16.46,
+      "end": 16.64
+    },
+    {
+      "word": "mirror",
+      "start": 16.64,
+      "end": 17.44
+    },
+    {
+      "word": "is",
+      "start": 17.44,
+      "end": 17.62
+    },
+    {
+      "word": "not",
+      "start": 17.62,
+      "end": 17.78
+    },
+    {
+      "word": "working",
+      "start": 17.78,
+      "end": 18.12
+    },
+    {
+      "word": "at",
+      "start": 18.12,
+      "end": 18.3
+    },
+    {
+      "word": "all,",
+      "start": 18.3,
+      "end": 18.58
+    },
+    {
+      "word": "so...",
+      "start": 18.6,
+      "end": 19.36
+    }
+  ],
+  "language": "en",
+  "word_count": 42,
+  "is_empty": false,
+  "is_very_short": false
+}

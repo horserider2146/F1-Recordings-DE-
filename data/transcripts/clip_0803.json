@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_0803",
+  "text": "Do I have front locking? At any front locking?",
+  "words": [
+    {
+      "word": "Do",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "word": "I",
+      "start": 0.08,
+      "end": 0.2
+    },
+    {
+      "word": "have",
+      "start": 0.2,
+      "end": 0.34
+    },
+    {
+      "word": "front",
+      "start": 0.34,
+      "end": 0.52
+    },
+    {
+      "word": "locking?",
+      "start": 0.52,
+      "end": 0.8
+    },
+    {
+      "word": "At",
+      "start": 1.16,
+      "end": 1.26
+    },
+    {
+      "word": "any",
+      "start": 1.26,
+      "end": 1.5
+    },
+    {
+      "word": "front",
+      "start": 1.5,
+      "end": 1.7
+    },
+    {
+      "word": "locking?",
+      "start": 1.7,
+      "end": 1.92
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

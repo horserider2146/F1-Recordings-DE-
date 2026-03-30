@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_0215",
+  "text": "More 13 now please. Really very good job. More 13, that's a strong race, strong race, a lot of learning. Go race, go race please. More 13. More 13, please. More 13.3 please.",
+  "words": [
+    {
+      "word": "More",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "13",
+      "start": 0.34,
+      "end": 0.78
+    },
+    {
+      "word": "now",
+      "start": 0.78,
+      "end": 0.98
+    },
+    {
+      "word": "please.",
+      "start": 0.98,
+      "end": 1.24
+    },
+    {
+      "word": "Really",
+      "start": 1.9,
+      "end": 2.32
+    },
+    {
+      "word": "very",
+      "start": 2.32,
+      "end": 2.48
+    },
+    {
+      "word": "good",
+      "start": 2.48,
+      "end": 2.68
+    },
+    {
+      "word": "job.",
+      "start": 2.68,
+      "end": 2.88
+    },
+    {
+      "word": "More",
+      "start": 5.74,
+      "end": 6.28
+    },
+    {
+      "word": "13,",
+      "start": 6.28,
+      "end": 6.82
+    },
+    {
+      "word": "that's",
+      "start": 7.02,
+      "end": 7.24
+    },
+    {
+      "word": "a",
+      "start": 7.24,
+      "end": 7.24
+    },
+    {
+      "word": "strong",
+      "start": 7.24,
+      "end": 7.52
+    },
+    {
+      "word": "race,",
+      "start": 7.52,
+      "end": 7.74
+    },
+    {
+      "word": "strong",
+      "start": 7.86,
+      "end": 8.12
+    },
+    {
+      "word": "race,",
+      "start": 8.12,
+      "end": 8.36
+    },
+    {
+      "word": "a",
+      "start": 8.42,
+      "end": 8.48
+    },
+    {
+      "word": "lot",
+      "start": 8.48,
+      "end": 8.56
+    },
+    {
+      "word": "of",
+      "start": 8.56,
+      "end": 8.7
+    },
+    {
+      "word": "learning.",
+      "start": 8.7,
+      "end": 8.94
+    },
+    {
+      "word": "Go",
+      "start": 11.38,
+      "end": 11.92
+    },
+    {
+      "word": "race,",
+      "start": 11.92,
+      "end": 12.3
+    },
+    {
+      "word": "go",
+      "start": 12.36,
+      "end": 12.6
+    },
+    {
+      "word": "race",
+      "start": 12.6,
+      "end": 12.92
+    },
+    {
+      "word": "please.",
+      "start": 12.92,
+      "end": 13.16
+    },
+    {
+      "word": "More",
+      "start": 13.42,
+      "end": 13.6
+    },
+    {
+      "word": "13.",
+      "start": 13.6,
+      "end": 14.26
+    },
+    {
+      "word": "More",
+      "start": 15.52,
+      "end": 16.06
+    },
+    {
+      "word": "13,",
+      "start": 16.06,
+      "end": 16.6
+    },
+    {
+      "word": "please.",
+      "start": 16.8,
+      "end": 16.8
+    },
+    {
+      "word": "More",
+      "start": 17.74,
+      "end": 18.28
+    },
+    {
+      "word": "13",
+      "start": 18.28,
+      "end": 18.8
+    },
+    {
+      "word": ".3",
+      "start": 18.8,
+      "end": 19.28
+    },
+    {
+      "word": "please.",
+      "start": 19.28,
+      "end": 19.56
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

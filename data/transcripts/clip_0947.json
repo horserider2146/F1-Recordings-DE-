@@ -1,0 +1,280 @@
+{
+  "clip_id": "clip_0947",
+  "text": "Yeah, understood. Gap 3.7, oars looking good mate, just keep going. Increase management, turn 8. Increase management, turn 8. Watch up trips into 1, down trips into 1. Gap behind 4.1, no driven losses. End time management, that's it. Okay, another step increase of management, turn 8 please. Little bit more management.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "understood.",
+      "start": 0.52,
+      "end": 0.8
+    },
+    {
+      "word": "Gap",
+      "start": 1.02,
+      "end": 1.14
+    },
+    {
+      "word": "3",
+      "start": 1.14,
+      "end": 1.42
+    },
+    {
+      "word": ".7,",
+      "start": 1.42,
+      "end": 2.14
+    },
+    {
+      "word": "oars",
+      "start": 2.36,
+      "end": 2.64
+    },
+    {
+      "word": "looking",
+      "start": 2.64,
+      "end": 2.78
+    },
+    {
+      "word": "good",
+      "start": 2.78,
+      "end": 3.06
+    },
+    {
+      "word": "mate,",
+      "start": 3.06,
+      "end": 3.22
+    },
+    {
+      "word": "just",
+      "start": 3.28,
+      "end": 3.4
+    },
+    {
+      "word": "keep",
+      "start": 3.4,
+      "end": 3.52
+    },
+    {
+      "word": "going.",
+      "start": 3.52,
+      "end": 3.76
+    },
+    {
+      "word": "Increase",
+      "start": 4.82,
+      "end": 5.3
+    },
+    {
+      "word": "management,",
+      "start": 5.3,
+      "end": 5.64
+    },
+    {
+      "word": "turn",
+      "start": 5.86,
+      "end": 6.06
+    },
+    {
+      "word": "8.",
+      "start": 6.06,
+      "end": 6.56
+    },
+    {
+      "word": "Increase",
+      "start": 6.9,
+      "end": 7.16
+    },
+    {
+      "word": "management,",
+      "start": 7.16,
+      "end": 7.36
+    },
+    {
+      "word": "turn",
+      "start": 7.52,
+      "end": 7.68
+    },
+    {
+      "word": "8.",
+      "start": 7.68,
+      "end": 8.0
+    },
+    {
+      "word": "Watch",
+      "start": 8.26,
+      "end": 8.36
+    },
+    {
+      "word": "up",
+      "start": 8.36,
+      "end": 8.64
+    },
+    {
+      "word": "trips",
+      "start": 8.64,
+      "end": 8.84
+    },
+    {
+      "word": "into",
+      "start": 8.84,
+      "end": 9.1
+    },
+    {
+      "word": "1,",
+      "start": 9.1,
+      "end": 9.28
+    },
+    {
+      "word": "down",
+      "start": 9.52,
+      "end": 9.66
+    },
+    {
+      "word": "trips",
+      "start": 9.66,
+      "end": 9.8
+    },
+    {
+      "word": "into",
+      "start": 9.8,
+      "end": 10.0
+    },
+    {
+      "word": "1.",
+      "start": 10.0,
+      "end": 10.28
+    },
+    {
+      "word": "Gap",
+      "start": 11.18,
+      "end": 11.66
+    },
+    {
+      "word": "behind",
+      "start": 11.66,
+      "end": 11.88
+    },
+    {
+      "word": "4",
+      "start": 11.88,
+      "end": 12.32
+    },
+    {
+      "word": ".1,",
+      "start": 12.32,
+      "end": 12.84
+    },
+    {
+      "word": "no",
+      "start": 13.18,
+      "end": 13.38
+    },
+    {
+      "word": "driven",
+      "start": 13.38,
+      "end": 13.7
+    },
+    {
+      "word": "losses.",
+      "start": 13.7,
+      "end": 14.1
+    },
+    {
+      "word": "End",
+      "start": 14.72,
+      "end": 14.86
+    },
+    {
+      "word": "time",
+      "start": 14.86,
+      "end": 15.1
+    },
+    {
+      "word": "management,",
+      "start": 15.1,
+      "end": 15.36
+    },
+    {
+      "word": "that's",
+      "start": 15.36,
+      "end": 15.64
+    },
+    {
+      "word": "it.",
+      "start": 15.64,
+      "end": 15.74
+    },
+    {
+      "word": "Okay,",
+      "start": 16.04,
+      "end": 16.22
+    },
+    {
+      "word": "another",
+      "start": 16.34,
+      "end": 16.48
+    },
+    {
+      "word": "step",
+      "start": 16.48,
+      "end": 16.86
+    },
+    {
+      "word": "increase",
+      "start": 16.86,
+      "end": 17.22
+    },
+    {
+      "word": "of",
+      "start": 17.22,
+      "end": 17.48
+    },
+    {
+      "word": "management,",
+      "start": 17.48,
+      "end": 17.78
+    },
+    {
+      "word": "turn",
+      "start": 17.96,
+      "end": 18.06
+    },
+    {
+      "word": "8",
+      "start": 18.06,
+      "end": 18.32
+    },
+    {
+      "word": "please.",
+      "start": 18.32,
+      "end": 18.56
+    },
+    {
+      "word": "Little",
+      "start": 18.64,
+      "end": 18.74
+    },
+    {
+      "word": "bit",
+      "start": 18.74,
+      "end": 18.84
+    },
+    {
+      "word": "more",
+      "start": 18.84,
+      "end": 18.94
+    },
+    {
+      "word": "management.",
+      "start": 18.94,
+      "end": 19.2
+    }
+  ],
+  "language": "en",
+  "word_count": 52,
+  "is_empty": false,
+  "is_very_short": false
+}

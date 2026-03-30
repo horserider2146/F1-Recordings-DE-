@@ -1,0 +1,355 @@
+{
+  "clip_id": "clip_1037",
+  "text": "You made me achieve one of my dreams. Thank you. No, well done mate. Yeah, I've got this one ticked off. The few more to do as well. He's too young. We shouldn't put him in a Mercedes. Put him in a smaller team. You need the experience. Look at the mistakes he make. Here we go, Kimi. Victory. Thanks Otto. And congratulations to the Club of the Mercedes.",
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.74
+    },
+    {
+      "word": "made",
+      "start": 0.74,
+      "end": 0.92
+    },
+    {
+      "word": "me",
+      "start": 0.92,
+      "end": 1.08
+    },
+    {
+      "word": "achieve",
+      "start": 1.08,
+      "end": 1.28
+    },
+    {
+      "word": "one",
+      "start": 1.28,
+      "end": 1.52
+    },
+    {
+      "word": "of",
+      "start": 1.52,
+      "end": 1.62
+    },
+    {
+      "word": "my",
+      "start": 1.62,
+      "end": 1.78
+    },
+    {
+      "word": "dreams.",
+      "start": 1.78,
+      "end": 2.06
+    },
+    {
+      "word": "Thank",
+      "start": 2.46,
+      "end": 2.7
+    },
+    {
+      "word": "you.",
+      "start": 2.7,
+      "end": 3.1
+    },
+    {
+      "word": "No,",
+      "start": 3.36,
+      "end": 3.64
+    },
+    {
+      "word": "well",
+      "start": 3.68,
+      "end": 3.86
+    },
+    {
+      "word": "done",
+      "start": 3.86,
+      "end": 4.06
+    },
+    {
+      "word": "mate.",
+      "start": 4.06,
+      "end": 4.24
+    },
+    {
+      "word": "Yeah,",
+      "start": 4.6,
+      "end": 4.7
+    },
+    {
+      "word": "I've",
+      "start": 4.72,
+      "end": 4.8
+    },
+    {
+      "word": "got",
+      "start": 4.8,
+      "end": 4.88
+    },
+    {
+      "word": "this",
+      "start": 4.88,
+      "end": 5.08
+    },
+    {
+      "word": "one",
+      "start": 5.08,
+      "end": 5.22
+    },
+    {
+      "word": "ticked",
+      "start": 5.22,
+      "end": 5.56
+    },
+    {
+      "word": "off.",
+      "start": 5.56,
+      "end": 5.7
+    },
+    {
+      "word": "The",
+      "start": 6.02,
+      "end": 6.12
+    },
+    {
+      "word": "few",
+      "start": 6.12,
+      "end": 6.28
+    },
+    {
+      "word": "more",
+      "start": 6.28,
+      "end": 6.48
+    },
+    {
+      "word": "to",
+      "start": 6.48,
+      "end": 6.62
+    },
+    {
+      "word": "do",
+      "start": 6.62,
+      "end": 6.82
+    },
+    {
+      "word": "as",
+      "start": 6.82,
+      "end": 7.0
+    },
+    {
+      "word": "well.",
+      "start": 7.0,
+      "end": 7.22
+    },
+    {
+      "word": "He's",
+      "start": 7.44,
+      "end": 7.76
+    },
+    {
+      "word": "too",
+      "start": 7.76,
+      "end": 7.92
+    },
+    {
+      "word": "young.",
+      "start": 7.92,
+      "end": 8.2
+    },
+    {
+      "word": "We",
+      "start": 8.62,
+      "end": 8.68
+    },
+    {
+      "word": "shouldn't",
+      "start": 8.68,
+      "end": 9.0
+    },
+    {
+      "word": "put",
+      "start": 9.0,
+      "end": 9.14
+    },
+    {
+      "word": "him",
+      "start": 9.14,
+      "end": 9.3
+    },
+    {
+      "word": "in",
+      "start": 9.3,
+      "end": 9.4
+    },
+    {
+      "word": "a",
+      "start": 9.4,
+      "end": 9.48
+    },
+    {
+      "word": "Mercedes.",
+      "start": 9.48,
+      "end": 9.76
+    },
+    {
+      "word": "Put",
+      "start": 10.48,
+      "end": 10.68
+    },
+    {
+      "word": "him",
+      "start": 10.68,
+      "end": 10.82
+    },
+    {
+      "word": "in",
+      "start": 10.82,
+      "end": 10.92
+    },
+    {
+      "word": "a",
+      "start": 10.92,
+      "end": 11.0
+    },
+    {
+      "word": "smaller",
+      "start": 11.0,
+      "end": 11.28
+    },
+    {
+      "word": "team.",
+      "start": 11.28,
+      "end": 11.7
+    },
+    {
+      "word": "You",
+      "start": 11.98,
+      "end": 12.08
+    },
+    {
+      "word": "need",
+      "start": 12.08,
+      "end": 12.22
+    },
+    {
+      "word": "the",
+      "start": 12.22,
+      "end": 12.36
+    },
+    {
+      "word": "experience.",
+      "start": 12.36,
+      "end": 12.84
+    },
+    {
+      "word": "Look",
+      "start": 13.06,
+      "end": 13.18
+    },
+    {
+      "word": "at",
+      "start": 13.18,
+      "end": 13.32
+    },
+    {
+      "word": "the",
+      "start": 13.32,
+      "end": 13.4
+    },
+    {
+      "word": "mistakes",
+      "start": 13.4,
+      "end": 13.6
+    },
+    {
+      "word": "he",
+      "start": 13.6,
+      "end": 13.94
+    },
+    {
+      "word": "make.",
+      "start": 13.94,
+      "end": 14.14
+    },
+    {
+      "word": "Here",
+      "start": 14.56,
+      "end": 14.72
+    },
+    {
+      "word": "we",
+      "start": 14.72,
+      "end": 14.86
+    },
+    {
+      "word": "go,",
+      "start": 14.86,
+      "end": 15.02
+    },
+    {
+      "word": "Kimi.",
+      "start": 15.16,
+      "end": 15.4
+    },
+    {
+      "word": "Victory.",
+      "start": 16.02,
+      "end": 16.02
+    },
+    {
+      "word": "Thanks",
+      "start": 16.68,
+      "end": 16.94
+    },
+    {
+      "word": "Otto.",
+      "start": 16.94,
+      "end": 17.24
+    },
+    {
+      "word": "And",
+      "start": 17.9,
+      "end": 18.3
+    },
+    {
+      "word": "congratulations",
+      "start": 18.3,
+      "end": 18.7
+    },
+    {
+      "word": "to",
+      "start": 18.7,
+      "end": 19.16
+    },
+    {
+      "word": "the",
+      "start": 19.16,
+      "end": 19.26
+    },
+    {
+      "word": "Club",
+      "start": 19.26,
+      "end": 19.48
+    },
+    {
+      "word": "of",
+      "start": 19.48,
+      "end": 19.68
+    },
+    {
+      "word": "the",
+      "start": 19.68,
+      "end": 19.8
+    },
+    {
+      "word": "Mercedes.",
+      "start": 19.8,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 69,
+  "is_empty": false,
+  "is_very_short": false
+}

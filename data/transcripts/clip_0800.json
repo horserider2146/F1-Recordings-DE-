@@ -1,0 +1,100 @@
+{
+  "clip_id": "clip_0800",
+  "text": "for the wave bridge and compared to 4 to that it will lose a bit 9 and 16",
+  "words": [
+    {
+      "word": "for",
+      "start": 1.56,
+      "end": 1.9
+    },
+    {
+      "word": "the",
+      "start": 1.9,
+      "end": 2.0
+    },
+    {
+      "word": "wave",
+      "start": 2.0,
+      "end": 2.16
+    },
+    {
+      "word": "bridge",
+      "start": 2.16,
+      "end": 2.46
+    },
+    {
+      "word": "and",
+      "start": 2.46,
+      "end": 4.46
+    },
+    {
+      "word": "compared",
+      "start": 4.46,
+      "end": 4.76
+    },
+    {
+      "word": "to",
+      "start": 4.76,
+      "end": 4.96
+    },
+    {
+      "word": "4",
+      "start": 4.96,
+      "end": 5.14
+    },
+    {
+      "word": "to",
+      "start": 5.14,
+      "end": 5.28
+    },
+    {
+      "word": "that",
+      "start": 5.28,
+      "end": 5.42
+    },
+    {
+      "word": "it",
+      "start": 5.42,
+      "end": 5.54
+    },
+    {
+      "word": "will",
+      "start": 5.54,
+      "end": 5.7
+    },
+    {
+      "word": "lose",
+      "start": 5.7,
+      "end": 6.06
+    },
+    {
+      "word": "a",
+      "start": 6.06,
+      "end": 6.16
+    },
+    {
+      "word": "bit",
+      "start": 6.16,
+      "end": 6.24
+    },
+    {
+      "word": "9",
+      "start": 6.24,
+      "end": 6.54
+    },
+    {
+      "word": "and",
+      "start": 6.54,
+      "end": 6.66
+    },
+    {
+      "word": "16",
+      "start": 6.66,
+      "end": 7.08
+    }
+  ],
+  "language": "en",
+  "word_count": 18,
+  "is_empty": false,
+  "is_very_short": false
+}

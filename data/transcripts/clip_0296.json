@@ -1,0 +1,145 @@
+{
+  "clip_id": "clip_0296",
+  "text": "Franco finished. So Franco finished P10. P10. Ah, good. Anyway, it's been a very good weekend guys. Thanks for the car. It was very enjoyable to see.",
+  "words": [
+    {
+      "word": "Franco",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "finished.",
+      "start": 0.18,
+      "end": 0.46
+    },
+    {
+      "word": "So",
+      "start": 1.16,
+      "end": 1.58
+    },
+    {
+      "word": "Franco",
+      "start": 1.58,
+      "end": 2.12
+    },
+    {
+      "word": "finished",
+      "start": 2.12,
+      "end": 2.84
+    },
+    {
+      "word": "P10.",
+      "start": 2.84,
+      "end": 3.46
+    },
+    {
+      "word": "P10.",
+      "start": 4.08,
+      "end": 4.34
+    },
+    {
+      "word": "Ah,",
+      "start": 4.64,
+      "end": 4.78
+    },
+    {
+      "word": "good.",
+      "start": 4.88,
+      "end": 5.02
+    },
+    {
+      "word": "Anyway,",
+      "start": 9.32,
+      "end": 9.9
+    },
+    {
+      "word": "it's",
+      "start": 10.3,
+      "end": 10.32
+    },
+    {
+      "word": "been",
+      "start": 10.32,
+      "end": 10.46
+    },
+    {
+      "word": "a",
+      "start": 10.46,
+      "end": 10.58
+    },
+    {
+      "word": "very",
+      "start": 10.58,
+      "end": 10.74
+    },
+    {
+      "word": "good",
+      "start": 10.74,
+      "end": 10.92
+    },
+    {
+      "word": "weekend",
+      "start": 10.92,
+      "end": 11.12
+    },
+    {
+      "word": "guys.",
+      "start": 11.12,
+      "end": 11.64
+    },
+    {
+      "word": "Thanks",
+      "start": 13.14,
+      "end": 13.72
+    },
+    {
+      "word": "for",
+      "start": 13.72,
+      "end": 13.94
+    },
+    {
+      "word": "the",
+      "start": 13.94,
+      "end": 14.04
+    },
+    {
+      "word": "car.",
+      "start": 14.04,
+      "end": 14.3
+    },
+    {
+      "word": "It",
+      "start": 15.8,
+      "end": 16.38
+    },
+    {
+      "word": "was",
+      "start": 16.38,
+      "end": 16.96
+    },
+    {
+      "word": "very",
+      "start": 16.96,
+      "end": 17.32
+    },
+    {
+      "word": "enjoyable",
+      "start": 17.32,
+      "end": 18.02
+    },
+    {
+      "word": "to",
+      "start": 18.02,
+      "end": 18.26
+    },
+    {
+      "word": "see.",
+      "start": 18.26,
+      "end": 18.52
+    }
+  ],
+  "language": "en",
+  "word_count": 27,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,85 @@
+{
+  "clip_id": "clip_0089",
+  "text": "Okay, let's try, give me a good feedback on the build up about the wind.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "let's",
+      "start": 0.34,
+      "end": 0.54
+    },
+    {
+      "word": "try,",
+      "start": 0.54,
+      "end": 0.74
+    },
+    {
+      "word": "give",
+      "start": 1.04,
+      "end": 1.18
+    },
+    {
+      "word": "me",
+      "start": 1.18,
+      "end": 1.34
+    },
+    {
+      "word": "a",
+      "start": 1.34,
+      "end": 1.4
+    },
+    {
+      "word": "good",
+      "start": 1.4,
+      "end": 1.52
+    },
+    {
+      "word": "feedback",
+      "start": 1.52,
+      "end": 1.86
+    },
+    {
+      "word": "on",
+      "start": 1.86,
+      "end": 2.08
+    },
+    {
+      "word": "the",
+      "start": 2.08,
+      "end": 2.18
+    },
+    {
+      "word": "build",
+      "start": 2.18,
+      "end": 2.38
+    },
+    {
+      "word": "up",
+      "start": 2.38,
+      "end": 2.56
+    },
+    {
+      "word": "about",
+      "start": 2.56,
+      "end": 2.76
+    },
+    {
+      "word": "the",
+      "start": 2.76,
+      "end": 2.94
+    },
+    {
+      "word": "wind.",
+      "start": 2.94,
+      "end": 3.04
+    }
+  ],
+  "language": "en",
+  "word_count": 15,
+  "is_empty": false,
+  "is_very_short": false
+}

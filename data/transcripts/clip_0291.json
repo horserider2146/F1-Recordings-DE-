@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0291",
+  "text": "But good work, great work in fact. That was an incredible race, incredible work. The car was a beast today, as it has been all weekend. Yeah, well done Ali. 30 is there, excellent work. You too, you too.",
+  "words": [
+    {
+      "word": "But",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "good",
+      "start": 0.46,
+      "end": 0.66
+    },
+    {
+      "word": "work,",
+      "start": 0.66,
+      "end": 0.86
+    },
+    {
+      "word": "great",
+      "start": 1.14,
+      "end": 1.28
+    },
+    {
+      "word": "work",
+      "start": 1.28,
+      "end": 1.5
+    },
+    {
+      "word": "in",
+      "start": 1.5,
+      "end": 1.72
+    },
+    {
+      "word": "fact.",
+      "start": 1.72,
+      "end": 1.96
+    },
+    {
+      "word": "That",
+      "start": 2.32,
+      "end": 2.5
+    },
+    {
+      "word": "was",
+      "start": 2.5,
+      "end": 2.64
+    },
+    {
+      "word": "an",
+      "start": 2.64,
+      "end": 2.74
+    },
+    {
+      "word": "incredible",
+      "start": 2.74,
+      "end": 3.04
+    },
+    {
+      "word": "race,",
+      "start": 3.04,
+      "end": 3.5
+    },
+    {
+      "word": "incredible",
+      "start": 3.78,
+      "end": 4.32
+    },
+    {
+      "word": "work.",
+      "start": 4.32,
+      "end": 4.78
+    },
+    {
+      "word": "The",
+      "start": 5.48,
+      "end": 5.74
+    },
+    {
+      "word": "car",
+      "start": 5.74,
+      "end": 5.94
+    },
+    {
+      "word": "was",
+      "start": 5.94,
+      "end": 6.1
+    },
+    {
+      "word": "a",
+      "start": 6.1,
+      "end": 6.22
+    },
+    {
+      "word": "beast",
+      "start": 6.22,
+      "end": 6.38
+    },
+    {
+      "word": "today,",
+      "start": 6.38,
+      "end": 6.78
+    },
+    {
+      "word": "as",
+      "start": 7.24,
+      "end": 7.46
+    },
+    {
+      "word": "it",
+      "start": 7.46,
+      "end": 7.58
+    },
+    {
+      "word": "has",
+      "start": 7.58,
+      "end": 7.7
+    },
+    {
+      "word": "been",
+      "start": 7.7,
+      "end": 7.88
+    },
+    {
+      "word": "all",
+      "start": 7.88,
+      "end": 8.02
+    },
+    {
+      "word": "weekend.",
+      "start": 8.02,
+      "end": 8.28
+    },
+    {
+      "word": "Yeah,",
+      "start": 12.74,
+      "end": 13.18
+    },
+    {
+      "word": "well",
+      "start": 13.3,
+      "end": 13.36
+    },
+    {
+      "word": "done",
+      "start": 13.36,
+      "end": 13.54
+    },
+    {
+      "word": "Ali.",
+      "start": 13.54,
+      "end": 13.7
+    },
+    {
+      "word": "30",
+      "start": 14.12,
+      "end": 14.56
+    },
+    {
+      "word": "is",
+      "start": 14.56,
+      "end": 14.76
+    },
+    {
+      "word": "there,",
+      "start": 14.76,
+      "end": 14.9
+    },
+    {
+      "word": "excellent",
+      "start": 15.06,
+      "end": 15.32
+    },
+    {
+      "word": "work.",
+      "start": 15.32,
+      "end": 15.62
+    },
+    {
+      "word": "You",
+      "start": 17.06,
+      "end": 17.46
+    },
+    {
+      "word": "too,",
+      "start": 17.46,
+      "end": 17.66
+    },
+    {
+      "word": "you",
+      "start": 18.2,
+      "end": 18.46
+    },
+    {
+      "word": "too.",
+      "start": 18.46,
+      "end": 18.68
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

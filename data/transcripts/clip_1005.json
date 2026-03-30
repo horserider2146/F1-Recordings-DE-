@@ -1,0 +1,115 @@
+{
+  "clip_id": "clip_1005",
+  "text": "and focus on turn seven and eight, they will help later on. Overtake enabled, if you're clerked behind, we'll have overtake.",
+  "words": [
+    {
+      "word": "and",
+      "start": 10.22,
+      "end": 10.72
+    },
+    {
+      "word": "focus",
+      "start": 10.72,
+      "end": 11.02
+    },
+    {
+      "word": "on",
+      "start": 11.02,
+      "end": 11.32
+    },
+    {
+      "word": "turn",
+      "start": 11.32,
+      "end": 11.46
+    },
+    {
+      "word": "seven",
+      "start": 11.46,
+      "end": 11.72
+    },
+    {
+      "word": "and",
+      "start": 11.72,
+      "end": 11.88
+    },
+    {
+      "word": "eight,",
+      "start": 11.88,
+      "end": 12.1
+    },
+    {
+      "word": "they",
+      "start": 12.4,
+      "end": 12.5
+    },
+    {
+      "word": "will",
+      "start": 12.5,
+      "end": 12.6
+    },
+    {
+      "word": "help",
+      "start": 12.6,
+      "end": 12.84
+    },
+    {
+      "word": "later",
+      "start": 12.84,
+      "end": 13.2
+    },
+    {
+      "word": "on.",
+      "start": 13.2,
+      "end": 13.46
+    },
+    {
+      "word": "Overtake",
+      "start": 14.9,
+      "end": 15.4
+    },
+    {
+      "word": "enabled,",
+      "start": 15.4,
+      "end": 15.7
+    },
+    {
+      "word": "if",
+      "start": 15.92,
+      "end": 15.96
+    },
+    {
+      "word": "you're",
+      "start": 15.96,
+      "end": 16.08
+    },
+    {
+      "word": "clerked",
+      "start": 16.08,
+      "end": 16.36
+    },
+    {
+      "word": "behind,",
+      "start": 16.36,
+      "end": 16.52
+    },
+    {
+      "word": "we'll",
+      "start": 16.66,
+      "end": 16.86
+    },
+    {
+      "word": "have",
+      "start": 16.86,
+      "end": 17.0
+    },
+    {
+      "word": "overtake.",
+      "start": 17.0,
+      "end": 17.44
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

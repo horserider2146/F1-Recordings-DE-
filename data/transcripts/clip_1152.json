@@ -1,0 +1,75 @@
+{
+  "clip_id": "clip_1152",
+  "text": "All right, in terms of tires, we've got hard tires on the axle.",
+  "words": [
+    {
+      "word": "All",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "word": "right,",
+      "start": 0.08,
+      "end": 0.24
+    },
+    {
+      "word": "in",
+      "start": 0.38,
+      "end": 0.42
+    },
+    {
+      "word": "terms",
+      "start": 0.42,
+      "end": 0.58
+    },
+    {
+      "word": "of",
+      "start": 0.58,
+      "end": 0.82
+    },
+    {
+      "word": "tires,",
+      "start": 0.82,
+      "end": 1.7
+    },
+    {
+      "word": "we've",
+      "start": 2.04,
+      "end": 2.18
+    },
+    {
+      "word": "got",
+      "start": 2.18,
+      "end": 2.32
+    },
+    {
+      "word": "hard",
+      "start": 2.32,
+      "end": 2.68
+    },
+    {
+      "word": "tires",
+      "start": 2.68,
+      "end": 3.06
+    },
+    {
+      "word": "on",
+      "start": 3.06,
+      "end": 3.5
+    },
+    {
+      "word": "the",
+      "start": 3.5,
+      "end": 3.64
+    },
+    {
+      "word": "axle.",
+      "start": 3.64,
+      "end": 3.74
+    }
+  ],
+  "language": "en",
+  "word_count": 13,
+  "is_empty": false,
+  "is_very_short": false
+}

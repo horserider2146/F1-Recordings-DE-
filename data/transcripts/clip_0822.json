@@ -1,0 +1,245 @@
+{
+  "clip_id": "clip_0822",
+  "text": "This little troll is the cocky one. Yeah, back is clear, Russell is moving. And it's 170 kph, he's going very slow though. Hello? Yeah, 275 and a strip. Do you copy? Radio check. Really? Yeah, Russell is moving. Russell is moving. This radio is cutting off.",
+  "words": [
+    {
+      "word": "This",
+      "start": 0.6,
+      "end": 1.08
+    },
+    {
+      "word": "little",
+      "start": 1.08,
+      "end": 1.24
+    },
+    {
+      "word": "troll",
+      "start": 1.24,
+      "end": 1.46
+    },
+    {
+      "word": "is",
+      "start": 1.46,
+      "end": 1.6
+    },
+    {
+      "word": "the",
+      "start": 1.6,
+      "end": 1.72
+    },
+    {
+      "word": "cocky",
+      "start": 1.72,
+      "end": 2.06
+    },
+    {
+      "word": "one.",
+      "start": 2.06,
+      "end": 2.22
+    },
+    {
+      "word": "Yeah,",
+      "start": 2.6,
+      "end": 2.78
+    },
+    {
+      "word": "back",
+      "start": 2.96,
+      "end": 3.22
+    },
+    {
+      "word": "is",
+      "start": 3.22,
+      "end": 3.38
+    },
+    {
+      "word": "clear,",
+      "start": 3.38,
+      "end": 3.58
+    },
+    {
+      "word": "Russell",
+      "start": 3.82,
+      "end": 3.92
+    },
+    {
+      "word": "is",
+      "start": 3.92,
+      "end": 4.16
+    },
+    {
+      "word": "moving.",
+      "start": 4.16,
+      "end": 4.48
+    },
+    {
+      "word": "And",
+      "start": 5.0,
+      "end": 5.06
+    },
+    {
+      "word": "it's",
+      "start": 5.06,
+      "end": 5.2
+    },
+    {
+      "word": "170",
+      "start": 5.2,
+      "end": 5.84
+    },
+    {
+      "word": "kph,",
+      "start": 5.84,
+      "end": 6.28
+    },
+    {
+      "word": "he's",
+      "start": 6.98,
+      "end": 7.2
+    },
+    {
+      "word": "going",
+      "start": 7.2,
+      "end": 7.4
+    },
+    {
+      "word": "very",
+      "start": 7.4,
+      "end": 7.74
+    },
+    {
+      "word": "slow",
+      "start": 7.74,
+      "end": 8.04
+    },
+    {
+      "word": "though.",
+      "start": 8.04,
+      "end": 8.28
+    },
+    {
+      "word": "Hello?",
+      "start": 9.64,
+      "end": 10.12
+    },
+    {
+      "word": "Yeah,",
+      "start": 10.7,
+      "end": 10.94
+    },
+    {
+      "word": "275",
+      "start": 11.24,
+      "end": 11.98
+    },
+    {
+      "word": "and",
+      "start": 11.98,
+      "end": 12.24
+    },
+    {
+      "word": "a",
+      "start": 12.24,
+      "end": 12.4
+    },
+    {
+      "word": "strip.",
+      "start": 12.4,
+      "end": 12.54
+    },
+    {
+      "word": "Do",
+      "start": 12.74,
+      "end": 12.78
+    },
+    {
+      "word": "you",
+      "start": 12.78,
+      "end": 12.88
+    },
+    {
+      "word": "copy?",
+      "start": 12.88,
+      "end": 13.06
+    },
+    {
+      "word": "Radio",
+      "start": 13.34,
+      "end": 13.56
+    },
+    {
+      "word": "check.",
+      "start": 13.56,
+      "end": 13.8
+    },
+    {
+      "word": "Really?",
+      "start": 14.94,
+      "end": 15.42
+    },
+    {
+      "word": "Yeah,",
+      "start": 15.9,
+      "end": 16.38
+    },
+    {
+      "word": "Russell",
+      "start": 16.66,
+      "end": 16.86
+    },
+    {
+      "word": "is",
+      "start": 16.86,
+      "end": 17.04
+    },
+    {
+      "word": "moving.",
+      "start": 17.04,
+      "end": 17.3
+    },
+    {
+      "word": "Russell",
+      "start": 17.84,
+      "end": 17.94
+    },
+    {
+      "word": "is",
+      "start": 17.94,
+      "end": 18.12
+    },
+    {
+      "word": "moving.",
+      "start": 18.12,
+      "end": 18.38
+    },
+    {
+      "word": "This",
+      "start": 18.78,
+      "end": 18.94
+    },
+    {
+      "word": "radio",
+      "start": 18.94,
+      "end": 19.16
+    },
+    {
+      "word": "is",
+      "start": 19.16,
+      "end": 19.32
+    },
+    {
+      "word": "cutting",
+      "start": 19.32,
+      "end": 19.46
+    },
+    {
+      "word": "off.",
+      "start": 19.46,
+      "end": 19.72
+    }
+  ],
+  "language": "en",
+  "word_count": 47,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,230 @@
+{
+  "clip_id": "clip_1101",
+  "text": "Main lost is apex corner 11 is 6kph faster than new, same gear. Take picture, Fernando has pitted for medium, he is now being locked by Anton Elling. We are not covering him, but safety car window is open. Yellow corner 3, double yellow.",
+  "words": [
+    {
+      "word": "Main",
+      "start": 0.0,
+      "end": 1.04
+    },
+    {
+      "word": "lost",
+      "start": 1.04,
+      "end": 1.36
+    },
+    {
+      "word": "is",
+      "start": 1.36,
+      "end": 2.2
+    },
+    {
+      "word": "apex",
+      "start": 2.2,
+      "end": 2.68
+    },
+    {
+      "word": "corner",
+      "start": 2.68,
+      "end": 3.06
+    },
+    {
+      "word": "11",
+      "start": 3.06,
+      "end": 3.46
+    },
+    {
+      "word": "is",
+      "start": 3.46,
+      "end": 3.74
+    },
+    {
+      "word": "6kph",
+      "start": 3.74,
+      "end": 4.76
+    },
+    {
+      "word": "faster",
+      "start": 4.76,
+      "end": 5.18
+    },
+    {
+      "word": "than",
+      "start": 5.18,
+      "end": 5.4
+    },
+    {
+      "word": "new,",
+      "start": 5.4,
+      "end": 5.6
+    },
+    {
+      "word": "same",
+      "start": 5.88,
+      "end": 6.18
+    },
+    {
+      "word": "gear.",
+      "start": 6.18,
+      "end": 6.48
+    },
+    {
+      "word": "Take",
+      "start": 7.3,
+      "end": 7.94
+    },
+    {
+      "word": "picture,",
+      "start": 7.94,
+      "end": 8.3
+    },
+    {
+      "word": "Fernando",
+      "start": 8.56,
+      "end": 8.92
+    },
+    {
+      "word": "has",
+      "start": 8.92,
+      "end": 9.2
+    },
+    {
+      "word": "pitted",
+      "start": 9.2,
+      "end": 9.5
+    },
+    {
+      "word": "for",
+      "start": 9.5,
+      "end": 9.76
+    },
+    {
+      "word": "medium,",
+      "start": 9.76,
+      "end": 10.08
+    },
+    {
+      "word": "he",
+      "start": 10.5,
+      "end": 10.5
+    },
+    {
+      "word": "is",
+      "start": 10.5,
+      "end": 10.6
+    },
+    {
+      "word": "now",
+      "start": 10.6,
+      "end": 10.84
+    },
+    {
+      "word": "being",
+      "start": 10.84,
+      "end": 11.16
+    },
+    {
+      "word": "locked",
+      "start": 11.16,
+      "end": 11.42
+    },
+    {
+      "word": "by",
+      "start": 11.42,
+      "end": 11.7
+    },
+    {
+      "word": "Anton",
+      "start": 11.7,
+      "end": 11.92
+    },
+    {
+      "word": "Elling.",
+      "start": 11.92,
+      "end": 12.26
+    },
+    {
+      "word": "We",
+      "start": 12.64,
+      "end": 13.28
+    },
+    {
+      "word": "are",
+      "start": 13.28,
+      "end": 13.38
+    },
+    {
+      "word": "not",
+      "start": 13.38,
+      "end": 13.54
+    },
+    {
+      "word": "covering",
+      "start": 13.54,
+      "end": 13.92
+    },
+    {
+      "word": "him,",
+      "start": 13.92,
+      "end": 14.24
+    },
+    {
+      "word": "but",
+      "start": 14.42,
+      "end": 14.56
+    },
+    {
+      "word": "safety",
+      "start": 14.56,
+      "end": 14.88
+    },
+    {
+      "word": "car",
+      "start": 14.88,
+      "end": 15.24
+    },
+    {
+      "word": "window",
+      "start": 15.24,
+      "end": 15.5
+    },
+    {
+      "word": "is",
+      "start": 15.5,
+      "end": 15.84
+    },
+    {
+      "word": "open.",
+      "start": 15.84,
+      "end": 16.16
+    },
+    {
+      "word": "Yellow",
+      "start": 17.48,
+      "end": 18.12
+    },
+    {
+      "word": "corner",
+      "start": 18.12,
+      "end": 18.44
+    },
+    {
+      "word": "3,",
+      "start": 18.44,
+      "end": 18.86
+    },
+    {
+      "word": "double",
+      "start": 19.16,
+      "end": 19.4
+    },
+    {
+      "word": "yellow.",
+      "start": 19.4,
+      "end": 19.74
+    }
+  ],
+  "language": "en",
+  "word_count": 44,
+  "is_empty": false,
+  "is_very_short": false
+}

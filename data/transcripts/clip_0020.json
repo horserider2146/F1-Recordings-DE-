@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0020",
+  "text": "If you can't, you should be clear ahead. 16 seconds to piastry. The wider turning, the very wider turning at three. Nice hat things. Weeding at 11. So on and off. Big wheel at 14. Just guess you're going ahead.",
+  "words": [
+    {
+      "word": "If",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "you",
+      "start": 0.2,
+      "end": 0.34
+    },
+    {
+      "word": "can't,",
+      "start": 0.34,
+      "end": 0.62
+    },
+    {
+      "word": "you",
+      "start": 0.68,
+      "end": 0.68
+    },
+    {
+      "word": "should",
+      "start": 0.68,
+      "end": 0.74
+    },
+    {
+      "word": "be",
+      "start": 0.74,
+      "end": 0.82
+    },
+    {
+      "word": "clear",
+      "start": 0.82,
+      "end": 1.0
+    },
+    {
+      "word": "ahead.",
+      "start": 1.0,
+      "end": 1.16
+    },
+    {
+      "word": "16",
+      "start": 1.36,
+      "end": 1.64
+    },
+    {
+      "word": "seconds",
+      "start": 1.64,
+      "end": 1.94
+    },
+    {
+      "word": "to",
+      "start": 1.94,
+      "end": 2.16
+    },
+    {
+      "word": "piastry.",
+      "start": 2.16,
+      "end": 2.78
+    },
+    {
+      "word": "The",
+      "start": 3.74,
+      "end": 4.26
+    },
+    {
+      "word": "wider",
+      "start": 4.26,
+      "end": 4.5
+    },
+    {
+      "word": "turning,",
+      "start": 4.5,
+      "end": 5.16
+    },
+    {
+      "word": "the",
+      "start": 5.62,
+      "end": 5.86
+    },
+    {
+      "word": "very",
+      "start": 5.86,
+      "end": 6.44
+    },
+    {
+      "word": "wider",
+      "start": 6.44,
+      "end": 6.76
+    },
+    {
+      "word": "turning",
+      "start": 6.76,
+      "end": 7.06
+    },
+    {
+      "word": "at",
+      "start": 7.06,
+      "end": 7.24
+    },
+    {
+      "word": "three.",
+      "start": 7.24,
+      "end": 7.42
+    },
+    {
+      "word": "Nice",
+      "start": 9.16,
+      "end": 9.58
+    },
+    {
+      "word": "hat",
+      "start": 9.58,
+      "end": 9.78
+    },
+    {
+      "word": "things.",
+      "start": 9.78,
+      "end": 10.0
+    },
+    {
+      "word": "Weeding",
+      "start": 12.38,
+      "end": 12.9
+    },
+    {
+      "word": "at",
+      "start": 12.9,
+      "end": 13.08
+    },
+    {
+      "word": "11.",
+      "start": 13.08,
+      "end": 13.36
+    },
+    {
+      "word": "So",
+      "start": 14.94,
+      "end": 15.2
+    },
+    {
+      "word": "on",
+      "start": 15.2,
+      "end": 15.72
+    },
+    {
+      "word": "and",
+      "start": 15.72,
+      "end": 15.84
+    },
+    {
+      "word": "off.",
+      "start": 15.84,
+      "end": 16.04
+    },
+    {
+      "word": "Big",
+      "start": 16.66,
+      "end": 17.08
+    },
+    {
+      "word": "wheel",
+      "start": 17.08,
+      "end": 17.22
+    },
+    {
+      "word": "at",
+      "start": 17.22,
+      "end": 17.48
+    },
+    {
+      "word": "14.",
+      "start": 17.48,
+      "end": 17.98
+    },
+    {
+      "word": "Just",
+      "start": 18.7,
+      "end": 18.88
+    },
+    {
+      "word": "guess",
+      "start": 18.88,
+      "end": 19.12
+    },
+    {
+      "word": "you're",
+      "start": 19.12,
+      "end": 19.38
+    },
+    {
+      "word": "going",
+      "start": 19.38,
+      "end": 19.46
+    },
+    {
+      "word": "ahead.",
+      "start": 19.46,
+      "end": 19.78
+    }
+  ],
+  "language": "en",
+  "word_count": 40,
+  "is_empty": false,
+  "is_very_short": false
+}

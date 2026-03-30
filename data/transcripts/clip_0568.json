@@ -1,0 +1,125 @@
+{
+  "clip_id": "clip_0568",
+  "text": "6th 10th from Antonelli and 3 10th and a half from Charles just a 2 takes us alpha 10th 1st sector with Antonelli",
+  "words": [
+    {
+      "word": "6th",
+      "start": 1.68,
+      "end": 2.48
+    },
+    {
+      "word": "10th",
+      "start": 2.48,
+      "end": 2.74
+    },
+    {
+      "word": "from",
+      "start": 2.74,
+      "end": 3.04
+    },
+    {
+      "word": "Antonelli",
+      "start": 3.04,
+      "end": 3.9
+    },
+    {
+      "word": "and",
+      "start": 5.08,
+      "end": 5.88
+    },
+    {
+      "word": "3",
+      "start": 5.88,
+      "end": 6.68
+    },
+    {
+      "word": "10th",
+      "start": 6.68,
+      "end": 7.08
+    },
+    {
+      "word": "and",
+      "start": 7.08,
+      "end": 7.18
+    },
+    {
+      "word": "a",
+      "start": 7.18,
+      "end": 7.26
+    },
+    {
+      "word": "half",
+      "start": 7.26,
+      "end": 7.42
+    },
+    {
+      "word": "from",
+      "start": 7.42,
+      "end": 7.56
+    },
+    {
+      "word": "Charles",
+      "start": 7.56,
+      "end": 7.82
+    },
+    {
+      "word": "just",
+      "start": 9.28,
+      "end": 10.08
+    },
+    {
+      "word": "a",
+      "start": 10.08,
+      "end": 10.28
+    },
+    {
+      "word": "2",
+      "start": 10.28,
+      "end": 10.6
+    },
+    {
+      "word": "takes",
+      "start": 12.8,
+      "end": 13.6
+    },
+    {
+      "word": "us",
+      "start": 13.6,
+      "end": 14.38
+    },
+    {
+      "word": "alpha",
+      "start": 14.38,
+      "end": 15.66
+    },
+    {
+      "word": "10th",
+      "start": 15.66,
+      "end": 16.9
+    },
+    {
+      "word": "1st",
+      "start": 16.9,
+      "end": 17.3
+    },
+    {
+      "word": "sector",
+      "start": 17.3,
+      "end": 17.48
+    },
+    {
+      "word": "with",
+      "start": 17.48,
+      "end": 17.7
+    },
+    {
+      "word": "Antonelli",
+      "start": 17.7,
+      "end": 18.24
+    }
+  ],
+  "language": "en",
+  "word_count": 23,
+  "is_empty": false,
+  "is_very_short": false
+}

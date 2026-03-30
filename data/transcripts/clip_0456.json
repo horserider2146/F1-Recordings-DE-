@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0456",
+  "text": "straight so stay online. Gap at 1.0, Gap at 1.0, we are below threshold turn 8. Are you happy with the 1 out front? Gap at 1.1, you are below threshold turn 8 on limit turn 1.",
+  "words": [
+    {
+      "word": "straight",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "so",
+      "start": 0.28,
+      "end": 1.12
+    },
+    {
+      "word": "stay",
+      "start": 1.12,
+      "end": 1.4
+    },
+    {
+      "word": "online.",
+      "start": 1.4,
+      "end": 1.76
+    },
+    {
+      "word": "Gap",
+      "start": 3.56,
+      "end": 3.94
+    },
+    {
+      "word": "at",
+      "start": 3.94,
+      "end": 4.06
+    },
+    {
+      "word": "1",
+      "start": 4.06,
+      "end": 4.24
+    },
+    {
+      "word": ".0,",
+      "start": 4.24,
+      "end": 4.68
+    },
+    {
+      "word": "Gap",
+      "start": 5.28,
+      "end": 6.1
+    },
+    {
+      "word": "at",
+      "start": 6.1,
+      "end": 6.22
+    },
+    {
+      "word": "1",
+      "start": 6.22,
+      "end": 6.4
+    },
+    {
+      "word": ".0,",
+      "start": 6.4,
+      "end": 8.0
+    },
+    {
+      "word": "we",
+      "start": 8.44,
+      "end": 8.66
+    },
+    {
+      "word": "are",
+      "start": 8.66,
+      "end": 8.76
+    },
+    {
+      "word": "below",
+      "start": 8.76,
+      "end": 8.98
+    },
+    {
+      "word": "threshold",
+      "start": 8.98,
+      "end": 9.32
+    },
+    {
+      "word": "turn",
+      "start": 9.32,
+      "end": 9.48
+    },
+    {
+      "word": "8.",
+      "start": 9.48,
+      "end": 9.48
+    },
+    {
+      "word": "Are",
+      "start": 9.48,
+      "end": 9.6
+    },
+    {
+      "word": "you",
+      "start": 9.6,
+      "end": 9.8
+    },
+    {
+      "word": "happy",
+      "start": 9.8,
+      "end": 10.08
+    },
+    {
+      "word": "with",
+      "start": 10.08,
+      "end": 10.44
+    },
+    {
+      "word": "the",
+      "start": 10.44,
+      "end": 10.68
+    },
+    {
+      "word": "1",
+      "start": 10.68,
+      "end": 11.64
+    },
+    {
+      "word": "out",
+      "start": 11.64,
+      "end": 11.76
+    },
+    {
+      "word": "front?",
+      "start": 11.76,
+      "end": 11.92
+    },
+    {
+      "word": "Gap",
+      "start": 13.76,
+      "end": 14.36
+    },
+    {
+      "word": "at",
+      "start": 14.36,
+      "end": 14.46
+    },
+    {
+      "word": "1",
+      "start": 14.46,
+      "end": 14.7
+    },
+    {
+      "word": ".1,",
+      "start": 14.7,
+      "end": 15.28
+    },
+    {
+      "word": "you",
+      "start": 15.76,
+      "end": 16.8
+    },
+    {
+      "word": "are",
+      "start": 16.8,
+      "end": 16.92
+    },
+    {
+      "word": "below",
+      "start": 16.92,
+      "end": 17.14
+    },
+    {
+      "word": "threshold",
+      "start": 17.14,
+      "end": 17.44
+    },
+    {
+      "word": "turn",
+      "start": 17.44,
+      "end": 17.86
+    },
+    {
+      "word": "8",
+      "start": 17.86,
+      "end": 18.24
+    },
+    {
+      "word": "on",
+      "start": 18.24,
+      "end": 18.68
+    },
+    {
+      "word": "limit",
+      "start": 18.68,
+      "end": 18.88
+    },
+    {
+      "word": "turn",
+      "start": 18.88,
+      "end": 19.24
+    },
+    {
+      "word": "1.",
+      "start": 19.24,
+      "end": 19.42
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_0047",
+  "text": "2 high RPM, Albon pushing 1 coming now, Albon pushing behind now. Watch for Albon. You can keep up the pace, Foxbox, but end up. Next car pushing is 8 behinds. Foxbox.",
+  "words": [
+    {
+      "word": "2",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "high",
+      "start": 0.3,
+      "end": 0.92
+    },
+    {
+      "word": "RPM,",
+      "start": 0.92,
+      "end": 1.24
+    },
+    {
+      "word": "Albon",
+      "start": 2.56,
+      "end": 3.38
+    },
+    {
+      "word": "pushing",
+      "start": 3.38,
+      "end": 3.68
+    },
+    {
+      "word": "1",
+      "start": 3.68,
+      "end": 3.96
+    },
+    {
+      "word": "coming",
+      "start": 3.96,
+      "end": 4.24
+    },
+    {
+      "word": "now,",
+      "start": 4.24,
+      "end": 4.48
+    },
+    {
+      "word": "Albon",
+      "start": 4.76,
+      "end": 5.1
+    },
+    {
+      "word": "pushing",
+      "start": 5.1,
+      "end": 5.4
+    },
+    {
+      "word": "behind",
+      "start": 5.4,
+      "end": 5.66
+    },
+    {
+      "word": "now.",
+      "start": 5.66,
+      "end": 5.92
+    },
+    {
+      "word": "Watch",
+      "start": 6.6,
+      "end": 7.06
+    },
+    {
+      "word": "for",
+      "start": 7.06,
+      "end": 7.22
+    },
+    {
+      "word": "Albon.",
+      "start": 7.22,
+      "end": 7.46
+    },
+    {
+      "word": "You",
+      "start": 10.02,
+      "end": 10.62
+    },
+    {
+      "word": "can",
+      "start": 10.62,
+      "end": 11.22
+    },
+    {
+      "word": "keep",
+      "start": 11.22,
+      "end": 11.4
+    },
+    {
+      "word": "up",
+      "start": 11.4,
+      "end": 11.54
+    },
+    {
+      "word": "the",
+      "start": 11.54,
+      "end": 11.66
+    },
+    {
+      "word": "pace,",
+      "start": 11.66,
+      "end": 11.88
+    },
+    {
+      "word": "Foxbox,",
+      "start": 12.12,
+      "end": 12.5
+    },
+    {
+      "word": "but",
+      "start": 12.72,
+      "end": 12.96
+    },
+    {
+      "word": "end",
+      "start": 12.96,
+      "end": 13.2
+    },
+    {
+      "word": "up.",
+      "start": 13.2,
+      "end": 13.42
+    },
+    {
+      "word": "Next",
+      "start": 14.48,
+      "end": 14.82
+    },
+    {
+      "word": "car",
+      "start": 14.82,
+      "end": 15.02
+    },
+    {
+      "word": "pushing",
+      "start": 15.02,
+      "end": 15.22
+    },
+    {
+      "word": "is",
+      "start": 15.22,
+      "end": 15.44
+    },
+    {
+      "word": "8",
+      "start": 15.44,
+      "end": 15.74
+    },
+    {
+      "word": "behinds.",
+      "start": 15.74,
+      "end": 16.2
+    },
+    {
+      "word": "Foxbox.",
+      "start": 16.5,
+      "end": 16.96
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

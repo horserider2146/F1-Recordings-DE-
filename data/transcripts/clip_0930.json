@@ -1,0 +1,285 @@
+{
+  "clip_id": "clip_0930",
+  "text": "Okay mate, so only other point, we've got constant 15-8-6-3, as well there is performance there, so box now please. So we've got a couple of options as to what we do here for the next run. You can either do two runs, or just a single new run at the end.",
+  "words": [
+    {
+      "word": "Okay",
+      "start": 0.54,
+      "end": 0.9
+    },
+    {
+      "word": "mate,",
+      "start": 0.9,
+      "end": 1.08
+    },
+    {
+      "word": "so",
+      "start": 1.24,
+      "end": 1.4
+    },
+    {
+      "word": "only",
+      "start": 1.4,
+      "end": 2.1
+    },
+    {
+      "word": "other",
+      "start": 2.1,
+      "end": 2.26
+    },
+    {
+      "word": "point,",
+      "start": 2.26,
+      "end": 2.5
+    },
+    {
+      "word": "we've",
+      "start": 2.66,
+      "end": 2.7
+    },
+    {
+      "word": "got",
+      "start": 2.7,
+      "end": 2.72
+    },
+    {
+      "word": "constant",
+      "start": 2.72,
+      "end": 3.02
+    },
+    {
+      "word": "15",
+      "start": 3.02,
+      "end": 3.56
+    },
+    {
+      "word": "-8",
+      "start": 3.56,
+      "end": 3.76
+    },
+    {
+      "word": "-6",
+      "start": 3.76,
+      "end": 3.96
+    },
+    {
+      "word": "-3,",
+      "start": 3.96,
+      "end": 4.54
+    },
+    {
+      "word": "as",
+      "start": 4.64,
+      "end": 4.7
+    },
+    {
+      "word": "well",
+      "start": 4.7,
+      "end": 4.8
+    },
+    {
+      "word": "there",
+      "start": 4.8,
+      "end": 4.94
+    },
+    {
+      "word": "is",
+      "start": 4.94,
+      "end": 5.04
+    },
+    {
+      "word": "performance",
+      "start": 5.04,
+      "end": 5.38
+    },
+    {
+      "word": "there,",
+      "start": 5.38,
+      "end": 5.64
+    },
+    {
+      "word": "so",
+      "start": 5.66,
+      "end": 5.76
+    },
+    {
+      "word": "box",
+      "start": 5.76,
+      "end": 6.06
+    },
+    {
+      "word": "now",
+      "start": 6.06,
+      "end": 6.28
+    },
+    {
+      "word": "please.",
+      "start": 6.28,
+      "end": 6.56
+    },
+    {
+      "word": "So",
+      "start": 7.96,
+      "end": 8.32
+    },
+    {
+      "word": "we've",
+      "start": 8.32,
+      "end": 8.38
+    },
+    {
+      "word": "got",
+      "start": 8.38,
+      "end": 8.5
+    },
+    {
+      "word": "a",
+      "start": 8.5,
+      "end": 8.6
+    },
+    {
+      "word": "couple",
+      "start": 8.6,
+      "end": 8.78
+    },
+    {
+      "word": "of",
+      "start": 8.78,
+      "end": 8.88
+    },
+    {
+      "word": "options",
+      "start": 8.88,
+      "end": 9.18
+    },
+    {
+      "word": "as",
+      "start": 9.18,
+      "end": 9.42
+    },
+    {
+      "word": "to",
+      "start": 9.42,
+      "end": 9.58
+    },
+    {
+      "word": "what",
+      "start": 9.58,
+      "end": 9.72
+    },
+    {
+      "word": "we",
+      "start": 9.72,
+      "end": 9.88
+    },
+    {
+      "word": "do",
+      "start": 9.88,
+      "end": 10.16
+    },
+    {
+      "word": "here",
+      "start": 10.16,
+      "end": 10.72
+    },
+    {
+      "word": "for",
+      "start": 10.72,
+      "end": 11.0
+    },
+    {
+      "word": "the",
+      "start": 11.0,
+      "end": 11.14
+    },
+    {
+      "word": "next",
+      "start": 11.14,
+      "end": 11.38
+    },
+    {
+      "word": "run.",
+      "start": 11.38,
+      "end": 11.96
+    },
+    {
+      "word": "You",
+      "start": 12.38,
+      "end": 12.5
+    },
+    {
+      "word": "can",
+      "start": 12.5,
+      "end": 12.58
+    },
+    {
+      "word": "either",
+      "start": 12.58,
+      "end": 12.78
+    },
+    {
+      "word": "do",
+      "start": 12.78,
+      "end": 13.1
+    },
+    {
+      "word": "two",
+      "start": 13.1,
+      "end": 13.78
+    },
+    {
+      "word": "runs,",
+      "start": 13.78,
+      "end": 14.04
+    },
+    {
+      "word": "or",
+      "start": 14.18,
+      "end": 15.06
+    },
+    {
+      "word": "just",
+      "start": 15.06,
+      "end": 15.24
+    },
+    {
+      "word": "a",
+      "start": 15.24,
+      "end": 15.38
+    },
+    {
+      "word": "single",
+      "start": 15.38,
+      "end": 15.66
+    },
+    {
+      "word": "new",
+      "start": 15.66,
+      "end": 15.9
+    },
+    {
+      "word": "run",
+      "start": 15.9,
+      "end": 16.08
+    },
+    {
+      "word": "at",
+      "start": 16.08,
+      "end": 16.18
+    },
+    {
+      "word": "the",
+      "start": 16.18,
+      "end": 16.3
+    },
+    {
+      "word": "end.",
+      "start": 16.3,
+      "end": 16.46
+    }
+  ],
+  "language": "en",
+  "word_count": 52,
+  "is_empty": false,
+  "is_very_short": false
+}

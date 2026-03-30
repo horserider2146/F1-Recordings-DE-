@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_0425",
+  "text": "This car behind, and then the next car will be a Norris at 10 seconds. Norris at 9 seconds. Norris at 6 behind. It's a bit late and watch the white line. So we're just stopping the marks and we'll be back in the garage.",
+  "words": [
+    {
+      "word": "This",
+      "start": 1.32,
+      "end": 1.86
+    },
+    {
+      "word": "car",
+      "start": 1.86,
+      "end": 2.0
+    },
+    {
+      "word": "behind,",
+      "start": 2.0,
+      "end": 2.36
+    },
+    {
+      "word": "and",
+      "start": 2.86,
+      "end": 2.86
+    },
+    {
+      "word": "then",
+      "start": 2.86,
+      "end": 3.04
+    },
+    {
+      "word": "the",
+      "start": 3.04,
+      "end": 3.38
+    },
+    {
+      "word": "next",
+      "start": 3.38,
+      "end": 3.68
+    },
+    {
+      "word": "car",
+      "start": 3.68,
+      "end": 3.94
+    },
+    {
+      "word": "will",
+      "start": 3.94,
+      "end": 4.12
+    },
+    {
+      "word": "be",
+      "start": 4.12,
+      "end": 4.24
+    },
+    {
+      "word": "a",
+      "start": 4.24,
+      "end": 4.4
+    },
+    {
+      "word": "Norris",
+      "start": 4.4,
+      "end": 4.98
+    },
+    {
+      "word": "at",
+      "start": 4.98,
+      "end": 5.3
+    },
+    {
+      "word": "10",
+      "start": 5.3,
+      "end": 5.6
+    },
+    {
+      "word": "seconds.",
+      "start": 5.6,
+      "end": 6.06
+    },
+    {
+      "word": "Norris",
+      "start": 7.66,
+      "end": 8.2
+    },
+    {
+      "word": "at",
+      "start": 8.2,
+      "end": 8.3
+    },
+    {
+      "word": "9",
+      "start": 8.3,
+      "end": 8.58
+    },
+    {
+      "word": "seconds.",
+      "start": 8.58,
+      "end": 9.1
+    },
+    {
+      "word": "Norris",
+      "start": 10.06,
+      "end": 10.6
+    },
+    {
+      "word": "at",
+      "start": 10.6,
+      "end": 10.84
+    },
+    {
+      "word": "6",
+      "start": 10.84,
+      "end": 11.28
+    },
+    {
+      "word": "behind.",
+      "start": 11.28,
+      "end": 11.68
+    },
+    {
+      "word": "It's",
+      "start": 13.2,
+      "end": 13.74
+    },
+    {
+      "word": "a",
+      "start": 13.74,
+      "end": 13.78
+    },
+    {
+      "word": "bit",
+      "start": 13.78,
+      "end": 13.86
+    },
+    {
+      "word": "late",
+      "start": 13.86,
+      "end": 14.06
+    },
+    {
+      "word": "and",
+      "start": 14.06,
+      "end": 14.34
+    },
+    {
+      "word": "watch",
+      "start": 14.34,
+      "end": 14.58
+    },
+    {
+      "word": "the",
+      "start": 14.58,
+      "end": 14.74
+    },
+    {
+      "word": "white",
+      "start": 14.74,
+      "end": 14.88
+    },
+    {
+      "word": "line.",
+      "start": 14.88,
+      "end": 15.06
+    },
+    {
+      "word": "So",
+      "start": 16.04,
+      "end": 16.58
+    },
+    {
+      "word": "we're",
+      "start": 16.58,
+      "end": 16.74
+    },
+    {
+      "word": "just",
+      "start": 16.74,
+      "end": 16.9
+    },
+    {
+      "word": "stopping",
+      "start": 16.9,
+      "end": 17.66
+    },
+    {
+      "word": "the",
+      "start": 17.66,
+      "end": 17.9
+    },
+    {
+      "word": "marks",
+      "start": 17.9,
+      "end": 18.14
+    },
+    {
+      "word": "and",
+      "start": 18.14,
+      "end": 18.56
+    },
+    {
+      "word": "we'll",
+      "start": 18.56,
+      "end": 18.74
+    },
+    {
+      "word": "be",
+      "start": 18.74,
+      "end": 18.84
+    },
+    {
+      "word": "back",
+      "start": 18.84,
+      "end": 19.04
+    },
+    {
+      "word": "in",
+      "start": 19.04,
+      "end": 19.16
+    },
+    {
+      "word": "the",
+      "start": 19.16,
+      "end": 19.24
+    },
+    {
+      "word": "garage.",
+      "start": 19.24,
+      "end": 19.38
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,250 @@
+{
+  "clip_id": "clip_0019",
+  "text": "Plus one, plus one on the black, we're gonna hold it in the box, plus one, reset, just gonna hold it in the box. And suck it for tires, so... Straight down, go switch that out. No pull, trouble turning, there's another behind. Cross three opening, the last...",
+  "words": [
+    {
+      "word": "Plus",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "one,",
+      "start": 0.18,
+      "end": 0.38
+    },
+    {
+      "word": "plus",
+      "start": 0.5,
+      "end": 0.7
+    },
+    {
+      "word": "one",
+      "start": 0.7,
+      "end": 0.9
+    },
+    {
+      "word": "on",
+      "start": 0.9,
+      "end": 1.0
+    },
+    {
+      "word": "the",
+      "start": 1.0,
+      "end": 1.1
+    },
+    {
+      "word": "black,",
+      "start": 1.1,
+      "end": 1.24
+    },
+    {
+      "word": "we're",
+      "start": 1.48,
+      "end": 1.8
+    },
+    {
+      "word": "gonna",
+      "start": 1.8,
+      "end": 1.9
+    },
+    {
+      "word": "hold",
+      "start": 1.9,
+      "end": 2.14
+    },
+    {
+      "word": "it",
+      "start": 2.14,
+      "end": 2.26
+    },
+    {
+      "word": "in",
+      "start": 2.26,
+      "end": 2.32
+    },
+    {
+      "word": "the",
+      "start": 2.32,
+      "end": 2.32
+    },
+    {
+      "word": "box,",
+      "start": 2.32,
+      "end": 2.5
+    },
+    {
+      "word": "plus",
+      "start": 2.58,
+      "end": 2.74
+    },
+    {
+      "word": "one,",
+      "start": 2.74,
+      "end": 3.02
+    },
+    {
+      "word": "reset,",
+      "start": 3.18,
+      "end": 3.54
+    },
+    {
+      "word": "just",
+      "start": 3.72,
+      "end": 3.88
+    },
+    {
+      "word": "gonna",
+      "start": 3.88,
+      "end": 4.0
+    },
+    {
+      "word": "hold",
+      "start": 4.0,
+      "end": 4.14
+    },
+    {
+      "word": "it",
+      "start": 4.14,
+      "end": 4.24
+    },
+    {
+      "word": "in",
+      "start": 4.24,
+      "end": 4.32
+    },
+    {
+      "word": "the",
+      "start": 4.32,
+      "end": 4.38
+    },
+    {
+      "word": "box.",
+      "start": 4.38,
+      "end": 4.66
+    },
+    {
+      "word": "And",
+      "start": 7.06,
+      "end": 7.46
+    },
+    {
+      "word": "suck",
+      "start": 7.46,
+      "end": 7.84
+    },
+    {
+      "word": "it",
+      "start": 7.84,
+      "end": 8.0
+    },
+    {
+      "word": "for",
+      "start": 8.0,
+      "end": 8.2
+    },
+    {
+      "word": "tires,",
+      "start": 8.2,
+      "end": 8.44
+    },
+    {
+      "word": "so...",
+      "start": 8.68,
+      "end": 9.0
+    },
+    {
+      "word": "Straight",
+      "start": 11.5,
+      "end": 11.9
+    },
+    {
+      "word": "down,",
+      "start": 11.9,
+      "end": 12.18
+    },
+    {
+      "word": "go",
+      "start": 12.72,
+      "end": 12.92
+    },
+    {
+      "word": "switch",
+      "start": 12.92,
+      "end": 13.06
+    },
+    {
+      "word": "that",
+      "start": 13.06,
+      "end": 13.28
+    },
+    {
+      "word": "out.",
+      "start": 13.28,
+      "end": 13.48
+    },
+    {
+      "word": "No",
+      "start": 14.68,
+      "end": 15.08
+    },
+    {
+      "word": "pull,",
+      "start": 15.08,
+      "end": 15.3
+    },
+    {
+      "word": "trouble",
+      "start": 15.58,
+      "end": 15.7
+    },
+    {
+      "word": "turning,",
+      "start": 15.7,
+      "end": 16.08
+    },
+    {
+      "word": "there's",
+      "start": 16.24,
+      "end": 16.42
+    },
+    {
+      "word": "another",
+      "start": 16.42,
+      "end": 16.48
+    },
+    {
+      "word": "behind.",
+      "start": 16.48,
+      "end": 17.0
+    },
+    {
+      "word": "Cross",
+      "start": 18.54,
+      "end": 18.94
+    },
+    {
+      "word": "three",
+      "start": 18.94,
+      "end": 19.28
+    },
+    {
+      "word": "opening,",
+      "start": 19.28,
+      "end": 19.68
+    },
+    {
+      "word": "the",
+      "start": 19.82,
+      "end": 19.92
+    },
+    {
+      "word": "last...",
+      "start": 19.92,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 48,
+  "is_empty": false,
+  "is_very_short": false
+}

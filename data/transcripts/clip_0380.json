@@ -1,0 +1,230 @@
+{
+  "clip_id": "clip_0380",
+  "text": "1.5 ahead, 2.4 behind, turn 1 at the limit for us now so we're happy where we are. Green 9, position 13, so we limit some of the sliding power in 7. Mawson, greening at level 2, who is also reporting greening.",
+  "words": [
+    {
+      "word": "1",
+      "start": 0.0,
+      "end": 0.96
+    },
+    {
+      "word": ".5",
+      "start": 0.96,
+      "end": 1.76
+    },
+    {
+      "word": "ahead,",
+      "start": 1.76,
+      "end": 2.08
+    },
+    {
+      "word": "2",
+      "start": 2.28,
+      "end": 2.44
+    },
+    {
+      "word": ".4",
+      "start": 2.44,
+      "end": 2.88
+    },
+    {
+      "word": "behind,",
+      "start": 2.88,
+      "end": 3.24
+    },
+    {
+      "word": "turn",
+      "start": 3.5,
+      "end": 4.06
+    },
+    {
+      "word": "1",
+      "start": 4.06,
+      "end": 4.32
+    },
+    {
+      "word": "at",
+      "start": 4.32,
+      "end": 4.54
+    },
+    {
+      "word": "the",
+      "start": 4.54,
+      "end": 4.68
+    },
+    {
+      "word": "limit",
+      "start": 4.68,
+      "end": 4.84
+    },
+    {
+      "word": "for",
+      "start": 4.84,
+      "end": 5.04
+    },
+    {
+      "word": "us",
+      "start": 5.04,
+      "end": 5.16
+    },
+    {
+      "word": "now",
+      "start": 5.16,
+      "end": 5.36
+    },
+    {
+      "word": "so",
+      "start": 5.36,
+      "end": 5.64
+    },
+    {
+      "word": "we're",
+      "start": 5.64,
+      "end": 5.82
+    },
+    {
+      "word": "happy",
+      "start": 5.82,
+      "end": 5.96
+    },
+    {
+      "word": "where",
+      "start": 5.96,
+      "end": 6.16
+    },
+    {
+      "word": "we",
+      "start": 6.16,
+      "end": 6.28
+    },
+    {
+      "word": "are.",
+      "start": 6.28,
+      "end": 6.5
+    },
+    {
+      "word": "Green",
+      "start": 8.18,
+      "end": 8.66
+    },
+    {
+      "word": "9,",
+      "start": 8.66,
+      "end": 9.14
+    },
+    {
+      "word": "position",
+      "start": 9.4,
+      "end": 9.7
+    },
+    {
+      "word": "13,",
+      "start": 9.7,
+      "end": 10.4
+    },
+    {
+      "word": "so",
+      "start": 11.12,
+      "end": 11.36
+    },
+    {
+      "word": "we",
+      "start": 11.36,
+      "end": 11.5
+    },
+    {
+      "word": "limit",
+      "start": 11.5,
+      "end": 11.72
+    },
+    {
+      "word": "some",
+      "start": 11.72,
+      "end": 11.92
+    },
+    {
+      "word": "of",
+      "start": 11.92,
+      "end": 12.02
+    },
+    {
+      "word": "the",
+      "start": 12.02,
+      "end": 12.16
+    },
+    {
+      "word": "sliding",
+      "start": 12.16,
+      "end": 12.36
+    },
+    {
+      "word": "power",
+      "start": 12.36,
+      "end": 12.74
+    },
+    {
+      "word": "in",
+      "start": 12.74,
+      "end": 12.94
+    },
+    {
+      "word": "7.",
+      "start": 12.94,
+      "end": 13.34
+    },
+    {
+      "word": "Mawson,",
+      "start": 15.84,
+      "end": 16.32
+    },
+    {
+      "word": "greening",
+      "start": 16.32,
+      "end": 16.8
+    },
+    {
+      "word": "at",
+      "start": 16.8,
+      "end": 16.88
+    },
+    {
+      "word": "level",
+      "start": 16.88,
+      "end": 17.1
+    },
+    {
+      "word": "2,",
+      "start": 17.1,
+      "end": 17.52
+    },
+    {
+      "word": "who",
+      "start": 18.08,
+      "end": 18.18
+    },
+    {
+      "word": "is",
+      "start": 18.18,
+      "end": 18.32
+    },
+    {
+      "word": "also",
+      "start": 18.32,
+      "end": 18.66
+    },
+    {
+      "word": "reporting",
+      "start": 18.66,
+      "end": 19.08
+    },
+    {
+      "word": "greening.",
+      "start": 19.08,
+      "end": 19.7
+    }
+  ],
+  "language": "en",
+  "word_count": 42,
+  "is_empty": false,
+  "is_very_short": false
+}

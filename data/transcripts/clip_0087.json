@@ -1,0 +1,110 @@
+{
+  "clip_id": "clip_0087",
+  "text": "Let's go. Now we have to turn Q of 1.32 please. So we have 2.32 more product coming.",
+  "words": [
+    {
+      "word": "Let's",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "go.",
+      "start": 0.18,
+      "end": 0.3
+    },
+    {
+      "word": "Now",
+      "start": 1.54,
+      "end": 2.04
+    },
+    {
+      "word": "we",
+      "start": 2.04,
+      "end": 2.22
+    },
+    {
+      "word": "have",
+      "start": 2.22,
+      "end": 2.22
+    },
+    {
+      "word": "to",
+      "start": 2.22,
+      "end": 2.32
+    },
+    {
+      "word": "turn",
+      "start": 2.32,
+      "end": 2.54
+    },
+    {
+      "word": "Q",
+      "start": 2.54,
+      "end": 3.06
+    },
+    {
+      "word": "of",
+      "start": 3.06,
+      "end": 3.48
+    },
+    {
+      "word": "1",
+      "start": 3.48,
+      "end": 4.16
+    },
+    {
+      "word": ".32",
+      "start": 4.16,
+      "end": 4.52
+    },
+    {
+      "word": "please.",
+      "start": 4.52,
+      "end": 4.94
+    },
+    {
+      "word": "So",
+      "start": 5.9,
+      "end": 6.08
+    },
+    {
+      "word": "we",
+      "start": 6.08,
+      "end": 6.2
+    },
+    {
+      "word": "have",
+      "start": 6.2,
+      "end": 6.44
+    },
+    {
+      "word": "2",
+      "start": 6.44,
+      "end": 6.64
+    },
+    {
+      "word": ".32",
+      "start": 6.64,
+      "end": 7.36
+    },
+    {
+      "word": "more",
+      "start": 7.36,
+      "end": 8.06
+    },
+    {
+      "word": "product",
+      "start": 8.06,
+      "end": 8.36
+    },
+    {
+      "word": "coming.",
+      "start": 8.36,
+      "end": 8.7
+    }
+  ],
+  "language": "en",
+  "word_count": 18,
+  "is_empty": false,
+  "is_very_short": false
+}

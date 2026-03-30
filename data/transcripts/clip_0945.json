@@ -1,0 +1,265 @@
+{
+  "clip_id": "clip_0945",
+  "text": "out button now please. Not the blue lights. Pre-start red. Overtake enabled. Car behind Franco. Good job. Time out and it looks good. Great job so far. Car behind three seconds. Third product will not work this evening. OK, let's settle in for now. Good job. Some ports, hawk delivery.",
+  "words": [
+    {
+      "word": "out",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "button",
+      "start": 0.14,
+      "end": 0.38
+    },
+    {
+      "word": "now",
+      "start": 0.38,
+      "end": 0.7
+    },
+    {
+      "word": "please.",
+      "start": 0.7,
+      "end": 1.12
+    },
+    {
+      "word": "Not",
+      "start": 2.02,
+      "end": 2.28
+    },
+    {
+      "word": "the",
+      "start": 2.28,
+      "end": 2.42
+    },
+    {
+      "word": "blue",
+      "start": 2.42,
+      "end": 2.58
+    },
+    {
+      "word": "lights.",
+      "start": 2.58,
+      "end": 2.92
+    },
+    {
+      "word": "Pre",
+      "start": 3.74,
+      "end": 3.84
+    },
+    {
+      "word": "-start",
+      "start": 3.84,
+      "end": 4.06
+    },
+    {
+      "word": "red.",
+      "start": 4.06,
+      "end": 4.26
+    },
+    {
+      "word": "Overtake",
+      "start": 5.18,
+      "end": 5.62
+    },
+    {
+      "word": "enabled.",
+      "start": 5.62,
+      "end": 5.86
+    },
+    {
+      "word": "Car",
+      "start": 6.1,
+      "end": 6.2
+    },
+    {
+      "word": "behind",
+      "start": 6.2,
+      "end": 6.52
+    },
+    {
+      "word": "Franco.",
+      "start": 6.52,
+      "end": 7.02
+    },
+    {
+      "word": "Good",
+      "start": 7.2,
+      "end": 7.26
+    },
+    {
+      "word": "job.",
+      "start": 7.26,
+      "end": 7.48
+    },
+    {
+      "word": "Time",
+      "start": 8.5,
+      "end": 8.94
+    },
+    {
+      "word": "out",
+      "start": 8.94,
+      "end": 9.08
+    },
+    {
+      "word": "and",
+      "start": 9.08,
+      "end": 9.18
+    },
+    {
+      "word": "it",
+      "start": 9.18,
+      "end": 9.32
+    },
+    {
+      "word": "looks",
+      "start": 9.32,
+      "end": 9.38
+    },
+    {
+      "word": "good.",
+      "start": 9.38,
+      "end": 9.58
+    },
+    {
+      "word": "Great",
+      "start": 10.58,
+      "end": 11.02
+    },
+    {
+      "word": "job",
+      "start": 11.02,
+      "end": 11.24
+    },
+    {
+      "word": "so",
+      "start": 11.24,
+      "end": 11.42
+    },
+    {
+      "word": "far.",
+      "start": 11.42,
+      "end": 11.64
+    },
+    {
+      "word": "Car",
+      "start": 11.74,
+      "end": 11.8
+    },
+    {
+      "word": "behind",
+      "start": 11.8,
+      "end": 12.16
+    },
+    {
+      "word": "three",
+      "start": 12.16,
+      "end": 12.54
+    },
+    {
+      "word": "seconds.",
+      "start": 12.54,
+      "end": 13.1
+    },
+    {
+      "word": "Third",
+      "start": 13.4,
+      "end": 13.56
+    },
+    {
+      "word": "product",
+      "start": 13.56,
+      "end": 13.74
+    },
+    {
+      "word": "will",
+      "start": 13.74,
+      "end": 14.0
+    },
+    {
+      "word": "not",
+      "start": 14.0,
+      "end": 14.22
+    },
+    {
+      "word": "work",
+      "start": 14.22,
+      "end": 14.64
+    },
+    {
+      "word": "this",
+      "start": 14.64,
+      "end": 14.92
+    },
+    {
+      "word": "evening.",
+      "start": 14.92,
+      "end": 15.12
+    },
+    {
+      "word": "OK,",
+      "start": 15.88,
+      "end": 16.06
+    },
+    {
+      "word": "let's",
+      "start": 16.16,
+      "end": 16.48
+    },
+    {
+      "word": "settle",
+      "start": 16.48,
+      "end": 16.66
+    },
+    {
+      "word": "in",
+      "start": 16.66,
+      "end": 16.82
+    },
+    {
+      "word": "for",
+      "start": 16.82,
+      "end": 16.9
+    },
+    {
+      "word": "now.",
+      "start": 16.9,
+      "end": 17.1
+    },
+    {
+      "word": "Good",
+      "start": 17.26,
+      "end": 17.26
+    },
+    {
+      "word": "job.",
+      "start": 17.26,
+      "end": 17.48
+    },
+    {
+      "word": "Some",
+      "start": 18.3,
+      "end": 18.72
+    },
+    {
+      "word": "ports,",
+      "start": 18.72,
+      "end": 19.08
+    },
+    {
+      "word": "hawk",
+      "start": 19.22,
+      "end": 19.42
+    },
+    {
+      "word": "delivery.",
+      "start": 19.42,
+      "end": 19.66
+    }
+  ],
+  "language": "en",
+  "word_count": 50,
+  "is_empty": false,
+  "is_very_short": false
+}

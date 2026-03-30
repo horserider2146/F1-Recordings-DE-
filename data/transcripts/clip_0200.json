@@ -1,0 +1,200 @@
+{
+  "clip_id": "clip_0200",
+  "text": "The wind has increased a couple of times in the engine. Your head wind has 7.8. Start but then slow head, turn 12. Just then slow. Then slow to head, to head. You're racing for the topo.",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "word": "wind",
+      "start": 0.58,
+      "end": 1.46
+    },
+    {
+      "word": "has",
+      "start": 1.46,
+      "end": 1.74
+    },
+    {
+      "word": "increased",
+      "start": 1.74,
+      "end": 2.32
+    },
+    {
+      "word": "a",
+      "start": 2.32,
+      "end": 2.56
+    },
+    {
+      "word": "couple",
+      "start": 2.56,
+      "end": 2.74
+    },
+    {
+      "word": "of",
+      "start": 2.74,
+      "end": 2.84
+    },
+    {
+      "word": "times",
+      "start": 2.84,
+      "end": 2.92
+    },
+    {
+      "word": "in",
+      "start": 2.92,
+      "end": 2.94
+    },
+    {
+      "word": "the",
+      "start": 2.94,
+      "end": 3.14
+    },
+    {
+      "word": "engine.",
+      "start": 3.14,
+      "end": 3.34
+    },
+    {
+      "word": "Your",
+      "start": 4.0,
+      "end": 4.36
+    },
+    {
+      "word": "head",
+      "start": 4.36,
+      "end": 4.56
+    },
+    {
+      "word": "wind",
+      "start": 4.56,
+      "end": 4.7
+    },
+    {
+      "word": "has",
+      "start": 4.7,
+      "end": 4.92
+    },
+    {
+      "word": "7",
+      "start": 4.92,
+      "end": 5.26
+    },
+    {
+      "word": ".8.",
+      "start": 5.26,
+      "end": 5.46
+    },
+    {
+      "word": "Start",
+      "start": 7.46,
+      "end": 7.96
+    },
+    {
+      "word": "but",
+      "start": 7.96,
+      "end": 8.18
+    },
+    {
+      "word": "then",
+      "start": 8.18,
+      "end": 8.28
+    },
+    {
+      "word": "slow",
+      "start": 8.28,
+      "end": 8.64
+    },
+    {
+      "word": "head,",
+      "start": 8.64,
+      "end": 9.04
+    },
+    {
+      "word": "turn",
+      "start": 9.22,
+      "end": 9.36
+    },
+    {
+      "word": "12.",
+      "start": 9.36,
+      "end": 9.7
+    },
+    {
+      "word": "Just",
+      "start": 11.46,
+      "end": 12.0
+    },
+    {
+      "word": "then",
+      "start": 12.0,
+      "end": 12.16
+    },
+    {
+      "word": "slow.",
+      "start": 12.16,
+      "end": 12.64
+    },
+    {
+      "word": "Then",
+      "start": 14.7,
+      "end": 15.24
+    },
+    {
+      "word": "slow",
+      "start": 15.24,
+      "end": 15.5
+    },
+    {
+      "word": "to",
+      "start": 15.5,
+      "end": 15.72
+    },
+    {
+      "word": "head,",
+      "start": 15.72,
+      "end": 16.02
+    },
+    {
+      "word": "to",
+      "start": 16.32,
+      "end": 16.54
+    },
+    {
+      "word": "head.",
+      "start": 16.54,
+      "end": 16.82
+    },
+    {
+      "word": "You're",
+      "start": 18.44,
+      "end": 18.98
+    },
+    {
+      "word": "racing",
+      "start": 18.98,
+      "end": 19.18
+    },
+    {
+      "word": "for",
+      "start": 19.18,
+      "end": 19.4
+    },
+    {
+      "word": "the",
+      "start": 19.4,
+      "end": 19.48
+    },
+    {
+      "word": "topo.",
+      "start": 19.48,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

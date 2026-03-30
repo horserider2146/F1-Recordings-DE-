@@ -1,0 +1,215 @@
+{
+  "clip_id": "clip_1174",
+  "text": "We have overtake. This is my swear. Next car is Hajar. Alright, so Sainz the car ahead of Hajar. His last lap was 40.5. Gap to Chekko behind 0.9. Alright, last lap you and Chekko did identical lap times.",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "have",
+      "start": 0.18,
+      "end": 0.34
+    },
+    {
+      "word": "overtake.",
+      "start": 0.34,
+      "end": 0.86
+    },
+    {
+      "word": "This",
+      "start": 2.94,
+      "end": 3.52
+    },
+    {
+      "word": "is",
+      "start": 3.52,
+      "end": 3.66
+    },
+    {
+      "word": "my",
+      "start": 3.66,
+      "end": 3.84
+    },
+    {
+      "word": "swear.",
+      "start": 3.84,
+      "end": 3.96
+    },
+    {
+      "word": "Next",
+      "start": 4.28,
+      "end": 4.52
+    },
+    {
+      "word": "car",
+      "start": 4.52,
+      "end": 4.8
+    },
+    {
+      "word": "is",
+      "start": 4.8,
+      "end": 5.04
+    },
+    {
+      "word": "Hajar.",
+      "start": 5.04,
+      "end": 5.52
+    },
+    {
+      "word": "Alright,",
+      "start": 6.76,
+      "end": 7.16
+    },
+    {
+      "word": "so",
+      "start": 7.3,
+      "end": 7.38
+    },
+    {
+      "word": "Sainz",
+      "start": 7.38,
+      "end": 7.76
+    },
+    {
+      "word": "the",
+      "start": 7.76,
+      "end": 7.88
+    },
+    {
+      "word": "car",
+      "start": 7.88,
+      "end": 8.1
+    },
+    {
+      "word": "ahead",
+      "start": 8.1,
+      "end": 8.4
+    },
+    {
+      "word": "of",
+      "start": 8.4,
+      "end": 8.54
+    },
+    {
+      "word": "Hajar.",
+      "start": 8.54,
+      "end": 8.94
+    },
+    {
+      "word": "His",
+      "start": 9.06,
+      "end": 9.14
+    },
+    {
+      "word": "last",
+      "start": 9.14,
+      "end": 9.38
+    },
+    {
+      "word": "lap",
+      "start": 9.38,
+      "end": 9.56
+    },
+    {
+      "word": "was",
+      "start": 9.56,
+      "end": 9.82
+    },
+    {
+      "word": "40",
+      "start": 9.82,
+      "end": 10.18
+    },
+    {
+      "word": ".5.",
+      "start": 10.18,
+      "end": 10.8
+    },
+    {
+      "word": "Gap",
+      "start": 12.8,
+      "end": 13.26
+    },
+    {
+      "word": "to",
+      "start": 13.26,
+      "end": 13.42
+    },
+    {
+      "word": "Chekko",
+      "start": 13.42,
+      "end": 13.76
+    },
+    {
+      "word": "behind",
+      "start": 13.76,
+      "end": 14.04
+    },
+    {
+      "word": "0",
+      "start": 14.04,
+      "end": 14.36
+    },
+    {
+      "word": ".9.",
+      "start": 14.36,
+      "end": 14.9
+    },
+    {
+      "word": "Alright,",
+      "start": 16.46,
+      "end": 16.96
+    },
+    {
+      "word": "last",
+      "start": 17.1,
+      "end": 17.32
+    },
+    {
+      "word": "lap",
+      "start": 17.32,
+      "end": 17.62
+    },
+    {
+      "word": "you",
+      "start": 17.62,
+      "end": 17.96
+    },
+    {
+      "word": "and",
+      "start": 17.96,
+      "end": 18.1
+    },
+    {
+      "word": "Chekko",
+      "start": 18.1,
+      "end": 18.4
+    },
+    {
+      "word": "did",
+      "start": 18.4,
+      "end": 18.54
+    },
+    {
+      "word": "identical",
+      "start": 18.54,
+      "end": 19.02
+    },
+    {
+      "word": "lap",
+      "start": 19.02,
+      "end": 19.38
+    },
+    {
+      "word": "times.",
+      "start": 19.38,
+      "end": 19.64
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

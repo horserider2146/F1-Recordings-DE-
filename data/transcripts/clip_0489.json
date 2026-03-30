@@ -1,0 +1,75 @@
+{
+  "clip_id": "clip_0489",
+  "text": "Okay Lance, when you get there you can switch off the radio check",
+  "words": [
+    {
+      "word": "Okay",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "Lance,",
+      "start": 0.5,
+      "end": 0.76
+    },
+    {
+      "word": "when",
+      "start": 1.04,
+      "end": 1.22
+    },
+    {
+      "word": "you",
+      "start": 1.22,
+      "end": 1.34
+    },
+    {
+      "word": "get",
+      "start": 1.34,
+      "end": 1.44
+    },
+    {
+      "word": "there",
+      "start": 1.44,
+      "end": 1.62
+    },
+    {
+      "word": "you",
+      "start": 1.62,
+      "end": 1.72
+    },
+    {
+      "word": "can",
+      "start": 1.72,
+      "end": 1.86
+    },
+    {
+      "word": "switch",
+      "start": 1.86,
+      "end": 2.08
+    },
+    {
+      "word": "off",
+      "start": 2.08,
+      "end": 2.46
+    },
+    {
+      "word": "the",
+      "start": 2.46,
+      "end": 3.16
+    },
+    {
+      "word": "radio",
+      "start": 3.16,
+      "end": 3.44
+    },
+    {
+      "word": "check",
+      "start": 3.44,
+      "end": 3.72
+    }
+  ],
+  "language": "en",
+  "word_count": 13,
+  "is_empty": false,
+  "is_very_short": false
+}

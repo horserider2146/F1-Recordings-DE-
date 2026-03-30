@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_0860",
+  "text": "Max 3 behind. Good job. Okay Ollie 23 to go. It's been a debris in turn 23. Perfect through there. Really good lap, Ollie. How's the balance? Yeah it's good. The tires will not really start if there's a safety car. See.",
+  "words": [
+    {
+      "word": "Max",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "3",
+      "start": 0.24,
+      "end": 0.56
+    },
+    {
+      "word": "behind.",
+      "start": 0.56,
+      "end": 0.9
+    },
+    {
+      "word": "Good",
+      "start": 1.18,
+      "end": 1.18
+    },
+    {
+      "word": "job.",
+      "start": 1.18,
+      "end": 1.38
+    },
+    {
+      "word": "Okay",
+      "start": 3.16,
+      "end": 3.64
+    },
+    {
+      "word": "Ollie",
+      "start": 3.64,
+      "end": 3.78
+    },
+    {
+      "word": "23",
+      "start": 3.78,
+      "end": 4.6
+    },
+    {
+      "word": "to",
+      "start": 4.6,
+      "end": 4.88
+    },
+    {
+      "word": "go.",
+      "start": 4.88,
+      "end": 5.12
+    },
+    {
+      "word": "It's",
+      "start": 5.38,
+      "end": 5.58
+    },
+    {
+      "word": "been",
+      "start": 5.58,
+      "end": 5.7
+    },
+    {
+      "word": "a",
+      "start": 5.7,
+      "end": 5.76
+    },
+    {
+      "word": "debris",
+      "start": 5.76,
+      "end": 6.06
+    },
+    {
+      "word": "in",
+      "start": 6.06,
+      "end": 6.26
+    },
+    {
+      "word": "turn",
+      "start": 6.26,
+      "end": 6.44
+    },
+    {
+      "word": "23.",
+      "start": 6.44,
+      "end": 6.88
+    },
+    {
+      "word": "Perfect",
+      "start": 7.48,
+      "end": 7.74
+    },
+    {
+      "word": "through",
+      "start": 7.74,
+      "end": 7.98
+    },
+    {
+      "word": "there.",
+      "start": 7.98,
+      "end": 8.16
+    },
+    {
+      "word": "Really",
+      "start": 9.74,
+      "end": 10.22
+    },
+    {
+      "word": "good",
+      "start": 10.22,
+      "end": 10.38
+    },
+    {
+      "word": "lap,",
+      "start": 10.38,
+      "end": 10.54
+    },
+    {
+      "word": "Ollie.",
+      "start": 10.6,
+      "end": 10.8
+    },
+    {
+      "word": "How's",
+      "start": 10.96,
+      "end": 11.14
+    },
+    {
+      "word": "the",
+      "start": 11.14,
+      "end": 11.22
+    },
+    {
+      "word": "balance?",
+      "start": 11.22,
+      "end": 11.42
+    },
+    {
+      "word": "Yeah",
+      "start": 12.86,
+      "end": 13.2
+    },
+    {
+      "word": "it's",
+      "start": 13.2,
+      "end": 13.4
+    },
+    {
+      "word": "good.",
+      "start": 13.4,
+      "end": 13.62
+    },
+    {
+      "word": "The",
+      "start": 14.1,
+      "end": 14.1
+    },
+    {
+      "word": "tires",
+      "start": 14.1,
+      "end": 14.72
+    },
+    {
+      "word": "will",
+      "start": 14.72,
+      "end": 15.02
+    },
+    {
+      "word": "not",
+      "start": 15.02,
+      "end": 15.24
+    },
+    {
+      "word": "really",
+      "start": 15.24,
+      "end": 15.46
+    },
+    {
+      "word": "start",
+      "start": 15.46,
+      "end": 15.74
+    },
+    {
+      "word": "if",
+      "start": 15.74,
+      "end": 16.02
+    },
+    {
+      "word": "there's",
+      "start": 16.02,
+      "end": 16.2
+    },
+    {
+      "word": "a",
+      "start": 16.2,
+      "end": 16.28
+    },
+    {
+      "word": "safety",
+      "start": 16.28,
+      "end": 16.46
+    },
+    {
+      "word": "car.",
+      "start": 16.46,
+      "end": 16.76
+    },
+    {
+      "word": "See.",
+      "start": 17.76,
+      "end": 18.06
+    }
+  ],
+  "language": "en",
+  "word_count": 42,
+  "is_empty": false,
+  "is_very_short": false
+}

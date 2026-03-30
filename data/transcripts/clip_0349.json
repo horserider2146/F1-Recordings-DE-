@@ -1,0 +1,110 @@
+{
+  "clip_id": "clip_0349",
+  "text": "...Captain the head is 3... ...Repeat... ...Got no... ...3 seconds ahead... ...WHOA! Something... ...Don't know what's happened... ...Almost... ...No... ...Pattery...",
+  "words": [
+    {
+      "word": "...Captain",
+      "start": 0.0,
+      "end": 1.54
+    },
+    {
+      "word": "the",
+      "start": 1.54,
+      "end": 1.62
+    },
+    {
+      "word": "head",
+      "start": 1.62,
+      "end": 1.78
+    },
+    {
+      "word": "is",
+      "start": 1.78,
+      "end": 2.08
+    },
+    {
+      "word": "3...",
+      "start": 2.08,
+      "end": 3.02
+    },
+    {
+      "word": "...Repeat...",
+      "start": 3.02,
+      "end": 4.0
+    },
+    {
+      "word": "...Got",
+      "start": 4.6,
+      "end": 4.68
+    },
+    {
+      "word": "no...",
+      "start": 4.68,
+      "end": 4.9
+    },
+    {
+      "word": "...3",
+      "start": 4.9,
+      "end": 5.1
+    },
+    {
+      "word": "seconds",
+      "start": 5.1,
+      "end": 5.38
+    },
+    {
+      "word": "ahead...",
+      "start": 5.38,
+      "end": 6.48
+    },
+    {
+      "word": "...WHOA!",
+      "start": 6.48,
+      "end": 7.2
+    },
+    {
+      "word": "Something...",
+      "start": 8.6,
+      "end": 9.44
+    },
+    {
+      "word": "...Don't",
+      "start": 9.44,
+      "end": 9.56
+    },
+    {
+      "word": "know",
+      "start": 9.56,
+      "end": 9.64
+    },
+    {
+      "word": "what's",
+      "start": 9.64,
+      "end": 9.86
+    },
+    {
+      "word": "happened...",
+      "start": 9.86,
+      "end": 10.28
+    },
+    {
+      "word": "...Almost...",
+      "start": 11.26,
+      "end": 12.1
+    },
+    {
+      "word": "...No...",
+      "start": 12.1,
+      "end": 13.0
+    },
+    {
+      "word": "...Pattery...",
+      "start": 13.68,
+      "end": 14.22
+    }
+  ],
+  "language": "en",
+  "word_count": 20,
+  "is_empty": false,
+  "is_very_short": false
+}

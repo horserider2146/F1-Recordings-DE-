@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_0325",
+  "text": "It's on fire. It can be 15 seconds. First cut on a lap. 9 seconds. That's Haja. Haja at 8 seconds on a lap. Hulk, there you go again. He's gone for a head. You just have to build that gap to him.",
+  "words": [
+    {
+      "word": "It's",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "on",
+      "start": 0.1,
+      "end": 0.1
+    },
+    {
+      "word": "fire.",
+      "start": 0.1,
+      "end": 0.48
+    },
+    {
+      "word": "It",
+      "start": 2.2,
+      "end": 2.42
+    },
+    {
+      "word": "can",
+      "start": 2.42,
+      "end": 2.66
+    },
+    {
+      "word": "be",
+      "start": 2.66,
+      "end": 2.78
+    },
+    {
+      "word": "15",
+      "start": 2.78,
+      "end": 3.24
+    },
+    {
+      "word": "seconds.",
+      "start": 3.24,
+      "end": 3.8
+    },
+    {
+      "word": "First",
+      "start": 5.14,
+      "end": 5.62
+    },
+    {
+      "word": "cut",
+      "start": 5.62,
+      "end": 5.84
+    },
+    {
+      "word": "on",
+      "start": 5.84,
+      "end": 5.98
+    },
+    {
+      "word": "a",
+      "start": 5.98,
+      "end": 6.06
+    },
+    {
+      "word": "lap.",
+      "start": 6.06,
+      "end": 6.18
+    },
+    {
+      "word": "9",
+      "start": 6.46,
+      "end": 6.66
+    },
+    {
+      "word": "seconds.",
+      "start": 6.66,
+      "end": 7.1
+    },
+    {
+      "word": "That's",
+      "start": 7.38,
+      "end": 7.5
+    },
+    {
+      "word": "Haja.",
+      "start": 7.5,
+      "end": 7.84
+    },
+    {
+      "word": "Haja",
+      "start": 10.24,
+      "end": 10.72
+    },
+    {
+      "word": "at",
+      "start": 10.72,
+      "end": 11.2
+    },
+    {
+      "word": "8",
+      "start": 11.2,
+      "end": 11.56
+    },
+    {
+      "word": "seconds",
+      "start": 11.56,
+      "end": 11.9
+    },
+    {
+      "word": "on",
+      "start": 11.9,
+      "end": 12.24
+    },
+    {
+      "word": "a",
+      "start": 12.24,
+      "end": 12.36
+    },
+    {
+      "word": "lap.",
+      "start": 12.36,
+      "end": 12.6
+    },
+    {
+      "word": "Hulk,",
+      "start": 13.9,
+      "end": 14.38
+    },
+    {
+      "word": "there",
+      "start": 14.68,
+      "end": 14.84
+    },
+    {
+      "word": "you",
+      "start": 14.84,
+      "end": 14.96
+    },
+    {
+      "word": "go",
+      "start": 14.96,
+      "end": 15.12
+    },
+    {
+      "word": "again.",
+      "start": 15.12,
+      "end": 15.6
+    },
+    {
+      "word": "He's",
+      "start": 15.96,
+      "end": 15.96
+    },
+    {
+      "word": "gone",
+      "start": 15.96,
+      "end": 16.12
+    },
+    {
+      "word": "for",
+      "start": 16.12,
+      "end": 16.48
+    },
+    {
+      "word": "a",
+      "start": 16.48,
+      "end": 16.68
+    },
+    {
+      "word": "head.",
+      "start": 16.68,
+      "end": 16.86
+    },
+    {
+      "word": "You",
+      "start": 17.76,
+      "end": 18.14
+    },
+    {
+      "word": "just",
+      "start": 18.14,
+      "end": 18.28
+    },
+    {
+      "word": "have",
+      "start": 18.28,
+      "end": 18.4
+    },
+    {
+      "word": "to",
+      "start": 18.4,
+      "end": 18.48
+    },
+    {
+      "word": "build",
+      "start": 18.48,
+      "end": 18.62
+    },
+    {
+      "word": "that",
+      "start": 18.62,
+      "end": 18.78
+    },
+    {
+      "word": "gap",
+      "start": 18.78,
+      "end": 19.0
+    },
+    {
+      "word": "to",
+      "start": 19.0,
+      "end": 19.2
+    },
+    {
+      "word": "him.",
+      "start": 19.2,
+      "end": 19.38
+    }
+  ],
+  "language": "en",
+  "word_count": 43,
+  "is_empty": false,
+  "is_very_short": false
+}

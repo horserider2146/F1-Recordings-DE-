@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0212",
+  "text": "I'll show you the... You have to go... Go from 9, from 8... That would be your last lap... You won't have to push until the whole turn is over... That would make me wanna go... ...in the lap...",
+  "words": [
+    {
+      "word": "I'll",
+      "start": 0.72,
+      "end": 1.2
+    },
+    {
+      "word": "show",
+      "start": 1.2,
+      "end": 1.24
+    },
+    {
+      "word": "you",
+      "start": 1.24,
+      "end": 1.4
+    },
+    {
+      "word": "the...",
+      "start": 1.4,
+      "end": 2.0
+    },
+    {
+      "word": "You",
+      "start": 3.04,
+      "end": 3.22
+    },
+    {
+      "word": "have",
+      "start": 3.22,
+      "end": 3.3
+    },
+    {
+      "word": "to",
+      "start": 3.3,
+      "end": 3.46
+    },
+    {
+      "word": "go...",
+      "start": 3.46,
+      "end": 4.0
+    },
+    {
+      "word": "Go",
+      "start": 5.06,
+      "end": 5.42
+    },
+    {
+      "word": "from",
+      "start": 5.42,
+      "end": 5.86
+    },
+    {
+      "word": "9,",
+      "start": 5.86,
+      "end": 6.2
+    },
+    {
+      "word": "from",
+      "start": 6.4,
+      "end": 6.64
+    },
+    {
+      "word": "8...",
+      "start": 6.64,
+      "end": 8.0
+    },
+    {
+      "word": "That",
+      "start": 8.74,
+      "end": 9.0
+    },
+    {
+      "word": "would",
+      "start": 9.0,
+      "end": 9.14
+    },
+    {
+      "word": "be",
+      "start": 9.14,
+      "end": 9.72
+    },
+    {
+      "word": "your",
+      "start": 9.72,
+      "end": 9.86
+    },
+    {
+      "word": "last",
+      "start": 9.86,
+      "end": 10.16
+    },
+    {
+      "word": "lap...",
+      "start": 10.16,
+      "end": 10.94
+    },
+    {
+      "word": "You",
+      "start": 10.94,
+      "end": 11.12
+    },
+    {
+      "word": "won't",
+      "start": 11.12,
+      "end": 11.34
+    },
+    {
+      "word": "have",
+      "start": 11.34,
+      "end": 11.46
+    },
+    {
+      "word": "to",
+      "start": 11.46,
+      "end": 11.62
+    },
+    {
+      "word": "push",
+      "start": 11.62,
+      "end": 12.04
+    },
+    {
+      "word": "until",
+      "start": 12.04,
+      "end": 12.22
+    },
+    {
+      "word": "the",
+      "start": 12.22,
+      "end": 12.32
+    },
+    {
+      "word": "whole",
+      "start": 12.32,
+      "end": 12.42
+    },
+    {
+      "word": "turn",
+      "start": 12.42,
+      "end": 12.82
+    },
+    {
+      "word": "is",
+      "start": 12.82,
+      "end": 13.1
+    },
+    {
+      "word": "over...",
+      "start": 13.1,
+      "end": 14.0
+    },
+    {
+      "word": "That",
+      "start": 15.14,
+      "end": 15.54
+    },
+    {
+      "word": "would",
+      "start": 15.54,
+      "end": 15.7
+    },
+    {
+      "word": "make",
+      "start": 15.7,
+      "end": 15.92
+    },
+    {
+      "word": "me",
+      "start": 15.92,
+      "end": 16.04
+    },
+    {
+      "word": "wanna",
+      "start": 16.04,
+      "end": 16.3
+    },
+    {
+      "word": "go...",
+      "start": 16.3,
+      "end": 16.86
+    },
+    {
+      "word": "...in",
+      "start": 16.86,
+      "end": 17.1
+    },
+    {
+      "word": "the",
+      "start": 17.1,
+      "end": 17.22
+    },
+    {
+      "word": "lap...",
+      "start": 17.22,
+      "end": 18.0
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

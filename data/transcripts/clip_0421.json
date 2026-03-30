@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0421",
+  "text": "Switch the car to P2 when you're ready. So Lewis passing now and then 4 clear behind him. B-Norris starting at 11 seconds behind. There we go, Strat Mode 1. It'll be target to plus 6. Target plus 6.",
+  "words": [
+    {
+      "word": "Switch",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "the",
+      "start": 0.5,
+      "end": 0.7
+    },
+    {
+      "word": "car",
+      "start": 0.7,
+      "end": 0.84
+    },
+    {
+      "word": "to",
+      "start": 0.84,
+      "end": 0.98
+    },
+    {
+      "word": "P2",
+      "start": 0.98,
+      "end": 1.36
+    },
+    {
+      "word": "when",
+      "start": 1.36,
+      "end": 1.78
+    },
+    {
+      "word": "you're",
+      "start": 1.78,
+      "end": 1.88
+    },
+    {
+      "word": "ready.",
+      "start": 1.88,
+      "end": 2.06
+    },
+    {
+      "word": "So",
+      "start": 3.56,
+      "end": 4.12
+    },
+    {
+      "word": "Lewis",
+      "start": 4.12,
+      "end": 4.64
+    },
+    {
+      "word": "passing",
+      "start": 4.64,
+      "end": 5.0
+    },
+    {
+      "word": "now",
+      "start": 5.0,
+      "end": 5.42
+    },
+    {
+      "word": "and",
+      "start": 5.42,
+      "end": 5.72
+    },
+    {
+      "word": "then",
+      "start": 5.72,
+      "end": 5.86
+    },
+    {
+      "word": "4",
+      "start": 5.86,
+      "end": 6.14
+    },
+    {
+      "word": "clear",
+      "start": 6.14,
+      "end": 6.34
+    },
+    {
+      "word": "behind",
+      "start": 6.34,
+      "end": 6.64
+    },
+    {
+      "word": "him.",
+      "start": 6.64,
+      "end": 6.88
+    },
+    {
+      "word": "B",
+      "start": 7.06,
+      "end": 7.18
+    },
+    {
+      "word": "-Norris",
+      "start": 7.18,
+      "end": 7.58
+    },
+    {
+      "word": "starting",
+      "start": 7.58,
+      "end": 7.98
+    },
+    {
+      "word": "at",
+      "start": 7.98,
+      "end": 8.12
+    },
+    {
+      "word": "11",
+      "start": 8.12,
+      "end": 8.6
+    },
+    {
+      "word": "seconds",
+      "start": 8.6,
+      "end": 8.94
+    },
+    {
+      "word": "behind.",
+      "start": 8.94,
+      "end": 9.34
+    },
+    {
+      "word": "There",
+      "start": 10.56,
+      "end": 10.82
+    },
+    {
+      "word": "we",
+      "start": 10.82,
+      "end": 10.98
+    },
+    {
+      "word": "go,",
+      "start": 10.98,
+      "end": 11.08
+    },
+    {
+      "word": "Strat",
+      "start": 11.16,
+      "end": 11.3
+    },
+    {
+      "word": "Mode",
+      "start": 11.3,
+      "end": 11.38
+    },
+    {
+      "word": "1.",
+      "start": 11.38,
+      "end": 11.74
+    },
+    {
+      "word": "It'll",
+      "start": 14.86,
+      "end": 15.42
+    },
+    {
+      "word": "be",
+      "start": 15.42,
+      "end": 15.5
+    },
+    {
+      "word": "target",
+      "start": 15.5,
+      "end": 15.84
+    },
+    {
+      "word": "to",
+      "start": 15.84,
+      "end": 16.04
+    },
+    {
+      "word": "plus",
+      "start": 16.04,
+      "end": 16.24
+    },
+    {
+      "word": "6.",
+      "start": 16.24,
+      "end": 16.8
+    },
+    {
+      "word": "Target",
+      "start": 17.12,
+      "end": 17.32
+    },
+    {
+      "word": "plus",
+      "start": 17.32,
+      "end": 17.6
+    },
+    {
+      "word": "6.",
+      "start": 17.6,
+      "end": 17.86
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,125 @@
+{
+  "clip_id": "clip_0733",
+  "text": "Nico, on our side, if we get a clean out lap, we think it's okay with no build lap. What do you think?",
+  "words": [
+    {
+      "word": "Nico,",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "on",
+      "start": 0.54,
+      "end": 0.6
+    },
+    {
+      "word": "our",
+      "start": 0.6,
+      "end": 0.72
+    },
+    {
+      "word": "side,",
+      "start": 0.72,
+      "end": 0.92
+    },
+    {
+      "word": "if",
+      "start": 0.96,
+      "end": 1.06
+    },
+    {
+      "word": "we",
+      "start": 1.06,
+      "end": 1.2
+    },
+    {
+      "word": "get",
+      "start": 1.2,
+      "end": 1.4
+    },
+    {
+      "word": "a",
+      "start": 1.4,
+      "end": 1.52
+    },
+    {
+      "word": "clean",
+      "start": 1.52,
+      "end": 1.9
+    },
+    {
+      "word": "out",
+      "start": 1.9,
+      "end": 2.34
+    },
+    {
+      "word": "lap,",
+      "start": 2.34,
+      "end": 2.56
+    },
+    {
+      "word": "we",
+      "start": 2.74,
+      "end": 2.8
+    },
+    {
+      "word": "think",
+      "start": 2.8,
+      "end": 3.02
+    },
+    {
+      "word": "it's",
+      "start": 3.02,
+      "end": 3.28
+    },
+    {
+      "word": "okay",
+      "start": 3.28,
+      "end": 3.62
+    },
+    {
+      "word": "with",
+      "start": 3.62,
+      "end": 3.94
+    },
+    {
+      "word": "no",
+      "start": 3.94,
+      "end": 4.26
+    },
+    {
+      "word": "build",
+      "start": 4.26,
+      "end": 4.68
+    },
+    {
+      "word": "lap.",
+      "start": 4.68,
+      "end": 4.94
+    },
+    {
+      "word": "What",
+      "start": 5.44,
+      "end": 5.54
+    },
+    {
+      "word": "do",
+      "start": 5.54,
+      "end": 5.62
+    },
+    {
+      "word": "you",
+      "start": 5.62,
+      "end": 5.68
+    },
+    {
+      "word": "think?",
+      "start": 5.68,
+      "end": 5.8
+    }
+  ],
+  "language": "en",
+  "word_count": 23,
+  "is_empty": false,
+  "is_very_short": false
+}

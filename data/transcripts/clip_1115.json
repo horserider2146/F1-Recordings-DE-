@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_1115",
+  "text": "The next lapping car is Gasly's 2.4 behind you. He is lapping in 37.0.",
+  "words": [
+    {
+      "word": "The",
+      "start": 10.78,
+      "end": 11.52
+    },
+    {
+      "word": "next",
+      "start": 11.52,
+      "end": 12.26
+    },
+    {
+      "word": "lapping",
+      "start": 12.26,
+      "end": 12.6
+    },
+    {
+      "word": "car",
+      "start": 12.6,
+      "end": 12.86
+    },
+    {
+      "word": "is",
+      "start": 12.86,
+      "end": 13.0
+    },
+    {
+      "word": "Gasly's",
+      "start": 13.0,
+      "end": 13.5
+    },
+    {
+      "word": "2",
+      "start": 13.5,
+      "end": 13.66
+    },
+    {
+      "word": ".4",
+      "start": 13.66,
+      "end": 14.3
+    },
+    {
+      "word": "behind",
+      "start": 14.3,
+      "end": 14.62
+    },
+    {
+      "word": "you.",
+      "start": 14.62,
+      "end": 14.98
+    },
+    {
+      "word": "He",
+      "start": 16.22,
+      "end": 16.96
+    },
+    {
+      "word": "is",
+      "start": 16.96,
+      "end": 17.1
+    },
+    {
+      "word": "lapping",
+      "start": 17.1,
+      "end": 17.48
+    },
+    {
+      "word": "in",
+      "start": 17.48,
+      "end": 17.64
+    },
+    {
+      "word": "37",
+      "start": 17.64,
+      "end": 18.02
+    },
+    {
+      "word": ".0.",
+      "start": 18.02,
+      "end": 18.58
+    }
+  ],
+  "language": "en",
+  "word_count": 14,
+  "is_empty": false,
+  "is_very_short": false
+}

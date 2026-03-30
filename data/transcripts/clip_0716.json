@@ -1,0 +1,100 @@
+{
+  "clip_id": "clip_0716",
+  "text": "at four seconds, let him through before 14. Okay, and box max, box, on the box, switch on.",
+  "words": [
+    {
+      "word": "at",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "four",
+      "start": 0.12,
+      "end": 0.48
+    },
+    {
+      "word": "seconds,",
+      "start": 0.48,
+      "end": 0.96
+    },
+    {
+      "word": "let",
+      "start": 1.76,
+      "end": 2.08
+    },
+    {
+      "word": "him",
+      "start": 2.08,
+      "end": 2.24
+    },
+    {
+      "word": "through",
+      "start": 2.24,
+      "end": 2.44
+    },
+    {
+      "word": "before",
+      "start": 2.44,
+      "end": 2.7
+    },
+    {
+      "word": "14.",
+      "start": 2.7,
+      "end": 3.14
+    },
+    {
+      "word": "Okay,",
+      "start": 5.22,
+      "end": 5.62
+    },
+    {
+      "word": "and",
+      "start": 6.6,
+      "end": 6.94
+    },
+    {
+      "word": "box",
+      "start": 6.94,
+      "end": 7.16
+    },
+    {
+      "word": "max,",
+      "start": 7.16,
+      "end": 7.36
+    },
+    {
+      "word": "box,",
+      "start": 7.56,
+      "end": 7.7
+    },
+    {
+      "word": "on",
+      "start": 8.52,
+      "end": 8.76
+    },
+    {
+      "word": "the",
+      "start": 8.76,
+      "end": 8.82
+    },
+    {
+      "word": "box,",
+      "start": 8.82,
+      "end": 9.04
+    },
+    {
+      "word": "switch",
+      "start": 9.36,
+      "end": 9.64
+    },
+    {
+      "word": "on.",
+      "start": 9.64,
+      "end": 9.82
+    }
+  ],
+  "language": "en",
+  "word_count": 18,
+  "is_empty": false,
+  "is_very_short": false
+}

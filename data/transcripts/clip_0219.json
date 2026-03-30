@@ -1,0 +1,50 @@
+{
+  "clip_id": "clip_0219",
+  "text": "Please. Uh... Please, chop, please. That was good.",
+  "words": [
+    {
+      "word": "Please.",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "Uh...",
+      "start": 2.6,
+      "end": 2.88
+    },
+    {
+      "word": "Please,",
+      "start": 2.88,
+      "end": 3.04
+    },
+    {
+      "word": "chop,",
+      "start": 3.14,
+      "end": 3.24
+    },
+    {
+      "word": "please.",
+      "start": 3.3,
+      "end": 3.46
+    },
+    {
+      "word": "That",
+      "start": 3.92,
+      "end": 4.04
+    },
+    {
+      "word": "was",
+      "start": 4.04,
+      "end": 4.14
+    },
+    {
+      "word": "good.",
+      "start": 4.14,
+      "end": 4.26
+    }
+  ],
+  "language": "en",
+  "word_count": 8,
+  "is_empty": false,
+  "is_very_short": false
+}

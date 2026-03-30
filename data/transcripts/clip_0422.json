@@ -1,0 +1,200 @@
+{
+  "clip_id": "clip_0422",
+  "text": "Norris is still at 8 seconds. Norris at 7. Norris at 6. Hulkerberg 6 ahead. Make sure we've got a good gap to Hulkerberg. Norris at 4 behind. Make sure you push him 7-8. No pressure behind.",
+  "words": [
+    {
+      "word": "Norris",
+      "start": 0.0,
+      "end": 0.82
+    },
+    {
+      "word": "is",
+      "start": 0.82,
+      "end": 1.06
+    },
+    {
+      "word": "still",
+      "start": 1.06,
+      "end": 1.4
+    },
+    {
+      "word": "at",
+      "start": 1.4,
+      "end": 1.66
+    },
+    {
+      "word": "8",
+      "start": 1.66,
+      "end": 2.06
+    },
+    {
+      "word": "seconds.",
+      "start": 2.06,
+      "end": 2.4
+    },
+    {
+      "word": "Norris",
+      "start": 3.36,
+      "end": 3.8
+    },
+    {
+      "word": "at",
+      "start": 3.8,
+      "end": 3.92
+    },
+    {
+      "word": "7.",
+      "start": 3.92,
+      "end": 4.16
+    },
+    {
+      "word": "Norris",
+      "start": 5.0,
+      "end": 5.6
+    },
+    {
+      "word": "at",
+      "start": 5.6,
+      "end": 5.76
+    },
+    {
+      "word": "6.",
+      "start": 5.76,
+      "end": 6.18
+    },
+    {
+      "word": "Hulkerberg",
+      "start": 6.5,
+      "end": 6.9
+    },
+    {
+      "word": "6",
+      "start": 6.9,
+      "end": 7.28
+    },
+    {
+      "word": "ahead.",
+      "start": 7.28,
+      "end": 7.72
+    },
+    {
+      "word": "Make",
+      "start": 10.68,
+      "end": 11.34
+    },
+    {
+      "word": "sure",
+      "start": 11.34,
+      "end": 11.48
+    },
+    {
+      "word": "we've",
+      "start": 11.48,
+      "end": 11.62
+    },
+    {
+      "word": "got",
+      "start": 11.62,
+      "end": 11.72
+    },
+    {
+      "word": "a",
+      "start": 11.72,
+      "end": 11.78
+    },
+    {
+      "word": "good",
+      "start": 11.78,
+      "end": 11.9
+    },
+    {
+      "word": "gap",
+      "start": 11.9,
+      "end": 12.1
+    },
+    {
+      "word": "to",
+      "start": 12.1,
+      "end": 12.26
+    },
+    {
+      "word": "Hulkerberg.",
+      "start": 12.26,
+      "end": 12.86
+    },
+    {
+      "word": "Norris",
+      "start": 13.38,
+      "end": 13.92
+    },
+    {
+      "word": "at",
+      "start": 13.92,
+      "end": 14.16
+    },
+    {
+      "word": "4",
+      "start": 14.16,
+      "end": 14.52
+    },
+    {
+      "word": "behind.",
+      "start": 14.52,
+      "end": 14.84
+    },
+    {
+      "word": "Make",
+      "start": 15.58,
+      "end": 16.24
+    },
+    {
+      "word": "sure",
+      "start": 16.24,
+      "end": 16.34
+    },
+    {
+      "word": "you",
+      "start": 16.34,
+      "end": 16.4
+    },
+    {
+      "word": "push",
+      "start": 16.4,
+      "end": 16.58
+    },
+    {
+      "word": "him",
+      "start": 16.58,
+      "end": 16.7
+    },
+    {
+      "word": "7",
+      "start": 16.7,
+      "end": 16.92
+    },
+    {
+      "word": "-8.",
+      "start": 16.92,
+      "end": 17.16
+    },
+    {
+      "word": "No",
+      "start": 18.76,
+      "end": 19.32
+    },
+    {
+      "word": "pressure",
+      "start": 19.32,
+      "end": 19.54
+    },
+    {
+      "word": "behind.",
+      "start": 19.54,
+      "end": 19.88
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

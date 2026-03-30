@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_0630",
+  "text": "No one interrupts, we are good. Car is not charged. Charge on IRPM reminder, go and push from behind. Box, box. Box, box. That was 216. We think single push, you agree?",
+  "words": [
+    {
+      "word": "No",
+      "start": 0.0,
+      "end": 0.82
+    },
+    {
+      "word": "one",
+      "start": 0.82,
+      "end": 0.96
+    },
+    {
+      "word": "interrupts,",
+      "start": 0.96,
+      "end": 1.46
+    },
+    {
+      "word": "we",
+      "start": 1.46,
+      "end": 1.66
+    },
+    {
+      "word": "are",
+      "start": 1.66,
+      "end": 1.74
+    },
+    {
+      "word": "good.",
+      "start": 1.74,
+      "end": 1.88
+    },
+    {
+      "word": "Car",
+      "start": 3.0,
+      "end": 3.6
+    },
+    {
+      "word": "is",
+      "start": 3.6,
+      "end": 3.76
+    },
+    {
+      "word": "not",
+      "start": 3.76,
+      "end": 3.96
+    },
+    {
+      "word": "charged.",
+      "start": 3.96,
+      "end": 4.2
+    },
+    {
+      "word": "Charge",
+      "start": 5.66,
+      "end": 6.26
+    },
+    {
+      "word": "on",
+      "start": 6.26,
+      "end": 6.52
+    },
+    {
+      "word": "IRPM",
+      "start": 6.52,
+      "end": 7.2
+    },
+    {
+      "word": "reminder,",
+      "start": 7.2,
+      "end": 7.66
+    },
+    {
+      "word": "go",
+      "start": 8.1,
+      "end": 8.28
+    },
+    {
+      "word": "and",
+      "start": 8.28,
+      "end": 8.42
+    },
+    {
+      "word": "push",
+      "start": 8.42,
+      "end": 8.62
+    },
+    {
+      "word": "from",
+      "start": 8.62,
+      "end": 8.72
+    },
+    {
+      "word": "behind.",
+      "start": 8.72,
+      "end": 9.0
+    },
+    {
+      "word": "Box,",
+      "start": 10.34,
+      "end": 10.94
+    },
+    {
+      "word": "box.",
+      "start": 11.1,
+      "end": 11.26
+    },
+    {
+      "word": "Box,",
+      "start": 12.54,
+      "end": 13.14
+    },
+    {
+      "word": "box.",
+      "start": 13.26,
+      "end": 13.56
+    },
+    {
+      "word": "That",
+      "start": 14.28,
+      "end": 14.76
+    },
+    {
+      "word": "was",
+      "start": 14.76,
+      "end": 15.28
+    },
+    {
+      "word": "216.",
+      "start": 15.28,
+      "end": 16.1
+    },
+    {
+      "word": "We",
+      "start": 17.9,
+      "end": 18.2
+    },
+    {
+      "word": "think",
+      "start": 18.2,
+      "end": 18.44
+    },
+    {
+      "word": "single",
+      "start": 18.44,
+      "end": 18.8
+    },
+    {
+      "word": "push,",
+      "start": 18.8,
+      "end": 19.08
+    },
+    {
+      "word": "you",
+      "start": 19.46,
+      "end": 19.6
+    },
+    {
+      "word": "agree?",
+      "start": 19.6,
+      "end": 19.76
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

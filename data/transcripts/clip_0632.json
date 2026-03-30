@@ -1,0 +1,105 @@
+{
+  "clip_id": "clip_0632",
+  "text": "I can zoom into those corners. So yeah, see the light before you apply it, let's do it better.",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "can",
+      "start": 0.14,
+      "end": 0.38
+    },
+    {
+      "word": "zoom",
+      "start": 0.38,
+      "end": 0.6
+    },
+    {
+      "word": "into",
+      "start": 0.6,
+      "end": 0.96
+    },
+    {
+      "word": "those",
+      "start": 0.96,
+      "end": 1.2
+    },
+    {
+      "word": "corners.",
+      "start": 1.2,
+      "end": 1.54
+    },
+    {
+      "word": "So",
+      "start": 2.28,
+      "end": 2.3
+    },
+    {
+      "word": "yeah,",
+      "start": 2.3,
+      "end": 2.48
+    },
+    {
+      "word": "see",
+      "start": 2.58,
+      "end": 2.66
+    },
+    {
+      "word": "the",
+      "start": 2.66,
+      "end": 2.8
+    },
+    {
+      "word": "light",
+      "start": 2.8,
+      "end": 2.94
+    },
+    {
+      "word": "before",
+      "start": 2.94,
+      "end": 3.16
+    },
+    {
+      "word": "you",
+      "start": 3.16,
+      "end": 3.4
+    },
+    {
+      "word": "apply",
+      "start": 3.4,
+      "end": 4.12
+    },
+    {
+      "word": "it,",
+      "start": 4.12,
+      "end": 4.26
+    },
+    {
+      "word": "let's",
+      "start": 4.28,
+      "end": 4.4
+    },
+    {
+      "word": "do",
+      "start": 4.4,
+      "end": 4.5
+    },
+    {
+      "word": "it",
+      "start": 4.5,
+      "end": 4.58
+    },
+    {
+      "word": "better.",
+      "start": 4.58,
+      "end": 4.72
+    }
+  ],
+  "language": "en",
+  "word_count": 19,
+  "is_empty": false,
+  "is_very_short": false
+}

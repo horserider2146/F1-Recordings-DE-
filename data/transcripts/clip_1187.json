@@ -1,0 +1,215 @@
+{
+  "clip_id": "clip_1187",
+  "text": "is 1.7 behind. Gap to check behind 1.4. He's got blue flags for Antonelli. We have blue flags for Antonelli. Check out is right behind Antonelli. Gap to check out 0.8. Behind check out is Russell 2.4.",
+  "words": [
+    {
+      "word": "is",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "1",
+      "start": 0.2,
+      "end": 0.44
+    },
+    {
+      "word": ".7",
+      "start": 0.44,
+      "end": 1.04
+    },
+    {
+      "word": "behind.",
+      "start": 1.04,
+      "end": 1.4
+    },
+    {
+      "word": "Gap",
+      "start": 2.78,
+      "end": 3.46
+    },
+    {
+      "word": "to",
+      "start": 3.46,
+      "end": 3.6
+    },
+    {
+      "word": "check",
+      "start": 3.6,
+      "end": 3.78
+    },
+    {
+      "word": "behind",
+      "start": 3.78,
+      "end": 4.16
+    },
+    {
+      "word": "1",
+      "start": 4.16,
+      "end": 4.62
+    },
+    {
+      "word": ".4.",
+      "start": 4.62,
+      "end": 5.4
+    },
+    {
+      "word": "He's",
+      "start": 5.56,
+      "end": 5.82
+    },
+    {
+      "word": "got",
+      "start": 5.82,
+      "end": 5.96
+    },
+    {
+      "word": "blue",
+      "start": 5.96,
+      "end": 6.2
+    },
+    {
+      "word": "flags",
+      "start": 6.2,
+      "end": 6.5
+    },
+    {
+      "word": "for",
+      "start": 6.5,
+      "end": 6.98
+    },
+    {
+      "word": "Antonelli.",
+      "start": 6.98,
+      "end": 7.58
+    },
+    {
+      "word": "We",
+      "start": 8.18,
+      "end": 8.8
+    },
+    {
+      "word": "have",
+      "start": 8.8,
+      "end": 8.98
+    },
+    {
+      "word": "blue",
+      "start": 8.98,
+      "end": 9.34
+    },
+    {
+      "word": "flags",
+      "start": 9.34,
+      "end": 9.7
+    },
+    {
+      "word": "for",
+      "start": 9.7,
+      "end": 9.92
+    },
+    {
+      "word": "Antonelli.",
+      "start": 9.92,
+      "end": 10.62
+    },
+    {
+      "word": "Check",
+      "start": 11.1,
+      "end": 11.34
+    },
+    {
+      "word": "out",
+      "start": 11.34,
+      "end": 11.54
+    },
+    {
+      "word": "is",
+      "start": 11.54,
+      "end": 11.9
+    },
+    {
+      "word": "right",
+      "start": 11.9,
+      "end": 12.22
+    },
+    {
+      "word": "behind",
+      "start": 12.22,
+      "end": 12.48
+    },
+    {
+      "word": "Antonelli.",
+      "start": 12.48,
+      "end": 13.12
+    },
+    {
+      "word": "Gap",
+      "start": 15.0,
+      "end": 15.68
+    },
+    {
+      "word": "to",
+      "start": 15.68,
+      "end": 15.8
+    },
+    {
+      "word": "check",
+      "start": 15.8,
+      "end": 15.96
+    },
+    {
+      "word": "out",
+      "start": 15.96,
+      "end": 16.12
+    },
+    {
+      "word": "0",
+      "start": 16.12,
+      "end": 16.36
+    },
+    {
+      "word": ".8.",
+      "start": 16.36,
+      "end": 16.98
+    },
+    {
+      "word": "Behind",
+      "start": 17.4,
+      "end": 17.58
+    },
+    {
+      "word": "check",
+      "start": 17.58,
+      "end": 17.98
+    },
+    {
+      "word": "out",
+      "start": 17.98,
+      "end": 18.22
+    },
+    {
+      "word": "is",
+      "start": 18.22,
+      "end": 18.52
+    },
+    {
+      "word": "Russell",
+      "start": 18.52,
+      "end": 19.0
+    },
+    {
+      "word": "2",
+      "start": 19.0,
+      "end": 19.32
+    },
+    {
+      "word": ".4.",
+      "start": 19.32,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

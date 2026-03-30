@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_1177",
+  "text": "Copy, yeah just keep me updated. I'm managing a lot of different plastic. Copy, thank you. 36 laps remaining. A little bit of time to get the turn at 16. Check out last lap, that was a 48.1.",
+  "words": [
+    {
+      "word": "Copy,",
+      "start": 1.26,
+      "end": 1.78
+    },
+    {
+      "word": "yeah",
+      "start": 1.96,
+      "end": 2.24
+    },
+    {
+      "word": "just",
+      "start": 2.24,
+      "end": 2.4
+    },
+    {
+      "word": "keep",
+      "start": 2.4,
+      "end": 2.62
+    },
+    {
+      "word": "me",
+      "start": 2.62,
+      "end": 2.78
+    },
+    {
+      "word": "updated.",
+      "start": 2.78,
+      "end": 3.02
+    },
+    {
+      "word": "I'm",
+      "start": 3.54,
+      "end": 3.98
+    },
+    {
+      "word": "managing",
+      "start": 3.98,
+      "end": 4.24
+    },
+    {
+      "word": "a",
+      "start": 4.24,
+      "end": 4.5
+    },
+    {
+      "word": "lot",
+      "start": 4.5,
+      "end": 4.62
+    },
+    {
+      "word": "of",
+      "start": 4.62,
+      "end": 4.7
+    },
+    {
+      "word": "different",
+      "start": 4.7,
+      "end": 4.98
+    },
+    {
+      "word": "plastic.",
+      "start": 4.98,
+      "end": 5.32
+    },
+    {
+      "word": "Copy,",
+      "start": 6.28,
+      "end": 6.66
+    },
+    {
+      "word": "thank",
+      "start": 7.0,
+      "end": 7.2
+    },
+    {
+      "word": "you.",
+      "start": 7.2,
+      "end": 7.74
+    },
+    {
+      "word": "36",
+      "start": 10.54,
+      "end": 11.06
+    },
+    {
+      "word": "laps",
+      "start": 11.06,
+      "end": 11.58
+    },
+    {
+      "word": "remaining.",
+      "start": 11.58,
+      "end": 11.98
+    },
+    {
+      "word": "A",
+      "start": 13.3,
+      "end": 13.56
+    },
+    {
+      "word": "little",
+      "start": 13.56,
+      "end": 13.68
+    },
+    {
+      "word": "bit",
+      "start": 13.68,
+      "end": 13.82
+    },
+    {
+      "word": "of",
+      "start": 13.82,
+      "end": 14.04
+    },
+    {
+      "word": "time",
+      "start": 14.04,
+      "end": 14.04
+    },
+    {
+      "word": "to",
+      "start": 14.04,
+      "end": 14.22
+    },
+    {
+      "word": "get",
+      "start": 14.22,
+      "end": 14.4
+    },
+    {
+      "word": "the",
+      "start": 14.4,
+      "end": 14.6
+    },
+    {
+      "word": "turn",
+      "start": 14.6,
+      "end": 14.88
+    },
+    {
+      "word": "at",
+      "start": 14.88,
+      "end": 15.18
+    },
+    {
+      "word": "16.",
+      "start": 15.18,
+      "end": 16.26
+    },
+    {
+      "word": "Check",
+      "start": 16.86,
+      "end": 17.1
+    },
+    {
+      "word": "out",
+      "start": 17.1,
+      "end": 17.22
+    },
+    {
+      "word": "last",
+      "start": 17.22,
+      "end": 17.42
+    },
+    {
+      "word": "lap,",
+      "start": 17.42,
+      "end": 17.54
+    },
+    {
+      "word": "that",
+      "start": 17.54,
+      "end": 17.64
+    },
+    {
+      "word": "was",
+      "start": 17.64,
+      "end": 17.76
+    },
+    {
+      "word": "a",
+      "start": 17.76,
+      "end": 17.9
+    },
+    {
+      "word": "48",
+      "start": 17.9,
+      "end": 18.24
+    },
+    {
+      "word": ".1.",
+      "start": 18.24,
+      "end": 18.84
+    }
+  ],
+  "language": "en",
+  "word_count": 38,
+  "is_empty": false,
+  "is_very_short": false
+}

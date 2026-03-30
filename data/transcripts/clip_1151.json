@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_1151",
+  "text": "And then we'll do a K2.",
+  "words": [
+    {
+      "word": "And",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": "then",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "we'll",
+      "start": 0.14,
+      "end": 0.34
+    },
+    {
+      "word": "do",
+      "start": 0.34,
+      "end": 0.48
+    },
+    {
+      "word": "a",
+      "start": 0.48,
+      "end": 0.86
+    },
+    {
+      "word": "K2.",
+      "start": 0.86,
+      "end": 2.0
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

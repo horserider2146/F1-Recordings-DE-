@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_0748",
+  "text": "and then also lint blood p15.",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "then",
+      "start": 0.12,
+      "end": 0.22
+    },
+    {
+      "word": "also",
+      "start": 0.22,
+      "end": 0.54
+    },
+    {
+      "word": "lint",
+      "start": 0.54,
+      "end": 0.96
+    },
+    {
+      "word": "blood",
+      "start": 0.96,
+      "end": 1.22
+    },
+    {
+      "word": "p15.",
+      "start": 1.22,
+      "end": 1.86
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

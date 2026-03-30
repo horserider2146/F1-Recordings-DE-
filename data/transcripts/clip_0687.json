@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_0687",
+  "text": "I take the exit to the second floor, I'm going to exit last one I just keep going to the right bit there I just can't stop, I'm driving on off by the way",
+  "words": [
+    {
+      "word": "I",
+      "start": 1.36,
+      "end": 1.8
+    },
+    {
+      "word": "take",
+      "start": 1.8,
+      "end": 1.98
+    },
+    {
+      "word": "the",
+      "start": 1.98,
+      "end": 2.14
+    },
+    {
+      "word": "exit",
+      "start": 2.14,
+      "end": 2.34
+    },
+    {
+      "word": "to",
+      "start": 2.34,
+      "end": 2.34
+    },
+    {
+      "word": "the",
+      "start": 2.34,
+      "end": 2.38
+    },
+    {
+      "word": "second",
+      "start": 2.38,
+      "end": 2.68
+    },
+    {
+      "word": "floor,",
+      "start": 2.68,
+      "end": 3.0
+    },
+    {
+      "word": "I'm",
+      "start": 3.14,
+      "end": 3.28
+    },
+    {
+      "word": "going",
+      "start": 3.28,
+      "end": 3.28
+    },
+    {
+      "word": "to",
+      "start": 3.28,
+      "end": 3.36
+    },
+    {
+      "word": "exit",
+      "start": 3.36,
+      "end": 3.58
+    },
+    {
+      "word": "last",
+      "start": 3.58,
+      "end": 3.92
+    },
+    {
+      "word": "one",
+      "start": 3.92,
+      "end": 4.34
+    },
+    {
+      "word": "I",
+      "start": 4.34,
+      "end": 5.0
+    },
+    {
+      "word": "just",
+      "start": 5.0,
+      "end": 5.2
+    },
+    {
+      "word": "keep",
+      "start": 5.2,
+      "end": 5.32
+    },
+    {
+      "word": "going",
+      "start": 5.32,
+      "end": 5.6
+    },
+    {
+      "word": "to",
+      "start": 5.6,
+      "end": 5.6
+    },
+    {
+      "word": "the",
+      "start": 5.6,
+      "end": 5.7
+    },
+    {
+      "word": "right",
+      "start": 5.7,
+      "end": 5.92
+    },
+    {
+      "word": "bit",
+      "start": 5.92,
+      "end": 6.16
+    },
+    {
+      "word": "there",
+      "start": 6.16,
+      "end": 7.28
+    },
+    {
+      "word": "I",
+      "start": 7.28,
+      "end": 7.92
+    },
+    {
+      "word": "just",
+      "start": 7.92,
+      "end": 9.22
+    },
+    {
+      "word": "can't",
+      "start": 9.22,
+      "end": 9.68
+    },
+    {
+      "word": "stop,",
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "word": "I'm",
+      "start": 10.08,
+      "end": 10.3
+    },
+    {
+      "word": "driving",
+      "start": 10.3,
+      "end": 10.54
+    },
+    {
+      "word": "on",
+      "start": 10.54,
+      "end": 10.76
+    },
+    {
+      "word": "off",
+      "start": 10.76,
+      "end": 10.98
+    },
+    {
+      "word": "by",
+      "start": 10.98,
+      "end": 11.12
+    },
+    {
+      "word": "the",
+      "start": 11.12,
+      "end": 11.22
+    },
+    {
+      "word": "way",
+      "start": 11.22,
+      "end": 12.46
+    }
+  ],
+  "language": "en",
+  "word_count": 34,
+  "is_empty": false,
+  "is_very_short": false
+}

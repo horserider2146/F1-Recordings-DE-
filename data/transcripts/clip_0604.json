@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0604",
+  "text": "I love understeer. I'm just doing it. Inshallah there's no vertical. No collapse. 15 laps to go when you cross the line. No overtake for shark. No overtake for shark. Keep it up.",
+  "words": [
+    {
+      "word": "I",
+      "start": 1.02,
+      "end": 1.54
+    },
+    {
+      "word": "love",
+      "start": 1.54,
+      "end": 1.7
+    },
+    {
+      "word": "understeer.",
+      "start": 1.7,
+      "end": 2.0
+    },
+    {
+      "word": "I'm",
+      "start": 3.88,
+      "end": 4.18
+    },
+    {
+      "word": "just",
+      "start": 4.18,
+      "end": 4.3
+    },
+    {
+      "word": "doing",
+      "start": 4.3,
+      "end": 4.46
+    },
+    {
+      "word": "it.",
+      "start": 4.46,
+      "end": 5.4
+    },
+    {
+      "word": "Inshallah",
+      "start": 6.92,
+      "end": 7.44
+    },
+    {
+      "word": "there's",
+      "start": 7.44,
+      "end": 7.62
+    },
+    {
+      "word": "no",
+      "start": 7.62,
+      "end": 7.74
+    },
+    {
+      "word": "vertical.",
+      "start": 7.74,
+      "end": 7.94
+    },
+    {
+      "word": "No",
+      "start": 9.1,
+      "end": 9.38
+    },
+    {
+      "word": "collapse.",
+      "start": 9.38,
+      "end": 9.64
+    },
+    {
+      "word": "15",
+      "start": 11.18,
+      "end": 11.7
+    },
+    {
+      "word": "laps",
+      "start": 11.7,
+      "end": 11.9
+    },
+    {
+      "word": "to",
+      "start": 11.9,
+      "end": 12.1
+    },
+    {
+      "word": "go",
+      "start": 12.1,
+      "end": 12.26
+    },
+    {
+      "word": "when",
+      "start": 12.26,
+      "end": 12.56
+    },
+    {
+      "word": "you",
+      "start": 12.56,
+      "end": 12.64
+    },
+    {
+      "word": "cross",
+      "start": 12.64,
+      "end": 12.84
+    },
+    {
+      "word": "the",
+      "start": 12.84,
+      "end": 12.96
+    },
+    {
+      "word": "line.",
+      "start": 12.96,
+      "end": 13.16
+    },
+    {
+      "word": "No",
+      "start": 14.7,
+      "end": 14.96
+    },
+    {
+      "word": "overtake",
+      "start": 14.96,
+      "end": 15.66
+    },
+    {
+      "word": "for",
+      "start": 15.66,
+      "end": 15.92
+    },
+    {
+      "word": "shark.",
+      "start": 15.92,
+      "end": 16.24
+    },
+    {
+      "word": "No",
+      "start": 16.46,
+      "end": 16.54
+    },
+    {
+      "word": "overtake",
+      "start": 16.54,
+      "end": 16.94
+    },
+    {
+      "word": "for",
+      "start": 16.94,
+      "end": 17.14
+    },
+    {
+      "word": "shark.",
+      "start": 17.14,
+      "end": 17.48
+    },
+    {
+      "word": "Keep",
+      "start": 17.86,
+      "end": 18.08
+    },
+    {
+      "word": "it",
+      "start": 18.08,
+      "end": 18.2
+    },
+    {
+      "word": "up.",
+      "start": 18.2,
+      "end": 18.84
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

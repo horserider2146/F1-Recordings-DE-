@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_1157",
+  "text": "Yeah, pit lines be a little bit higher up.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "word": "pit",
+      "start": 0.14,
+      "end": 0.24
+    },
+    {
+      "word": "lines",
+      "start": 0.24,
+      "end": 0.36
+    },
+    {
+      "word": "be",
+      "start": 0.36,
+      "end": 0.54
+    },
+    {
+      "word": "a",
+      "start": 0.54,
+      "end": 0.62
+    },
+    {
+      "word": "little",
+      "start": 0.62,
+      "end": 0.96
+    },
+    {
+      "word": "bit",
+      "start": 0.96,
+      "end": 1.14
+    },
+    {
+      "word": "higher",
+      "start": 1.14,
+      "end": 1.46
+    },
+    {
+      "word": "up.",
+      "start": 1.46,
+      "end": 1.82
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

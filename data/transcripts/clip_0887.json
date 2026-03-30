@@ -1,0 +1,230 @@
+{
+  "clip_id": "clip_0887",
+  "text": "in the place where they should be. They did have an oil spill or oil leak in grid slots 11 and 14. They've been cleaned up properly, but you might notice a little bit of concrete dust over there, nothing to be concerned about.",
+  "words": [
+    {
+      "word": "in",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "the",
+      "start": 0.12,
+      "end": 0.18
+    },
+    {
+      "word": "place",
+      "start": 0.18,
+      "end": 0.44
+    },
+    {
+      "word": "where",
+      "start": 0.44,
+      "end": 0.82
+    },
+    {
+      "word": "they",
+      "start": 0.82,
+      "end": 0.94
+    },
+    {
+      "word": "should",
+      "start": 0.94,
+      "end": 1.08
+    },
+    {
+      "word": "be.",
+      "start": 1.08,
+      "end": 1.28
+    },
+    {
+      "word": "They",
+      "start": 2.12,
+      "end": 2.26
+    },
+    {
+      "word": "did",
+      "start": 2.26,
+      "end": 2.48
+    },
+    {
+      "word": "have",
+      "start": 2.48,
+      "end": 2.74
+    },
+    {
+      "word": "an",
+      "start": 2.74,
+      "end": 2.88
+    },
+    {
+      "word": "oil",
+      "start": 2.88,
+      "end": 3.18
+    },
+    {
+      "word": "spill",
+      "start": 3.18,
+      "end": 4.26
+    },
+    {
+      "word": "or",
+      "start": 4.26,
+      "end": 4.58
+    },
+    {
+      "word": "oil",
+      "start": 4.58,
+      "end": 4.74
+    },
+    {
+      "word": "leak",
+      "start": 4.74,
+      "end": 5.14
+    },
+    {
+      "word": "in",
+      "start": 5.14,
+      "end": 5.8
+    },
+    {
+      "word": "grid",
+      "start": 5.8,
+      "end": 5.98
+    },
+    {
+      "word": "slots",
+      "start": 5.98,
+      "end": 6.22
+    },
+    {
+      "word": "11",
+      "start": 6.22,
+      "end": 6.68
+    },
+    {
+      "word": "and",
+      "start": 6.68,
+      "end": 7.0
+    },
+    {
+      "word": "14.",
+      "start": 7.0,
+      "end": 7.5
+    },
+    {
+      "word": "They've",
+      "start": 7.84,
+      "end": 8.04
+    },
+    {
+      "word": "been",
+      "start": 8.04,
+      "end": 8.14
+    },
+    {
+      "word": "cleaned",
+      "start": 8.14,
+      "end": 8.4
+    },
+    {
+      "word": "up",
+      "start": 8.4,
+      "end": 8.5
+    },
+    {
+      "word": "properly,",
+      "start": 8.5,
+      "end": 8.88
+    },
+    {
+      "word": "but",
+      "start": 9.06,
+      "end": 9.24
+    },
+    {
+      "word": "you",
+      "start": 9.24,
+      "end": 9.42
+    },
+    {
+      "word": "might",
+      "start": 9.42,
+      "end": 9.58
+    },
+    {
+      "word": "notice",
+      "start": 9.58,
+      "end": 9.9
+    },
+    {
+      "word": "a",
+      "start": 9.9,
+      "end": 10.08
+    },
+    {
+      "word": "little",
+      "start": 10.08,
+      "end": 10.22
+    },
+    {
+      "word": "bit",
+      "start": 10.22,
+      "end": 10.32
+    },
+    {
+      "word": "of",
+      "start": 10.32,
+      "end": 10.4
+    },
+    {
+      "word": "concrete",
+      "start": 10.4,
+      "end": 10.74
+    },
+    {
+      "word": "dust",
+      "start": 10.74,
+      "end": 11.12
+    },
+    {
+      "word": "over",
+      "start": 11.12,
+      "end": 11.38
+    },
+    {
+      "word": "there,",
+      "start": 11.38,
+      "end": 11.56
+    },
+    {
+      "word": "nothing",
+      "start": 11.62,
+      "end": 11.8
+    },
+    {
+      "word": "to",
+      "start": 11.8,
+      "end": 12.06
+    },
+    {
+      "word": "be",
+      "start": 12.06,
+      "end": 12.22
+    },
+    {
+      "word": "concerned",
+      "start": 12.22,
+      "end": 12.56
+    },
+    {
+      "word": "about.",
+      "start": 12.56,
+      "end": 12.74
+    }
+  ],
+  "language": "en",
+  "word_count": 44,
+  "is_empty": false,
+  "is_very_short": false
+}

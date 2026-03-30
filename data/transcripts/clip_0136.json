@@ -1,0 +1,285 @@
+{
+  "clip_id": "clip_0136",
+  "text": "You want to be too slow with low rpm. You have to pull the clutch in for a 10-inch orc as you do in the head of you. You have to shift the person to the top and push on the car really well. You have to be good to push and really slow.",
+  "words": [
+    {
+      "word": "You",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "want",
+      "start": 0.3,
+      "end": 0.3
+    },
+    {
+      "word": "to",
+      "start": 0.3,
+      "end": 0.48
+    },
+    {
+      "word": "be",
+      "start": 0.48,
+      "end": 0.62
+    },
+    {
+      "word": "too",
+      "start": 0.62,
+      "end": 0.8
+    },
+    {
+      "word": "slow",
+      "start": 0.8,
+      "end": 1.1
+    },
+    {
+      "word": "with",
+      "start": 1.1,
+      "end": 1.46
+    },
+    {
+      "word": "low",
+      "start": 1.46,
+      "end": 1.68
+    },
+    {
+      "word": "rpm.",
+      "start": 1.68,
+      "end": 2.06
+    },
+    {
+      "word": "You",
+      "start": 3.9,
+      "end": 4.32
+    },
+    {
+      "word": "have",
+      "start": 4.32,
+      "end": 4.74
+    },
+    {
+      "word": "to",
+      "start": 4.74,
+      "end": 4.9
+    },
+    {
+      "word": "pull",
+      "start": 4.9,
+      "end": 5.12
+    },
+    {
+      "word": "the",
+      "start": 5.12,
+      "end": 5.3
+    },
+    {
+      "word": "clutch",
+      "start": 5.3,
+      "end": 5.6
+    },
+    {
+      "word": "in",
+      "start": 5.6,
+      "end": 5.8
+    },
+    {
+      "word": "for",
+      "start": 5.8,
+      "end": 5.98
+    },
+    {
+      "word": "a",
+      "start": 5.98,
+      "end": 6.16
+    },
+    {
+      "word": "10",
+      "start": 6.16,
+      "end": 6.2
+    },
+    {
+      "word": "-inch",
+      "start": 6.2,
+      "end": 7.14
+    },
+    {
+      "word": "orc",
+      "start": 7.14,
+      "end": 7.9
+    },
+    {
+      "word": "as",
+      "start": 7.9,
+      "end": 8.04
+    },
+    {
+      "word": "you",
+      "start": 8.04,
+      "end": 8.26
+    },
+    {
+      "word": "do",
+      "start": 8.26,
+      "end": 8.3
+    },
+    {
+      "word": "in",
+      "start": 8.3,
+      "end": 8.4
+    },
+    {
+      "word": "the",
+      "start": 8.4,
+      "end": 8.54
+    },
+    {
+      "word": "head",
+      "start": 8.54,
+      "end": 8.58
+    },
+    {
+      "word": "of",
+      "start": 8.58,
+      "end": 8.7
+    },
+    {
+      "word": "you.",
+      "start": 8.7,
+      "end": 8.88
+    },
+    {
+      "word": "You",
+      "start": 11.12,
+      "end": 11.36
+    },
+    {
+      "word": "have",
+      "start": 11.36,
+      "end": 11.62
+    },
+    {
+      "word": "to",
+      "start": 11.62,
+      "end": 11.76
+    },
+    {
+      "word": "shift",
+      "start": 11.76,
+      "end": 12.0
+    },
+    {
+      "word": "the",
+      "start": 12.0,
+      "end": 12.24
+    },
+    {
+      "word": "person",
+      "start": 12.24,
+      "end": 12.42
+    },
+    {
+      "word": "to",
+      "start": 12.42,
+      "end": 12.68
+    },
+    {
+      "word": "the",
+      "start": 12.68,
+      "end": 12.74
+    },
+    {
+      "word": "top",
+      "start": 12.74,
+      "end": 12.94
+    },
+    {
+      "word": "and",
+      "start": 12.94,
+      "end": 13.14
+    },
+    {
+      "word": "push",
+      "start": 13.14,
+      "end": 13.5
+    },
+    {
+      "word": "on",
+      "start": 13.5,
+      "end": 13.68
+    },
+    {
+      "word": "the",
+      "start": 13.68,
+      "end": 13.8
+    },
+    {
+      "word": "car",
+      "start": 13.8,
+      "end": 13.98
+    },
+    {
+      "word": "really",
+      "start": 13.98,
+      "end": 14.2
+    },
+    {
+      "word": "well.",
+      "start": 14.2,
+      "end": 14.6
+    },
+    {
+      "word": "You",
+      "start": 15.62,
+      "end": 15.82
+    },
+    {
+      "word": "have",
+      "start": 15.82,
+      "end": 15.94
+    },
+    {
+      "word": "to",
+      "start": 15.94,
+      "end": 16.06
+    },
+    {
+      "word": "be",
+      "start": 16.06,
+      "end": 16.08
+    },
+    {
+      "word": "good",
+      "start": 16.08,
+      "end": 16.36
+    },
+    {
+      "word": "to",
+      "start": 16.36,
+      "end": 16.5
+    },
+    {
+      "word": "push",
+      "start": 16.5,
+      "end": 16.78
+    },
+    {
+      "word": "and",
+      "start": 16.78,
+      "end": 17.18
+    },
+    {
+      "word": "really",
+      "start": 17.18,
+      "end": 17.48
+    },
+    {
+      "word": "slow.",
+      "start": 17.48,
+      "end": 18.68
+    }
+  ],
+  "language": "en",
+  "word_count": 54,
+  "is_empty": false,
+  "is_very_short": false
+}

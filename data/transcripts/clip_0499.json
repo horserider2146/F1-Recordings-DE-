@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_0499",
+  "text": "Weaving out of 14, go one, gap ahead is all good. Remember, go one, charge off, charge off. Run switch cool, pedestrian three behind starting to push. Watch for pedestrian three, pedestrian three two, pedestrian three one. After pedestrian three, try and make up some.",
+  "words": [
+    {
+      "word": "Weaving",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "out",
+      "start": 0.24,
+      "end": 0.42
+    },
+    {
+      "word": "of",
+      "start": 0.42,
+      "end": 0.52
+    },
+    {
+      "word": "14,",
+      "start": 0.52,
+      "end": 0.9
+    },
+    {
+      "word": "go",
+      "start": 1.1,
+      "end": 1.2
+    },
+    {
+      "word": "one,",
+      "start": 1.2,
+      "end": 1.46
+    },
+    {
+      "word": "gap",
+      "start": 1.58,
+      "end": 1.7
+    },
+    {
+      "word": "ahead",
+      "start": 1.7,
+      "end": 1.92
+    },
+    {
+      "word": "is",
+      "start": 1.92,
+      "end": 2.06
+    },
+    {
+      "word": "all",
+      "start": 2.06,
+      "end": 2.2
+    },
+    {
+      "word": "good.",
+      "start": 2.2,
+      "end": 2.44
+    },
+    {
+      "word": "Remember,",
+      "start": 3.38,
+      "end": 3.9
+    },
+    {
+      "word": "go",
+      "start": 4.0,
+      "end": 4.16
+    },
+    {
+      "word": "one,",
+      "start": 4.16,
+      "end": 4.48
+    },
+    {
+      "word": "charge",
+      "start": 5.14,
+      "end": 6.12
+    },
+    {
+      "word": "off,",
+      "start": 6.12,
+      "end": 6.54
+    },
+    {
+      "word": "charge",
+      "start": 6.88,
+      "end": 7.06
+    },
+    {
+      "word": "off.",
+      "start": 7.06,
+      "end": 7.56
+    },
+    {
+      "word": "Run",
+      "start": 8.18,
+      "end": 8.68
+    },
+    {
+      "word": "switch",
+      "start": 8.68,
+      "end": 8.94
+    },
+    {
+      "word": "cool,",
+      "start": 8.94,
+      "end": 9.38
+    },
+    {
+      "word": "pedestrian",
+      "start": 9.88,
+      "end": 10.06
+    },
+    {
+      "word": "three",
+      "start": 10.06,
+      "end": 10.66
+    },
+    {
+      "word": "behind",
+      "start": 10.66,
+      "end": 11.02
+    },
+    {
+      "word": "starting",
+      "start": 11.02,
+      "end": 11.34
+    },
+    {
+      "word": "to",
+      "start": 11.34,
+      "end": 11.48
+    },
+    {
+      "word": "push.",
+      "start": 11.48,
+      "end": 11.74
+    },
+    {
+      "word": "Watch",
+      "start": 11.86,
+      "end": 11.96
+    },
+    {
+      "word": "for",
+      "start": 11.96,
+      "end": 12.14
+    },
+    {
+      "word": "pedestrian",
+      "start": 12.14,
+      "end": 12.38
+    },
+    {
+      "word": "three,",
+      "start": 12.38,
+      "end": 12.88
+    },
+    {
+      "word": "pedestrian",
+      "start": 13.56,
+      "end": 13.86
+    },
+    {
+      "word": "three",
+      "start": 13.86,
+      "end": 14.22
+    },
+    {
+      "word": "two,",
+      "start": 14.22,
+      "end": 14.6
+    },
+    {
+      "word": "pedestrian",
+      "start": 15.56,
+      "end": 16.02
+    },
+    {
+      "word": "three",
+      "start": 16.02,
+      "end": 16.32
+    },
+    {
+      "word": "one.",
+      "start": 16.32,
+      "end": 16.58
+    },
+    {
+      "word": "After",
+      "start": 18.02,
+      "end": 18.34
+    },
+    {
+      "word": "pedestrian",
+      "start": 18.34,
+      "end": 18.58
+    },
+    {
+      "word": "three,",
+      "start": 18.58,
+      "end": 18.92
+    },
+    {
+      "word": "try",
+      "start": 18.94,
+      "end": 19.08
+    },
+    {
+      "word": "and",
+      "start": 19.08,
+      "end": 19.24
+    },
+    {
+      "word": "make",
+      "start": 19.24,
+      "end": 19.56
+    },
+    {
+      "word": "up",
+      "start": 19.56,
+      "end": 19.72
+    },
+    {
+      "word": "some.",
+      "start": 19.72,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

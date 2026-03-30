@@ -1,0 +1,135 @@
+{
+  "clip_id": "clip_0361",
+  "text": "I've got nothing They're shipping you Phil I can't actually So I've tried to fire up I've got neutral now but what have I So",
+  "words": [
+    {
+      "word": "I've",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "got",
+      "start": 0.12,
+      "end": 0.12
+    },
+    {
+      "word": "nothing",
+      "start": 0.12,
+      "end": 0.36
+    },
+    {
+      "word": "They're",
+      "start": 1.54,
+      "end": 2.04
+    },
+    {
+      "word": "shipping",
+      "start": 2.04,
+      "end": 2.24
+    },
+    {
+      "word": "you",
+      "start": 2.24,
+      "end": 2.48
+    },
+    {
+      "word": "Phil",
+      "start": 2.48,
+      "end": 2.74
+    },
+    {
+      "word": "I",
+      "start": 3.34,
+      "end": 3.84
+    },
+    {
+      "word": "can't",
+      "start": 3.84,
+      "end": 4.12
+    },
+    {
+      "word": "actually",
+      "start": 4.12,
+      "end": 4.34
+    },
+    {
+      "word": "So",
+      "start": 5.52,
+      "end": 6.02
+    },
+    {
+      "word": "I've",
+      "start": 6.02,
+      "end": 6.16
+    },
+    {
+      "word": "tried",
+      "start": 6.16,
+      "end": 6.34
+    },
+    {
+      "word": "to",
+      "start": 6.34,
+      "end": 6.5
+    },
+    {
+      "word": "fire",
+      "start": 6.5,
+      "end": 6.76
+    },
+    {
+      "word": "up",
+      "start": 6.76,
+      "end": 7.08
+    },
+    {
+      "word": "I've",
+      "start": 8.0,
+      "end": 8.5
+    },
+    {
+      "word": "got",
+      "start": 8.5,
+      "end": 8.58
+    },
+    {
+      "word": "neutral",
+      "start": 8.58,
+      "end": 9.04
+    },
+    {
+      "word": "now",
+      "start": 9.04,
+      "end": 9.36
+    },
+    {
+      "word": "but",
+      "start": 9.36,
+      "end": 9.56
+    },
+    {
+      "word": "what",
+      "start": 9.56,
+      "end": 9.7
+    },
+    {
+      "word": "have",
+      "start": 9.7,
+      "end": 9.86
+    },
+    {
+      "word": "I",
+      "start": 9.86,
+      "end": 10.11
+    },
+    {
+      "word": "So",
+      "start": 11.96,
+      "end": 12.46
+    }
+  ],
+  "language": "en",
+  "word_count": 25,
+  "is_empty": false,
+  "is_very_short": false
+}

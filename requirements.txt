@@ -1,0 +1,22 @@
+# Core audio
+librosa>=0.11.0
+soundfile>=0.13.0
+scipy>=1.15.0
+numpy>=2.0.0
+noisereduce>=3.0.3
+
+# Video / download
+yt-dlp>=2024.0.0
+imageio[ffmpeg]
+
+# ASR / transcription
+openai>=1.70.0
+
+# NLP
+nltk>=3.9.0
+transformers>=4.50.0
+torch>=2.5.0
+
+# Data
+pandas>=2.2.0
+scikit-learn>=1.6.0

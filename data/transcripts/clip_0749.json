@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0749",
+  "text": "Alonzo 18, Earl 20, an album from the Pitlane on Heart.",
+  "words": [
+    {
+      "word": "Alonzo",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "word": "18,",
+      "start": 0.54,
+      "end": 1.08
+    },
+    {
+      "word": "Earl",
+      "start": 1.66,
+      "end": 1.9
+    },
+    {
+      "word": "20,",
+      "start": 1.9,
+      "end": 2.36
+    },
+    {
+      "word": "an",
+      "start": 2.74,
+      "end": 3.38
+    },
+    {
+      "word": "album",
+      "start": 3.38,
+      "end": 3.64
+    },
+    {
+      "word": "from",
+      "start": 3.64,
+      "end": 3.98
+    },
+    {
+      "word": "the",
+      "start": 3.98,
+      "end": 4.06
+    },
+    {
+      "word": "Pitlane",
+      "start": 4.06,
+      "end": 4.4
+    },
+    {
+      "word": "on",
+      "start": 4.4,
+      "end": 4.74
+    },
+    {
+      "word": "Heart.",
+      "start": 4.74,
+      "end": 4.96
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

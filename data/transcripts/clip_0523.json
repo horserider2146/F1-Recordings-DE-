@@ -1,0 +1,240 @@
+{
+  "clip_id": "clip_0523",
+  "text": "lap. We'll box this lap, keep the revs left on the inlap. Car behind is Oscar, he's on his inlap as well. Behind him is Colopinto on an outlap. There's kind of time that probably para's in turn 1. We've still got Oscar just leaving 6.",
+  "words": [
+    {
+      "word": "lap.",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "We'll",
+      "start": 1.9,
+      "end": 2.26
+    },
+    {
+      "word": "box",
+      "start": 2.26,
+      "end": 2.66
+    },
+    {
+      "word": "this",
+      "start": 2.66,
+      "end": 2.9
+    },
+    {
+      "word": "lap,",
+      "start": 2.9,
+      "end": 3.16
+    },
+    {
+      "word": "keep",
+      "start": 3.22,
+      "end": 3.34
+    },
+    {
+      "word": "the",
+      "start": 3.34,
+      "end": 3.5
+    },
+    {
+      "word": "revs",
+      "start": 3.5,
+      "end": 3.78
+    },
+    {
+      "word": "left",
+      "start": 3.78,
+      "end": 3.86
+    },
+    {
+      "word": "on",
+      "start": 3.86,
+      "end": 4.06
+    },
+    {
+      "word": "the",
+      "start": 4.06,
+      "end": 4.16
+    },
+    {
+      "word": "inlap.",
+      "start": 4.16,
+      "end": 4.5
+    },
+    {
+      "word": "Car",
+      "start": 6.86,
+      "end": 7.38
+    },
+    {
+      "word": "behind",
+      "start": 7.38,
+      "end": 7.8
+    },
+    {
+      "word": "is",
+      "start": 7.8,
+      "end": 8.1
+    },
+    {
+      "word": "Oscar,",
+      "start": 8.1,
+      "end": 8.44
+    },
+    {
+      "word": "he's",
+      "start": 8.6,
+      "end": 8.8
+    },
+    {
+      "word": "on",
+      "start": 8.8,
+      "end": 8.92
+    },
+    {
+      "word": "his",
+      "start": 8.92,
+      "end": 9.04
+    },
+    {
+      "word": "inlap",
+      "start": 9.04,
+      "end": 9.4
+    },
+    {
+      "word": "as",
+      "start": 9.4,
+      "end": 9.56
+    },
+    {
+      "word": "well.",
+      "start": 9.56,
+      "end": 9.78
+    },
+    {
+      "word": "Behind",
+      "start": 10.18,
+      "end": 10.4
+    },
+    {
+      "word": "him",
+      "start": 10.4,
+      "end": 10.56
+    },
+    {
+      "word": "is",
+      "start": 10.56,
+      "end": 10.66
+    },
+    {
+      "word": "Colopinto",
+      "start": 10.66,
+      "end": 11.14
+    },
+    {
+      "word": "on",
+      "start": 11.14,
+      "end": 11.46
+    },
+    {
+      "word": "an",
+      "start": 11.46,
+      "end": 11.58
+    },
+    {
+      "word": "outlap.",
+      "start": 11.58,
+      "end": 12.14
+    },
+    {
+      "word": "There's",
+      "start": 13.08,
+      "end": 13.52
+    },
+    {
+      "word": "kind",
+      "start": 13.52,
+      "end": 13.64
+    },
+    {
+      "word": "of",
+      "start": 13.64,
+      "end": 13.72
+    },
+    {
+      "word": "time",
+      "start": 13.72,
+      "end": 13.98
+    },
+    {
+      "word": "that",
+      "start": 13.98,
+      "end": 14.12
+    },
+    {
+      "word": "probably",
+      "start": 14.12,
+      "end": 14.52
+    },
+    {
+      "word": "para's",
+      "start": 14.52,
+      "end": 15.14
+    },
+    {
+      "word": "in",
+      "start": 15.14,
+      "end": 15.28
+    },
+    {
+      "word": "turn",
+      "start": 15.28,
+      "end": 15.46
+    },
+    {
+      "word": "1.",
+      "start": 15.46,
+      "end": 15.74
+    },
+    {
+      "word": "We've",
+      "start": 17.18,
+      "end": 17.74
+    },
+    {
+      "word": "still",
+      "start": 17.74,
+      "end": 17.9
+    },
+    {
+      "word": "got",
+      "start": 17.9,
+      "end": 18.08
+    },
+    {
+      "word": "Oscar",
+      "start": 18.08,
+      "end": 18.46
+    },
+    {
+      "word": "just",
+      "start": 18.46,
+      "end": 18.98
+    },
+    {
+      "word": "leaving",
+      "start": 18.98,
+      "end": 19.18
+    },
+    {
+      "word": "6.",
+      "start": 19.18,
+      "end": 19.6
+    }
+  ],
+  "language": "en",
+  "word_count": 46,
+  "is_empty": false,
+  "is_very_short": false
+}

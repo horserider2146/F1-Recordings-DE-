@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0793",
+  "text": "170 in turn 13, Gazzley 7 behind, there's a big gap behind him if we need it. Harder 280 in the straight, Gazzley 6 behind, Gazzley 5 still on 3.5 ahead. He kept the gap in turn 14.",
+  "words": [
+    {
+      "word": "170",
+      "start": 0.78,
+      "end": 1.42
+    },
+    {
+      "word": "in",
+      "start": 1.42,
+      "end": 1.88
+    },
+    {
+      "word": "turn",
+      "start": 1.88,
+      "end": 2.0
+    },
+    {
+      "word": "13,",
+      "start": 2.0,
+      "end": 2.48
+    },
+    {
+      "word": "Gazzley",
+      "start": 2.86,
+      "end": 3.12
+    },
+    {
+      "word": "7",
+      "start": 3.12,
+      "end": 3.46
+    },
+    {
+      "word": "behind,",
+      "start": 3.46,
+      "end": 3.78
+    },
+    {
+      "word": "there's",
+      "start": 3.96,
+      "end": 4.08
+    },
+    {
+      "word": "a",
+      "start": 4.08,
+      "end": 4.14
+    },
+    {
+      "word": "big",
+      "start": 4.14,
+      "end": 4.5
+    },
+    {
+      "word": "gap",
+      "start": 4.5,
+      "end": 4.7
+    },
+    {
+      "word": "behind",
+      "start": 4.7,
+      "end": 4.96
+    },
+    {
+      "word": "him",
+      "start": 4.96,
+      "end": 5.26
+    },
+    {
+      "word": "if",
+      "start": 5.26,
+      "end": 5.56
+    },
+    {
+      "word": "we",
+      "start": 5.56,
+      "end": 5.66
+    },
+    {
+      "word": "need",
+      "start": 5.66,
+      "end": 5.78
+    },
+    {
+      "word": "it.",
+      "start": 5.78,
+      "end": 7.02
+    },
+    {
+      "word": "Harder",
+      "start": 7.58,
+      "end": 8.22
+    },
+    {
+      "word": "280",
+      "start": 8.22,
+      "end": 8.64
+    },
+    {
+      "word": "in",
+      "start": 8.64,
+      "end": 8.94
+    },
+    {
+      "word": "the",
+      "start": 8.94,
+      "end": 9.08
+    },
+    {
+      "word": "straight,",
+      "start": 9.08,
+      "end": 9.32
+    },
+    {
+      "word": "Gazzley",
+      "start": 10.04,
+      "end": 10.94
+    },
+    {
+      "word": "6",
+      "start": 10.94,
+      "end": 11.34
+    },
+    {
+      "word": "behind,",
+      "start": 11.34,
+      "end": 11.78
+    },
+    {
+      "word": "Gazzley",
+      "start": 12.38,
+      "end": 12.82
+    },
+    {
+      "word": "5",
+      "start": 12.82,
+      "end": 13.16
+    },
+    {
+      "word": "still",
+      "start": 13.16,
+      "end": 14.38
+    },
+    {
+      "word": "on",
+      "start": 14.38,
+      "end": 14.56
+    },
+    {
+      "word": "3",
+      "start": 14.56,
+      "end": 14.8
+    },
+    {
+      "word": ".5",
+      "start": 14.8,
+      "end": 15.04
+    },
+    {
+      "word": "ahead.",
+      "start": 15.04,
+      "end": 15.34
+    },
+    {
+      "word": "He",
+      "start": 16.72,
+      "end": 17.08
+    },
+    {
+      "word": "kept",
+      "start": 17.08,
+      "end": 17.28
+    },
+    {
+      "word": "the",
+      "start": 17.28,
+      "end": 17.38
+    },
+    {
+      "word": "gap",
+      "start": 17.38,
+      "end": 17.48
+    },
+    {
+      "word": "in",
+      "start": 17.48,
+      "end": 17.6
+    },
+    {
+      "word": "turn",
+      "start": 17.6,
+      "end": 17.76
+    },
+    {
+      "word": "14.",
+      "start": 17.76,
+      "end": 18.12
+    }
+  ],
+  "language": "en",
+  "word_count": 38,
+  "is_empty": false,
+  "is_very_short": false
+}

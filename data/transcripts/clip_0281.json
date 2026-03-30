@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_0281",
+  "text": "I'm going to go to the cabin Yeah, picking up rubber The car was not straight forward but I wanted to move for the team, it was great Yeah, good results I hope they should see it, good target results, good event, hello",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": "going",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "to",
+      "start": 0.1,
+      "end": 0.1
+    },
+    {
+      "word": "go",
+      "start": 0.1,
+      "end": 0.1
+    },
+    {
+      "word": "to",
+      "start": 0.1,
+      "end": 0.2
+    },
+    {
+      "word": "the",
+      "start": 0.2,
+      "end": 0.34
+    },
+    {
+      "word": "cabin",
+      "start": 0.34,
+      "end": 0.38
+    },
+    {
+      "word": "Yeah,",
+      "start": 2.6,
+      "end": 2.96
+    },
+    {
+      "word": "picking",
+      "start": 3.08,
+      "end": 3.38
+    },
+    {
+      "word": "up",
+      "start": 3.38,
+      "end": 3.52
+    },
+    {
+      "word": "rubber",
+      "start": 3.52,
+      "end": 3.8
+    },
+    {
+      "word": "The",
+      "start": 8.56,
+      "end": 8.92
+    },
+    {
+      "word": "car",
+      "start": 8.92,
+      "end": 9.28
+    },
+    {
+      "word": "was",
+      "start": 9.28,
+      "end": 9.46
+    },
+    {
+      "word": "not",
+      "start": 9.46,
+      "end": 9.62
+    },
+    {
+      "word": "straight",
+      "start": 9.62,
+      "end": 9.86
+    },
+    {
+      "word": "forward",
+      "start": 9.86,
+      "end": 10.22
+    },
+    {
+      "word": "but",
+      "start": 10.74,
+      "end": 11.1
+    },
+    {
+      "word": "I",
+      "start": 11.1,
+      "end": 11.18
+    },
+    {
+      "word": "wanted",
+      "start": 11.18,
+      "end": 11.4
+    },
+    {
+      "word": "to",
+      "start": 11.4,
+      "end": 11.58
+    },
+    {
+      "word": "move",
+      "start": 11.58,
+      "end": 11.8
+    },
+    {
+      "word": "for",
+      "start": 11.8,
+      "end": 12.24
+    },
+    {
+      "word": "the",
+      "start": 12.24,
+      "end": 12.34
+    },
+    {
+      "word": "team,",
+      "start": 12.34,
+      "end": 12.6
+    },
+    {
+      "word": "it",
+      "start": 12.64,
+      "end": 12.8
+    },
+    {
+      "word": "was",
+      "start": 12.8,
+      "end": 12.8
+    },
+    {
+      "word": "great",
+      "start": 12.8,
+      "end": 13.06
+    },
+    {
+      "word": "Yeah,",
+      "start": 15.28,
+      "end": 15.64
+    },
+    {
+      "word": "good",
+      "start": 15.7,
+      "end": 15.8
+    },
+    {
+      "word": "results",
+      "start": 15.8,
+      "end": 16.08
+    },
+    {
+      "word": "I",
+      "start": 17.2,
+      "end": 17.56
+    },
+    {
+      "word": "hope",
+      "start": 17.56,
+      "end": 17.66
+    },
+    {
+      "word": "they",
+      "start": 17.66,
+      "end": 17.82
+    },
+    {
+      "word": "should",
+      "start": 17.82,
+      "end": 17.94
+    },
+    {
+      "word": "see",
+      "start": 17.94,
+      "end": 18.18
+    },
+    {
+      "word": "it,",
+      "start": 18.18,
+      "end": 18.32
+    },
+    {
+      "word": "good",
+      "start": 18.46,
+      "end": 18.54
+    },
+    {
+      "word": "target",
+      "start": 18.54,
+      "end": 18.76
+    },
+    {
+      "word": "results,",
+      "start": 18.76,
+      "end": 19.06
+    },
+    {
+      "word": "good",
+      "start": 19.18,
+      "end": 19.26
+    },
+    {
+      "word": "event,",
+      "start": 19.26,
+      "end": 19.48
+    },
+    {
+      "word": "hello",
+      "start": 19.6,
+      "end": 19.92
+    }
+  ],
+  "language": "en",
+  "word_count": 43,
+  "is_empty": false,
+  "is_very_short": false
+}

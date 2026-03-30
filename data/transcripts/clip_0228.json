@@ -1,0 +1,160 @@
+{
+  "clip_id": "clip_0228",
+  "text": "Careful with traffic. Albon pushing. 3. Internally slow. Next car pushing is Hamilton 9. So ahead of you is now Albon pushing and then Norris further ahead 10 seconds out.",
+  "words": [
+    {
+      "word": "Careful",
+      "start": 1.36,
+      "end": 1.98
+    },
+    {
+      "word": "with",
+      "start": 1.98,
+      "end": 2.18
+    },
+    {
+      "word": "traffic.",
+      "start": 2.18,
+      "end": 2.44
+    },
+    {
+      "word": "Albon",
+      "start": 3.22,
+      "end": 3.84
+    },
+    {
+      "word": "pushing.",
+      "start": 3.84,
+      "end": 4.24
+    },
+    {
+      "word": "3.",
+      "start": 5.14,
+      "end": 5.4
+    },
+    {
+      "word": "Internally",
+      "start": 7.62,
+      "end": 8.24
+    },
+    {
+      "word": "slow.",
+      "start": 8.24,
+      "end": 8.52
+    },
+    {
+      "word": "Next",
+      "start": 9.68,
+      "end": 10.24
+    },
+    {
+      "word": "car",
+      "start": 10.24,
+      "end": 10.54
+    },
+    {
+      "word": "pushing",
+      "start": 10.54,
+      "end": 10.82
+    },
+    {
+      "word": "is",
+      "start": 10.82,
+      "end": 11.04
+    },
+    {
+      "word": "Hamilton",
+      "start": 11.04,
+      "end": 11.36
+    },
+    {
+      "word": "9.",
+      "start": 11.36,
+      "end": 12.02
+    },
+    {
+      "word": "So",
+      "start": 13.38,
+      "end": 13.54
+    },
+    {
+      "word": "ahead",
+      "start": 13.54,
+      "end": 13.84
+    },
+    {
+      "word": "of",
+      "start": 13.84,
+      "end": 14.02
+    },
+    {
+      "word": "you",
+      "start": 14.02,
+      "end": 14.24
+    },
+    {
+      "word": "is",
+      "start": 14.24,
+      "end": 14.8
+    },
+    {
+      "word": "now",
+      "start": 14.8,
+      "end": 15.06
+    },
+    {
+      "word": "Albon",
+      "start": 15.06,
+      "end": 16.9
+    },
+    {
+      "word": "pushing",
+      "start": 16.9,
+      "end": 17.32
+    },
+    {
+      "word": "and",
+      "start": 17.32,
+      "end": 17.56
+    },
+    {
+      "word": "then",
+      "start": 17.56,
+      "end": 17.68
+    },
+    {
+      "word": "Norris",
+      "start": 17.68,
+      "end": 18.26
+    },
+    {
+      "word": "further",
+      "start": 18.26,
+      "end": 18.7
+    },
+    {
+      "word": "ahead",
+      "start": 18.7,
+      "end": 18.98
+    },
+    {
+      "word": "10",
+      "start": 18.98,
+      "end": 19.26
+    },
+    {
+      "word": "seconds",
+      "start": 19.26,
+      "end": 19.6
+    },
+    {
+      "word": "out.",
+      "start": 19.6,
+      "end": 19.84
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

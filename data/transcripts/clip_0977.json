@@ -1,0 +1,30 @@
+{
+  "clip_id": "clip_0977",
+  "text": "Copy. Wait some more.",
+  "words": [
+    {
+      "word": "Copy.",
+      "start": 0.0,
+      "end": 0.96
+    },
+    {
+      "word": "Wait",
+      "start": 2.4,
+      "end": 2.92
+    },
+    {
+      "word": "some",
+      "start": 2.92,
+      "end": 3.1
+    },
+    {
+      "word": "more.",
+      "start": 3.1,
+      "end": 3.24
+    }
+  ],
+  "language": "en",
+  "word_count": 4,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,70 @@
+{
+  "clip_id": "clip_0782",
+  "text": "So we expect the other sync with them when we're on track.",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "we",
+      "start": 0.12,
+      "end": 0.32
+    },
+    {
+      "word": "expect",
+      "start": 0.32,
+      "end": 0.58
+    },
+    {
+      "word": "the",
+      "start": 0.58,
+      "end": 0.8
+    },
+    {
+      "word": "other",
+      "start": 0.8,
+      "end": 0.98
+    },
+    {
+      "word": "sync",
+      "start": 0.98,
+      "end": 1.28
+    },
+    {
+      "word": "with",
+      "start": 1.28,
+      "end": 1.52
+    },
+    {
+      "word": "them",
+      "start": 1.52,
+      "end": 1.74
+    },
+    {
+      "word": "when",
+      "start": 1.74,
+      "end": 2.3
+    },
+    {
+      "word": "we're",
+      "start": 2.3,
+      "end": 2.46
+    },
+    {
+      "word": "on",
+      "start": 2.46,
+      "end": 2.52
+    },
+    {
+      "word": "track.",
+      "start": 2.52,
+      "end": 2.72
+    }
+  ],
+  "language": "en",
+  "word_count": 12,
+  "is_empty": false,
+  "is_very_short": false
+}

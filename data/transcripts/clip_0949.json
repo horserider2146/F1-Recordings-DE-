@@ -1,0 +1,240 @@
+{
+  "clip_id": "clip_0949",
+  "text": "pulling away. Standby. Everything good. Everything is good, everything good. We're on plan A at the moment. We've done gap 5.5. Who's the car behind? The car behind Franco 5.6. Two seconds behind him is Ocon also on the half. OK, mate, so safety.",
+  "words": [
+    {
+      "word": "pulling",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "away.",
+      "start": 0.12,
+      "end": 0.38
+    },
+    {
+      "word": "Standby.",
+      "start": 2.7,
+      "end": 3.3
+    },
+    {
+      "word": "Everything",
+      "start": 3.88,
+      "end": 4.44
+    },
+    {
+      "word": "good.",
+      "start": 4.44,
+      "end": 4.88
+    },
+    {
+      "word": "Everything",
+      "start": 5.32,
+      "end": 5.8
+    },
+    {
+      "word": "is",
+      "start": 5.8,
+      "end": 6.02
+    },
+    {
+      "word": "good,",
+      "start": 6.02,
+      "end": 6.18
+    },
+    {
+      "word": "everything",
+      "start": 6.26,
+      "end": 6.56
+    },
+    {
+      "word": "good.",
+      "start": 6.56,
+      "end": 7.0
+    },
+    {
+      "word": "We're",
+      "start": 7.38,
+      "end": 7.48
+    },
+    {
+      "word": "on",
+      "start": 7.48,
+      "end": 7.6
+    },
+    {
+      "word": "plan",
+      "start": 7.6,
+      "end": 7.92
+    },
+    {
+      "word": "A",
+      "start": 7.92,
+      "end": 8.22
+    },
+    {
+      "word": "at",
+      "start": 8.22,
+      "end": 8.36
+    },
+    {
+      "word": "the",
+      "start": 8.36,
+      "end": 8.46
+    },
+    {
+      "word": "moment.",
+      "start": 8.46,
+      "end": 8.68
+    },
+    {
+      "word": "We've",
+      "start": 9.06,
+      "end": 9.22
+    },
+    {
+      "word": "done",
+      "start": 9.22,
+      "end": 9.3
+    },
+    {
+      "word": "gap",
+      "start": 9.3,
+      "end": 9.5
+    },
+    {
+      "word": "5",
+      "start": 9.5,
+      "end": 9.82
+    },
+    {
+      "word": ".5.",
+      "start": 9.82,
+      "end": 10.66
+    },
+    {
+      "word": "Who's",
+      "start": 11.08,
+      "end": 11.42
+    },
+    {
+      "word": "the",
+      "start": 11.42,
+      "end": 11.52
+    },
+    {
+      "word": "car",
+      "start": 11.52,
+      "end": 11.72
+    },
+    {
+      "word": "behind?",
+      "start": 11.72,
+      "end": 11.9
+    },
+    {
+      "word": "The",
+      "start": 12.52,
+      "end": 12.88
+    },
+    {
+      "word": "car",
+      "start": 12.88,
+      "end": 13.12
+    },
+    {
+      "word": "behind",
+      "start": 13.12,
+      "end": 13.46
+    },
+    {
+      "word": "Franco",
+      "start": 13.46,
+      "end": 13.78
+    },
+    {
+      "word": "5",
+      "start": 13.78,
+      "end": 14.08
+    },
+    {
+      "word": ".6.",
+      "start": 14.08,
+      "end": 14.48
+    },
+    {
+      "word": "Two",
+      "start": 14.94,
+      "end": 15.18
+    },
+    {
+      "word": "seconds",
+      "start": 15.18,
+      "end": 15.62
+    },
+    {
+      "word": "behind",
+      "start": 15.62,
+      "end": 15.88
+    },
+    {
+      "word": "him",
+      "start": 15.88,
+      "end": 16.1
+    },
+    {
+      "word": "is",
+      "start": 16.1,
+      "end": 16.26
+    },
+    {
+      "word": "Ocon",
+      "start": 16.26,
+      "end": 16.6
+    },
+    {
+      "word": "also",
+      "start": 16.6,
+      "end": 16.92
+    },
+    {
+      "word": "on",
+      "start": 16.92,
+      "end": 17.08
+    },
+    {
+      "word": "the",
+      "start": 17.08,
+      "end": 17.16
+    },
+    {
+      "word": "half.",
+      "start": 17.16,
+      "end": 17.32
+    },
+    {
+      "word": "OK,",
+      "start": 18.48,
+      "end": 18.78
+    },
+    {
+      "word": "mate,",
+      "start": 18.9,
+      "end": 18.96
+    },
+    {
+      "word": "so",
+      "start": 19.18,
+      "end": 19.26
+    },
+    {
+      "word": "safety.",
+      "start": 19.26,
+      "end": 19.84
+    }
+  ],
+  "language": "en",
+  "word_count": 44,
+  "is_empty": false,
+  "is_very_short": false
+}

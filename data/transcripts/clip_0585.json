@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_0585",
+  "text": "lift I was doing yeah it was alright there would be a recovery vehicle in turn 2 and it's double yellow there in turn 2. Give me any updates you can just on the driving. I will. Was any other cars having grainy?",
+  "words": [
+    {
+      "word": "lift",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "I",
+      "start": 0.16,
+      "end": 0.28
+    },
+    {
+      "word": "was",
+      "start": 0.28,
+      "end": 0.36
+    },
+    {
+      "word": "doing",
+      "start": 0.36,
+      "end": 0.48
+    },
+    {
+      "word": "yeah",
+      "start": 0.48,
+      "end": 1.68
+    },
+    {
+      "word": "it",
+      "start": 1.68,
+      "end": 1.84
+    },
+    {
+      "word": "was",
+      "start": 1.84,
+      "end": 1.98
+    },
+    {
+      "word": "alright",
+      "start": 1.98,
+      "end": 2.3
+    },
+    {
+      "word": "there",
+      "start": 2.3,
+      "end": 3.72
+    },
+    {
+      "word": "would",
+      "start": 3.72,
+      "end": 3.86
+    },
+    {
+      "word": "be",
+      "start": 3.86,
+      "end": 4.04
+    },
+    {
+      "word": "a",
+      "start": 4.04,
+      "end": 4.16
+    },
+    {
+      "word": "recovery",
+      "start": 4.16,
+      "end": 4.58
+    },
+    {
+      "word": "vehicle",
+      "start": 4.58,
+      "end": 5.18
+    },
+    {
+      "word": "in",
+      "start": 5.18,
+      "end": 5.64
+    },
+    {
+      "word": "turn",
+      "start": 5.64,
+      "end": 5.8
+    },
+    {
+      "word": "2",
+      "start": 5.8,
+      "end": 6.06
+    },
+    {
+      "word": "and",
+      "start": 6.06,
+      "end": 7.7
+    },
+    {
+      "word": "it's",
+      "start": 7.7,
+      "end": 7.9
+    },
+    {
+      "word": "double",
+      "start": 7.9,
+      "end": 8.16
+    },
+    {
+      "word": "yellow",
+      "start": 8.16,
+      "end": 8.42
+    },
+    {
+      "word": "there",
+      "start": 8.42,
+      "end": 8.72
+    },
+    {
+      "word": "in",
+      "start": 8.72,
+      "end": 9.14
+    },
+    {
+      "word": "turn",
+      "start": 9.14,
+      "end": 9.34
+    },
+    {
+      "word": "2.",
+      "start": 9.34,
+      "end": 10.12
+    },
+    {
+      "word": "Give",
+      "start": 10.88,
+      "end": 11.4
+    },
+    {
+      "word": "me",
+      "start": 11.4,
+      "end": 11.5
+    },
+    {
+      "word": "any",
+      "start": 11.5,
+      "end": 11.62
+    },
+    {
+      "word": "updates",
+      "start": 11.62,
+      "end": 11.88
+    },
+    {
+      "word": "you",
+      "start": 11.88,
+      "end": 12.14
+    },
+    {
+      "word": "can",
+      "start": 12.14,
+      "end": 12.32
+    },
+    {
+      "word": "just",
+      "start": 12.32,
+      "end": 12.84
+    },
+    {
+      "word": "on",
+      "start": 12.84,
+      "end": 13.06
+    },
+    {
+      "word": "the",
+      "start": 13.06,
+      "end": 13.2
+    },
+    {
+      "word": "driving.",
+      "start": 13.2,
+      "end": 13.56
+    },
+    {
+      "word": "I",
+      "start": 14.94,
+      "end": 15.4
+    },
+    {
+      "word": "will.",
+      "start": 15.4,
+      "end": 15.56
+    },
+    {
+      "word": "Was",
+      "start": 15.82,
+      "end": 16.04
+    },
+    {
+      "word": "any",
+      "start": 16.04,
+      "end": 16.76
+    },
+    {
+      "word": "other",
+      "start": 16.76,
+      "end": 16.92
+    },
+    {
+      "word": "cars",
+      "start": 16.92,
+      "end": 17.24
+    },
+    {
+      "word": "having",
+      "start": 17.24,
+      "end": 17.9
+    },
+    {
+      "word": "grainy?",
+      "start": 17.9,
+      "end": 18.2
+    }
+  ],
+  "language": "en",
+  "word_count": 43,
+  "is_empty": false,
+  "is_very_short": false
+}

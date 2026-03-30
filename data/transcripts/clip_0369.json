@@ -1,0 +1,255 @@
+{
+  "clip_id": "clip_0369",
+  "text": "Yeah. And five minutes to formation lap. And time for, as you know, two McLaren McLartens are starting from the pit lane there back in the garage, both cars. And then, people around you are on new medium tyre. The first car on soft tyre is P8 for Stapin.",
+  "words": [
+    {
+      "word": "Yeah.",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "And",
+      "start": 1.02,
+      "end": 1.62
+    },
+    {
+      "word": "five",
+      "start": 1.62,
+      "end": 1.92
+    },
+    {
+      "word": "minutes",
+      "start": 1.92,
+      "end": 2.28
+    },
+    {
+      "word": "to",
+      "start": 2.28,
+      "end": 2.52
+    },
+    {
+      "word": "formation",
+      "start": 2.52,
+      "end": 2.82
+    },
+    {
+      "word": "lap.",
+      "start": 2.82,
+      "end": 3.1
+    },
+    {
+      "word": "And",
+      "start": 4.66,
+      "end": 5.26
+    },
+    {
+      "word": "time",
+      "start": 5.26,
+      "end": 5.62
+    },
+    {
+      "word": "for,",
+      "start": 5.62,
+      "end": 6.0
+    },
+    {
+      "word": "as",
+      "start": 6.32,
+      "end": 6.76
+    },
+    {
+      "word": "you",
+      "start": 6.76,
+      "end": 6.86
+    },
+    {
+      "word": "know,",
+      "start": 6.86,
+      "end": 7.1
+    },
+    {
+      "word": "two",
+      "start": 7.34,
+      "end": 7.66
+    },
+    {
+      "word": "McLaren",
+      "start": 7.66,
+      "end": 8.08
+    },
+    {
+      "word": "McLartens",
+      "start": 8.08,
+      "end": 8.72
+    },
+    {
+      "word": "are",
+      "start": 8.72,
+      "end": 8.96
+    },
+    {
+      "word": "starting",
+      "start": 8.96,
+      "end": 9.4
+    },
+    {
+      "word": "from",
+      "start": 9.4,
+      "end": 9.76
+    },
+    {
+      "word": "the",
+      "start": 9.76,
+      "end": 9.86
+    },
+    {
+      "word": "pit",
+      "start": 9.86,
+      "end": 9.96
+    },
+    {
+      "word": "lane",
+      "start": 9.96,
+      "end": 10.12
+    },
+    {
+      "word": "there",
+      "start": 10.12,
+      "end": 10.36
+    },
+    {
+      "word": "back",
+      "start": 10.36,
+      "end": 10.66
+    },
+    {
+      "word": "in",
+      "start": 10.66,
+      "end": 10.78
+    },
+    {
+      "word": "the",
+      "start": 10.78,
+      "end": 10.88
+    },
+    {
+      "word": "garage,",
+      "start": 10.88,
+      "end": 11.06
+    },
+    {
+      "word": "both",
+      "start": 11.22,
+      "end": 11.38
+    },
+    {
+      "word": "cars.",
+      "start": 11.38,
+      "end": 11.66
+    },
+    {
+      "word": "And",
+      "start": 12.42,
+      "end": 12.44
+    },
+    {
+      "word": "then,",
+      "start": 12.44,
+      "end": 12.62
+    },
+    {
+      "word": "people",
+      "start": 13.08,
+      "end": 13.5
+    },
+    {
+      "word": "around",
+      "start": 13.5,
+      "end": 13.74
+    },
+    {
+      "word": "you",
+      "start": 13.74,
+      "end": 13.94
+    },
+    {
+      "word": "are",
+      "start": 13.94,
+      "end": 14.14
+    },
+    {
+      "word": "on",
+      "start": 14.14,
+      "end": 14.34
+    },
+    {
+      "word": "new",
+      "start": 14.34,
+      "end": 14.66
+    },
+    {
+      "word": "medium",
+      "start": 14.66,
+      "end": 14.96
+    },
+    {
+      "word": "tyre.",
+      "start": 14.96,
+      "end": 15.32
+    },
+    {
+      "word": "The",
+      "start": 15.8,
+      "end": 15.92
+    },
+    {
+      "word": "first",
+      "start": 15.92,
+      "end": 16.3
+    },
+    {
+      "word": "car",
+      "start": 16.3,
+      "end": 16.64
+    },
+    {
+      "word": "on",
+      "start": 16.64,
+      "end": 17.0
+    },
+    {
+      "word": "soft",
+      "start": 17.0,
+      "end": 17.66
+    },
+    {
+      "word": "tyre",
+      "start": 17.66,
+      "end": 18.08
+    },
+    {
+      "word": "is",
+      "start": 18.08,
+      "end": 18.52
+    },
+    {
+      "word": "P8",
+      "start": 18.52,
+      "end": 19.28
+    },
+    {
+      "word": "for",
+      "start": 19.28,
+      "end": 19.46
+    },
+    {
+      "word": "Stapin.",
+      "start": 19.46,
+      "end": 19.84
+    }
+  ],
+  "language": "en",
+  "word_count": 49,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0043",
+  "text": "Okay, man lost was turn 60, 10th to up x speed. It could be negative or the dash. Yeah, I didn't hear that, can you repeat? Losing 210 to turn 60. Man lost. It's 80 to speed exit from circuit.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 1.2,
+      "end": 1.64
+    },
+    {
+      "word": "man",
+      "start": 1.72,
+      "end": 1.78
+    },
+    {
+      "word": "lost",
+      "start": 1.78,
+      "end": 2.02
+    },
+    {
+      "word": "was",
+      "start": 2.02,
+      "end": 2.28
+    },
+    {
+      "word": "turn",
+      "start": 2.28,
+      "end": 2.6
+    },
+    {
+      "word": "60,",
+      "start": 2.6,
+      "end": 2.92
+    },
+    {
+      "word": "10th",
+      "start": 2.96,
+      "end": 3.44
+    },
+    {
+      "word": "to",
+      "start": 3.44,
+      "end": 3.6
+    },
+    {
+      "word": "up",
+      "start": 3.6,
+      "end": 4.56
+    },
+    {
+      "word": "x",
+      "start": 4.56,
+      "end": 4.78
+    },
+    {
+      "word": "speed.",
+      "start": 4.78,
+      "end": 4.96
+    },
+    {
+      "word": "It",
+      "start": 6.16,
+      "end": 6.6
+    },
+    {
+      "word": "could",
+      "start": 6.6,
+      "end": 6.76
+    },
+    {
+      "word": "be",
+      "start": 6.76,
+      "end": 6.82
+    },
+    {
+      "word": "negative",
+      "start": 6.82,
+      "end": 7.16
+    },
+    {
+      "word": "or",
+      "start": 7.16,
+      "end": 7.34
+    },
+    {
+      "word": "the",
+      "start": 7.34,
+      "end": 7.4
+    },
+    {
+      "word": "dash.",
+      "start": 7.4,
+      "end": 7.6
+    },
+    {
+      "word": "Yeah,",
+      "start": 9.06,
+      "end": 9.5
+    },
+    {
+      "word": "I",
+      "start": 9.6,
+      "end": 9.6
+    },
+    {
+      "word": "didn't",
+      "start": 9.6,
+      "end": 9.8
+    },
+    {
+      "word": "hear",
+      "start": 9.8,
+      "end": 9.92
+    },
+    {
+      "word": "that,",
+      "start": 9.92,
+      "end": 10.12
+    },
+    {
+      "word": "can",
+      "start": 10.28,
+      "end": 10.28
+    },
+    {
+      "word": "you",
+      "start": 10.28,
+      "end": 10.4
+    },
+    {
+      "word": "repeat?",
+      "start": 10.4,
+      "end": 10.62
+    },
+    {
+      "word": "Losing",
+      "start": 13.42,
+      "end": 13.86
+    },
+    {
+      "word": "210",
+      "start": 13.86,
+      "end": 14.3
+    },
+    {
+      "word": "to",
+      "start": 14.3,
+      "end": 14.62
+    },
+    {
+      "word": "turn",
+      "start": 14.62,
+      "end": 14.72
+    },
+    {
+      "word": "60.",
+      "start": 14.72,
+      "end": 15.06
+    },
+    {
+      "word": "Man",
+      "start": 15.72,
+      "end": 16.16
+    },
+    {
+      "word": "lost.",
+      "start": 16.16,
+      "end": 16.38
+    },
+    {
+      "word": "It's",
+      "start": 17.7,
+      "end": 18.22
+    },
+    {
+      "word": "80",
+      "start": 18.22,
+      "end": 18.48
+    },
+    {
+      "word": "to",
+      "start": 18.48,
+      "end": 18.74
+    },
+    {
+      "word": "speed",
+      "start": 18.74,
+      "end": 19.02
+    },
+    {
+      "word": "exit",
+      "start": 19.02,
+      "end": 19.36
+    },
+    {
+      "word": "from",
+      "start": 19.36,
+      "end": 19.58
+    },
+    {
+      "word": "circuit.",
+      "start": 19.58,
+      "end": 19.84
+    }
+  ],
+  "language": "en",
+  "word_count": 40,
+  "is_empty": false,
+  "is_very_short": false
+}

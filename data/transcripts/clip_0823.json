@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_0823",
+  "text": "Russell is moving, practice green, 60 kph here, practice green, Russell is moving on mode Q. Mode in, mode in, hot shop, look, a lap behind, six behind, good on time. Radio check, radio check, hot shop.",
+  "words": [
+    {
+      "word": "Russell",
+      "start": 0.6,
+      "end": 1.12
+    },
+    {
+      "word": "is",
+      "start": 1.12,
+      "end": 1.26
+    },
+    {
+      "word": "moving,",
+      "start": 1.26,
+      "end": 1.42
+    },
+    {
+      "word": "practice",
+      "start": 1.56,
+      "end": 1.76
+    },
+    {
+      "word": "green,",
+      "start": 1.76,
+      "end": 2.1
+    },
+    {
+      "word": "60",
+      "start": 2.98,
+      "end": 3.76
+    },
+    {
+      "word": "kph",
+      "start": 3.76,
+      "end": 4.14
+    },
+    {
+      "word": "here,",
+      "start": 4.14,
+      "end": 4.48
+    },
+    {
+      "word": "practice",
+      "start": 4.94,
+      "end": 6.18
+    },
+    {
+      "word": "green,",
+      "start": 6.18,
+      "end": 6.52
+    },
+    {
+      "word": "Russell",
+      "start": 6.64,
+      "end": 6.8
+    },
+    {
+      "word": "is",
+      "start": 6.8,
+      "end": 6.98
+    },
+    {
+      "word": "moving",
+      "start": 6.98,
+      "end": 7.3
+    },
+    {
+      "word": "on",
+      "start": 7.3,
+      "end": 8.04
+    },
+    {
+      "word": "mode",
+      "start": 8.04,
+      "end": 8.32
+    },
+    {
+      "word": "Q.",
+      "start": 8.32,
+      "end": 8.64
+    },
+    {
+      "word": "Mode",
+      "start": 10.22,
+      "end": 10.74
+    },
+    {
+      "word": "in,",
+      "start": 10.74,
+      "end": 11.16
+    },
+    {
+      "word": "mode",
+      "start": 11.22,
+      "end": 11.44
+    },
+    {
+      "word": "in,",
+      "start": 11.44,
+      "end": 11.88
+    },
+    {
+      "word": "hot",
+      "start": 12.04,
+      "end": 12.56
+    },
+    {
+      "word": "shop,",
+      "start": 12.56,
+      "end": 12.78
+    },
+    {
+      "word": "look,",
+      "start": 12.94,
+      "end": 13.02
+    },
+    {
+      "word": "a",
+      "start": 13.16,
+      "end": 13.2
+    },
+    {
+      "word": "lap",
+      "start": 13.2,
+      "end": 13.32
+    },
+    {
+      "word": "behind,",
+      "start": 13.32,
+      "end": 13.58
+    },
+    {
+      "word": "six",
+      "start": 13.82,
+      "end": 14.04
+    },
+    {
+      "word": "behind,",
+      "start": 14.04,
+      "end": 14.54
+    },
+    {
+      "word": "good",
+      "start": 14.96,
+      "end": 16.34
+    },
+    {
+      "word": "on",
+      "start": 16.34,
+      "end": 16.5
+    },
+    {
+      "word": "time.",
+      "start": 16.5,
+      "end": 16.78
+    },
+    {
+      "word": "Radio",
+      "start": 18.0,
+      "end": 18.52
+    },
+    {
+      "word": "check,",
+      "start": 18.52,
+      "end": 18.8
+    },
+    {
+      "word": "radio",
+      "start": 18.96,
+      "end": 19.14
+    },
+    {
+      "word": "check,",
+      "start": 19.14,
+      "end": 19.4
+    },
+    {
+      "word": "hot",
+      "start": 19.58,
+      "end": 19.72
+    },
+    {
+      "word": "shop.",
+      "start": 19.72,
+      "end": 19.88
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

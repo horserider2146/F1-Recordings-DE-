@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_1200",
+  "text": "I hope the beers are cold, I'm still thirsty Sorry please repeat I hope the beers are cold, I'm still thirsty Yeah you're thirsty mate, I'm sure we're gonna rain something Great to get both cars across the line Thank you buddy",
+  "words": [
+    {
+      "word": "I",
+      "start": 1.24,
+      "end": 1.72
+    },
+    {
+      "word": "hope",
+      "start": 1.72,
+      "end": 1.88
+    },
+    {
+      "word": "the",
+      "start": 1.88,
+      "end": 2.0
+    },
+    {
+      "word": "beers",
+      "start": 2.0,
+      "end": 2.28
+    },
+    {
+      "word": "are",
+      "start": 2.28,
+      "end": 2.48
+    },
+    {
+      "word": "cold,",
+      "start": 2.48,
+      "end": 2.72
+    },
+    {
+      "word": "I'm",
+      "start": 2.86,
+      "end": 4.02
+    },
+    {
+      "word": "still",
+      "start": 4.02,
+      "end": 4.18
+    },
+    {
+      "word": "thirsty",
+      "start": 4.18,
+      "end": 4.52
+    },
+    {
+      "word": "Sorry",
+      "start": 6.14,
+      "end": 6.62
+    },
+    {
+      "word": "please",
+      "start": 6.62,
+      "end": 6.82
+    },
+    {
+      "word": "repeat",
+      "start": 6.82,
+      "end": 7.06
+    },
+    {
+      "word": "I",
+      "start": 8.08,
+      "end": 8.56
+    },
+    {
+      "word": "hope",
+      "start": 8.56,
+      "end": 8.72
+    },
+    {
+      "word": "the",
+      "start": 8.72,
+      "end": 8.94
+    },
+    {
+      "word": "beers",
+      "start": 8.94,
+      "end": 9.16
+    },
+    {
+      "word": "are",
+      "start": 9.16,
+      "end": 9.52
+    },
+    {
+      "word": "cold,",
+      "start": 9.52,
+      "end": 9.88
+    },
+    {
+      "word": "I'm",
+      "start": 10.14,
+      "end": 10.38
+    },
+    {
+      "word": "still",
+      "start": 10.38,
+      "end": 10.6
+    },
+    {
+      "word": "thirsty",
+      "start": 10.6,
+      "end": 11.12
+    },
+    {
+      "word": "Yeah",
+      "start": 11.12,
+      "end": 12.0
+    },
+    {
+      "word": "you're",
+      "start": 12.0,
+      "end": 12.26
+    },
+    {
+      "word": "thirsty",
+      "start": 12.26,
+      "end": 12.52
+    },
+    {
+      "word": "mate,",
+      "start": 12.52,
+      "end": 12.76
+    },
+    {
+      "word": "I'm",
+      "start": 13.04,
+      "end": 13.18
+    },
+    {
+      "word": "sure",
+      "start": 13.18,
+      "end": 13.34
+    },
+    {
+      "word": "we're",
+      "start": 13.34,
+      "end": 13.54
+    },
+    {
+      "word": "gonna",
+      "start": 13.54,
+      "end": 13.62
+    },
+    {
+      "word": "rain",
+      "start": 13.62,
+      "end": 13.82
+    },
+    {
+      "word": "something",
+      "start": 13.82,
+      "end": 14.12
+    },
+    {
+      "word": "Great",
+      "start": 15.44,
+      "end": 15.92
+    },
+    {
+      "word": "to",
+      "start": 15.92,
+      "end": 16.04
+    },
+    {
+      "word": "get",
+      "start": 16.04,
+      "end": 16.18
+    },
+    {
+      "word": "both",
+      "start": 16.18,
+      "end": 16.36
+    },
+    {
+      "word": "cars",
+      "start": 16.36,
+      "end": 16.6
+    },
+    {
+      "word": "across",
+      "start": 16.6,
+      "end": 16.86
+    },
+    {
+      "word": "the",
+      "start": 16.86,
+      "end": 17.06
+    },
+    {
+      "word": "line",
+      "start": 17.06,
+      "end": 17.2
+    },
+    {
+      "word": "Thank",
+      "start": 18.78,
+      "end": 19.26
+    },
+    {
+      "word": "you",
+      "start": 19.26,
+      "end": 19.38
+    },
+    {
+      "word": "buddy",
+      "start": 19.38,
+      "end": 19.58
+    }
+  ],
+  "language": "en",
+  "word_count": 42,
+  "is_empty": false,
+  "is_very_short": false
+}

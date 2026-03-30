@@ -1,0 +1,110 @@
+{
+  "clip_id": "clip_0804",
+  "text": "quite late as you're bleeding out the brakes, quite late, like low brake pressure. Oh, my second push that is.",
+  "words": [
+    {
+      "word": "quite",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "late",
+      "start": 0.32,
+      "end": 0.72
+    },
+    {
+      "word": "as",
+      "start": 0.72,
+      "end": 1.32
+    },
+    {
+      "word": "you're",
+      "start": 1.32,
+      "end": 1.46
+    },
+    {
+      "word": "bleeding",
+      "start": 1.46,
+      "end": 1.7
+    },
+    {
+      "word": "out",
+      "start": 1.7,
+      "end": 1.94
+    },
+    {
+      "word": "the",
+      "start": 1.94,
+      "end": 2.08
+    },
+    {
+      "word": "brakes,",
+      "start": 2.08,
+      "end": 2.26
+    },
+    {
+      "word": "quite",
+      "start": 2.38,
+      "end": 2.46
+    },
+    {
+      "word": "late,",
+      "start": 2.46,
+      "end": 2.66
+    },
+    {
+      "word": "like",
+      "start": 2.76,
+      "end": 2.82
+    },
+    {
+      "word": "low",
+      "start": 2.82,
+      "end": 3.04
+    },
+    {
+      "word": "brake",
+      "start": 3.04,
+      "end": 3.28
+    },
+    {
+      "word": "pressure.",
+      "start": 3.28,
+      "end": 3.66
+    },
+    {
+      "word": "Oh,",
+      "start": 4.28,
+      "end": 4.68
+    },
+    {
+      "word": "my",
+      "start": 4.76,
+      "end": 4.84
+    },
+    {
+      "word": "second",
+      "start": 4.84,
+      "end": 5.1
+    },
+    {
+      "word": "push",
+      "start": 5.1,
+      "end": 5.38
+    },
+    {
+      "word": "that",
+      "start": 5.38,
+      "end": 5.56
+    },
+    {
+      "word": "is.",
+      "start": 5.56,
+      "end": 5.74
+    }
+  ],
+  "language": "en",
+  "word_count": 20,
+  "is_empty": false,
+  "is_very_short": false
+}

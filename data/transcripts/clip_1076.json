@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_1076",
+  "text": "and suggest P-Ball 2. Fernand is lapping 41-1, lands 41-1. P-U-9, position 5. P-U-9, position 5. And suggest N-33 for the front left. Safety car windows is open.",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.68,
+      "end": 1.32
+    },
+    {
+      "word": "suggest",
+      "start": 1.32,
+      "end": 1.64
+    },
+    {
+      "word": "P",
+      "start": 1.64,
+      "end": 1.98
+    },
+    {
+      "word": "-Ball",
+      "start": 1.98,
+      "end": 2.22
+    },
+    {
+      "word": "2.",
+      "start": 2.22,
+      "end": 2.42
+    },
+    {
+      "word": "Fernand",
+      "start": 3.82,
+      "end": 4.46
+    },
+    {
+      "word": "is",
+      "start": 4.46,
+      "end": 4.6
+    },
+    {
+      "word": "lapping",
+      "start": 4.6,
+      "end": 4.82
+    },
+    {
+      "word": "41",
+      "start": 4.82,
+      "end": 5.18
+    },
+    {
+      "word": "-1,",
+      "start": 5.18,
+      "end": 5.68
+    },
+    {
+      "word": "lands",
+      "start": 5.86,
+      "end": 6.06
+    },
+    {
+      "word": "41",
+      "start": 6.06,
+      "end": 6.68
+    },
+    {
+      "word": "-1.",
+      "start": 6.68,
+      "end": 7.08
+    },
+    {
+      "word": "P",
+      "start": 8.1,
+      "end": 8.74
+    },
+    {
+      "word": "-U",
+      "start": 8.74,
+      "end": 8.9
+    },
+    {
+      "word": "-9,",
+      "start": 8.9,
+      "end": 9.3
+    },
+    {
+      "word": "position",
+      "start": 9.5,
+      "end": 9.74
+    },
+    {
+      "word": "5.",
+      "start": 9.74,
+      "end": 10.34
+    },
+    {
+      "word": "P",
+      "start": 10.62,
+      "end": 10.62
+    },
+    {
+      "word": "-U",
+      "start": 10.62,
+      "end": 11.34
+    },
+    {
+      "word": "-9,",
+      "start": 11.34,
+      "end": 11.66
+    },
+    {
+      "word": "position",
+      "start": 11.88,
+      "end": 12.1
+    },
+    {
+      "word": "5.",
+      "start": 12.1,
+      "end": 12.68
+    },
+    {
+      "word": "And",
+      "start": 14.46,
+      "end": 14.9
+    },
+    {
+      "word": "suggest",
+      "start": 14.9,
+      "end": 15.28
+    },
+    {
+      "word": "N",
+      "start": 15.28,
+      "end": 15.66
+    },
+    {
+      "word": "-33",
+      "start": 15.66,
+      "end": 15.94
+    },
+    {
+      "word": "for",
+      "start": 15.94,
+      "end": 16.36
+    },
+    {
+      "word": "the",
+      "start": 16.36,
+      "end": 16.48
+    },
+    {
+      "word": "front",
+      "start": 16.48,
+      "end": 16.66
+    },
+    {
+      "word": "left.",
+      "start": 16.66,
+      "end": 16.98
+    },
+    {
+      "word": "Safety",
+      "start": 17.46,
+      "end": 17.96
+    },
+    {
+      "word": "car",
+      "start": 17.96,
+      "end": 18.26
+    },
+    {
+      "word": "windows",
+      "start": 18.26,
+      "end": 18.44
+    },
+    {
+      "word": "is",
+      "start": 18.44,
+      "end": 18.66
+    },
+    {
+      "word": "open.",
+      "start": 18.66,
+      "end": 18.9
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

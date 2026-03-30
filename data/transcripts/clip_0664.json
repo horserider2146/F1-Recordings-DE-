@@ -1,0 +1,50 @@
+{
+  "clip_id": "clip_0664",
+  "text": "you can get a lower gear to start.",
+  "words": [
+    {
+      "word": "you",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "can",
+      "start": 0.16,
+      "end": 0.32
+    },
+    {
+      "word": "get",
+      "start": 0.32,
+      "end": 0.54
+    },
+    {
+      "word": "a",
+      "start": 0.54,
+      "end": 0.68
+    },
+    {
+      "word": "lower",
+      "start": 0.68,
+      "end": 1.04
+    },
+    {
+      "word": "gear",
+      "start": 1.04,
+      "end": 1.38
+    },
+    {
+      "word": "to",
+      "start": 1.38,
+      "end": 1.6
+    },
+    {
+      "word": "start.",
+      "start": 1.6,
+      "end": 1.82
+    }
+  ],
+  "language": "en",
+  "word_count": 8,
+  "is_empty": false,
+  "is_very_short": false
+}

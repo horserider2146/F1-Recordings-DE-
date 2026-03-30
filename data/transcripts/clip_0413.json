@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_0413",
+  "text": "It's very small gaps, it's all sectors. Still no pressure behind. Stay on top of your Delta. Next car on the left side at 10 seconds. Now it's left side spider-backed off, so you just stay on line, keep ties clean. So yeah, sure.",
+  "words": [
+    {
+      "word": "It's",
+      "start": 0.52,
+      "end": 0.92
+    },
+    {
+      "word": "very",
+      "start": 0.92,
+      "end": 1.08
+    },
+    {
+      "word": "small",
+      "start": 1.08,
+      "end": 1.28
+    },
+    {
+      "word": "gaps,",
+      "start": 1.28,
+      "end": 1.6
+    },
+    {
+      "word": "it's",
+      "start": 1.86,
+      "end": 1.96
+    },
+    {
+      "word": "all",
+      "start": 1.96,
+      "end": 2.04
+    },
+    {
+      "word": "sectors.",
+      "start": 2.04,
+      "end": 2.38
+    },
+    {
+      "word": "Still",
+      "start": 5.38,
+      "end": 5.78
+    },
+    {
+      "word": "no",
+      "start": 5.78,
+      "end": 6.04
+    },
+    {
+      "word": "pressure",
+      "start": 6.04,
+      "end": 6.26
+    },
+    {
+      "word": "behind.",
+      "start": 6.26,
+      "end": 6.6
+    },
+    {
+      "word": "Stay",
+      "start": 8.28,
+      "end": 8.68
+    },
+    {
+      "word": "on",
+      "start": 8.68,
+      "end": 8.8
+    },
+    {
+      "word": "top",
+      "start": 8.8,
+      "end": 8.92
+    },
+    {
+      "word": "of",
+      "start": 8.92,
+      "end": 9.06
+    },
+    {
+      "word": "your",
+      "start": 9.06,
+      "end": 9.1
+    },
+    {
+      "word": "Delta.",
+      "start": 9.1,
+      "end": 9.4
+    },
+    {
+      "word": "Next",
+      "start": 10.54,
+      "end": 10.94
+    },
+    {
+      "word": "car",
+      "start": 10.94,
+      "end": 11.12
+    },
+    {
+      "word": "on",
+      "start": 11.12,
+      "end": 11.2
+    },
+    {
+      "word": "the",
+      "start": 11.2,
+      "end": 11.26
+    },
+    {
+      "word": "left",
+      "start": 11.26,
+      "end": 11.36
+    },
+    {
+      "word": "side",
+      "start": 11.36,
+      "end": 11.66
+    },
+    {
+      "word": "at",
+      "start": 11.66,
+      "end": 12.18
+    },
+    {
+      "word": "10",
+      "start": 12.18,
+      "end": 12.7
+    },
+    {
+      "word": "seconds.",
+      "start": 12.7,
+      "end": 13.14
+    },
+    {
+      "word": "Now",
+      "start": 14.08,
+      "end": 14.48
+    },
+    {
+      "word": "it's",
+      "start": 14.48,
+      "end": 14.62
+    },
+    {
+      "word": "left",
+      "start": 14.62,
+      "end": 14.76
+    },
+    {
+      "word": "side",
+      "start": 14.76,
+      "end": 15.1
+    },
+    {
+      "word": "spider",
+      "start": 15.1,
+      "end": 15.34
+    },
+    {
+      "word": "-backed",
+      "start": 15.34,
+      "end": 15.8
+    },
+    {
+      "word": "off,",
+      "start": 15.8,
+      "end": 15.88
+    },
+    {
+      "word": "so",
+      "start": 16.04,
+      "end": 16.16
+    },
+    {
+      "word": "you",
+      "start": 16.16,
+      "end": 16.26
+    },
+    {
+      "word": "just",
+      "start": 16.26,
+      "end": 16.56
+    },
+    {
+      "word": "stay",
+      "start": 16.56,
+      "end": 16.76
+    },
+    {
+      "word": "on",
+      "start": 16.76,
+      "end": 16.92
+    },
+    {
+      "word": "line,",
+      "start": 16.92,
+      "end": 17.1
+    },
+    {
+      "word": "keep",
+      "start": 17.28,
+      "end": 17.4
+    },
+    {
+      "word": "ties",
+      "start": 17.4,
+      "end": 17.62
+    },
+    {
+      "word": "clean.",
+      "start": 17.62,
+      "end": 17.86
+    },
+    {
+      "word": "So",
+      "start": 19.4,
+      "end": 19.6
+    },
+    {
+      "word": "yeah,",
+      "start": 19.6,
+      "end": 19.74
+    },
+    {
+      "word": "sure.",
+      "start": 19.88,
+      "end": 19.94
+    }
+  ],
+  "language": "en",
+  "word_count": 44,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,140 @@
+{
+  "clip_id": "clip_0551",
+  "text": "4, 5, 6, 7 and green 6, position 2, green 6, position 2 BOTAS 5 BOTAS 3, wind similar to this morning NASCAR pushing, cola pinto",
+  "words": [
+    {
+      "word": "4,",
+      "start": 0.0,
+      "end": 0.74
+    },
+    {
+      "word": "5,",
+      "start": 1.04,
+      "end": 1.78
+    },
+    {
+      "word": "6,",
+      "start": 1.92,
+      "end": 2.46
+    },
+    {
+      "word": "7",
+      "start": 2.52,
+      "end": 3.4
+    },
+    {
+      "word": "and",
+      "start": 4.84,
+      "end": 5.64
+    },
+    {
+      "word": "green",
+      "start": 5.64,
+      "end": 6.12
+    },
+    {
+      "word": "6,",
+      "start": 6.12,
+      "end": 6.84
+    },
+    {
+      "word": "position",
+      "start": 7.18,
+      "end": 7.44
+    },
+    {
+      "word": "2,",
+      "start": 7.44,
+      "end": 7.88
+    },
+    {
+      "word": "green",
+      "start": 8.0,
+      "end": 8.24
+    },
+    {
+      "word": "6,",
+      "start": 8.24,
+      "end": 8.68
+    },
+    {
+      "word": "position",
+      "start": 8.92,
+      "end": 9.12
+    },
+    {
+      "word": "2",
+      "start": 9.12,
+      "end": 10.0
+    },
+    {
+      "word": "BOTAS",
+      "start": 10.88,
+      "end": 11.68
+    },
+    {
+      "word": "5",
+      "start": 11.68,
+      "end": 12.02
+    },
+    {
+      "word": "BOTAS",
+      "start": 13.18,
+      "end": 13.98
+    },
+    {
+      "word": "3,",
+      "start": 13.98,
+      "end": 14.28
+    },
+    {
+      "word": "wind",
+      "start": 14.66,
+      "end": 15.16
+    },
+    {
+      "word": "similar",
+      "start": 15.16,
+      "end": 15.72
+    },
+    {
+      "word": "to",
+      "start": 15.72,
+      "end": 15.94
+    },
+    {
+      "word": "this",
+      "start": 15.94,
+      "end": 16.12
+    },
+    {
+      "word": "morning",
+      "start": 16.12,
+      "end": 16.84
+    },
+    {
+      "word": "NASCAR",
+      "start": 17.84,
+      "end": 18.64
+    },
+    {
+      "word": "pushing,",
+      "start": 18.64,
+      "end": 19.0
+    },
+    {
+      "word": "cola",
+      "start": 19.18,
+      "end": 19.34
+    },
+    {
+      "word": "pinto",
+      "start": 19.34,
+      "end": 19.76
+    }
+  ],
+  "language": "en",
+  "word_count": 26,
+  "is_empty": false,
+  "is_very_short": false
+}

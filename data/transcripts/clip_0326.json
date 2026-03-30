@@ -1,0 +1,135 @@
+{
+  "clip_id": "clip_0326",
+  "text": "Start 6 seconds on the map 4 seconds Strat 2 Get behind to Haja 3 2 Strat 2 Clear behind Strat 1 Single call here",
+  "words": [
+    {
+      "word": "Start",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "6",
+      "start": 0.22,
+      "end": 0.78
+    },
+    {
+      "word": "seconds",
+      "start": 0.78,
+      "end": 1.42
+    },
+    {
+      "word": "on",
+      "start": 1.42,
+      "end": 1.92
+    },
+    {
+      "word": "the",
+      "start": 1.92,
+      "end": 2.14
+    },
+    {
+      "word": "map",
+      "start": 2.14,
+      "end": 2.34
+    },
+    {
+      "word": "4",
+      "start": 2.34,
+      "end": 3.62
+    },
+    {
+      "word": "seconds",
+      "start": 3.62,
+      "end": 5.06
+    },
+    {
+      "word": "Strat",
+      "start": 6.0,
+      "end": 6.88
+    },
+    {
+      "word": "2",
+      "start": 6.88,
+      "end": 7.34
+    },
+    {
+      "word": "Get",
+      "start": 7.34,
+      "end": 7.86
+    },
+    {
+      "word": "behind",
+      "start": 7.86,
+      "end": 8.18
+    },
+    {
+      "word": "to",
+      "start": 8.18,
+      "end": 8.38
+    },
+    {
+      "word": "Haja",
+      "start": 8.38,
+      "end": 8.52
+    },
+    {
+      "word": "3",
+      "start": 8.52,
+      "end": 8.98
+    },
+    {
+      "word": "2",
+      "start": 10.02,
+      "end": 11.02
+    },
+    {
+      "word": "Strat",
+      "start": 12.0,
+      "end": 12.64
+    },
+    {
+      "word": "2",
+      "start": 12.64,
+      "end": 13.26
+    },
+    {
+      "word": "Clear",
+      "start": 14.0,
+      "end": 14.74
+    },
+    {
+      "word": "behind",
+      "start": 14.74,
+      "end": 15.08
+    },
+    {
+      "word": "Strat",
+      "start": 16.0,
+      "end": 16.88
+    },
+    {
+      "word": "1",
+      "start": 16.88,
+      "end": 17.32
+    },
+    {
+      "word": "Single",
+      "start": 18.38,
+      "end": 19.38
+    },
+    {
+      "word": "call",
+      "start": 19.38,
+      "end": 19.74
+    },
+    {
+      "word": "here",
+      "start": 19.74,
+      "end": 19.88
+    }
+  ],
+  "language": "en",
+  "word_count": 25,
+  "is_empty": false,
+  "is_very_short": false
+}

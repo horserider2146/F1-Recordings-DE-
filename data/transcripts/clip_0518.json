@@ -1,0 +1,115 @@
+{
+  "clip_id": "clip_0518",
+  "text": "So this is shit. I'm sure I've been in my fucking life. Box now, Lance, box now. Pull around, pull around.",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.64,
+      "end": 1.2
+    },
+    {
+      "word": "this",
+      "start": 1.2,
+      "end": 1.52
+    },
+    {
+      "word": "is",
+      "start": 1.52,
+      "end": 1.9
+    },
+    {
+      "word": "shit.",
+      "start": 1.9,
+      "end": 2.28
+    },
+    {
+      "word": "I'm",
+      "start": 2.56,
+      "end": 2.72
+    },
+    {
+      "word": "sure",
+      "start": 2.72,
+      "end": 2.72
+    },
+    {
+      "word": "I've",
+      "start": 2.72,
+      "end": 2.84
+    },
+    {
+      "word": "been",
+      "start": 2.84,
+      "end": 3.04
+    },
+    {
+      "word": "in",
+      "start": 3.04,
+      "end": 3.16
+    },
+    {
+      "word": "my",
+      "start": 3.16,
+      "end": 3.3
+    },
+    {
+      "word": "fucking",
+      "start": 3.3,
+      "end": 3.62
+    },
+    {
+      "word": "life.",
+      "start": 3.62,
+      "end": 3.98
+    },
+    {
+      "word": "Box",
+      "start": 6.58,
+      "end": 7.14
+    },
+    {
+      "word": "now,",
+      "start": 7.14,
+      "end": 7.42
+    },
+    {
+      "word": "Lance,",
+      "start": 7.56,
+      "end": 7.7
+    },
+    {
+      "word": "box",
+      "start": 7.9,
+      "end": 8.0
+    },
+    {
+      "word": "now.",
+      "start": 8.0,
+      "end": 8.38
+    },
+    {
+      "word": "Pull",
+      "start": 10.06,
+      "end": 10.62
+    },
+    {
+      "word": "around,",
+      "start": 10.62,
+      "end": 11.18
+    },
+    {
+      "word": "pull",
+      "start": 11.38,
+      "end": 11.58
+    },
+    {
+      "word": "around.",
+      "start": 11.58,
+      "end": 11.84
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

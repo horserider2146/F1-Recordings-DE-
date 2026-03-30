@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_0118",
+  "text": "5,000, we put the truck for the hour, please, 4 cars OK Just Alex was 348, that's a good lap, strong lap, the 315 3 cars, that can be 2, 2 cars, that can be 2",
+  "words": [
+    {
+      "word": "5",
+      "start": 0.7,
+      "end": 1.08
+    },
+    {
+      "word": ",000,",
+      "start": 1.08,
+      "end": 1.4
+    },
+    {
+      "word": "we",
+      "start": 1.56,
+      "end": 1.74
+    },
+    {
+      "word": "put",
+      "start": 1.74,
+      "end": 1.9
+    },
+    {
+      "word": "the",
+      "start": 1.9,
+      "end": 1.98
+    },
+    {
+      "word": "truck",
+      "start": 1.98,
+      "end": 2.2
+    },
+    {
+      "word": "for",
+      "start": 2.2,
+      "end": 2.38
+    },
+    {
+      "word": "the",
+      "start": 2.38,
+      "end": 2.44
+    },
+    {
+      "word": "hour,",
+      "start": 2.44,
+      "end": 2.6
+    },
+    {
+      "word": "please,",
+      "start": 2.68,
+      "end": 2.92
+    },
+    {
+      "word": "4",
+      "start": 3.12,
+      "end": 3.36
+    },
+    {
+      "word": "cars",
+      "start": 3.36,
+      "end": 3.58
+    },
+    {
+      "word": "OK",
+      "start": 5.16,
+      "end": 5.54
+    },
+    {
+      "word": "Just",
+      "start": 7.78,
+      "end": 8.16
+    },
+    {
+      "word": "Alex",
+      "start": 9.76,
+      "end": 10.14
+    },
+    {
+      "word": "was",
+      "start": 10.14,
+      "end": 10.4
+    },
+    {
+      "word": "348,",
+      "start": 10.4,
+      "end": 11.4
+    },
+    {
+      "word": "that's",
+      "start": 11.84,
+      "end": 12.04
+    },
+    {
+      "word": "a",
+      "start": 12.04,
+      "end": 12.12
+    },
+    {
+      "word": "good",
+      "start": 12.12,
+      "end": 12.34
+    },
+    {
+      "word": "lap,",
+      "start": 12.34,
+      "end": 12.56
+    },
+    {
+      "word": "strong",
+      "start": 12.58,
+      "end": 12.8
+    },
+    {
+      "word": "lap,",
+      "start": 12.8,
+      "end": 13.06
+    },
+    {
+      "word": "the",
+      "start": 13.24,
+      "end": 13.68
+    },
+    {
+      "word": "315",
+      "start": 13.68,
+      "end": 14.36
+    },
+    {
+      "word": "3",
+      "start": 17.32,
+      "end": 17.7
+    },
+    {
+      "word": "cars,",
+      "start": 17.7,
+      "end": 17.92
+    },
+    {
+      "word": "that",
+      "start": 18.04,
+      "end": 18.1
+    },
+    {
+      "word": "can",
+      "start": 18.1,
+      "end": 18.2
+    },
+    {
+      "word": "be",
+      "start": 18.2,
+      "end": 18.34
+    },
+    {
+      "word": "2,",
+      "start": 18.34,
+      "end": 18.46
+    },
+    {
+      "word": "2",
+      "start": 18.5,
+      "end": 18.7
+    },
+    {
+      "word": "cars,",
+      "start": 18.7,
+      "end": 18.82
+    },
+    {
+      "word": "that",
+      "start": 18.94,
+      "end": 18.98
+    },
+    {
+      "word": "can",
+      "start": 18.98,
+      "end": 19.08
+    },
+    {
+      "word": "be",
+      "start": 19.08,
+      "end": 19.22
+    },
+    {
+      "word": "2",
+      "start": 19.22,
+      "end": 19.34
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,230 @@
+{
+  "clip_id": "clip_0155",
+  "text": "I'm working on the tires, the virtue of the arms started has been reported on raining. Repeat please. The recording is very low, I keep saying it. Copy. I will just be louder, on set point. It's been reported on starter who are raining.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 0.96
+    },
+    {
+      "word": "working",
+      "start": 0.96,
+      "end": 1.1
+    },
+    {
+      "word": "on",
+      "start": 1.1,
+      "end": 1.3
+    },
+    {
+      "word": "the",
+      "start": 1.3,
+      "end": 1.38
+    },
+    {
+      "word": "tires,",
+      "start": 1.38,
+      "end": 1.78
+    },
+    {
+      "word": "the",
+      "start": 2.08,
+      "end": 2.82
+    },
+    {
+      "word": "virtue",
+      "start": 2.82,
+      "end": 3.22
+    },
+    {
+      "word": "of",
+      "start": 3.22,
+      "end": 3.96
+    },
+    {
+      "word": "the",
+      "start": 3.96,
+      "end": 4.14
+    },
+    {
+      "word": "arms",
+      "start": 4.14,
+      "end": 4.54
+    },
+    {
+      "word": "started",
+      "start": 4.54,
+      "end": 4.98
+    },
+    {
+      "word": "has",
+      "start": 4.98,
+      "end": 5.28
+    },
+    {
+      "word": "been",
+      "start": 5.28,
+      "end": 5.46
+    },
+    {
+      "word": "reported",
+      "start": 5.46,
+      "end": 5.82
+    },
+    {
+      "word": "on",
+      "start": 5.82,
+      "end": 6.1
+    },
+    {
+      "word": "raining.",
+      "start": 6.1,
+      "end": 6.62
+    },
+    {
+      "word": "Repeat",
+      "start": 9.04,
+      "end": 9.64
+    },
+    {
+      "word": "please.",
+      "start": 9.64,
+      "end": 10.06
+    },
+    {
+      "word": "The",
+      "start": 10.6,
+      "end": 10.78
+    },
+    {
+      "word": "recording",
+      "start": 10.78,
+      "end": 11.4
+    },
+    {
+      "word": "is",
+      "start": 11.4,
+      "end": 11.72
+    },
+    {
+      "word": "very",
+      "start": 11.72,
+      "end": 11.88
+    },
+    {
+      "word": "low,",
+      "start": 11.88,
+      "end": 12.18
+    },
+    {
+      "word": "I",
+      "start": 12.32,
+      "end": 12.44
+    },
+    {
+      "word": "keep",
+      "start": 12.44,
+      "end": 12.62
+    },
+    {
+      "word": "saying",
+      "start": 12.62,
+      "end": 12.9
+    },
+    {
+      "word": "it.",
+      "start": 12.9,
+      "end": 13.24
+    },
+    {
+      "word": "Copy.",
+      "start": 13.74,
+      "end": 13.96
+    },
+    {
+      "word": "I",
+      "start": 14.6,
+      "end": 14.84
+    },
+    {
+      "word": "will",
+      "start": 14.84,
+      "end": 14.96
+    },
+    {
+      "word": "just",
+      "start": 14.96,
+      "end": 15.12
+    },
+    {
+      "word": "be",
+      "start": 15.12,
+      "end": 15.3
+    },
+    {
+      "word": "louder,",
+      "start": 15.3,
+      "end": 15.56
+    },
+    {
+      "word": "on",
+      "start": 15.84,
+      "end": 16.0
+    },
+    {
+      "word": "set",
+      "start": 16.0,
+      "end": 16.2
+    },
+    {
+      "word": "point.",
+      "start": 16.2,
+      "end": 16.44
+    },
+    {
+      "word": "It's",
+      "start": 16.78,
+      "end": 16.92
+    },
+    {
+      "word": "been",
+      "start": 16.92,
+      "end": 17.04
+    },
+    {
+      "word": "reported",
+      "start": 17.04,
+      "end": 17.4
+    },
+    {
+      "word": "on",
+      "start": 17.4,
+      "end": 17.76
+    },
+    {
+      "word": "starter",
+      "start": 17.76,
+      "end": 18.24
+    },
+    {
+      "word": "who",
+      "start": 18.24,
+      "end": 19.02
+    },
+    {
+      "word": "are",
+      "start": 19.02,
+      "end": 19.1
+    },
+    {
+      "word": "raining.",
+      "start": 19.1,
+      "end": 19.58
+    }
+  ],
+  "language": "en",
+  "word_count": 44,
+  "is_empty": false,
+  "is_very_short": false
+}

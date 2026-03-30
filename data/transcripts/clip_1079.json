@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_1079",
+  "text": "Safety Car Delta, you are just ok now. M44 is double yellow in corner 3 still, so it should be a bit longer. Marchet on track, corner 2. Recovery vehicle on track, corner 2. And ahead, Anton Elias Boxed, Colapinto Con still on...",
+  "words": [
+    {
+      "word": "Safety",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "Car",
+      "start": 0.16,
+      "end": 0.4
+    },
+    {
+      "word": "Delta,",
+      "start": 0.4,
+      "end": 0.68
+    },
+    {
+      "word": "you",
+      "start": 0.96,
+      "end": 1.12
+    },
+    {
+      "word": "are",
+      "start": 1.12,
+      "end": 1.28
+    },
+    {
+      "word": "just",
+      "start": 1.28,
+      "end": 1.78
+    },
+    {
+      "word": "ok",
+      "start": 1.78,
+      "end": 2.16
+    },
+    {
+      "word": "now.",
+      "start": 2.16,
+      "end": 2.4
+    },
+    {
+      "word": "M44",
+      "start": 3.62,
+      "end": 4.18
+    },
+    {
+      "word": "is",
+      "start": 4.18,
+      "end": 4.56
+    },
+    {
+      "word": "double",
+      "start": 4.56,
+      "end": 4.84
+    },
+    {
+      "word": "yellow",
+      "start": 4.84,
+      "end": 5.22
+    },
+    {
+      "word": "in",
+      "start": 5.22,
+      "end": 5.46
+    },
+    {
+      "word": "corner",
+      "start": 5.46,
+      "end": 5.62
+    },
+    {
+      "word": "3",
+      "start": 5.62,
+      "end": 6.02
+    },
+    {
+      "word": "still,",
+      "start": 6.02,
+      "end": 6.32
+    },
+    {
+      "word": "so",
+      "start": 6.64,
+      "end": 6.78
+    },
+    {
+      "word": "it",
+      "start": 6.78,
+      "end": 6.94
+    },
+    {
+      "word": "should",
+      "start": 6.94,
+      "end": 7.04
+    },
+    {
+      "word": "be",
+      "start": 7.04,
+      "end": 7.2
+    },
+    {
+      "word": "a",
+      "start": 7.2,
+      "end": 7.28
+    },
+    {
+      "word": "bit",
+      "start": 7.28,
+      "end": 7.34
+    },
+    {
+      "word": "longer.",
+      "start": 7.34,
+      "end": 7.62
+    },
+    {
+      "word": "Marchet",
+      "start": 9.12,
+      "end": 9.68
+    },
+    {
+      "word": "on",
+      "start": 9.68,
+      "end": 9.82
+    },
+    {
+      "word": "track,",
+      "start": 9.82,
+      "end": 10.04
+    },
+    {
+      "word": "corner",
+      "start": 10.16,
+      "end": 10.36
+    },
+    {
+      "word": "2.",
+      "start": 10.36,
+      "end": 10.76
+    },
+    {
+      "word": "Recovery",
+      "start": 12.52,
+      "end": 13.08
+    },
+    {
+      "word": "vehicle",
+      "start": 13.08,
+      "end": 13.48
+    },
+    {
+      "word": "on",
+      "start": 13.48,
+      "end": 13.8
+    },
+    {
+      "word": "track,",
+      "start": 13.8,
+      "end": 14.08
+    },
+    {
+      "word": "corner",
+      "start": 14.22,
+      "end": 14.5
+    },
+    {
+      "word": "2.",
+      "start": 14.5,
+      "end": 14.84
+    },
+    {
+      "word": "And",
+      "start": 16.7,
+      "end": 17.02
+    },
+    {
+      "word": "ahead,",
+      "start": 17.02,
+      "end": 17.38
+    },
+    {
+      "word": "Anton",
+      "start": 17.54,
+      "end": 17.7
+    },
+    {
+      "word": "Elias",
+      "start": 17.7,
+      "end": 18.14
+    },
+    {
+      "word": "Boxed,",
+      "start": 18.14,
+      "end": 18.58
+    },
+    {
+      "word": "Colapinto",
+      "start": 18.6,
+      "end": 19.04
+    },
+    {
+      "word": "Con",
+      "start": 19.04,
+      "end": 19.44
+    },
+    {
+      "word": "still",
+      "start": 19.44,
+      "end": 19.86
+    },
+    {
+      "word": "on...",
+      "start": 19.86,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 43,
+  "is_empty": false,
+  "is_very_short": false
+}

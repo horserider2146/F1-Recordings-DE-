@@ -1,0 +1,140 @@
+{
+  "clip_id": "clip_0116",
+  "text": "4 cars to open LK7 head 3 cars to open wind speed 10.4 3 cars to open 4 cars to open 5 LK2 open LK3",
+  "words": [
+    {
+      "word": "4",
+      "start": 0.0,
+      "end": 0.78
+    },
+    {
+      "word": "cars",
+      "start": 0.78,
+      "end": 0.96
+    },
+    {
+      "word": "to",
+      "start": 0.96,
+      "end": 1.1
+    },
+    {
+      "word": "open",
+      "start": 1.1,
+      "end": 1.36
+    },
+    {
+      "word": "LK7",
+      "start": 2.66,
+      "end": 3.46
+    },
+    {
+      "word": "head",
+      "start": 3.46,
+      "end": 3.78
+    },
+    {
+      "word": "3",
+      "start": 5.74,
+      "end": 6.14
+    },
+    {
+      "word": "cars",
+      "start": 6.14,
+      "end": 6.36
+    },
+    {
+      "word": "to",
+      "start": 6.36,
+      "end": 6.54
+    },
+    {
+      "word": "open",
+      "start": 6.54,
+      "end": 6.78
+    },
+    {
+      "word": "wind",
+      "start": 6.78,
+      "end": 7.26
+    },
+    {
+      "word": "speed",
+      "start": 7.26,
+      "end": 7.6
+    },
+    {
+      "word": "10",
+      "start": 7.6,
+      "end": 7.9
+    },
+    {
+      "word": ".4",
+      "start": 7.9,
+      "end": 8.46
+    },
+    {
+      "word": "3",
+      "start": 8.46,
+      "end": 8.92
+    },
+    {
+      "word": "cars",
+      "start": 8.92,
+      "end": 9.1
+    },
+    {
+      "word": "to",
+      "start": 9.1,
+      "end": 9.26
+    },
+    {
+      "word": "open",
+      "start": 9.26,
+      "end": 9.54
+    },
+    {
+      "word": "4",
+      "start": 11.88,
+      "end": 12.68
+    },
+    {
+      "word": "cars",
+      "start": 12.68,
+      "end": 13.34
+    },
+    {
+      "word": "to",
+      "start": 13.34,
+      "end": 13.4
+    },
+    {
+      "word": "open",
+      "start": 13.4,
+      "end": 14.0
+    },
+    {
+      "word": "5",
+      "start": 14.64,
+      "end": 15.04
+    },
+    {
+      "word": "LK2",
+      "start": 17.22,
+      "end": 18.02
+    },
+    {
+      "word": "open",
+      "start": 18.02,
+      "end": 18.5
+    },
+    {
+      "word": "LK3",
+      "start": 18.5,
+      "end": 19.62
+    }
+  ],
+  "language": "en",
+  "word_count": 25,
+  "is_empty": false,
+  "is_very_short": false
+}

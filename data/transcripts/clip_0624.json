@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_0624",
+  "text": "Let's go 3.5 box box Let the two box box watch the bridge I've no virtual barista you are it was important. Yeah the same for other people about it. I'm happy to",
+  "words": [
+    {
+      "word": "Let's",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "go",
+      "start": 0.38,
+      "end": 0.52
+    },
+    {
+      "word": "3",
+      "start": 0.52,
+      "end": 0.98
+    },
+    {
+      "word": ".5",
+      "start": 0.98,
+      "end": 1.42
+    },
+    {
+      "word": "box",
+      "start": 1.42,
+      "end": 1.72
+    },
+    {
+      "word": "box",
+      "start": 1.72,
+      "end": 2.06
+    },
+    {
+      "word": "Let",
+      "start": 3.96,
+      "end": 4.56
+    },
+    {
+      "word": "the",
+      "start": 4.56,
+      "end": 5.16
+    },
+    {
+      "word": "two",
+      "start": 5.16,
+      "end": 5.38
+    },
+    {
+      "word": "box",
+      "start": 5.38,
+      "end": 7.2
+    },
+    {
+      "word": "box",
+      "start": 7.2,
+      "end": 7.58
+    },
+    {
+      "word": "watch",
+      "start": 7.58,
+      "end": 8.22
+    },
+    {
+      "word": "the",
+      "start": 8.22,
+      "end": 8.42
+    },
+    {
+      "word": "bridge",
+      "start": 8.42,
+      "end": 8.62
+    },
+    {
+      "word": "I've",
+      "start": 11.16,
+      "end": 11.76
+    },
+    {
+      "word": "no",
+      "start": 11.76,
+      "end": 11.86
+    },
+    {
+      "word": "virtual",
+      "start": 11.86,
+      "end": 12.16
+    },
+    {
+      "word": "barista",
+      "start": 12.16,
+      "end": 12.6
+    },
+    {
+      "word": "you",
+      "start": 12.6,
+      "end": 13.58
+    },
+    {
+      "word": "are",
+      "start": 13.58,
+      "end": 13.74
+    },
+    {
+      "word": "it",
+      "start": 13.74,
+      "end": 13.96
+    },
+    {
+      "word": "was",
+      "start": 13.96,
+      "end": 14.14
+    },
+    {
+      "word": "important.",
+      "start": 14.14,
+      "end": 14.58
+    },
+    {
+      "word": "Yeah",
+      "start": 15.14,
+      "end": 15.74
+    },
+    {
+      "word": "the",
+      "start": 15.74,
+      "end": 16.14
+    },
+    {
+      "word": "same",
+      "start": 16.14,
+      "end": 16.44
+    },
+    {
+      "word": "for",
+      "start": 16.44,
+      "end": 16.82
+    },
+    {
+      "word": "other",
+      "start": 16.82,
+      "end": 17.02
+    },
+    {
+      "word": "people",
+      "start": 17.02,
+      "end": 17.22
+    },
+    {
+      "word": "about",
+      "start": 17.22,
+      "end": 17.46
+    },
+    {
+      "word": "it.",
+      "start": 17.46,
+      "end": 17.76
+    },
+    {
+      "word": "I'm",
+      "start": 18.48,
+      "end": 19.08
+    },
+    {
+      "word": "happy",
+      "start": 19.08,
+      "end": 19.36
+    },
+    {
+      "word": "to",
+      "start": 19.36,
+      "end": 19.66
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,160 @@
+{
+  "clip_id": "clip_0559",
+  "text": "in front behind is 15 seconds 7 seconds in front of us behind 10 now we are at 3.2 3.10 behind us 1.10 in the first sector",
+  "words": [
+    {
+      "word": "in",
+      "start": 0.0,
+      "end": 0.7
+    },
+    {
+      "word": "front",
+      "start": 0.7,
+      "end": 0.94
+    },
+    {
+      "word": "behind",
+      "start": 2.28,
+      "end": 2.88
+    },
+    {
+      "word": "is",
+      "start": 2.88,
+      "end": 3.2
+    },
+    {
+      "word": "15",
+      "start": 3.2,
+      "end": 3.5
+    },
+    {
+      "word": "seconds",
+      "start": 3.5,
+      "end": 3.8
+    },
+    {
+      "word": "7",
+      "start": 3.8,
+      "end": 4.92
+    },
+    {
+      "word": "seconds",
+      "start": 4.92,
+      "end": 6.1
+    },
+    {
+      "word": "in",
+      "start": 6.1,
+      "end": 6.24
+    },
+    {
+      "word": "front",
+      "start": 6.24,
+      "end": 6.44
+    },
+    {
+      "word": "of",
+      "start": 6.44,
+      "end": 6.56
+    },
+    {
+      "word": "us",
+      "start": 6.56,
+      "end": 6.76
+    },
+    {
+      "word": "behind",
+      "start": 8.02,
+      "end": 8.62
+    },
+    {
+      "word": "10",
+      "start": 8.62,
+      "end": 9.1
+    },
+    {
+      "word": "now",
+      "start": 11.04,
+      "end": 11.64
+    },
+    {
+      "word": "we",
+      "start": 11.64,
+      "end": 11.76
+    },
+    {
+      "word": "are",
+      "start": 11.76,
+      "end": 11.86
+    },
+    {
+      "word": "at",
+      "start": 11.86,
+      "end": 11.98
+    },
+    {
+      "word": "3",
+      "start": 11.98,
+      "end": 12.1
+    },
+    {
+      "word": ".2",
+      "start": 12.1,
+      "end": 12.3
+    },
+    {
+      "word": "3",
+      "start": 13.86,
+      "end": 14.46
+    },
+    {
+      "word": ".10",
+      "start": 14.46,
+      "end": 15.06
+    },
+    {
+      "word": "behind",
+      "start": 15.06,
+      "end": 15.62
+    },
+    {
+      "word": "us",
+      "start": 15.62,
+      "end": 16.46
+    },
+    {
+      "word": "1",
+      "start": 18.22,
+      "end": 18.82
+    },
+    {
+      "word": ".10",
+      "start": 18.82,
+      "end": 19.1
+    },
+    {
+      "word": "in",
+      "start": 19.1,
+      "end": 19.26
+    },
+    {
+      "word": "the",
+      "start": 19.26,
+      "end": 19.36
+    },
+    {
+      "word": "first",
+      "start": 19.36,
+      "end": 19.56
+    },
+    {
+      "word": "sector",
+      "start": 19.56,
+      "end": 19.86
+    }
+  ],
+  "language": "en",
+  "word_count": 27,
+  "is_empty": false,
+  "is_very_short": false
+}

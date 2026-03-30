@@ -1,0 +1,215 @@
+{
+  "clip_id": "clip_0011",
+  "text": "Either we just drop on the platform, we think it's tight, or we think it's something else. Is there anything else Dave? It's a very slippery path, so it's a good sign. I'm sorry, it was a second to everything else.",
+  "words": [
+    {
+      "word": "Either",
+      "start": 0.0,
+      "end": 0.72
+    },
+    {
+      "word": "we",
+      "start": 0.72,
+      "end": 0.9
+    },
+    {
+      "word": "just",
+      "start": 0.9,
+      "end": 1.08
+    },
+    {
+      "word": "drop",
+      "start": 1.08,
+      "end": 2.24
+    },
+    {
+      "word": "on",
+      "start": 2.24,
+      "end": 2.42
+    },
+    {
+      "word": "the",
+      "start": 2.42,
+      "end": 2.54
+    },
+    {
+      "word": "platform,",
+      "start": 2.54,
+      "end": 2.74
+    },
+    {
+      "word": "we",
+      "start": 2.92,
+      "end": 3.0
+    },
+    {
+      "word": "think",
+      "start": 3.0,
+      "end": 3.1
+    },
+    {
+      "word": "it's",
+      "start": 3.1,
+      "end": 3.32
+    },
+    {
+      "word": "tight,",
+      "start": 3.32,
+      "end": 3.48
+    },
+    {
+      "word": "or",
+      "start": 3.68,
+      "end": 3.78
+    },
+    {
+      "word": "we",
+      "start": 3.78,
+      "end": 3.92
+    },
+    {
+      "word": "think",
+      "start": 3.92,
+      "end": 4.06
+    },
+    {
+      "word": "it's",
+      "start": 4.06,
+      "end": 4.28
+    },
+    {
+      "word": "something",
+      "start": 4.28,
+      "end": 4.5
+    },
+    {
+      "word": "else.",
+      "start": 4.5,
+      "end": 4.86
+    },
+    {
+      "word": "Is",
+      "start": 6.0,
+      "end": 6.44
+    },
+    {
+      "word": "there",
+      "start": 6.44,
+      "end": 6.52
+    },
+    {
+      "word": "anything",
+      "start": 6.52,
+      "end": 6.76
+    },
+    {
+      "word": "else",
+      "start": 6.76,
+      "end": 6.98
+    },
+    {
+      "word": "Dave?",
+      "start": 6.98,
+      "end": 7.2
+    },
+    {
+      "word": "It's",
+      "start": 8.0,
+      "end": 8.44
+    },
+    {
+      "word": "a",
+      "start": 8.44,
+      "end": 8.5
+    },
+    {
+      "word": "very",
+      "start": 8.5,
+      "end": 8.6
+    },
+    {
+      "word": "slippery",
+      "start": 8.6,
+      "end": 8.88
+    },
+    {
+      "word": "path,",
+      "start": 8.88,
+      "end": 9.28
+    },
+    {
+      "word": "so",
+      "start": 9.68,
+      "end": 9.68
+    },
+    {
+      "word": "it's",
+      "start": 9.68,
+      "end": 10.7
+    },
+    {
+      "word": "a",
+      "start": 10.7,
+      "end": 10.82
+    },
+    {
+      "word": "good",
+      "start": 10.82,
+      "end": 10.86
+    },
+    {
+      "word": "sign.",
+      "start": 10.86,
+      "end": 10.86
+    },
+    {
+      "word": "I'm",
+      "start": 12.56,
+      "end": 13.0
+    },
+    {
+      "word": "sorry,",
+      "start": 13.0,
+      "end": 13.0
+    },
+    {
+      "word": "it",
+      "start": 13.22,
+      "end": 13.42
+    },
+    {
+      "word": "was",
+      "start": 13.42,
+      "end": 13.92
+    },
+    {
+      "word": "a",
+      "start": 13.92,
+      "end": 13.98
+    },
+    {
+      "word": "second",
+      "start": 13.98,
+      "end": 14.14
+    },
+    {
+      "word": "to",
+      "start": 14.14,
+      "end": 14.36
+    },
+    {
+      "word": "everything",
+      "start": 14.36,
+      "end": 14.58
+    },
+    {
+      "word": "else.",
+      "start": 14.58,
+      "end": 14.92
+    }
+  ],
+  "language": "en",
+  "word_count": 41,
+  "is_empty": false,
+  "is_very_short": false
+}

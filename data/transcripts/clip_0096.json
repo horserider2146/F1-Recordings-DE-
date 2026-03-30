@@ -1,0 +1,570 @@
+{
+  "clip_id": "clip_0096",
+  "text": "Good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good",
+  "words": [
+    {
+      "word": "Good,",
+      "start": 0.62,
+      "end": 1.1
+    },
+    {
+      "word": "good,",
+      "start": 1.5,
+      "end": 1.96
+    },
+    {
+      "word": "good,",
+      "start": 2.12,
+      "end": 2.38
+    },
+    {
+      "word": "good,",
+      "start": 2.56,
+      "end": 2.56
+    },
+    {
+      "word": "good,",
+      "start": 2.86,
+      "end": 3.28
+    },
+    {
+      "word": "good,",
+      "start": 3.42,
+      "end": 4.12
+    },
+    {
+      "word": "good,",
+      "start": 4.12,
+      "end": 4.24
+    },
+    {
+      "word": "good,",
+      "start": 4.24,
+      "end": 4.36
+    },
+    {
+      "word": "good,",
+      "start": 4.36,
+      "end": 4.46
+    },
+    {
+      "word": "good,",
+      "start": 4.78,
+      "end": 4.78
+    },
+    {
+      "word": "good,",
+      "start": 6.08,
+      "end": 6.08
+    },
+    {
+      "word": "good,",
+      "start": 6.08,
+      "end": 6.22
+    },
+    {
+      "word": "good,",
+      "start": 6.22,
+      "end": 6.72
+    },
+    {
+      "word": "good,",
+      "start": 6.72,
+      "end": 6.92
+    },
+    {
+      "word": "good,",
+      "start": 6.92,
+      "end": 7.7
+    },
+    {
+      "word": "good,",
+      "start": 7.96,
+      "end": 7.96
+    },
+    {
+      "word": "good,",
+      "start": 7.96,
+      "end": 7.96
+    },
+    {
+      "word": "good,",
+      "start": 8.76,
+      "end": 8.76
+    },
+    {
+      "word": "good,",
+      "start": 9.82,
+      "end": 9.82
+    },
+    {
+      "word": "good,",
+      "start": 10.3,
+      "end": 10.3
+    },
+    {
+      "word": "good,",
+      "start": 10.3,
+      "end": 10.3
+    },
+    {
+      "word": "good,",
+      "start": 10.3,
+      "end": 10.3
+    },
+    {
+      "word": "good,",
+      "start": 10.72,
+      "end": 10.94
+    },
+    {
+      "word": "good,",
+      "start": 12.28,
+      "end": 12.28
+    },
+    {
+      "word": "good,",
+      "start": 12.3,
+      "end": 12.3
+    },
+    {
+      "word": "good,",
+      "start": 12.52,
+      "end": 12.52
+    },
+    {
+      "word": "good,",
+      "start": 13.2,
+      "end": 13.2
+    },
+    {
+      "word": "good,",
+      "start": 13.78,
+      "end": 13.98
+    },
+    {
+      "word": "good,",
+      "start": 14.12,
+      "end": 14.36
+    },
+    {
+      "word": "good,",
+      "start": 14.36,
+      "end": 14.36
+    },
+    {
+      "word": "good,",
+      "start": 14.36,
+      "end": 14.36
+    },
+    {
+      "word": "good,",
+      "start": 14.36,
+      "end": 14.36
+    },
+    {
+      "word": "good,",
+      "start": 14.36,
+      "end": 14.36
+    },
+    {
+      "word": "good,",
+      "start": 14.36,
+      "end": 14.36
+    },
+    {
+      "word": "good,",
+      "start": 14.38,
+      "end": 14.38
+    },
+    {
+      "word": "good,",
+      "start": 14.38,
+      "end": 14.38
+    },
+    {
+      "word": "good,",
+      "start": 14.38,
+      "end": 14.38
+    },
+    {
+      "word": "good,",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "good,",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "good,",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "good,",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "good,",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "good,",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "good,",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "good,",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "good,",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "good,",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "good,",
+      "start": 14.74,
+      "end": 14.74
+    },
+    {
+      "word": "good,",
+      "start": 14.8,
+      "end": 14.8
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.84,
+      "end": 14.84
+    },
+    {
+      "word": "good,",
+      "start": 14.86,
+      "end": 14.86
+    },
+    {
+      "word": "good,",
+      "start": 14.9,
+      "end": 14.9
+    },
+    {
+      "word": "good,",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "word": "good,",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "word": "good,",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "word": "good,",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "word": "good,",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "word": "good,",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "word": "good,",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "word": "good,",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "word": "good,",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "word": "good,",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "word": "good,",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "word": "good,",
+      "start": 18.78,
+      "end": 18.78
+    },
+    {
+      "word": "good,",
+      "start": 19.02,
+      "end": 19.02
+    },
+    {
+      "word": "good,",
+      "start": 19.02,
+      "end": 19.02
+    },
+    {
+      "word": "good,",
+      "start": 19.02,
+      "end": 19.02
+    },
+    {
+      "word": "good,",
+      "start": 19.02,
+      "end": 19.02
+    },
+    {
+      "word": "good,",
+      "start": 19.02,
+      "end": 19.02
+    },
+    {
+      "word": "good,",
+      "start": 19.02,
+      "end": 19.02
+    },
+    {
+      "word": "good,",
+      "start": 19.02,
+      "end": 19.02
+    },
+    {
+      "word": "good,",
+      "start": 19.14,
+      "end": 19.14
+    },
+    {
+      "word": "good,",
+      "start": 19.14,
+      "end": 19.14
+    },
+    {
+      "word": "good,",
+      "start": 19.14,
+      "end": 19.14
+    },
+    {
+      "word": "good,",
+      "start": 19.14,
+      "end": 19.14
+    },
+    {
+      "word": "good,",
+      "start": 19.14,
+      "end": 19.14
+    },
+    {
+      "word": "good,",
+      "start": 19.14,
+      "end": 19.14
+    },
+    {
+      "word": "good,",
+      "start": 19.14,
+      "end": 19.14
+    },
+    {
+      "word": "good,",
+      "start": 19.14,
+      "end": 19.14
+    },
+    {
+      "word": "good,",
+      "start": 19.14,
+      "end": 19.14
+    },
+    {
+      "word": "good,",
+      "start": 19.16,
+      "end": 19.16
+    },
+    {
+      "word": "good,",
+      "start": 19.16,
+      "end": 19.16
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.18,
+      "end": 19.18
+    },
+    {
+      "word": "good,",
+      "start": 19.3,
+      "end": 19.3
+    },
+    {
+      "word": "good,",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "good",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 112,
+  "is_empty": false,
+  "is_very_short": false
+}

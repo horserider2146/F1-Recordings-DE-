@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_1002",
+  "text": "Hamilton then Arvid Lindblad listed as P6, Charles Leclerc in seventh. Man, the safety car is so slow. Yeah, copy. Well, see what we can do. Look at Ollie, the safety car in this lap. It's in a very good position, Ollie. Copy.",
+  "words": [
+    {
+      "word": "Hamilton",
+      "start": 0.0,
+      "end": 0.62
+    },
+    {
+      "word": "then",
+      "start": 0.62,
+      "end": 1.12
+    },
+    {
+      "word": "Arvid",
+      "start": 1.12,
+      "end": 1.54
+    },
+    {
+      "word": "Lindblad",
+      "start": 1.54,
+      "end": 1.9
+    },
+    {
+      "word": "listed",
+      "start": 1.9,
+      "end": 2.26
+    },
+    {
+      "word": "as",
+      "start": 2.26,
+      "end": 2.46
+    },
+    {
+      "word": "P6,",
+      "start": 2.46,
+      "end": 3.14
+    },
+    {
+      "word": "Charles",
+      "start": 3.46,
+      "end": 3.62
+    },
+    {
+      "word": "Leclerc",
+      "start": 3.62,
+      "end": 4.08
+    },
+    {
+      "word": "in",
+      "start": 4.08,
+      "end": 4.22
+    },
+    {
+      "word": "seventh.",
+      "start": 4.22,
+      "end": 4.78
+    },
+    {
+      "word": "Man,",
+      "start": 7.04,
+      "end": 7.52
+    },
+    {
+      "word": "the",
+      "start": 7.7,
+      "end": 7.7
+    },
+    {
+      "word": "safety",
+      "start": 7.7,
+      "end": 7.92
+    },
+    {
+      "word": "car",
+      "start": 7.92,
+      "end": 8.16
+    },
+    {
+      "word": "is",
+      "start": 8.16,
+      "end": 8.28
+    },
+    {
+      "word": "so",
+      "start": 8.28,
+      "end": 8.4
+    },
+    {
+      "word": "slow.",
+      "start": 8.4,
+      "end": 8.68
+    },
+    {
+      "word": "Yeah,",
+      "start": 9.72,
+      "end": 10.2
+    },
+    {
+      "word": "copy.",
+      "start": 10.28,
+      "end": 10.46
+    },
+    {
+      "word": "Well,",
+      "start": 10.76,
+      "end": 10.86
+    },
+    {
+      "word": "see",
+      "start": 11.3,
+      "end": 11.46
+    },
+    {
+      "word": "what",
+      "start": 11.46,
+      "end": 11.54
+    },
+    {
+      "word": "we",
+      "start": 11.54,
+      "end": 11.64
+    },
+    {
+      "word": "can",
+      "start": 11.64,
+      "end": 11.74
+    },
+    {
+      "word": "do.",
+      "start": 11.74,
+      "end": 11.92
+    },
+    {
+      "word": "Look",
+      "start": 13.8,
+      "end": 14.2
+    },
+    {
+      "word": "at",
+      "start": 14.2,
+      "end": 14.26
+    },
+    {
+      "word": "Ollie,",
+      "start": 14.26,
+      "end": 14.38
+    },
+    {
+      "word": "the",
+      "start": 14.5,
+      "end": 14.52
+    },
+    {
+      "word": "safety",
+      "start": 14.52,
+      "end": 14.74
+    },
+    {
+      "word": "car",
+      "start": 14.74,
+      "end": 15.02
+    },
+    {
+      "word": "in",
+      "start": 15.02,
+      "end": 15.42
+    },
+    {
+      "word": "this",
+      "start": 15.42,
+      "end": 15.68
+    },
+    {
+      "word": "lap.",
+      "start": 15.68,
+      "end": 15.92
+    },
+    {
+      "word": "It's",
+      "start": 16.64,
+      "end": 17.02
+    },
+    {
+      "word": "in",
+      "start": 17.02,
+      "end": 17.1
+    },
+    {
+      "word": "a",
+      "start": 17.1,
+      "end": 17.2
+    },
+    {
+      "word": "very",
+      "start": 17.2,
+      "end": 17.44
+    },
+    {
+      "word": "good",
+      "start": 17.44,
+      "end": 17.62
+    },
+    {
+      "word": "position,",
+      "start": 17.62,
+      "end": 17.9
+    },
+    {
+      "word": "Ollie.",
+      "start": 18.02,
+      "end": 18.22
+    },
+    {
+      "word": "Copy.",
+      "start": 19.0,
+      "end": 19.38
+    }
+  ],
+  "language": "en",
+  "word_count": 43,
+  "is_empty": false,
+  "is_very_short": false
+}

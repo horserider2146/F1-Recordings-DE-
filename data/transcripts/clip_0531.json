@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0531",
+  "text": "Thank you, we are boxed as well. Pilt, you should be...",
+  "words": [
+    {
+      "word": "Thank",
+      "start": 1.6,
+      "end": 2.12
+    },
+    {
+      "word": "you,",
+      "start": 2.12,
+      "end": 2.3
+    },
+    {
+      "word": "we",
+      "start": 2.44,
+      "end": 2.66
+    },
+    {
+      "word": "are",
+      "start": 2.66,
+      "end": 2.96
+    },
+    {
+      "word": "boxed",
+      "start": 2.96,
+      "end": 3.34
+    },
+    {
+      "word": "as",
+      "start": 3.34,
+      "end": 3.4
+    },
+    {
+      "word": "well.",
+      "start": 3.4,
+      "end": 3.68
+    },
+    {
+      "word": "Pilt,",
+      "start": 9.32,
+      "end": 9.84
+    },
+    {
+      "word": "you",
+      "start": 10.06,
+      "end": 10.22
+    },
+    {
+      "word": "should",
+      "start": 10.22,
+      "end": 10.54
+    },
+    {
+      "word": "be...",
+      "start": 10.54,
+      "end": 10.78
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

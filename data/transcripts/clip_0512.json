@@ -1,0 +1,420 @@
+{
+  "clip_id": "clip_0512",
+  "text": "The lamps will just push as hard as we can on the outlap. We'll do weaving everywhere. I don't even know what the flap is. What's that huge under and over? I know, I know. I can see everything. I know. We're going to take off a chunk of our balance. That'll just get it a little more calm, and we'll get the tires warmed up, and it'll be OK. So we're just going to push on this outlap. You'll weave everywhere.",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "lamps",
+      "start": 0.14,
+      "end": 0.36
+    },
+    {
+      "word": "will",
+      "start": 0.36,
+      "end": 0.54
+    },
+    {
+      "word": "just",
+      "start": 0.54,
+      "end": 0.66
+    },
+    {
+      "word": "push",
+      "start": 0.66,
+      "end": 0.88
+    },
+    {
+      "word": "as",
+      "start": 0.88,
+      "end": 1.08
+    },
+    {
+      "word": "hard",
+      "start": 1.08,
+      "end": 1.24
+    },
+    {
+      "word": "as",
+      "start": 1.24,
+      "end": 1.36
+    },
+    {
+      "word": "we",
+      "start": 1.36,
+      "end": 1.46
+    },
+    {
+      "word": "can",
+      "start": 1.46,
+      "end": 1.62
+    },
+    {
+      "word": "on",
+      "start": 1.62,
+      "end": 1.72
+    },
+    {
+      "word": "the",
+      "start": 1.72,
+      "end": 1.84
+    },
+    {
+      "word": "outlap.",
+      "start": 1.84,
+      "end": 2.2
+    },
+    {
+      "word": "We'll",
+      "start": 2.34,
+      "end": 2.34
+    },
+    {
+      "word": "do",
+      "start": 2.34,
+      "end": 2.42
+    },
+    {
+      "word": "weaving",
+      "start": 2.42,
+      "end": 2.74
+    },
+    {
+      "word": "everywhere.",
+      "start": 2.74,
+      "end": 3.12
+    },
+    {
+      "word": "I",
+      "start": 3.36,
+      "end": 3.36
+    },
+    {
+      "word": "don't",
+      "start": 3.36,
+      "end": 3.36
+    },
+    {
+      "word": "even",
+      "start": 3.36,
+      "end": 3.44
+    },
+    {
+      "word": "know",
+      "start": 3.44,
+      "end": 3.62
+    },
+    {
+      "word": "what",
+      "start": 3.62,
+      "end": 3.74
+    },
+    {
+      "word": "the",
+      "start": 3.74,
+      "end": 3.86
+    },
+    {
+      "word": "flap",
+      "start": 3.86,
+      "end": 4.12
+    },
+    {
+      "word": "is.",
+      "start": 4.12,
+      "end": 4.42
+    },
+    {
+      "word": "What's",
+      "start": 4.42,
+      "end": 4.68
+    },
+    {
+      "word": "that",
+      "start": 4.68,
+      "end": 4.8
+    },
+    {
+      "word": "huge",
+      "start": 4.8,
+      "end": 5.1
+    },
+    {
+      "word": "under",
+      "start": 5.1,
+      "end": 5.44
+    },
+    {
+      "word": "and",
+      "start": 5.44,
+      "end": 5.66
+    },
+    {
+      "word": "over?",
+      "start": 5.66,
+      "end": 5.86
+    },
+    {
+      "word": "I",
+      "start": 5.92,
+      "end": 6.02
+    },
+    {
+      "word": "know,",
+      "start": 6.02,
+      "end": 6.12
+    },
+    {
+      "word": "I",
+      "start": 6.22,
+      "end": 6.28
+    },
+    {
+      "word": "know.",
+      "start": 6.28,
+      "end": 6.32
+    },
+    {
+      "word": "I",
+      "start": 6.4,
+      "end": 6.4
+    },
+    {
+      "word": "can",
+      "start": 6.4,
+      "end": 6.42
+    },
+    {
+      "word": "see",
+      "start": 6.42,
+      "end": 6.6
+    },
+    {
+      "word": "everything.",
+      "start": 6.6,
+      "end": 7.0
+    },
+    {
+      "word": "I",
+      "start": 7.22,
+      "end": 7.32
+    },
+    {
+      "word": "know.",
+      "start": 7.32,
+      "end": 7.44
+    },
+    {
+      "word": "We're",
+      "start": 7.7,
+      "end": 7.82
+    },
+    {
+      "word": "going",
+      "start": 7.82,
+      "end": 7.9
+    },
+    {
+      "word": "to",
+      "start": 7.9,
+      "end": 7.98
+    },
+    {
+      "word": "take",
+      "start": 7.98,
+      "end": 8.12
+    },
+    {
+      "word": "off",
+      "start": 8.12,
+      "end": 8.34
+    },
+    {
+      "word": "a",
+      "start": 8.34,
+      "end": 8.42
+    },
+    {
+      "word": "chunk",
+      "start": 8.42,
+      "end": 8.62
+    },
+    {
+      "word": "of",
+      "start": 8.62,
+      "end": 8.78
+    },
+    {
+      "word": "our",
+      "start": 8.78,
+      "end": 8.9
+    },
+    {
+      "word": "balance.",
+      "start": 8.9,
+      "end": 9.24
+    },
+    {
+      "word": "That'll",
+      "start": 9.54,
+      "end": 9.7
+    },
+    {
+      "word": "just",
+      "start": 9.7,
+      "end": 9.86
+    },
+    {
+      "word": "get",
+      "start": 9.86,
+      "end": 10.0
+    },
+    {
+      "word": "it",
+      "start": 10.0,
+      "end": 10.12
+    },
+    {
+      "word": "a",
+      "start": 10.12,
+      "end": 10.16
+    },
+    {
+      "word": "little",
+      "start": 10.16,
+      "end": 10.3
+    },
+    {
+      "word": "more",
+      "start": 10.3,
+      "end": 10.46
+    },
+    {
+      "word": "calm,",
+      "start": 10.46,
+      "end": 10.78
+    },
+    {
+      "word": "and",
+      "start": 11.12,
+      "end": 11.18
+    },
+    {
+      "word": "we'll",
+      "start": 11.18,
+      "end": 11.3
+    },
+    {
+      "word": "get",
+      "start": 11.3,
+      "end": 11.38
+    },
+    {
+      "word": "the",
+      "start": 11.38,
+      "end": 11.52
+    },
+    {
+      "word": "tires",
+      "start": 11.52,
+      "end": 11.76
+    },
+    {
+      "word": "warmed",
+      "start": 11.76,
+      "end": 12.02
+    },
+    {
+      "word": "up,",
+      "start": 12.02,
+      "end": 12.26
+    },
+    {
+      "word": "and",
+      "start": 12.32,
+      "end": 12.4
+    },
+    {
+      "word": "it'll",
+      "start": 12.4,
+      "end": 12.58
+    },
+    {
+      "word": "be",
+      "start": 12.58,
+      "end": 12.7
+    },
+    {
+      "word": "OK.",
+      "start": 12.7,
+      "end": 12.92
+    },
+    {
+      "word": "So",
+      "start": 13.16,
+      "end": 13.26
+    },
+    {
+      "word": "we're",
+      "start": 13.26,
+      "end": 13.62
+    },
+    {
+      "word": "just",
+      "start": 13.62,
+      "end": 13.72
+    },
+    {
+      "word": "going",
+      "start": 13.72,
+      "end": 13.8
+    },
+    {
+      "word": "to",
+      "start": 13.8,
+      "end": 13.84
+    },
+    {
+      "word": "push",
+      "start": 13.84,
+      "end": 14.04
+    },
+    {
+      "word": "on",
+      "start": 14.04,
+      "end": 14.22
+    },
+    {
+      "word": "this",
+      "start": 14.22,
+      "end": 14.38
+    },
+    {
+      "word": "outlap.",
+      "start": 14.38,
+      "end": 14.76
+    },
+    {
+      "word": "You'll",
+      "start": 14.82,
+      "end": 14.94
+    },
+    {
+      "word": "weave",
+      "start": 14.94,
+      "end": 15.08
+    },
+    {
+      "word": "everywhere.",
+      "start": 15.08,
+      "end": 15.42
+    }
+  ],
+  "language": "en",
+  "word_count": 82,
+  "is_empty": false,
+  "is_very_short": false
+}

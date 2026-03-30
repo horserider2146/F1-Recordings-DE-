@@ -1,0 +1,240 @@
+{
+  "clip_id": "clip_0546",
+  "text": "The car ahead, Gathley's just slowed up to let the clerk through, he's in turn 14. Hamilton will catch up a few quickly. The next car is Bairman, turn 13. Clear ahead. This lap, keep the revs up, should be in the phase with cars behind.",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "word": "car",
+      "start": 0.6,
+      "end": 0.82
+    },
+    {
+      "word": "ahead,",
+      "start": 0.82,
+      "end": 1.0
+    },
+    {
+      "word": "Gathley's",
+      "start": 1.12,
+      "end": 1.58
+    },
+    {
+      "word": "just",
+      "start": 1.58,
+      "end": 1.74
+    },
+    {
+      "word": "slowed",
+      "start": 1.74,
+      "end": 2.0
+    },
+    {
+      "word": "up",
+      "start": 2.0,
+      "end": 2.18
+    },
+    {
+      "word": "to",
+      "start": 2.18,
+      "end": 2.32
+    },
+    {
+      "word": "let",
+      "start": 2.32,
+      "end": 2.42
+    },
+    {
+      "word": "the",
+      "start": 2.42,
+      "end": 2.54
+    },
+    {
+      "word": "clerk",
+      "start": 2.54,
+      "end": 2.74
+    },
+    {
+      "word": "through,",
+      "start": 2.74,
+      "end": 3.06
+    },
+    {
+      "word": "he's",
+      "start": 3.18,
+      "end": 3.28
+    },
+    {
+      "word": "in",
+      "start": 3.28,
+      "end": 3.42
+    },
+    {
+      "word": "turn",
+      "start": 3.42,
+      "end": 3.56
+    },
+    {
+      "word": "14.",
+      "start": 3.56,
+      "end": 4.02
+    },
+    {
+      "word": "Hamilton",
+      "start": 5.84,
+      "end": 6.28
+    },
+    {
+      "word": "will",
+      "start": 6.28,
+      "end": 6.58
+    },
+    {
+      "word": "catch",
+      "start": 6.58,
+      "end": 6.8
+    },
+    {
+      "word": "up",
+      "start": 6.8,
+      "end": 7.04
+    },
+    {
+      "word": "a",
+      "start": 7.04,
+      "end": 7.16
+    },
+    {
+      "word": "few",
+      "start": 7.16,
+      "end": 7.28
+    },
+    {
+      "word": "quickly.",
+      "start": 7.28,
+      "end": 7.76
+    },
+    {
+      "word": "The",
+      "start": 9.12,
+      "end": 9.56
+    },
+    {
+      "word": "next",
+      "start": 9.56,
+      "end": 9.78
+    },
+    {
+      "word": "car",
+      "start": 9.78,
+      "end": 9.96
+    },
+    {
+      "word": "is",
+      "start": 9.96,
+      "end": 10.1
+    },
+    {
+      "word": "Bairman,",
+      "start": 10.1,
+      "end": 10.44
+    },
+    {
+      "word": "turn",
+      "start": 10.52,
+      "end": 10.66
+    },
+    {
+      "word": "13.",
+      "start": 10.66,
+      "end": 11.22
+    },
+    {
+      "word": "Clear",
+      "start": 13.28,
+      "end": 13.72
+    },
+    {
+      "word": "ahead.",
+      "start": 13.72,
+      "end": 14.0
+    },
+    {
+      "word": "This",
+      "start": 15.36,
+      "end": 15.8
+    },
+    {
+      "word": "lap,",
+      "start": 15.8,
+      "end": 16.04
+    },
+    {
+      "word": "keep",
+      "start": 16.16,
+      "end": 16.26
+    },
+    {
+      "word": "the",
+      "start": 16.26,
+      "end": 16.44
+    },
+    {
+      "word": "revs",
+      "start": 16.44,
+      "end": 16.74
+    },
+    {
+      "word": "up,",
+      "start": 16.74,
+      "end": 16.94
+    },
+    {
+      "word": "should",
+      "start": 17.28,
+      "end": 17.54
+    },
+    {
+      "word": "be",
+      "start": 17.54,
+      "end": 17.68
+    },
+    {
+      "word": "in",
+      "start": 17.68,
+      "end": 17.78
+    },
+    {
+      "word": "the",
+      "start": 17.78,
+      "end": 17.84
+    },
+    {
+      "word": "phase",
+      "start": 17.84,
+      "end": 18.02
+    },
+    {
+      "word": "with",
+      "start": 18.02,
+      "end": 18.16
+    },
+    {
+      "word": "cars",
+      "start": 18.16,
+      "end": 18.38
+    },
+    {
+      "word": "behind.",
+      "start": 18.38,
+      "end": 18.76
+    }
+  ],
+  "language": "en",
+  "word_count": 46,
+  "is_empty": false,
+  "is_very_short": false
+}

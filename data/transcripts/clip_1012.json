@@ -1,0 +1,30 @@
+{
+  "clip_id": "clip_1012",
+  "text": "Keep position, keep position.",
+  "words": [
+    {
+      "word": "Keep",
+      "start": 6.24,
+      "end": 7.52
+    },
+    {
+      "word": "position,",
+      "start": 7.52,
+      "end": 8.1
+    },
+    {
+      "word": "keep",
+      "start": 8.34,
+      "end": 8.52
+    },
+    {
+      "word": "position.",
+      "start": 8.52,
+      "end": 9.22
+    }
+  ],
+  "language": "en",
+  "word_count": 4,
+  "is_empty": false,
+  "is_very_short": false
+}

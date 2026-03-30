@@ -1,0 +1,100 @@
+{
+  "clip_id": "clip_1015",
+  "text": "What are we fighting on this? On to game. No dude, what the f***? Okay, I don't know.",
+  "words": [
+    {
+      "word": "What",
+      "start": 8.9,
+      "end": 9.4
+    },
+    {
+      "word": "are",
+      "start": 9.4,
+      "end": 9.7
+    },
+    {
+      "word": "we",
+      "start": 9.7,
+      "end": 9.86
+    },
+    {
+      "word": "fighting",
+      "start": 9.86,
+      "end": 10.12
+    },
+    {
+      "word": "on",
+      "start": 10.12,
+      "end": 10.34
+    },
+    {
+      "word": "this?",
+      "start": 10.34,
+      "end": 10.6
+    },
+    {
+      "word": "On",
+      "start": 11.4,
+      "end": 11.9
+    },
+    {
+      "word": "to",
+      "start": 11.9,
+      "end": 12.02
+    },
+    {
+      "word": "game.",
+      "start": 12.02,
+      "end": 12.26
+    },
+    {
+      "word": "No",
+      "start": 16.04,
+      "end": 16.54
+    },
+    {
+      "word": "dude,",
+      "start": 16.54,
+      "end": 16.74
+    },
+    {
+      "word": "what",
+      "start": 16.8,
+      "end": 16.96
+    },
+    {
+      "word": "the",
+      "start": 16.96,
+      "end": 17.16
+    },
+    {
+      "word": "f***?",
+      "start": 17.16,
+      "end": 17.9
+    },
+    {
+      "word": "Okay,",
+      "start": 19.26,
+      "end": 19.76
+    },
+    {
+      "word": "I",
+      "start": 19.8,
+      "end": 19.88
+    },
+    {
+      "word": "don't",
+      "start": 19.88,
+      "end": 19.98
+    },
+    {
+      "word": "know.",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 18,
+  "is_empty": false,
+  "is_very_short": false
+}

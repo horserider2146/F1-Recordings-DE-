@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0811",
+  "text": "It will affect 14, it's behind, it's now in, it's currently P6, 33-2 so you might have noticed up and he's P5, Norris just behind, I've raised him down that time. Very nice lap, Ollie. Second quickest car.",
+  "words": [
+    {
+      "word": "It",
+      "start": 0.0,
+      "end": 0.92
+    },
+    {
+      "word": "will",
+      "start": 0.92,
+      "end": 1.06
+    },
+    {
+      "word": "affect",
+      "start": 1.06,
+      "end": 1.26
+    },
+    {
+      "word": "14,",
+      "start": 1.26,
+      "end": 1.78
+    },
+    {
+      "word": "it's",
+      "start": 2.66,
+      "end": 3.6
+    },
+    {
+      "word": "behind,",
+      "start": 3.6,
+      "end": 3.96
+    },
+    {
+      "word": "it's",
+      "start": 4.9,
+      "end": 5.12
+    },
+    {
+      "word": "now",
+      "start": 5.12,
+      "end": 5.14
+    },
+    {
+      "word": "in,",
+      "start": 5.14,
+      "end": 5.48
+    },
+    {
+      "word": "it's",
+      "start": 5.6,
+      "end": 7.58
+    },
+    {
+      "word": "currently",
+      "start": 7.58,
+      "end": 7.9
+    },
+    {
+      "word": "P6,",
+      "start": 7.9,
+      "end": 9.1
+    },
+    {
+      "word": "33",
+      "start": 9.56,
+      "end": 10.58
+    },
+    {
+      "word": "-2",
+      "start": 10.58,
+      "end": 10.98
+    },
+    {
+      "word": "so",
+      "start": 10.98,
+      "end": 11.16
+    },
+    {
+      "word": "you",
+      "start": 11.16,
+      "end": 11.24
+    },
+    {
+      "word": "might",
+      "start": 11.24,
+      "end": 11.38
+    },
+    {
+      "word": "have",
+      "start": 11.38,
+      "end": 11.48
+    },
+    {
+      "word": "noticed",
+      "start": 11.48,
+      "end": 11.64
+    },
+    {
+      "word": "up",
+      "start": 11.64,
+      "end": 11.78
+    },
+    {
+      "word": "and",
+      "start": 11.78,
+      "end": 11.9
+    },
+    {
+      "word": "he's",
+      "start": 11.9,
+      "end": 12.04
+    },
+    {
+      "word": "P5,",
+      "start": 12.04,
+      "end": 12.54
+    },
+    {
+      "word": "Norris",
+      "start": 12.84,
+      "end": 13.24
+    },
+    {
+      "word": "just",
+      "start": 13.24,
+      "end": 13.4
+    },
+    {
+      "word": "behind,",
+      "start": 13.4,
+      "end": 13.76
+    },
+    {
+      "word": "I've",
+      "start": 14.16,
+      "end": 14.3
+    },
+    {
+      "word": "raised",
+      "start": 14.3,
+      "end": 14.44
+    },
+    {
+      "word": "him",
+      "start": 14.44,
+      "end": 14.58
+    },
+    {
+      "word": "down",
+      "start": 14.58,
+      "end": 14.68
+    },
+    {
+      "word": "that",
+      "start": 14.68,
+      "end": 14.8
+    },
+    {
+      "word": "time.",
+      "start": 14.8,
+      "end": 15.06
+    },
+    {
+      "word": "Very",
+      "start": 16.46,
+      "end": 16.92
+    },
+    {
+      "word": "nice",
+      "start": 16.92,
+      "end": 17.14
+    },
+    {
+      "word": "lap,",
+      "start": 17.14,
+      "end": 17.38
+    },
+    {
+      "word": "Ollie.",
+      "start": 17.5,
+      "end": 17.58
+    },
+    {
+      "word": "Second",
+      "start": 18.94,
+      "end": 19.4
+    },
+    {
+      "word": "quickest",
+      "start": 19.4,
+      "end": 19.68
+    },
+    {
+      "word": "car.",
+      "start": 19.68,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 38,
+  "is_empty": false,
+  "is_very_short": false
+}

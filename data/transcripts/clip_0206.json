@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0206",
+  "text": "We're turning 2.5 Okay, 6 to go 6 to go We're turning 2.1 We're turning 35 We're turning 1.30 Yeah, so it's a good practice, okay? We're turning 0.8 We're turning 11, go back is good",
+  "words": [
+    {
+      "word": "We're",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "turning",
+      "start": 0.2,
+      "end": 0.24
+    },
+    {
+      "word": "2",
+      "start": 0.24,
+      "end": 0.66
+    },
+    {
+      "word": ".5",
+      "start": 0.66,
+      "end": 1.24
+    },
+    {
+      "word": "Okay,",
+      "start": 2.78,
+      "end": 3.34
+    },
+    {
+      "word": "6",
+      "start": 3.6,
+      "end": 4.04
+    },
+    {
+      "word": "to",
+      "start": 4.04,
+      "end": 4.26
+    },
+    {
+      "word": "go",
+      "start": 4.26,
+      "end": 4.48
+    },
+    {
+      "word": "6",
+      "start": 4.48,
+      "end": 4.98
+    },
+    {
+      "word": "to",
+      "start": 4.98,
+      "end": 5.24
+    },
+    {
+      "word": "go",
+      "start": 5.24,
+      "end": 5.52
+    },
+    {
+      "word": "We're",
+      "start": 5.52,
+      "end": 5.72
+    },
+    {
+      "word": "turning",
+      "start": 5.72,
+      "end": 5.92
+    },
+    {
+      "word": "2",
+      "start": 5.92,
+      "end": 6.28
+    },
+    {
+      "word": ".1",
+      "start": 6.28,
+      "end": 6.78
+    },
+    {
+      "word": "We're",
+      "start": 7.38,
+      "end": 7.94
+    },
+    {
+      "word": "turning",
+      "start": 7.94,
+      "end": 8.08
+    },
+    {
+      "word": "35",
+      "start": 8.08,
+      "end": 8.92
+    },
+    {
+      "word": "We're",
+      "start": 11.1,
+      "end": 11.66
+    },
+    {
+      "word": "turning",
+      "start": 11.66,
+      "end": 12.14
+    },
+    {
+      "word": "1",
+      "start": 12.14,
+      "end": 12.46
+    },
+    {
+      "word": ".30",
+      "start": 12.46,
+      "end": 13.52
+    },
+    {
+      "word": "Yeah,",
+      "start": 13.52,
+      "end": 14.12
+    },
+    {
+      "word": "so",
+      "start": 14.66,
+      "end": 14.8
+    },
+    {
+      "word": "it's",
+      "start": 14.8,
+      "end": 14.98
+    },
+    {
+      "word": "a",
+      "start": 14.98,
+      "end": 14.98
+    },
+    {
+      "word": "good",
+      "start": 14.98,
+      "end": 15.06
+    },
+    {
+      "word": "practice,",
+      "start": 15.06,
+      "end": 15.46
+    },
+    {
+      "word": "okay?",
+      "start": 15.58,
+      "end": 15.84
+    },
+    {
+      "word": "We're",
+      "start": 16.96,
+      "end": 17.52
+    },
+    {
+      "word": "turning",
+      "start": 17.52,
+      "end": 17.76
+    },
+    {
+      "word": "0",
+      "start": 17.76,
+      "end": 18.04
+    },
+    {
+      "word": ".8",
+      "start": 18.04,
+      "end": 18.44
+    },
+    {
+      "word": "We're",
+      "start": 18.44,
+      "end": 18.96
+    },
+    {
+      "word": "turning",
+      "start": 18.96,
+      "end": 19.04
+    },
+    {
+      "word": "11,",
+      "start": 19.04,
+      "end": 19.4
+    },
+    {
+      "word": "go",
+      "start": 19.4,
+      "end": 19.56
+    },
+    {
+      "word": "back",
+      "start": 19.56,
+      "end": 19.74
+    },
+    {
+      "word": "is",
+      "start": 19.74,
+      "end": 19.86
+    },
+    {
+      "word": "good",
+      "start": 19.86,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}

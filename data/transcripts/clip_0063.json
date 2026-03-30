@@ -1,0 +1,75 @@
+{
+  "clip_id": "clip_0063",
+  "text": "very much do it in it. Yep, so you recommend staying shape 3.",
+  "words": [
+    {
+      "word": "very",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "much",
+      "start": 0.2,
+      "end": 0.44
+    },
+    {
+      "word": "do",
+      "start": 0.44,
+      "end": 0.6
+    },
+    {
+      "word": "it",
+      "start": 0.6,
+      "end": 0.7
+    },
+    {
+      "word": "in",
+      "start": 0.7,
+      "end": 0.78
+    },
+    {
+      "word": "it.",
+      "start": 0.78,
+      "end": 1.0
+    },
+    {
+      "word": "Yep,",
+      "start": 2.3,
+      "end": 2.76
+    },
+    {
+      "word": "so",
+      "start": 2.88,
+      "end": 2.96
+    },
+    {
+      "word": "you",
+      "start": 2.96,
+      "end": 3.04
+    },
+    {
+      "word": "recommend",
+      "start": 3.04,
+      "end": 3.44
+    },
+    {
+      "word": "staying",
+      "start": 3.44,
+      "end": 4.86
+    },
+    {
+      "word": "shape",
+      "start": 4.86,
+      "end": 5.52
+    },
+    {
+      "word": "3.",
+      "start": 5.52,
+      "end": 5.78
+    }
+  ],
+  "language": "en",
+  "word_count": 13,
+  "is_empty": false,
+  "is_very_short": false
+}

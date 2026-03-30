@@ -1,0 +1,155 @@
+{
+  "clip_id": "clip_0191",
+  "text": "We have to go through the metal. This medium is gonna take 20 to go. We need to do 15 of 70 cars. All that is tires for restart.",
+  "words": [
+    {
+      "word": "We",
+      "start": 4.84,
+      "end": 5.44
+    },
+    {
+      "word": "have",
+      "start": 5.44,
+      "end": 6.04
+    },
+    {
+      "word": "to",
+      "start": 6.04,
+      "end": 6.18
+    },
+    {
+      "word": "go",
+      "start": 6.18,
+      "end": 6.32
+    },
+    {
+      "word": "through",
+      "start": 6.32,
+      "end": 6.5
+    },
+    {
+      "word": "the",
+      "start": 6.5,
+      "end": 6.8
+    },
+    {
+      "word": "metal.",
+      "start": 6.8,
+      "end": 7.16
+    },
+    {
+      "word": "This",
+      "start": 8.54,
+      "end": 8.74
+    },
+    {
+      "word": "medium",
+      "start": 8.74,
+      "end": 9.08
+    },
+    {
+      "word": "is",
+      "start": 9.08,
+      "end": 9.2
+    },
+    {
+      "word": "gonna",
+      "start": 9.2,
+      "end": 9.42
+    },
+    {
+      "word": "take",
+      "start": 9.42,
+      "end": 9.7
+    },
+    {
+      "word": "20",
+      "start": 9.7,
+      "end": 11.48
+    },
+    {
+      "word": "to",
+      "start": 11.48,
+      "end": 11.72
+    },
+    {
+      "word": "go.",
+      "start": 11.72,
+      "end": 12.02
+    },
+    {
+      "word": "We",
+      "start": 12.82,
+      "end": 13.0
+    },
+    {
+      "word": "need",
+      "start": 13.0,
+      "end": 13.14
+    },
+    {
+      "word": "to",
+      "start": 13.14,
+      "end": 13.26
+    },
+    {
+      "word": "do",
+      "start": 13.26,
+      "end": 13.44
+    },
+    {
+      "word": "15",
+      "start": 13.44,
+      "end": 13.78
+    },
+    {
+      "word": "of",
+      "start": 13.78,
+      "end": 14.64
+    },
+    {
+      "word": "70",
+      "start": 14.64,
+      "end": 14.94
+    },
+    {
+      "word": "cars.",
+      "start": 14.94,
+      "end": 15.28
+    },
+    {
+      "word": "All",
+      "start": 16.12,
+      "end": 16.34
+    },
+    {
+      "word": "that",
+      "start": 16.34,
+      "end": 16.5
+    },
+    {
+      "word": "is",
+      "start": 16.5,
+      "end": 16.68
+    },
+    {
+      "word": "tires",
+      "start": 16.68,
+      "end": 17.06
+    },
+    {
+      "word": "for",
+      "start": 17.06,
+      "end": 17.42
+    },
+    {
+      "word": "restart.",
+      "start": 17.42,
+      "end": 17.72
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,105 @@
+{
+  "clip_id": "clip_1180",
+  "text": "the so about that which you can help yellow turn fourteen the way you are clear check over one",
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "so",
+      "start": 6.64,
+      "end": 7.28
+    },
+    {
+      "word": "about",
+      "start": 7.28,
+      "end": 7.92
+    },
+    {
+      "word": "that",
+      "start": 7.92,
+      "end": 8.1
+    },
+    {
+      "word": "which",
+      "start": 8.1,
+      "end": 8.42
+    },
+    {
+      "word": "you",
+      "start": 8.42,
+      "end": 8.54
+    },
+    {
+      "word": "can",
+      "start": 8.54,
+      "end": 8.64
+    },
+    {
+      "word": "help",
+      "start": 8.64,
+      "end": 8.78
+    },
+    {
+      "word": "yellow",
+      "start": 10.88,
+      "end": 11.52
+    },
+    {
+      "word": "turn",
+      "start": 11.52,
+      "end": 12.02
+    },
+    {
+      "word": "fourteen",
+      "start": 12.02,
+      "end": 12.52
+    },
+    {
+      "word": "the",
+      "start": 13.42,
+      "end": 14.06
+    },
+    {
+      "word": "way",
+      "start": 14.06,
+      "end": 14.38
+    },
+    {
+      "word": "you",
+      "start": 14.38,
+      "end": 14.62
+    },
+    {
+      "word": "are",
+      "start": 14.62,
+      "end": 14.8
+    },
+    {
+      "word": "clear",
+      "start": 16.08,
+      "end": 16.72
+    },
+    {
+      "word": "check",
+      "start": 16.72,
+      "end": 18.36
+    },
+    {
+      "word": "over",
+      "start": 18.36,
+      "end": 18.98
+    },
+    {
+      "word": "one",
+      "start": 18.98,
+      "end": 19.4
+    }
+  ],
+  "language": "en",
+  "word_count": 19,
+  "is_empty": false,
+  "is_very_short": false
+}

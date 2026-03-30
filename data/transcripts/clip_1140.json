@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_1140",
+  "text": "or review it'll be able to charge on the outlet. Fine.",
+  "words": [
+    {
+      "word": "or",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "review",
+      "start": 0.46,
+      "end": 0.78
+    },
+    {
+      "word": "it'll",
+      "start": 0.78,
+      "end": 1.12
+    },
+    {
+      "word": "be",
+      "start": 1.12,
+      "end": 1.26
+    },
+    {
+      "word": "able",
+      "start": 1.26,
+      "end": 1.38
+    },
+    {
+      "word": "to",
+      "start": 1.38,
+      "end": 1.5
+    },
+    {
+      "word": "charge",
+      "start": 1.5,
+      "end": 1.76
+    },
+    {
+      "word": "on",
+      "start": 1.76,
+      "end": 1.96
+    },
+    {
+      "word": "the",
+      "start": 1.96,
+      "end": 2.06
+    },
+    {
+      "word": "outlet.",
+      "start": 2.06,
+      "end": 2.22
+    },
+    {
+      "word": "Fine.",
+      "start": 2.46,
+      "end": 2.64
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

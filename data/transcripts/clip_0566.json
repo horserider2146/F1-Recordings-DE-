@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_0566",
+  "text": "Double yellow, double yellow. I've moved the tire so... I will let you know. He's still stuck on the track. Keep them touching the tire. He's moving. I will let you know.",
+  "words": [
+    {
+      "word": "Double",
+      "start": 1.12,
+      "end": 1.76
+    },
+    {
+      "word": "yellow,",
+      "start": 1.76,
+      "end": 2.08
+    },
+    {
+      "word": "double",
+      "start": 2.24,
+      "end": 2.48
+    },
+    {
+      "word": "yellow.",
+      "start": 2.48,
+      "end": 2.98
+    },
+    {
+      "word": "I've",
+      "start": 4.7,
+      "end": 5.34
+    },
+    {
+      "word": "moved",
+      "start": 5.34,
+      "end": 5.54
+    },
+    {
+      "word": "the",
+      "start": 5.54,
+      "end": 5.72
+    },
+    {
+      "word": "tire",
+      "start": 5.72,
+      "end": 5.9
+    },
+    {
+      "word": "so...",
+      "start": 5.9,
+      "end": 7.0
+    },
+    {
+      "word": "I",
+      "start": 7.62,
+      "end": 8.14
+    },
+    {
+      "word": "will",
+      "start": 8.14,
+      "end": 8.3
+    },
+    {
+      "word": "let",
+      "start": 8.3,
+      "end": 8.52
+    },
+    {
+      "word": "you",
+      "start": 8.52,
+      "end": 8.66
+    },
+    {
+      "word": "know.",
+      "start": 8.66,
+      "end": 8.92
+    },
+    {
+      "word": "He's",
+      "start": 9.82,
+      "end": 10.46
+    },
+    {
+      "word": "still",
+      "start": 10.46,
+      "end": 10.62
+    },
+    {
+      "word": "stuck",
+      "start": 10.62,
+      "end": 10.96
+    },
+    {
+      "word": "on",
+      "start": 10.96,
+      "end": 11.4
+    },
+    {
+      "word": "the",
+      "start": 11.4,
+      "end": 11.6
+    },
+    {
+      "word": "track.",
+      "start": 11.6,
+      "end": 11.92
+    },
+    {
+      "word": "Keep",
+      "start": 12.74,
+      "end": 13.16
+    },
+    {
+      "word": "them",
+      "start": 13.16,
+      "end": 13.34
+    },
+    {
+      "word": "touching",
+      "start": 13.34,
+      "end": 13.54
+    },
+    {
+      "word": "the",
+      "start": 13.54,
+      "end": 13.8
+    },
+    {
+      "word": "tire.",
+      "start": 13.8,
+      "end": 14.12
+    },
+    {
+      "word": "He's",
+      "start": 16.88,
+      "end": 17.52
+    },
+    {
+      "word": "moving.",
+      "start": 17.52,
+      "end": 17.78
+    },
+    {
+      "word": "I",
+      "start": 18.2,
+      "end": 18.24
+    },
+    {
+      "word": "will",
+      "start": 18.24,
+      "end": 18.38
+    },
+    {
+      "word": "let",
+      "start": 18.38,
+      "end": 18.42
+    },
+    {
+      "word": "you",
+      "start": 18.42,
+      "end": 18.68
+    },
+    {
+      "word": "know.",
+      "start": 18.68,
+      "end": 19.1
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

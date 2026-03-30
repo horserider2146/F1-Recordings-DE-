@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0390",
+  "text": "presses the next lap. No P8 compresses at 0.9. At 1 second we're happy to use the buttons on the next lap. The clerk will have overtaken at 0.7.",
+  "words": [
+    {
+      "word": "presses",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "the",
+      "start": 0.32,
+      "end": 0.48
+    },
+    {
+      "word": "next",
+      "start": 0.48,
+      "end": 0.58
+    },
+    {
+      "word": "lap.",
+      "start": 0.58,
+      "end": 0.8
+    },
+    {
+      "word": "No",
+      "start": 2.64,
+      "end": 3.4
+    },
+    {
+      "word": "P8",
+      "start": 3.4,
+      "end": 3.86
+    },
+    {
+      "word": "compresses",
+      "start": 3.86,
+      "end": 4.76
+    },
+    {
+      "word": "at",
+      "start": 4.76,
+      "end": 5.08
+    },
+    {
+      "word": "0",
+      "start": 5.08,
+      "end": 5.5
+    },
+    {
+      "word": ".9.",
+      "start": 5.5,
+      "end": 6.0
+    },
+    {
+      "word": "At",
+      "start": 7.54,
+      "end": 8.3
+    },
+    {
+      "word": "1",
+      "start": 8.3,
+      "end": 8.68
+    },
+    {
+      "word": "second",
+      "start": 8.68,
+      "end": 9.08
+    },
+    {
+      "word": "we're",
+      "start": 9.08,
+      "end": 9.84
+    },
+    {
+      "word": "happy",
+      "start": 9.84,
+      "end": 10.0
+    },
+    {
+      "word": "to",
+      "start": 10.0,
+      "end": 10.2
+    },
+    {
+      "word": "use",
+      "start": 10.2,
+      "end": 10.38
+    },
+    {
+      "word": "the",
+      "start": 10.38,
+      "end": 10.5
+    },
+    {
+      "word": "buttons",
+      "start": 10.5,
+      "end": 10.78
+    },
+    {
+      "word": "on",
+      "start": 10.78,
+      "end": 11.06
+    },
+    {
+      "word": "the",
+      "start": 11.06,
+      "end": 11.18
+    },
+    {
+      "word": "next",
+      "start": 11.18,
+      "end": 11.32
+    },
+    {
+      "word": "lap.",
+      "start": 11.32,
+      "end": 11.64
+    },
+    {
+      "word": "The",
+      "start": 13.1,
+      "end": 13.86
+    },
+    {
+      "word": "clerk",
+      "start": 13.86,
+      "end": 14.14
+    },
+    {
+      "word": "will",
+      "start": 14.14,
+      "end": 14.54
+    },
+    {
+      "word": "have",
+      "start": 14.54,
+      "end": 14.88
+    },
+    {
+      "word": "overtaken",
+      "start": 14.88,
+      "end": 15.58
+    },
+    {
+      "word": "at",
+      "start": 15.58,
+      "end": 17.84
+    },
+    {
+      "word": "0",
+      "start": 17.84,
+      "end": 18.3
+    },
+    {
+      "word": ".7.",
+      "start": 18.3,
+      "end": 18.86
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

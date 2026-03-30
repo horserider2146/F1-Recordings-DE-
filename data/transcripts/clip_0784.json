@@ -1,0 +1,20 @@
+{
+  "clip_id": "clip_0784",
+  "text": "Yeah, definitely.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "definitely.",
+      "start": 0.3,
+      "end": 0.6
+    }
+  ],
+  "language": "en",
+  "word_count": 2,
+  "is_empty": false,
+  "is_very_short": true
+}

@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0734",
+  "text": "to make a missing some stability there",
+  "words": [
+    {
+      "word": "to",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "make",
+      "start": 0.1,
+      "end": 0.22
+    },
+    {
+      "word": "a",
+      "start": 0.22,
+      "end": 0.36
+    },
+    {
+      "word": "missing",
+      "start": 0.36,
+      "end": 0.56
+    },
+    {
+      "word": "some",
+      "start": 0.56,
+      "end": 0.78
+    },
+    {
+      "word": "stability",
+      "start": 0.78,
+      "end": 1.26
+    },
+    {
+      "word": "there",
+      "start": 1.26,
+      "end": 1.6
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

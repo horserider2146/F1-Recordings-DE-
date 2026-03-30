@@ -1,0 +1,155 @@
+{
+  "clip_id": "clip_0354",
+  "text": "Okay, I'll give you another one. Give me an 18 second on a lap. Give me 12 seconds on a lap. 11. 10. 8 seconds. 7. 6. 5. 4.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "I'll",
+      "start": 0.3,
+      "end": 0.5
+    },
+    {
+      "word": "give",
+      "start": 0.5,
+      "end": 0.58
+    },
+    {
+      "word": "you",
+      "start": 0.58,
+      "end": 0.66
+    },
+    {
+      "word": "another",
+      "start": 0.66,
+      "end": 0.86
+    },
+    {
+      "word": "one.",
+      "start": 0.86,
+      "end": 1.34
+    },
+    {
+      "word": "Give",
+      "start": 1.58,
+      "end": 1.88
+    },
+    {
+      "word": "me",
+      "start": 1.88,
+      "end": 2.0
+    },
+    {
+      "word": "an",
+      "start": 2.0,
+      "end": 2.1
+    },
+    {
+      "word": "18",
+      "start": 2.1,
+      "end": 2.44
+    },
+    {
+      "word": "second",
+      "start": 2.44,
+      "end": 2.94
+    },
+    {
+      "word": "on",
+      "start": 2.94,
+      "end": 3.58
+    },
+    {
+      "word": "a",
+      "start": 3.58,
+      "end": 3.72
+    },
+    {
+      "word": "lap.",
+      "start": 3.72,
+      "end": 3.92
+    },
+    {
+      "word": "Give",
+      "start": 5.6,
+      "end": 6.08
+    },
+    {
+      "word": "me",
+      "start": 6.08,
+      "end": 6.2
+    },
+    {
+      "word": "12",
+      "start": 6.2,
+      "end": 6.58
+    },
+    {
+      "word": "seconds",
+      "start": 6.58,
+      "end": 7.06
+    },
+    {
+      "word": "on",
+      "start": 7.06,
+      "end": 7.62
+    },
+    {
+      "word": "a",
+      "start": 7.62,
+      "end": 7.78
+    },
+    {
+      "word": "lap.",
+      "start": 7.78,
+      "end": 8.02
+    },
+    {
+      "word": "11.",
+      "start": 8.7,
+      "end": 9.12
+    },
+    {
+      "word": "10.",
+      "start": 10.08,
+      "end": 10.66
+    },
+    {
+      "word": "8",
+      "start": 11.92,
+      "end": 12.58
+    },
+    {
+      "word": "seconds.",
+      "start": 12.58,
+      "end": 12.98
+    },
+    {
+      "word": "7.",
+      "start": 13.88,
+      "end": 14.42
+    },
+    {
+      "word": "6.",
+      "start": 15.2,
+      "end": 15.78
+    },
+    {
+      "word": "5.",
+      "start": 16.7,
+      "end": 17.18
+    },
+    {
+      "word": "4.",
+      "start": 18.08,
+      "end": 18.68
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

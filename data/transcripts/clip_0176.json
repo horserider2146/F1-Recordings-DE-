@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0176",
+  "text": "on used R385 German on pressure R379 with lapage 90 Yeah, I'm recovering the tire on the bazaar a bit Okay, watch out for one 100 We're on lap time target 385, 38...",
+  "words": [
+    {
+      "word": "on",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "used",
+      "start": 0.34,
+      "end": 0.68
+    },
+    {
+      "word": "R385",
+      "start": 0.68,
+      "end": 2.26
+    },
+    {
+      "word": "German",
+      "start": 3.46,
+      "end": 4.02
+    },
+    {
+      "word": "on",
+      "start": 4.02,
+      "end": 4.32
+    },
+    {
+      "word": "pressure",
+      "start": 4.32,
+      "end": 4.84
+    },
+    {
+      "word": "R379",
+      "start": 4.84,
+      "end": 6.66
+    },
+    {
+      "word": "with",
+      "start": 6.66,
+      "end": 6.98
+    },
+    {
+      "word": "lapage",
+      "start": 6.98,
+      "end": 7.72
+    },
+    {
+      "word": "90",
+      "start": 7.72,
+      "end": 7.92
+    },
+    {
+      "word": "Yeah,",
+      "start": 9.56,
+      "end": 10.12
+    },
+    {
+      "word": "I'm",
+      "start": 10.18,
+      "end": 10.26
+    },
+    {
+      "word": "recovering",
+      "start": 10.26,
+      "end": 10.48
+    },
+    {
+      "word": "the",
+      "start": 10.48,
+      "end": 10.82
+    },
+    {
+      "word": "tire",
+      "start": 10.82,
+      "end": 11.06
+    },
+    {
+      "word": "on",
+      "start": 11.06,
+      "end": 11.34
+    },
+    {
+      "word": "the",
+      "start": 11.34,
+      "end": 11.44
+    },
+    {
+      "word": "bazaar",
+      "start": 11.44,
+      "end": 11.74
+    },
+    {
+      "word": "a",
+      "start": 11.74,
+      "end": 11.86
+    },
+    {
+      "word": "bit",
+      "start": 11.86,
+      "end": 12.12
+    },
+    {
+      "word": "Okay,",
+      "start": 12.12,
+      "end": 12.66
+    },
+    {
+      "word": "watch",
+      "start": 12.8,
+      "end": 13.06
+    },
+    {
+      "word": "out",
+      "start": 13.06,
+      "end": 13.24
+    },
+    {
+      "word": "for",
+      "start": 13.24,
+      "end": 13.36
+    },
+    {
+      "word": "one",
+      "start": 13.36,
+      "end": 13.64
+    },
+    {
+      "word": "100",
+      "start": 13.64,
+      "end": 14.22
+    },
+    {
+      "word": "We're",
+      "start": 17.22,
+      "end": 17.78
+    },
+    {
+      "word": "on",
+      "start": 17.78,
+      "end": 17.86
+    },
+    {
+      "word": "lap",
+      "start": 17.86,
+      "end": 18.02
+    },
+    {
+      "word": "time",
+      "start": 18.02,
+      "end": 18.22
+    },
+    {
+      "word": "target",
+      "start": 18.22,
+      "end": 18.54
+    },
+    {
+      "word": "385,",
+      "start": 18.54,
+      "end": 19.56
+    },
+    {
+      "word": "38...",
+      "start": 19.72,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

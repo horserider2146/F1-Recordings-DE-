@@ -1,0 +1,150 @@
+{
+  "clip_id": "clip_0470",
+  "text": "better final corner now. The loss was the snap is 12. George 35.5, 35.5. Crosses across the lap. George also 35.5, gap at 6.8.",
+  "words": [
+    {
+      "word": "better",
+      "start": 0.0,
+      "end": 0.76
+    },
+    {
+      "word": "final",
+      "start": 0.76,
+      "end": 1.24
+    },
+    {
+      "word": "corner",
+      "start": 1.24,
+      "end": 1.54
+    },
+    {
+      "word": "now.",
+      "start": 1.54,
+      "end": 1.82
+    },
+    {
+      "word": "The",
+      "start": 2.46,
+      "end": 2.66
+    },
+    {
+      "word": "loss",
+      "start": 2.66,
+      "end": 2.84
+    },
+    {
+      "word": "was",
+      "start": 2.84,
+      "end": 3.0
+    },
+    {
+      "word": "the",
+      "start": 3.0,
+      "end": 3.14
+    },
+    {
+      "word": "snap",
+      "start": 3.14,
+      "end": 3.3
+    },
+    {
+      "word": "is",
+      "start": 3.3,
+      "end": 3.64
+    },
+    {
+      "word": "12.",
+      "start": 3.64,
+      "end": 5.12
+    },
+    {
+      "word": "George",
+      "start": 7.8,
+      "end": 8.48
+    },
+    {
+      "word": "35",
+      "start": 8.48,
+      "end": 9.16
+    },
+    {
+      "word": ".5,",
+      "start": 9.16,
+      "end": 9.8
+    },
+    {
+      "word": "35",
+      "start": 10.04,
+      "end": 10.32
+    },
+    {
+      "word": ".5.",
+      "start": 10.32,
+      "end": 10.96
+    },
+    {
+      "word": "Crosses",
+      "start": 12.06,
+      "end": 12.74
+    },
+    {
+      "word": "across",
+      "start": 12.74,
+      "end": 13.08
+    },
+    {
+      "word": "the",
+      "start": 13.08,
+      "end": 13.38
+    },
+    {
+      "word": "lap.",
+      "start": 13.38,
+      "end": 13.52
+    },
+    {
+      "word": "George",
+      "start": 14.68,
+      "end": 15.36
+    },
+    {
+      "word": "also",
+      "start": 15.36,
+      "end": 15.66
+    },
+    {
+      "word": "35",
+      "start": 15.66,
+      "end": 16.1
+    },
+    {
+      "word": ".5,",
+      "start": 16.1,
+      "end": 16.68
+    },
+    {
+      "word": "gap",
+      "start": 16.76,
+      "end": 16.92
+    },
+    {
+      "word": "at",
+      "start": 16.92,
+      "end": 17.12
+    },
+    {
+      "word": "6",
+      "start": 17.12,
+      "end": 17.44
+    },
+    {
+      "word": ".8.",
+      "start": 17.44,
+      "end": 17.88
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

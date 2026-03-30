@@ -1,0 +1,255 @@
+{
+  "clip_id": "clip_0474",
+  "text": "So be the free air after it. George 35, 6 free air, gap 7.1. George 35, 5 gap 7.3. Just have it with slow car on the straight. Slow car on the straight. That can be if you need more power in turn 7. It's turn 7.",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "be",
+      "start": 0.14,
+      "end": 0.26
+    },
+    {
+      "word": "the",
+      "start": 0.26,
+      "end": 0.34
+    },
+    {
+      "word": "free",
+      "start": 0.34,
+      "end": 0.52
+    },
+    {
+      "word": "air",
+      "start": 0.52,
+      "end": 0.66
+    },
+    {
+      "word": "after",
+      "start": 0.66,
+      "end": 0.94
+    },
+    {
+      "word": "it.",
+      "start": 0.94,
+      "end": 1.38
+    },
+    {
+      "word": "George",
+      "start": 2.72,
+      "end": 3.24
+    },
+    {
+      "word": "35,",
+      "start": 3.24,
+      "end": 3.66
+    },
+    {
+      "word": "6",
+      "start": 3.94,
+      "end": 4.2
+    },
+    {
+      "word": "free",
+      "start": 4.2,
+      "end": 4.6
+    },
+    {
+      "word": "air,",
+      "start": 4.6,
+      "end": 4.88
+    },
+    {
+      "word": "gap",
+      "start": 5.24,
+      "end": 5.48
+    },
+    {
+      "word": "7",
+      "start": 5.48,
+      "end": 5.8
+    },
+    {
+      "word": ".1.",
+      "start": 5.8,
+      "end": 6.3
+    },
+    {
+      "word": "George",
+      "start": 8.14,
+      "end": 8.66
+    },
+    {
+      "word": "35,",
+      "start": 8.66,
+      "end": 9.16
+    },
+    {
+      "word": "5",
+      "start": 9.48,
+      "end": 9.58
+    },
+    {
+      "word": "gap",
+      "start": 9.58,
+      "end": 9.84
+    },
+    {
+      "word": "7",
+      "start": 9.84,
+      "end": 10.18
+    },
+    {
+      "word": ".3.",
+      "start": 10.18,
+      "end": 10.74
+    },
+    {
+      "word": "Just",
+      "start": 12.14,
+      "end": 12.66
+    },
+    {
+      "word": "have",
+      "start": 12.66,
+      "end": 12.8
+    },
+    {
+      "word": "it",
+      "start": 12.8,
+      "end": 12.9
+    },
+    {
+      "word": "with",
+      "start": 12.9,
+      "end": 13.08
+    },
+    {
+      "word": "slow",
+      "start": 13.08,
+      "end": 13.34
+    },
+    {
+      "word": "car",
+      "start": 13.34,
+      "end": 13.7
+    },
+    {
+      "word": "on",
+      "start": 13.7,
+      "end": 13.94
+    },
+    {
+      "word": "the",
+      "start": 13.94,
+      "end": 14.08
+    },
+    {
+      "word": "straight.",
+      "start": 14.08,
+      "end": 14.36
+    },
+    {
+      "word": "Slow",
+      "start": 14.66,
+      "end": 14.8
+    },
+    {
+      "word": "car",
+      "start": 14.8,
+      "end": 15.0
+    },
+    {
+      "word": "on",
+      "start": 15.0,
+      "end": 15.1
+    },
+    {
+      "word": "the",
+      "start": 15.1,
+      "end": 15.18
+    },
+    {
+      "word": "straight.",
+      "start": 15.18,
+      "end": 15.42
+    },
+    {
+      "word": "That",
+      "start": 16.14,
+      "end": 16.22
+    },
+    {
+      "word": "can",
+      "start": 16.22,
+      "end": 16.38
+    },
+    {
+      "word": "be",
+      "start": 16.38,
+      "end": 16.52
+    },
+    {
+      "word": "if",
+      "start": 16.52,
+      "end": 16.72
+    },
+    {
+      "word": "you",
+      "start": 16.72,
+      "end": 16.86
+    },
+    {
+      "word": "need",
+      "start": 16.86,
+      "end": 17.08
+    },
+    {
+      "word": "more",
+      "start": 17.08,
+      "end": 17.24
+    },
+    {
+      "word": "power",
+      "start": 17.24,
+      "end": 17.56
+    },
+    {
+      "word": "in",
+      "start": 17.56,
+      "end": 18.06
+    },
+    {
+      "word": "turn",
+      "start": 18.06,
+      "end": 18.44
+    },
+    {
+      "word": "7.",
+      "start": 18.44,
+      "end": 18.84
+    },
+    {
+      "word": "It's",
+      "start": 18.98,
+      "end": 19.14
+    },
+    {
+      "word": "turn",
+      "start": 19.14,
+      "end": 19.3
+    },
+    {
+      "word": "7.",
+      "start": 19.3,
+      "end": 19.66
+    }
+  ],
+  "language": "en",
+  "word_count": 47,
+  "is_empty": false,
+  "is_very_short": false
+}

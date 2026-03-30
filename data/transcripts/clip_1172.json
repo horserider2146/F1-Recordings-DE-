@@ -1,0 +1,330 @@
+{
+  "clip_id": "clip_1172",
+  "text": "brake system doesn't work, that's painful. Okay copy that. All right we think the safety car could come in this lap but we'll let you know. All right safety car is going to come in this lap so let's just make sure we're happy with the tires. When we get round to the end of the lap we'll go to mode of race before.",
+  "words": [
+    {
+      "word": "brake",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "system",
+      "start": 0.26,
+      "end": 0.6
+    },
+    {
+      "word": "doesn't",
+      "start": 0.6,
+      "end": 0.98
+    },
+    {
+      "word": "work,",
+      "start": 0.98,
+      "end": 1.24
+    },
+    {
+      "word": "that's",
+      "start": 1.78,
+      "end": 2.38
+    },
+    {
+      "word": "painful.",
+      "start": 2.38,
+      "end": 2.82
+    },
+    {
+      "word": "Okay",
+      "start": 3.58,
+      "end": 3.92
+    },
+    {
+      "word": "copy",
+      "start": 3.92,
+      "end": 4.14
+    },
+    {
+      "word": "that.",
+      "start": 4.14,
+      "end": 4.38
+    },
+    {
+      "word": "All",
+      "start": 5.72,
+      "end": 5.72
+    },
+    {
+      "word": "right",
+      "start": 5.72,
+      "end": 6.3
+    },
+    {
+      "word": "we",
+      "start": 6.3,
+      "end": 6.42
+    },
+    {
+      "word": "think",
+      "start": 6.42,
+      "end": 6.68
+    },
+    {
+      "word": "the",
+      "start": 6.68,
+      "end": 6.86
+    },
+    {
+      "word": "safety",
+      "start": 6.86,
+      "end": 7.08
+    },
+    {
+      "word": "car",
+      "start": 7.08,
+      "end": 7.38
+    },
+    {
+      "word": "could",
+      "start": 7.38,
+      "end": 7.62
+    },
+    {
+      "word": "come",
+      "start": 7.62,
+      "end": 7.84
+    },
+    {
+      "word": "in",
+      "start": 7.84,
+      "end": 7.98
+    },
+    {
+      "word": "this",
+      "start": 7.98,
+      "end": 8.18
+    },
+    {
+      "word": "lap",
+      "start": 8.18,
+      "end": 8.42
+    },
+    {
+      "word": "but",
+      "start": 8.42,
+      "end": 8.66
+    },
+    {
+      "word": "we'll",
+      "start": 8.66,
+      "end": 8.84
+    },
+    {
+      "word": "let",
+      "start": 8.84,
+      "end": 8.98
+    },
+    {
+      "word": "you",
+      "start": 8.98,
+      "end": 9.1
+    },
+    {
+      "word": "know.",
+      "start": 9.1,
+      "end": 9.28
+    },
+    {
+      "word": "All",
+      "start": 9.98,
+      "end": 10.24
+    },
+    {
+      "word": "right",
+      "start": 10.24,
+      "end": 10.36
+    },
+    {
+      "word": "safety",
+      "start": 10.36,
+      "end": 10.62
+    },
+    {
+      "word": "car",
+      "start": 10.62,
+      "end": 10.92
+    },
+    {
+      "word": "is",
+      "start": 10.92,
+      "end": 11.28
+    },
+    {
+      "word": "going",
+      "start": 11.28,
+      "end": 11.46
+    },
+    {
+      "word": "to",
+      "start": 11.46,
+      "end": 11.62
+    },
+    {
+      "word": "come",
+      "start": 11.62,
+      "end": 11.82
+    },
+    {
+      "word": "in",
+      "start": 11.82,
+      "end": 11.94
+    },
+    {
+      "word": "this",
+      "start": 11.94,
+      "end": 12.16
+    },
+    {
+      "word": "lap",
+      "start": 12.16,
+      "end": 12.42
+    },
+    {
+      "word": "so",
+      "start": 12.42,
+      "end": 12.76
+    },
+    {
+      "word": "let's",
+      "start": 12.76,
+      "end": 12.94
+    },
+    {
+      "word": "just",
+      "start": 12.94,
+      "end": 13.06
+    },
+    {
+      "word": "make",
+      "start": 13.06,
+      "end": 13.28
+    },
+    {
+      "word": "sure",
+      "start": 13.28,
+      "end": 13.46
+    },
+    {
+      "word": "we're",
+      "start": 13.46,
+      "end": 13.6
+    },
+    {
+      "word": "happy",
+      "start": 13.6,
+      "end": 13.78
+    },
+    {
+      "word": "with",
+      "start": 13.78,
+      "end": 13.96
+    },
+    {
+      "word": "the",
+      "start": 13.96,
+      "end": 14.02
+    },
+    {
+      "word": "tires.",
+      "start": 14.02,
+      "end": 14.3
+    },
+    {
+      "word": "When",
+      "start": 15.98,
+      "end": 16.42
+    },
+    {
+      "word": "we",
+      "start": 16.42,
+      "end": 16.58
+    },
+    {
+      "word": "get",
+      "start": 16.58,
+      "end": 16.74
+    },
+    {
+      "word": "round",
+      "start": 16.74,
+      "end": 16.96
+    },
+    {
+      "word": "to",
+      "start": 16.96,
+      "end": 17.16
+    },
+    {
+      "word": "the",
+      "start": 17.16,
+      "end": 17.28
+    },
+    {
+      "word": "end",
+      "start": 17.28,
+      "end": 17.4
+    },
+    {
+      "word": "of",
+      "start": 17.4,
+      "end": 17.48
+    },
+    {
+      "word": "the",
+      "start": 17.48,
+      "end": 17.56
+    },
+    {
+      "word": "lap",
+      "start": 17.56,
+      "end": 17.76
+    },
+    {
+      "word": "we'll",
+      "start": 17.76,
+      "end": 17.96
+    },
+    {
+      "word": "go",
+      "start": 17.96,
+      "end": 18.08
+    },
+    {
+      "word": "to",
+      "start": 18.08,
+      "end": 18.24
+    },
+    {
+      "word": "mode",
+      "start": 18.24,
+      "end": 18.56
+    },
+    {
+      "word": "of",
+      "start": 18.56,
+      "end": 18.68
+    },
+    {
+      "word": "race",
+      "start": 18.68,
+      "end": 18.92
+    },
+    {
+      "word": "before.",
+      "start": 18.92,
+      "end": 19.32
+    }
+  ],
+  "language": "en",
+  "word_count": 64,
+  "is_empty": false,
+  "is_very_short": false
+}

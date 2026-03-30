@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0128",
+  "text": "The top 7 are all on medium.",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "top",
+      "start": 0.12,
+      "end": 0.3
+    },
+    {
+      "word": "7",
+      "start": 0.3,
+      "end": 0.82
+    },
+    {
+      "word": "are",
+      "start": 0.82,
+      "end": 1.1
+    },
+    {
+      "word": "all",
+      "start": 1.1,
+      "end": 1.5
+    },
+    {
+      "word": "on",
+      "start": 1.5,
+      "end": 2.44
+    },
+    {
+      "word": "medium.",
+      "start": 2.44,
+      "end": 2.8
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

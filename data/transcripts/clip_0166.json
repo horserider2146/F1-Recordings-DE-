@@ -1,0 +1,30 @@
+{
+  "clip_id": "clip_0166",
+  "text": "for low-throttle pressure.",
+  "words": [
+    {
+      "word": "for",
+      "start": 0.68,
+      "end": 1.0
+    },
+    {
+      "word": "low",
+      "start": 1.0,
+      "end": 1.14
+    },
+    {
+      "word": "-throttle",
+      "start": 1.14,
+      "end": 1.32
+    },
+    {
+      "word": "pressure.",
+      "start": 1.32,
+      "end": 1.46
+    }
+  ],
+  "language": "en",
+  "word_count": 3,
+  "is_empty": false,
+  "is_very_short": false
+}

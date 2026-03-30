@@ -1,0 +1,270 @@
+{
+  "clip_id": "clip_0904",
+  "text": "OK, Mace, you've got a completely clean track ahead of you here. Good spot for the next lap. A lap time, please. Improvements. So, improvements of around a second of a stroll on a second new set. Franco improved to 34.4 on his second. That was a second and a half.",
+  "words": [
+    {
+      "word": "OK,",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "Mace,",
+      "start": 0.28,
+      "end": 0.44
+    },
+    {
+      "word": "you've",
+      "start": 0.52,
+      "end": 0.6
+    },
+    {
+      "word": "got",
+      "start": 0.6,
+      "end": 0.66
+    },
+    {
+      "word": "a",
+      "start": 0.66,
+      "end": 0.8
+    },
+    {
+      "word": "completely",
+      "start": 0.8,
+      "end": 1.02
+    },
+    {
+      "word": "clean",
+      "start": 1.02,
+      "end": 1.38
+    },
+    {
+      "word": "track",
+      "start": 1.38,
+      "end": 1.6
+    },
+    {
+      "word": "ahead",
+      "start": 1.6,
+      "end": 1.82
+    },
+    {
+      "word": "of",
+      "start": 1.82,
+      "end": 1.94
+    },
+    {
+      "word": "you",
+      "start": 1.94,
+      "end": 2.02
+    },
+    {
+      "word": "here.",
+      "start": 2.02,
+      "end": 2.18
+    },
+    {
+      "word": "Good",
+      "start": 2.8,
+      "end": 3.24
+    },
+    {
+      "word": "spot",
+      "start": 3.24,
+      "end": 3.5
+    },
+    {
+      "word": "for",
+      "start": 3.5,
+      "end": 3.7
+    },
+    {
+      "word": "the",
+      "start": 3.7,
+      "end": 3.78
+    },
+    {
+      "word": "next",
+      "start": 3.78,
+      "end": 3.98
+    },
+    {
+      "word": "lap.",
+      "start": 3.98,
+      "end": 4.14
+    },
+    {
+      "word": "A",
+      "start": 5.68,
+      "end": 6.12
+    },
+    {
+      "word": "lap",
+      "start": 6.12,
+      "end": 6.26
+    },
+    {
+      "word": "time,",
+      "start": 6.26,
+      "end": 6.5
+    },
+    {
+      "word": "please.",
+      "start": 6.6,
+      "end": 6.72
+    },
+    {
+      "word": "Improvements.",
+      "start": 7.52,
+      "end": 7.96
+    },
+    {
+      "word": "So,",
+      "start": 9.82,
+      "end": 10.26
+    },
+    {
+      "word": "improvements",
+      "start": 10.26,
+      "end": 10.7
+    },
+    {
+      "word": "of",
+      "start": 10.7,
+      "end": 11.32
+    },
+    {
+      "word": "around",
+      "start": 11.32,
+      "end": 11.62
+    },
+    {
+      "word": "a",
+      "start": 11.62,
+      "end": 11.86
+    },
+    {
+      "word": "second",
+      "start": 11.86,
+      "end": 12.14
+    },
+    {
+      "word": "of",
+      "start": 12.14,
+      "end": 12.34
+    },
+    {
+      "word": "a",
+      "start": 12.34,
+      "end": 12.46
+    },
+    {
+      "word": "stroll",
+      "start": 12.46,
+      "end": 12.8
+    },
+    {
+      "word": "on",
+      "start": 12.8,
+      "end": 13.02
+    },
+    {
+      "word": "a",
+      "start": 13.02,
+      "end": 13.14
+    },
+    {
+      "word": "second",
+      "start": 13.14,
+      "end": 13.4
+    },
+    {
+      "word": "new",
+      "start": 13.4,
+      "end": 13.64
+    },
+    {
+      "word": "set.",
+      "start": 13.64,
+      "end": 13.92
+    },
+    {
+      "word": "Franco",
+      "start": 14.46,
+      "end": 14.9
+    },
+    {
+      "word": "improved",
+      "start": 14.9,
+      "end": 15.3
+    },
+    {
+      "word": "to",
+      "start": 15.3,
+      "end": 15.48
+    },
+    {
+      "word": "34",
+      "start": 15.48,
+      "end": 15.92
+    },
+    {
+      "word": ".4",
+      "start": 15.92,
+      "end": 16.58
+    },
+    {
+      "word": "on",
+      "start": 16.58,
+      "end": 16.82
+    },
+    {
+      "word": "his",
+      "start": 16.82,
+      "end": 17.02
+    },
+    {
+      "word": "second.",
+      "start": 17.02,
+      "end": 17.36
+    },
+    {
+      "word": "That",
+      "start": 17.5,
+      "end": 17.54
+    },
+    {
+      "word": "was",
+      "start": 17.54,
+      "end": 17.7
+    },
+    {
+      "word": "a",
+      "start": 17.7,
+      "end": 18.68
+    },
+    {
+      "word": "second",
+      "start": 18.68,
+      "end": 18.68
+    },
+    {
+      "word": "and",
+      "start": 18.68,
+      "end": 18.86
+    },
+    {
+      "word": "a",
+      "start": 18.86,
+      "end": 18.92
+    },
+    {
+      "word": "half.",
+      "start": 18.92,
+      "end": 19.1
+    }
+  ],
+  "language": "en",
+  "word_count": 51,
+  "is_empty": false,
+  "is_very_short": false
+}

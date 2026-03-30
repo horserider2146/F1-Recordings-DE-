@@ -1,0 +1,155 @@
+{
+  "clip_id": "clip_0576",
+  "text": "overtake is enabled Antonelli has overtake behind you you have the overtake, you have the overtake as a overtake behind you you have the overtake and reminder SM in",
+  "words": [
+    {
+      "word": "overtake",
+      "start": 0.98,
+      "end": 1.88
+    },
+    {
+      "word": "is",
+      "start": 1.88,
+      "end": 2.24
+    },
+    {
+      "word": "enabled",
+      "start": 2.24,
+      "end": 2.62
+    },
+    {
+      "word": "Antonelli",
+      "start": 4.46,
+      "end": 5.36
+    },
+    {
+      "word": "has",
+      "start": 5.36,
+      "end": 5.58
+    },
+    {
+      "word": "overtake",
+      "start": 5.58,
+      "end": 6.18
+    },
+    {
+      "word": "behind",
+      "start": 6.18,
+      "end": 6.78
+    },
+    {
+      "word": "you",
+      "start": 6.78,
+      "end": 7.08
+    },
+    {
+      "word": "you",
+      "start": 8.0,
+      "end": 8.56
+    },
+    {
+      "word": "have",
+      "start": 8.56,
+      "end": 8.7
+    },
+    {
+      "word": "the",
+      "start": 8.7,
+      "end": 8.8
+    },
+    {
+      "word": "overtake,",
+      "start": 8.8,
+      "end": 9.24
+    },
+    {
+      "word": "you",
+      "start": 9.32,
+      "end": 9.46
+    },
+    {
+      "word": "have",
+      "start": 9.46,
+      "end": 9.58
+    },
+    {
+      "word": "the",
+      "start": 9.58,
+      "end": 9.68
+    },
+    {
+      "word": "overtake",
+      "start": 9.68,
+      "end": 10.13
+    },
+    {
+      "word": "as",
+      "start": 11.58,
+      "end": 12.14
+    },
+    {
+      "word": "a",
+      "start": 12.14,
+      "end": 12.28
+    },
+    {
+      "word": "overtake",
+      "start": 12.28,
+      "end": 12.74
+    },
+    {
+      "word": "behind",
+      "start": 12.74,
+      "end": 13.04
+    },
+    {
+      "word": "you",
+      "start": 13.04,
+      "end": 13.5
+    },
+    {
+      "word": "you",
+      "start": 14.68,
+      "end": 15.58
+    },
+    {
+      "word": "have",
+      "start": 15.58,
+      "end": 15.74
+    },
+    {
+      "word": "the",
+      "start": 15.74,
+      "end": 15.82
+    },
+    {
+      "word": "overtake",
+      "start": 15.82,
+      "end": 16.27
+    },
+    {
+      "word": "and",
+      "start": 17.68,
+      "end": 18.32
+    },
+    {
+      "word": "reminder",
+      "start": 18.32,
+      "end": 18.84
+    },
+    {
+      "word": "SM",
+      "start": 18.84,
+      "end": 19.44
+    },
+    {
+      "word": "in",
+      "start": 19.44,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

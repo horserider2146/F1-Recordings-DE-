@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0304",
+  "text": "Ok, finish you P8 mate, finish P8 Do you want the finishing order? I know it Ok, copy that It's watching TV But balance got very weird with the last 15 laps Like a mix of huge understeer then",
+  "words": [
+    {
+      "word": "Ok,",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "finish",
+      "start": 0.26,
+      "end": 0.32
+    },
+    {
+      "word": "you",
+      "start": 0.32,
+      "end": 0.48
+    },
+    {
+      "word": "P8",
+      "start": 0.48,
+      "end": 0.88
+    },
+    {
+      "word": "mate,",
+      "start": 0.88,
+      "end": 1.02
+    },
+    {
+      "word": "finish",
+      "start": 1.18,
+      "end": 1.36
+    },
+    {
+      "word": "P8",
+      "start": 1.36,
+      "end": 1.76
+    },
+    {
+      "word": "Do",
+      "start": 1.76,
+      "end": 2.24
+    },
+    {
+      "word": "you",
+      "start": 2.24,
+      "end": 3.14
+    },
+    {
+      "word": "want",
+      "start": 3.14,
+      "end": 3.18
+    },
+    {
+      "word": "the",
+      "start": 3.18,
+      "end": 3.24
+    },
+    {
+      "word": "finishing",
+      "start": 3.24,
+      "end": 3.42
+    },
+    {
+      "word": "order?",
+      "start": 3.42,
+      "end": 3.64
+    },
+    {
+      "word": "I",
+      "start": 4.98,
+      "end": 5.38
+    },
+    {
+      "word": "know",
+      "start": 5.38,
+      "end": 5.58
+    },
+    {
+      "word": "it",
+      "start": 5.58,
+      "end": 5.8
+    },
+    {
+      "word": "Ok,",
+      "start": 5.8,
+      "end": 6.48
+    },
+    {
+      "word": "copy",
+      "start": 6.6,
+      "end": 6.74
+    },
+    {
+      "word": "that",
+      "start": 6.74,
+      "end": 6.84
+    },
+    {
+      "word": "It's",
+      "start": 6.84,
+      "end": 6.94
+    },
+    {
+      "word": "watching",
+      "start": 6.94,
+      "end": 7.2
+    },
+    {
+      "word": "TV",
+      "start": 7.2,
+      "end": 7.5
+    },
+    {
+      "word": "But",
+      "start": 10.88,
+      "end": 11.36
+    },
+    {
+      "word": "balance",
+      "start": 11.36,
+      "end": 11.82
+    },
+    {
+      "word": "got",
+      "start": 11.82,
+      "end": 12.1
+    },
+    {
+      "word": "very",
+      "start": 12.1,
+      "end": 12.72
+    },
+    {
+      "word": "weird",
+      "start": 12.72,
+      "end": 13.08
+    },
+    {
+      "word": "with",
+      "start": 13.08,
+      "end": 13.32
+    },
+    {
+      "word": "the",
+      "start": 13.32,
+      "end": 13.54
+    },
+    {
+      "word": "last",
+      "start": 13.54,
+      "end": 15.34
+    },
+    {
+      "word": "15",
+      "start": 15.34,
+      "end": 15.76
+    },
+    {
+      "word": "laps",
+      "start": 15.76,
+      "end": 16.04
+    },
+    {
+      "word": "Like",
+      "start": 16.04,
+      "end": 16.42
+    },
+    {
+      "word": "a",
+      "start": 16.42,
+      "end": 17.2
+    },
+    {
+      "word": "mix",
+      "start": 17.2,
+      "end": 17.42
+    },
+    {
+      "word": "of",
+      "start": 17.42,
+      "end": 17.64
+    },
+    {
+      "word": "huge",
+      "start": 17.64,
+      "end": 17.96
+    },
+    {
+      "word": "understeer",
+      "start": 17.96,
+      "end": 18.66
+    },
+    {
+      "word": "then",
+      "start": 18.66,
+      "end": 18.84
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

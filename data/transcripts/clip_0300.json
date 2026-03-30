@@ -1,0 +1,230 @@
+{
+  "clip_id": "clip_0300",
+  "text": "very well done. William is Alan. Well done mate. Impressive. That is right up there with your best. So really, really well done mate. Thanks Alan. Honestly everyone did a great job. That's pretty cool for the speed we had. That's very, very good.",
+  "words": [
+    {
+      "word": "very",
+      "start": 0.0,
+      "end": 0.06
+    },
+    {
+      "word": "well",
+      "start": 0.06,
+      "end": 0.18
+    },
+    {
+      "word": "done.",
+      "start": 0.18,
+      "end": 0.36
+    },
+    {
+      "word": "William",
+      "start": 3.44,
+      "end": 3.82
+    },
+    {
+      "word": "is",
+      "start": 3.82,
+      "end": 4.04
+    },
+    {
+      "word": "Alan.",
+      "start": 4.04,
+      "end": 4.22
+    },
+    {
+      "word": "Well",
+      "start": 5.04,
+      "end": 5.16
+    },
+    {
+      "word": "done",
+      "start": 5.16,
+      "end": 5.3
+    },
+    {
+      "word": "mate.",
+      "start": 5.3,
+      "end": 5.44
+    },
+    {
+      "word": "Impressive.",
+      "start": 6.04,
+      "end": 6.42
+    },
+    {
+      "word": "That",
+      "start": 6.72,
+      "end": 6.82
+    },
+    {
+      "word": "is",
+      "start": 6.82,
+      "end": 7.08
+    },
+    {
+      "word": "right",
+      "start": 7.08,
+      "end": 7.66
+    },
+    {
+      "word": "up",
+      "start": 7.66,
+      "end": 7.84
+    },
+    {
+      "word": "there",
+      "start": 7.84,
+      "end": 8.0
+    },
+    {
+      "word": "with",
+      "start": 8.0,
+      "end": 8.22
+    },
+    {
+      "word": "your",
+      "start": 8.22,
+      "end": 8.42
+    },
+    {
+      "word": "best.",
+      "start": 8.42,
+      "end": 8.68
+    },
+    {
+      "word": "So",
+      "start": 9.06,
+      "end": 9.06
+    },
+    {
+      "word": "really,",
+      "start": 9.06,
+      "end": 9.58
+    },
+    {
+      "word": "really",
+      "start": 9.66,
+      "end": 9.82
+    },
+    {
+      "word": "well",
+      "start": 9.82,
+      "end": 10.0
+    },
+    {
+      "word": "done",
+      "start": 10.0,
+      "end": 10.18
+    },
+    {
+      "word": "mate.",
+      "start": 10.18,
+      "end": 10.36
+    },
+    {
+      "word": "Thanks",
+      "start": 12.3,
+      "end": 12.68
+    },
+    {
+      "word": "Alan.",
+      "start": 12.68,
+      "end": 12.9
+    },
+    {
+      "word": "Honestly",
+      "start": 13.78,
+      "end": 14.16
+    },
+    {
+      "word": "everyone",
+      "start": 14.16,
+      "end": 14.48
+    },
+    {
+      "word": "did",
+      "start": 14.48,
+      "end": 14.66
+    },
+    {
+      "word": "a",
+      "start": 14.66,
+      "end": 14.76
+    },
+    {
+      "word": "great",
+      "start": 14.76,
+      "end": 14.88
+    },
+    {
+      "word": "job.",
+      "start": 14.88,
+      "end": 15.16
+    },
+    {
+      "word": "That's",
+      "start": 16.64,
+      "end": 17.02
+    },
+    {
+      "word": "pretty",
+      "start": 17.02,
+      "end": 17.16
+    },
+    {
+      "word": "cool",
+      "start": 17.16,
+      "end": 17.44
+    },
+    {
+      "word": "for",
+      "start": 17.44,
+      "end": 17.68
+    },
+    {
+      "word": "the",
+      "start": 17.68,
+      "end": 17.78
+    },
+    {
+      "word": "speed",
+      "start": 17.78,
+      "end": 17.98
+    },
+    {
+      "word": "we",
+      "start": 17.98,
+      "end": 18.14
+    },
+    {
+      "word": "had.",
+      "start": 18.14,
+      "end": 18.24
+    },
+    {
+      "word": "That's",
+      "start": 18.32,
+      "end": 18.48
+    },
+    {
+      "word": "very,",
+      "start": 18.48,
+      "end": 18.66
+    },
+    {
+      "word": "very",
+      "start": 18.66,
+      "end": 18.84
+    },
+    {
+      "word": "good.",
+      "start": 18.84,
+      "end": 19.04
+    }
+  ],
+  "language": "en",
+  "word_count": 44,
+  "is_empty": false,
+  "is_very_short": false
+}

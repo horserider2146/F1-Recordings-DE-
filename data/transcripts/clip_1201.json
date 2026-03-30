@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_1201",
+  "text": "Thank you. This is the end of the beginning.",
+  "words": [
+    {
+      "word": "Thank",
+      "start": 0.36,
+      "end": 0.64
+    },
+    {
+      "word": "you.",
+      "start": 0.64,
+      "end": 0.86
+    },
+    {
+      "word": "This",
+      "start": 2.16,
+      "end": 2.44
+    },
+    {
+      "word": "is",
+      "start": 2.44,
+      "end": 2.44
+    },
+    {
+      "word": "the",
+      "start": 2.44,
+      "end": 2.52
+    },
+    {
+      "word": "end",
+      "start": 2.52,
+      "end": 2.62
+    },
+    {
+      "word": "of",
+      "start": 2.62,
+      "end": 2.76
+    },
+    {
+      "word": "the",
+      "start": 2.76,
+      "end": 2.76
+    },
+    {
+      "word": "beginning.",
+      "start": 2.76,
+      "end": 2.9
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

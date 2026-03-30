@@ -1,0 +1,95 @@
+{
+  "clip_id": "clip_1154",
+  "text": "We've got Soft, or Max, and or Hedgerar. So for Stafford and Hedgerar on Soft, everybody else.",
+  "words": [
+    {
+      "word": "We've",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "got",
+      "start": 0.2,
+      "end": 0.4
+    },
+    {
+      "word": "Soft,",
+      "start": 0.4,
+      "end": 0.84
+    },
+    {
+      "word": "or",
+      "start": 1.14,
+      "end": 1.58
+    },
+    {
+      "word": "Max,",
+      "start": 1.58,
+      "end": 1.88
+    },
+    {
+      "word": "and",
+      "start": 2.56,
+      "end": 2.6
+    },
+    {
+      "word": "or",
+      "start": 2.6,
+      "end": 3.0
+    },
+    {
+      "word": "Hedgerar.",
+      "start": 3.0,
+      "end": 3.54
+    },
+    {
+      "word": "So",
+      "start": 3.9,
+      "end": 4.08
+    },
+    {
+      "word": "for",
+      "start": 4.08,
+      "end": 4.22
+    },
+    {
+      "word": "Stafford",
+      "start": 4.22,
+      "end": 4.6
+    },
+    {
+      "word": "and",
+      "start": 4.6,
+      "end": 4.76
+    },
+    {
+      "word": "Hedgerar",
+      "start": 4.76,
+      "end": 5.3
+    },
+    {
+      "word": "on",
+      "start": 5.3,
+      "end": 5.44
+    },
+    {
+      "word": "Soft,",
+      "start": 5.44,
+      "end": 5.68
+    },
+    {
+      "word": "everybody",
+      "start": 6.26,
+      "end": 6.46
+    },
+    {
+      "word": "else.",
+      "start": 6.46,
+      "end": 6.46
+    }
+  ],
+  "language": "en",
+  "word_count": 17,
+  "is_empty": false,
+  "is_very_short": false
+}

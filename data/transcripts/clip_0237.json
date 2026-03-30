@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_0237",
+  "text": "single charge only P1, Lewis P3, 32.56, you did a 32.49. Next car pushing Holkenberg 14.14 and watch your D time at the end of the lap. From the Holkenberg, how far? Holkenberg 6.",
+  "words": [
+    {
+      "word": "single",
+      "start": 0.0,
+      "end": 0.38
+    },
+    {
+      "word": "charge",
+      "start": 0.38,
+      "end": 0.9
+    },
+    {
+      "word": "only",
+      "start": 0.9,
+      "end": 1.8
+    },
+    {
+      "word": "P1,",
+      "start": 1.8,
+      "end": 2.38
+    },
+    {
+      "word": "Lewis",
+      "start": 2.92,
+      "end": 3.28
+    },
+    {
+      "word": "P3,",
+      "start": 3.28,
+      "end": 3.9
+    },
+    {
+      "word": "32",
+      "start": 4.18,
+      "end": 4.44
+    },
+    {
+      "word": ".56,",
+      "start": 4.44,
+      "end": 5.1
+    },
+    {
+      "word": "you",
+      "start": 5.42,
+      "end": 5.48
+    },
+    {
+      "word": "did",
+      "start": 5.48,
+      "end": 5.58
+    },
+    {
+      "word": "a",
+      "start": 5.58,
+      "end": 5.7
+    },
+    {
+      "word": "32",
+      "start": 5.7,
+      "end": 6.0
+    },
+    {
+      "word": ".49.",
+      "start": 6.0,
+      "end": 7.44
+    },
+    {
+      "word": "Next",
+      "start": 8.76,
+      "end": 8.98
+    },
+    {
+      "word": "car",
+      "start": 8.98,
+      "end": 9.22
+    },
+    {
+      "word": "pushing",
+      "start": 9.22,
+      "end": 9.5
+    },
+    {
+      "word": "Holkenberg",
+      "start": 9.5,
+      "end": 10.16
+    },
+    {
+      "word": "14",
+      "start": 10.16,
+      "end": 11.0
+    },
+    {
+      "word": ".14",
+      "start": 11.0,
+      "end": 11.48
+    },
+    {
+      "word": "and",
+      "start": 12.56,
+      "end": 13.12
+    },
+    {
+      "word": "watch",
+      "start": 13.12,
+      "end": 13.38
+    },
+    {
+      "word": "your",
+      "start": 13.38,
+      "end": 13.62
+    },
+    {
+      "word": "D",
+      "start": 13.62,
+      "end": 13.96
+    },
+    {
+      "word": "time",
+      "start": 13.96,
+      "end": 14.18
+    },
+    {
+      "word": "at",
+      "start": 14.18,
+      "end": 14.38
+    },
+    {
+      "word": "the",
+      "start": 14.38,
+      "end": 14.48
+    },
+    {
+      "word": "end",
+      "start": 14.48,
+      "end": 14.6
+    },
+    {
+      "word": "of",
+      "start": 14.6,
+      "end": 14.68
+    },
+    {
+      "word": "the",
+      "start": 14.68,
+      "end": 14.78
+    },
+    {
+      "word": "lap.",
+      "start": 14.78,
+      "end": 15.02
+    },
+    {
+      "word": "From",
+      "start": 16.56,
+      "end": 17.12
+    },
+    {
+      "word": "the",
+      "start": 17.12,
+      "end": 17.32
+    },
+    {
+      "word": "Holkenberg,",
+      "start": 17.32,
+      "end": 18.16
+    },
+    {
+      "word": "how",
+      "start": 18.28,
+      "end": 18.4
+    },
+    {
+      "word": "far?",
+      "start": 18.4,
+      "end": 18.56
+    },
+    {
+      "word": "Holkenberg",
+      "start": 18.92,
+      "end": 19.48
+    },
+    {
+      "word": "6.",
+      "start": 19.48,
+      "end": 19.86
+    }
+  ],
+  "language": "en",
+  "word_count": 34,
+  "is_empty": false,
+  "is_very_short": false
+}

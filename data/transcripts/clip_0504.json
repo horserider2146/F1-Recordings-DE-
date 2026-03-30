@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_0504",
+  "text": "going on this straight. The first pushing car will be Hadjhar 8 behind. Hadjhar 8 behind.",
+  "words": [
+    {
+      "word": "going",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "on",
+      "start": 0.2,
+      "end": 0.34
+    },
+    {
+      "word": "this",
+      "start": 0.34,
+      "end": 0.58
+    },
+    {
+      "word": "straight.",
+      "start": 0.58,
+      "end": 0.86
+    },
+    {
+      "word": "The",
+      "start": 2.76,
+      "end": 3.24
+    },
+    {
+      "word": "first",
+      "start": 3.24,
+      "end": 3.46
+    },
+    {
+      "word": "pushing",
+      "start": 3.46,
+      "end": 3.78
+    },
+    {
+      "word": "car",
+      "start": 3.78,
+      "end": 4.02
+    },
+    {
+      "word": "will",
+      "start": 4.02,
+      "end": 4.12
+    },
+    {
+      "word": "be",
+      "start": 4.12,
+      "end": 4.26
+    },
+    {
+      "word": "Hadjhar",
+      "start": 4.26,
+      "end": 4.74
+    },
+    {
+      "word": "8",
+      "start": 4.74,
+      "end": 5.0
+    },
+    {
+      "word": "behind.",
+      "start": 5.0,
+      "end": 5.34
+    },
+    {
+      "word": "Hadjhar",
+      "start": 5.58,
+      "end": 6.0
+    },
+    {
+      "word": "8",
+      "start": 6.0,
+      "end": 6.18
+    },
+    {
+      "word": "behind.",
+      "start": 6.18,
+      "end": 6.48
+    }
+  ],
+  "language": "en",
+  "word_count": 16,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_1072",
+  "text": "Consider mid-eight. Is the deployment okay? So far the deployment is good. The other cars have got overtakes, so just get closer to them and you will get the same as them. One bigger base. The last is lap being forty-four.",
+  "words": [
+    {
+      "word": "Consider",
+      "start": 0.96,
+      "end": 1.44
+    },
+    {
+      "word": "mid",
+      "start": 1.44,
+      "end": 1.84
+    },
+    {
+      "word": "-eight.",
+      "start": 1.84,
+      "end": 2.12
+    },
+    {
+      "word": "Is",
+      "start": 3.46,
+      "end": 3.66
+    },
+    {
+      "word": "the",
+      "start": 3.66,
+      "end": 3.74
+    },
+    {
+      "word": "deployment",
+      "start": 3.74,
+      "end": 4.1
+    },
+    {
+      "word": "okay?",
+      "start": 4.1,
+      "end": 4.52
+    },
+    {
+      "word": "So",
+      "start": 7.14,
+      "end": 7.34
+    },
+    {
+      "word": "far",
+      "start": 7.34,
+      "end": 7.58
+    },
+    {
+      "word": "the",
+      "start": 7.58,
+      "end": 7.92
+    },
+    {
+      "word": "deployment",
+      "start": 7.92,
+      "end": 8.6
+    },
+    {
+      "word": "is",
+      "start": 8.6,
+      "end": 8.84
+    },
+    {
+      "word": "good.",
+      "start": 8.84,
+      "end": 9.06
+    },
+    {
+      "word": "The",
+      "start": 9.22,
+      "end": 9.28
+    },
+    {
+      "word": "other",
+      "start": 9.28,
+      "end": 9.44
+    },
+    {
+      "word": "cars",
+      "start": 9.44,
+      "end": 9.74
+    },
+    {
+      "word": "have",
+      "start": 9.74,
+      "end": 9.88
+    },
+    {
+      "word": "got",
+      "start": 9.88,
+      "end": 10.06
+    },
+    {
+      "word": "overtakes,",
+      "start": 10.06,
+      "end": 10.84
+    },
+    {
+      "word": "so",
+      "start": 11.08,
+      "end": 11.08
+    },
+    {
+      "word": "just",
+      "start": 11.08,
+      "end": 11.46
+    },
+    {
+      "word": "get",
+      "start": 11.46,
+      "end": 11.66
+    },
+    {
+      "word": "closer",
+      "start": 11.66,
+      "end": 12.0
+    },
+    {
+      "word": "to",
+      "start": 12.0,
+      "end": 12.2
+    },
+    {
+      "word": "them",
+      "start": 12.2,
+      "end": 12.42
+    },
+    {
+      "word": "and",
+      "start": 12.42,
+      "end": 12.86
+    },
+    {
+      "word": "you",
+      "start": 12.86,
+      "end": 12.98
+    },
+    {
+      "word": "will",
+      "start": 12.98,
+      "end": 13.08
+    },
+    {
+      "word": "get",
+      "start": 13.08,
+      "end": 13.24
+    },
+    {
+      "word": "the",
+      "start": 13.24,
+      "end": 13.42
+    },
+    {
+      "word": "same",
+      "start": 13.42,
+      "end": 13.82
+    },
+    {
+      "word": "as",
+      "start": 13.82,
+      "end": 14.02
+    },
+    {
+      "word": "them.",
+      "start": 14.02,
+      "end": 14.28
+    },
+    {
+      "word": "One",
+      "start": 15.82,
+      "end": 16.3
+    },
+    {
+      "word": "bigger",
+      "start": 16.3,
+      "end": 16.52
+    },
+    {
+      "word": "base.",
+      "start": 16.52,
+      "end": 16.88
+    },
+    {
+      "word": "The",
+      "start": 18.5,
+      "end": 18.74
+    },
+    {
+      "word": "last",
+      "start": 18.74,
+      "end": 19.02
+    },
+    {
+      "word": "is",
+      "start": 19.02,
+      "end": 19.18
+    },
+    {
+      "word": "lap",
+      "start": 19.18,
+      "end": 19.38
+    },
+    {
+      "word": "being",
+      "start": 19.38,
+      "end": 19.56
+    },
+    {
+      "word": "forty",
+      "start": 19.56,
+      "end": 19.9
+    },
+    {
+      "word": "-four.",
+      "start": 19.9,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 41,
+  "is_empty": false,
+  "is_very_short": false
+}

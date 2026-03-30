@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0647",
+  "text": "next one on the back. Vox box.",
+  "words": [
+    {
+      "word": "next",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "one",
+      "start": 0.2,
+      "end": 0.4
+    },
+    {
+      "word": "on",
+      "start": 0.4,
+      "end": 0.48
+    },
+    {
+      "word": "the",
+      "start": 0.48,
+      "end": 0.56
+    },
+    {
+      "word": "back.",
+      "start": 0.56,
+      "end": 0.8
+    },
+    {
+      "word": "Vox",
+      "start": 1.92,
+      "end": 2.4
+    },
+    {
+      "word": "box.",
+      "start": 2.4,
+      "end": 2.64
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

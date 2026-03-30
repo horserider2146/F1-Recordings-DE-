@@ -1,0 +1,290 @@
+{
+  "clip_id": "clip_1176",
+  "text": "Alright, you're doing a good job, let's keep it up. Okay, tires have stabilized. A little bit of time to gain mid-quarter, 9 and 11, ready to check-o. We think you're doing a good job with management. Check-o pushing a bit harder in turn 1, but we're happy with what you are doing.",
+  "words": [
+    {
+      "word": "Alright,",
+      "start": 1.4,
+      "end": 1.72
+    },
+    {
+      "word": "you're",
+      "start": 1.84,
+      "end": 1.9
+    },
+    {
+      "word": "doing",
+      "start": 1.9,
+      "end": 2.02
+    },
+    {
+      "word": "a",
+      "start": 2.02,
+      "end": 2.12
+    },
+    {
+      "word": "good",
+      "start": 2.12,
+      "end": 2.24
+    },
+    {
+      "word": "job,",
+      "start": 2.24,
+      "end": 2.48
+    },
+    {
+      "word": "let's",
+      "start": 2.6,
+      "end": 2.68
+    },
+    {
+      "word": "keep",
+      "start": 2.68,
+      "end": 2.78
+    },
+    {
+      "word": "it",
+      "start": 2.78,
+      "end": 2.92
+    },
+    {
+      "word": "up.",
+      "start": 2.92,
+      "end": 3.04
+    },
+    {
+      "word": "Okay,",
+      "start": 4.62,
+      "end": 4.94
+    },
+    {
+      "word": "tires",
+      "start": 5.04,
+      "end": 5.32
+    },
+    {
+      "word": "have",
+      "start": 5.32,
+      "end": 5.74
+    },
+    {
+      "word": "stabilized.",
+      "start": 5.74,
+      "end": 6.4
+    },
+    {
+      "word": "A",
+      "start": 8.74,
+      "end": 9.06
+    },
+    {
+      "word": "little",
+      "start": 9.06,
+      "end": 9.16
+    },
+    {
+      "word": "bit",
+      "start": 9.16,
+      "end": 9.32
+    },
+    {
+      "word": "of",
+      "start": 9.32,
+      "end": 9.4
+    },
+    {
+      "word": "time",
+      "start": 9.4,
+      "end": 9.58
+    },
+    {
+      "word": "to",
+      "start": 9.58,
+      "end": 9.74
+    },
+    {
+      "word": "gain",
+      "start": 9.74,
+      "end": 9.88
+    },
+    {
+      "word": "mid",
+      "start": 9.88,
+      "end": 10.12
+    },
+    {
+      "word": "-quarter,",
+      "start": 10.12,
+      "end": 10.24
+    },
+    {
+      "word": "9",
+      "start": 10.38,
+      "end": 10.58
+    },
+    {
+      "word": "and",
+      "start": 10.58,
+      "end": 10.88
+    },
+    {
+      "word": "11,",
+      "start": 10.88,
+      "end": 11.3
+    },
+    {
+      "word": "ready",
+      "start": 11.52,
+      "end": 11.84
+    },
+    {
+      "word": "to",
+      "start": 11.84,
+      "end": 12.02
+    },
+    {
+      "word": "check",
+      "start": 12.02,
+      "end": 12.16
+    },
+    {
+      "word": "-o.",
+      "start": 12.16,
+      "end": 12.26
+    },
+    {
+      "word": "We",
+      "start": 14.42,
+      "end": 14.74
+    },
+    {
+      "word": "think",
+      "start": 14.74,
+      "end": 14.88
+    },
+    {
+      "word": "you're",
+      "start": 14.88,
+      "end": 15.04
+    },
+    {
+      "word": "doing",
+      "start": 15.04,
+      "end": 15.12
+    },
+    {
+      "word": "a",
+      "start": 15.12,
+      "end": 15.22
+    },
+    {
+      "word": "good",
+      "start": 15.22,
+      "end": 15.34
+    },
+    {
+      "word": "job",
+      "start": 15.34,
+      "end": 15.6
+    },
+    {
+      "word": "with",
+      "start": 15.6,
+      "end": 15.76
+    },
+    {
+      "word": "management.",
+      "start": 15.76,
+      "end": 16.2
+    },
+    {
+      "word": "Check",
+      "start": 16.38,
+      "end": 16.6
+    },
+    {
+      "word": "-o",
+      "start": 16.6,
+      "end": 16.72
+    },
+    {
+      "word": "pushing",
+      "start": 16.72,
+      "end": 16.92
+    },
+    {
+      "word": "a",
+      "start": 16.92,
+      "end": 17.08
+    },
+    {
+      "word": "bit",
+      "start": 17.08,
+      "end": 17.18
+    },
+    {
+      "word": "harder",
+      "start": 17.18,
+      "end": 17.52
+    },
+    {
+      "word": "in",
+      "start": 17.52,
+      "end": 17.82
+    },
+    {
+      "word": "turn",
+      "start": 17.82,
+      "end": 18.04
+    },
+    {
+      "word": "1,",
+      "start": 18.04,
+      "end": 18.36
+    },
+    {
+      "word": "but",
+      "start": 18.62,
+      "end": 18.78
+    },
+    {
+      "word": "we're",
+      "start": 18.78,
+      "end": 18.84
+    },
+    {
+      "word": "happy",
+      "start": 18.84,
+      "end": 19.08
+    },
+    {
+      "word": "with",
+      "start": 19.08,
+      "end": 19.28
+    },
+    {
+      "word": "what",
+      "start": 19.28,
+      "end": 19.42
+    },
+    {
+      "word": "you",
+      "start": 19.42,
+      "end": 19.62
+    },
+    {
+      "word": "are",
+      "start": 19.62,
+      "end": 19.76
+    },
+    {
+      "word": "doing.",
+      "start": 19.76,
+      "end": 19.92
+    }
+  ],
+  "language": "en",
+  "word_count": 53,
+  "is_empty": false,
+  "is_very_short": false
+}

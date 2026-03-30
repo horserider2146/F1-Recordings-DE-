@@ -1,0 +1,145 @@
+{
+  "clip_id": "clip_0691",
+  "text": "a lap. No threats behind him. Yeah, six seconds. 7, 3.5. Track is near behind. On-ceal up brakes. Recharge off before turn 14. Easy throttle.",
+  "words": [
+    {
+      "word": "a",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "lap.",
+      "start": 0.12,
+      "end": 0.36
+    },
+    {
+      "word": "No",
+      "start": 2.22,
+      "end": 2.9
+    },
+    {
+      "word": "threats",
+      "start": 2.9,
+      "end": 3.12
+    },
+    {
+      "word": "behind",
+      "start": 3.12,
+      "end": 3.44
+    },
+    {
+      "word": "him.",
+      "start": 3.44,
+      "end": 3.7
+    },
+    {
+      "word": "Yeah,",
+      "start": 4.42,
+      "end": 4.64
+    },
+    {
+      "word": "six",
+      "start": 4.82,
+      "end": 5.18
+    },
+    {
+      "word": "seconds.",
+      "start": 5.18,
+      "end": 5.66
+    },
+    {
+      "word": "7,",
+      "start": 6.6,
+      "end": 6.88
+    },
+    {
+      "word": "3",
+      "start": 7.14,
+      "end": 7.54
+    },
+    {
+      "word": ".5.",
+      "start": 7.54,
+      "end": 8.08
+    },
+    {
+      "word": "Track",
+      "start": 9.68,
+      "end": 10.36
+    },
+    {
+      "word": "is",
+      "start": 10.36,
+      "end": 10.52
+    },
+    {
+      "word": "near",
+      "start": 10.52,
+      "end": 11.3
+    },
+    {
+      "word": "behind.",
+      "start": 11.3,
+      "end": 11.58
+    },
+    {
+      "word": "On",
+      "start": 12.96,
+      "end": 13.64
+    },
+    {
+      "word": "-ceal",
+      "start": 13.64,
+      "end": 13.78
+    },
+    {
+      "word": "up",
+      "start": 13.78,
+      "end": 13.92
+    },
+    {
+      "word": "brakes.",
+      "start": 13.92,
+      "end": 14.14
+    },
+    {
+      "word": "Recharge",
+      "start": 15.0,
+      "end": 15.64
+    },
+    {
+      "word": "off",
+      "start": 15.64,
+      "end": 15.86
+    },
+    {
+      "word": "before",
+      "start": 15.86,
+      "end": 16.2
+    },
+    {
+      "word": "turn",
+      "start": 16.2,
+      "end": 16.52
+    },
+    {
+      "word": "14.",
+      "start": 16.52,
+      "end": 16.92
+    },
+    {
+      "word": "Easy",
+      "start": 18.8,
+      "end": 19.48
+    },
+    {
+      "word": "throttle.",
+      "start": 19.48,
+      "end": 19.74
+    }
+  ],
+  "language": "en",
+  "word_count": 25,
+  "is_empty": false,
+  "is_very_short": false
+}

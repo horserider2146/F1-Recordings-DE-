@@ -1,0 +1,215 @@
+{
+  "clip_id": "clip_0149",
+  "text": "Lift up, rock start, rock start To half, and then to flat And push, pull First lap racing, and then to the left And then last corner And then with you And then to Yellow flag ahead of U-turn 2",
+  "words": [
+    {
+      "word": "Lift",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "up,",
+      "start": 0.18,
+      "end": 0.36
+    },
+    {
+      "word": "rock",
+      "start": 0.5,
+      "end": 0.58
+    },
+    {
+      "word": "start,",
+      "start": 0.58,
+      "end": 0.8
+    },
+    {
+      "word": "rock",
+      "start": 0.94,
+      "end": 1.1
+    },
+    {
+      "word": "start",
+      "start": 1.1,
+      "end": 1.4
+    },
+    {
+      "word": "To",
+      "start": 4.54,
+      "end": 4.96
+    },
+    {
+      "word": "half,",
+      "start": 4.96,
+      "end": 5.38
+    },
+    {
+      "word": "and",
+      "start": 5.48,
+      "end": 5.92
+    },
+    {
+      "word": "then",
+      "start": 5.92,
+      "end": 5.96
+    },
+    {
+      "word": "to",
+      "start": 5.96,
+      "end": 6.18
+    },
+    {
+      "word": "flat",
+      "start": 6.18,
+      "end": 6.44
+    },
+    {
+      "word": "And",
+      "start": 6.9,
+      "end": 7.32
+    },
+    {
+      "word": "push,",
+      "start": 7.32,
+      "end": 7.5
+    },
+    {
+      "word": "pull",
+      "start": 7.72,
+      "end": 7.86
+    },
+    {
+      "word": "First",
+      "start": 8.72,
+      "end": 9.14
+    },
+    {
+      "word": "lap",
+      "start": 9.14,
+      "end": 9.38
+    },
+    {
+      "word": "racing,",
+      "start": 9.38,
+      "end": 9.68
+    },
+    {
+      "word": "and",
+      "start": 9.74,
+      "end": 9.86
+    },
+    {
+      "word": "then",
+      "start": 9.86,
+      "end": 10.02
+    },
+    {
+      "word": "to",
+      "start": 10.02,
+      "end": 10.22
+    },
+    {
+      "word": "the",
+      "start": 10.22,
+      "end": 10.32
+    },
+    {
+      "word": "left",
+      "start": 10.32,
+      "end": 11.16
+    },
+    {
+      "word": "And",
+      "start": 11.96,
+      "end": 12.38
+    },
+    {
+      "word": "then",
+      "start": 12.38,
+      "end": 12.42
+    },
+    {
+      "word": "last",
+      "start": 12.42,
+      "end": 12.62
+    },
+    {
+      "word": "corner",
+      "start": 12.62,
+      "end": 13.36
+    },
+    {
+      "word": "And",
+      "start": 14.78,
+      "end": 15.2
+    },
+    {
+      "word": "then",
+      "start": 15.2,
+      "end": 15.32
+    },
+    {
+      "word": "with",
+      "start": 15.32,
+      "end": 15.46
+    },
+    {
+      "word": "you",
+      "start": 15.46,
+      "end": 15.76
+    },
+    {
+      "word": "And",
+      "start": 16.31,
+      "end": 16.52
+    },
+    {
+      "word": "then",
+      "start": 16.52,
+      "end": 16.64
+    },
+    {
+      "word": "to",
+      "start": 16.64,
+      "end": 16.88
+    },
+    {
+      "word": "Yellow",
+      "start": 18.52,
+      "end": 18.94
+    },
+    {
+      "word": "flag",
+      "start": 18.94,
+      "end": 19.16
+    },
+    {
+      "word": "ahead",
+      "start": 19.16,
+      "end": 19.38
+    },
+    {
+      "word": "of",
+      "start": 19.38,
+      "end": 19.5
+    },
+    {
+      "word": "U",
+      "start": 19.5,
+      "end": 19.62
+    },
+    {
+      "word": "-turn",
+      "start": 19.62,
+      "end": 19.76
+    },
+    {
+      "word": "2",
+      "start": 19.76,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 40,
+  "is_empty": false,
+  "is_very_short": false
+}

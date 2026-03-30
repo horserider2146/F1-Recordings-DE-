@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_0034",
+  "text": "We can do build a push-cool-push if the first lap we have a big problem with tires. The plan is to push on lap 1, but if you have a big problem, we can abort and convert to build on single...",
+  "words": [
+    {
+      "word": "We",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "can",
+      "start": 0.12,
+      "end": 0.28
+    },
+    {
+      "word": "do",
+      "start": 0.28,
+      "end": 0.44
+    },
+    {
+      "word": "build",
+      "start": 0.44,
+      "end": 0.74
+    },
+    {
+      "word": "a",
+      "start": 0.74,
+      "end": 0.9
+    },
+    {
+      "word": "push",
+      "start": 0.9,
+      "end": 1.16
+    },
+    {
+      "word": "-cool",
+      "start": 1.16,
+      "end": 1.34
+    },
+    {
+      "word": "-push",
+      "start": 1.34,
+      "end": 1.72
+    },
+    {
+      "word": "if",
+      "start": 1.72,
+      "end": 2.2
+    },
+    {
+      "word": "the",
+      "start": 2.2,
+      "end": 2.34
+    },
+    {
+      "word": "first",
+      "start": 2.34,
+      "end": 2.58
+    },
+    {
+      "word": "lap",
+      "start": 2.58,
+      "end": 2.82
+    },
+    {
+      "word": "we",
+      "start": 2.82,
+      "end": 3.0
+    },
+    {
+      "word": "have",
+      "start": 3.0,
+      "end": 3.1
+    },
+    {
+      "word": "a",
+      "start": 3.1,
+      "end": 3.18
+    },
+    {
+      "word": "big",
+      "start": 3.18,
+      "end": 3.3
+    },
+    {
+      "word": "problem",
+      "start": 3.3,
+      "end": 3.58
+    },
+    {
+      "word": "with",
+      "start": 3.58,
+      "end": 3.72
+    },
+    {
+      "word": "tires.",
+      "start": 3.72,
+      "end": 3.94
+    },
+    {
+      "word": "The",
+      "start": 4.32,
+      "end": 4.44
+    },
+    {
+      "word": "plan",
+      "start": 4.44,
+      "end": 4.68
+    },
+    {
+      "word": "is",
+      "start": 4.68,
+      "end": 4.84
+    },
+    {
+      "word": "to",
+      "start": 4.84,
+      "end": 4.94
+    },
+    {
+      "word": "push",
+      "start": 4.94,
+      "end": 5.16
+    },
+    {
+      "word": "on",
+      "start": 5.16,
+      "end": 5.26
+    },
+    {
+      "word": "lap",
+      "start": 5.26,
+      "end": 5.42
+    },
+    {
+      "word": "1,",
+      "start": 5.42,
+      "end": 5.62
+    },
+    {
+      "word": "but",
+      "start": 6.14,
+      "end": 6.3
+    },
+    {
+      "word": "if",
+      "start": 6.3,
+      "end": 6.42
+    },
+    {
+      "word": "you",
+      "start": 6.42,
+      "end": 6.52
+    },
+    {
+      "word": "have",
+      "start": 6.52,
+      "end": 6.6
+    },
+    {
+      "word": "a",
+      "start": 6.6,
+      "end": 6.66
+    },
+    {
+      "word": "big",
+      "start": 6.66,
+      "end": 6.78
+    },
+    {
+      "word": "problem,",
+      "start": 6.78,
+      "end": 7.1
+    },
+    {
+      "word": "we",
+      "start": 7.22,
+      "end": 7.24
+    },
+    {
+      "word": "can",
+      "start": 7.24,
+      "end": 7.36
+    },
+    {
+      "word": "abort",
+      "start": 7.36,
+      "end": 7.66
+    },
+    {
+      "word": "and",
+      "start": 7.66,
+      "end": 7.82
+    },
+    {
+      "word": "convert",
+      "start": 7.82,
+      "end": 8.08
+    },
+    {
+      "word": "to",
+      "start": 8.08,
+      "end": 8.26
+    },
+    {
+      "word": "build",
+      "start": 8.26,
+      "end": 8.48
+    },
+    {
+      "word": "on",
+      "start": 8.48,
+      "end": 9.08
+    },
+    {
+      "word": "single...",
+      "start": 9.08,
+      "end": 9.42
+    }
+  ],
+  "language": "en",
+  "word_count": 41,
+  "is_empty": false,
+  "is_very_short": false
+}

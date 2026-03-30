@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0152",
+  "text": "I'm going to keep you up here.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 9.92,
+      "end": 11.32
+    },
+    {
+      "word": "going",
+      "start": 11.32,
+      "end": 12.72
+    },
+    {
+      "word": "to",
+      "start": 12.72,
+      "end": 12.86
+    },
+    {
+      "word": "keep",
+      "start": 12.86,
+      "end": 13.9
+    },
+    {
+      "word": "you",
+      "start": 13.9,
+      "end": 13.9
+    },
+    {
+      "word": "up",
+      "start": 13.9,
+      "end": 13.9
+    },
+    {
+      "word": "here.",
+      "start": 13.9,
+      "end": 14.44
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

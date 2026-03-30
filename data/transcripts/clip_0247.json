@@ -1,0 +1,145 @@
+{
+  "clip_id": "clip_0247",
+  "text": "Antonelli, same track and wind. Norris 6. Norris 6 will be mode push out of last corner. Norris 5. Norris. Norris 8. Russell out of the lap.",
+  "words": [
+    {
+      "word": "Antonelli,",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "word": "same",
+      "start": 0.76,
+      "end": 1.3
+    },
+    {
+      "word": "track",
+      "start": 1.3,
+      "end": 1.56
+    },
+    {
+      "word": "and",
+      "start": 1.56,
+      "end": 1.72
+    },
+    {
+      "word": "wind.",
+      "start": 1.72,
+      "end": 1.96
+    },
+    {
+      "word": "Norris",
+      "start": 2.7,
+      "end": 3.26
+    },
+    {
+      "word": "6.",
+      "start": 3.26,
+      "end": 3.66
+    },
+    {
+      "word": "Norris",
+      "start": 5.34,
+      "end": 6.14
+    },
+    {
+      "word": "6",
+      "start": 6.14,
+      "end": 6.58
+    },
+    {
+      "word": "will",
+      "start": 6.58,
+      "end": 7.4
+    },
+    {
+      "word": "be",
+      "start": 7.4,
+      "end": 7.58
+    },
+    {
+      "word": "mode",
+      "start": 7.58,
+      "end": 7.94
+    },
+    {
+      "word": "push",
+      "start": 7.94,
+      "end": 8.42
+    },
+    {
+      "word": "out",
+      "start": 8.42,
+      "end": 9.7
+    },
+    {
+      "word": "of",
+      "start": 9.7,
+      "end": 9.82
+    },
+    {
+      "word": "last",
+      "start": 9.82,
+      "end": 9.98
+    },
+    {
+      "word": "corner.",
+      "start": 9.98,
+      "end": 10.2
+    },
+    {
+      "word": "Norris",
+      "start": 10.5,
+      "end": 10.7
+    },
+    {
+      "word": "5.",
+      "start": 10.7,
+      "end": 11.14
+    },
+    {
+      "word": "Norris.",
+      "start": 12.58,
+      "end": 13.38
+    },
+    {
+      "word": "Norris",
+      "start": 14.74,
+      "end": 15.54
+    },
+    {
+      "word": "8.",
+      "start": 15.54,
+      "end": 15.92
+    },
+    {
+      "word": "Russell",
+      "start": 17.62,
+      "end": 18.38
+    },
+    {
+      "word": "out",
+      "start": 18.38,
+      "end": 18.62
+    },
+    {
+      "word": "of",
+      "start": 18.62,
+      "end": 18.84
+    },
+    {
+      "word": "the",
+      "start": 18.84,
+      "end": 18.98
+    },
+    {
+      "word": "lap.",
+      "start": 18.98,
+      "end": 19.02
+    }
+  ],
+  "language": "en",
+  "word_count": 27,
+  "is_empty": false,
+  "is_very_short": false
+}

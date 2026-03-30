@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_0352",
+  "text": "any chance we start here or will you? I will, yeah. Ok moving again. All clear behind. Got 17 ahead. So target plus 10. I cannot tip the ears. Stuck in fast.",
+  "words": [
+    {
+      "word": "any",
+      "start": 1.24,
+      "end": 1.88
+    },
+    {
+      "word": "chance",
+      "start": 1.88,
+      "end": 2.14
+    },
+    {
+      "word": "we",
+      "start": 2.14,
+      "end": 2.4
+    },
+    {
+      "word": "start",
+      "start": 2.4,
+      "end": 2.62
+    },
+    {
+      "word": "here",
+      "start": 2.62,
+      "end": 2.88
+    },
+    {
+      "word": "or",
+      "start": 2.88,
+      "end": 3.0
+    },
+    {
+      "word": "will",
+      "start": 3.0,
+      "end": 3.08
+    },
+    {
+      "word": "you?",
+      "start": 3.08,
+      "end": 3.18
+    },
+    {
+      "word": "I",
+      "start": 4.48,
+      "end": 5.12
+    },
+    {
+      "word": "will,",
+      "start": 5.12,
+      "end": 5.22
+    },
+    {
+      "word": "yeah.",
+      "start": 5.34,
+      "end": 5.46
+    },
+    {
+      "word": "Ok",
+      "start": 6.64,
+      "end": 7.28
+    },
+    {
+      "word": "moving",
+      "start": 7.28,
+      "end": 7.66
+    },
+    {
+      "word": "again.",
+      "start": 7.66,
+      "end": 7.98
+    },
+    {
+      "word": "All",
+      "start": 9.56,
+      "end": 10.2
+    },
+    {
+      "word": "clear",
+      "start": 10.2,
+      "end": 10.48
+    },
+    {
+      "word": "behind.",
+      "start": 10.48,
+      "end": 10.8
+    },
+    {
+      "word": "Got",
+      "start": 11.48,
+      "end": 11.86
+    },
+    {
+      "word": "17",
+      "start": 11.86,
+      "end": 12.46
+    },
+    {
+      "word": "ahead.",
+      "start": 12.46,
+      "end": 12.8
+    },
+    {
+      "word": "So",
+      "start": 13.92,
+      "end": 14.56
+    },
+    {
+      "word": "target",
+      "start": 14.56,
+      "end": 14.98
+    },
+    {
+      "word": "plus",
+      "start": 14.98,
+      "end": 15.24
+    },
+    {
+      "word": "10.",
+      "start": 15.24,
+      "end": 15.6
+    },
+    {
+      "word": "I",
+      "start": 15.86,
+      "end": 16.16
+    },
+    {
+      "word": "cannot",
+      "start": 16.16,
+      "end": 16.42
+    },
+    {
+      "word": "tip",
+      "start": 16.42,
+      "end": 16.72
+    },
+    {
+      "word": "the",
+      "start": 16.72,
+      "end": 17.0
+    },
+    {
+      "word": "ears.",
+      "start": 17.0,
+      "end": 17.28
+    },
+    {
+      "word": "Stuck",
+      "start": 18.4,
+      "end": 18.94
+    },
+    {
+      "word": "in",
+      "start": 18.94,
+      "end": 19.06
+    },
+    {
+      "word": "fast.",
+      "start": 19.06,
+      "end": 19.4
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

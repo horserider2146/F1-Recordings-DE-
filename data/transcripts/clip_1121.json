@@ -1,0 +1,150 @@
+{
+  "clip_id": "clip_1121",
+  "text": "on medium hard followed by Russell Hamilton, Leclerc, Berman, Gasly, Lawson, Ajar, Sainz, Palapin to P10, Holkenberg P11, Linblat, Potas, Ocon yourself, retired, Verstappen, Alonso Stroll, Piaz Trinoris.",
+  "words": [
+    {
+      "word": "on",
+      "start": 0.0,
+      "end": 0.62
+    },
+    {
+      "word": "medium",
+      "start": 0.62,
+      "end": 1.1
+    },
+    {
+      "word": "hard",
+      "start": 1.1,
+      "end": 1.7
+    },
+    {
+      "word": "followed",
+      "start": 1.7,
+      "end": 2.6
+    },
+    {
+      "word": "by",
+      "start": 2.6,
+      "end": 2.78
+    },
+    {
+      "word": "Russell",
+      "start": 2.78,
+      "end": 3.14
+    },
+    {
+      "word": "Hamilton,",
+      "start": 3.14,
+      "end": 3.72
+    },
+    {
+      "word": "Leclerc,",
+      "start": 4.02,
+      "end": 5.08
+    },
+    {
+      "word": "Berman,",
+      "start": 5.12,
+      "end": 5.44
+    },
+    {
+      "word": "Gasly,",
+      "start": 5.96,
+      "end": 6.4
+    },
+    {
+      "word": "Lawson,",
+      "start": 6.74,
+      "end": 7.2
+    },
+    {
+      "word": "Ajar,",
+      "start": 7.56,
+      "end": 8.1
+    },
+    {
+      "word": "Sainz,",
+      "start": 8.72,
+      "end": 9.26
+    },
+    {
+      "word": "Palapin",
+      "start": 9.54,
+      "end": 9.96
+    },
+    {
+      "word": "to",
+      "start": 9.96,
+      "end": 10.12
+    },
+    {
+      "word": "P10,",
+      "start": 10.12,
+      "end": 10.56
+    },
+    {
+      "word": "Holkenberg",
+      "start": 11.72,
+      "end": 12.24
+    },
+    {
+      "word": "P11,",
+      "start": 12.24,
+      "end": 12.68
+    },
+    {
+      "word": "Linblat,",
+      "start": 13.02,
+      "end": 13.5
+    },
+    {
+      "word": "Potas,",
+      "start": 13.76,
+      "end": 14.3
+    },
+    {
+      "word": "Ocon",
+      "start": 14.52,
+      "end": 14.8
+    },
+    {
+      "word": "yourself,",
+      "start": 14.8,
+      "end": 15.28
+    },
+    {
+      "word": "retired,",
+      "start": 15.96,
+      "end": 16.42
+    },
+    {
+      "word": "Verstappen,",
+      "start": 17.08,
+      "end": 17.62
+    },
+    {
+      "word": "Alonso",
+      "start": 17.84,
+      "end": 18.22
+    },
+    {
+      "word": "Stroll,",
+      "start": 18.22,
+      "end": 18.56
+    },
+    {
+      "word": "Piaz",
+      "start": 18.72,
+      "end": 18.92
+    },
+    {
+      "word": "Trinoris.",
+      "start": 18.92,
+      "end": 19.38
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

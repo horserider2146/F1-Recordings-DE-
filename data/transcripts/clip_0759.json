@@ -1,0 +1,260 @@
+{
+  "clip_id": "clip_0759",
+  "text": "pretty much yeah everyone else bit a hard and we think most of them will try to go till the end. We are still on plan A. Could be the end of this one. And safety car will be in this one. You can stay in mode SC for now.",
+  "words": [
+    {
+      "word": "pretty",
+      "start": 0.0,
+      "end": 0.96
+    },
+    {
+      "word": "much",
+      "start": 0.96,
+      "end": 1.2
+    },
+    {
+      "word": "yeah",
+      "start": 1.2,
+      "end": 1.4
+    },
+    {
+      "word": "everyone",
+      "start": 1.4,
+      "end": 1.7
+    },
+    {
+      "word": "else",
+      "start": 1.7,
+      "end": 2.02
+    },
+    {
+      "word": "bit",
+      "start": 2.02,
+      "end": 2.4
+    },
+    {
+      "word": "a",
+      "start": 2.4,
+      "end": 2.62
+    },
+    {
+      "word": "hard",
+      "start": 2.62,
+      "end": 2.82
+    },
+    {
+      "word": "and",
+      "start": 2.82,
+      "end": 3.1
+    },
+    {
+      "word": "we",
+      "start": 3.1,
+      "end": 3.22
+    },
+    {
+      "word": "think",
+      "start": 3.22,
+      "end": 3.44
+    },
+    {
+      "word": "most",
+      "start": 3.44,
+      "end": 3.98
+    },
+    {
+      "word": "of",
+      "start": 3.98,
+      "end": 4.16
+    },
+    {
+      "word": "them",
+      "start": 4.16,
+      "end": 4.32
+    },
+    {
+      "word": "will",
+      "start": 4.32,
+      "end": 4.46
+    },
+    {
+      "word": "try",
+      "start": 4.46,
+      "end": 4.72
+    },
+    {
+      "word": "to",
+      "start": 4.72,
+      "end": 4.88
+    },
+    {
+      "word": "go",
+      "start": 4.88,
+      "end": 5.14
+    },
+    {
+      "word": "till",
+      "start": 5.14,
+      "end": 5.42
+    },
+    {
+      "word": "the",
+      "start": 5.42,
+      "end": 5.56
+    },
+    {
+      "word": "end.",
+      "start": 5.56,
+      "end": 5.76
+    },
+    {
+      "word": "We",
+      "start": 6.96,
+      "end": 7.48
+    },
+    {
+      "word": "are",
+      "start": 7.48,
+      "end": 7.62
+    },
+    {
+      "word": "still",
+      "start": 7.62,
+      "end": 7.9
+    },
+    {
+      "word": "on",
+      "start": 7.9,
+      "end": 8.34
+    },
+    {
+      "word": "plan",
+      "start": 8.34,
+      "end": 8.68
+    },
+    {
+      "word": "A.",
+      "start": 8.68,
+      "end": 9.02
+    },
+    {
+      "word": "Could",
+      "start": 9.86,
+      "end": 10.38
+    },
+    {
+      "word": "be",
+      "start": 10.38,
+      "end": 10.72
+    },
+    {
+      "word": "the",
+      "start": 10.72,
+      "end": 11.1
+    },
+    {
+      "word": "end",
+      "start": 11.1,
+      "end": 11.28
+    },
+    {
+      "word": "of",
+      "start": 11.28,
+      "end": 11.42
+    },
+    {
+      "word": "this",
+      "start": 11.42,
+      "end": 11.6
+    },
+    {
+      "word": "one.",
+      "start": 11.6,
+      "end": 11.82
+    },
+    {
+      "word": "And",
+      "start": 14.98,
+      "end": 15.4
+    },
+    {
+      "word": "safety",
+      "start": 15.4,
+      "end": 15.68
+    },
+    {
+      "word": "car",
+      "start": 15.68,
+      "end": 16.02
+    },
+    {
+      "word": "will",
+      "start": 16.02,
+      "end": 16.16
+    },
+    {
+      "word": "be",
+      "start": 16.16,
+      "end": 16.3
+    },
+    {
+      "word": "in",
+      "start": 16.3,
+      "end": 16.46
+    },
+    {
+      "word": "this",
+      "start": 16.46,
+      "end": 16.6
+    },
+    {
+      "word": "one.",
+      "start": 16.6,
+      "end": 16.74
+    },
+    {
+      "word": "You",
+      "start": 17.62,
+      "end": 17.94
+    },
+    {
+      "word": "can",
+      "start": 17.94,
+      "end": 18.08
+    },
+    {
+      "word": "stay",
+      "start": 18.08,
+      "end": 18.34
+    },
+    {
+      "word": "in",
+      "start": 18.34,
+      "end": 18.52
+    },
+    {
+      "word": "mode",
+      "start": 18.52,
+      "end": 18.74
+    },
+    {
+      "word": "SC",
+      "start": 18.74,
+      "end": 19.16
+    },
+    {
+      "word": "for",
+      "start": 19.16,
+      "end": 19.52
+    },
+    {
+      "word": "now.",
+      "start": 19.52,
+      "end": 19.7
+    }
+  ],
+  "language": "en",
+  "word_count": 50,
+  "is_empty": false,
+  "is_very_short": false
+}

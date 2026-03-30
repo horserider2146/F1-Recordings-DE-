@@ -1,0 +1,230 @@
+{
+  "clip_id": "clip_1165",
+  "text": "Entry 3 available. Entry 3. Good job. Keep in touch with Alonzo. I'll try to think about that front left where we can. Got a little bit of under rotation. Turn 3 and turn 9. Got to Alonzo 0.9. Alonzo last lap 41.",
+  "words": [
+    {
+      "word": "Entry",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "3",
+      "start": 0.14,
+      "end": 0.52
+    },
+    {
+      "word": "available.",
+      "start": 0.52,
+      "end": 0.98
+    },
+    {
+      "word": "Entry",
+      "start": 1.38,
+      "end": 1.68
+    },
+    {
+      "word": "3.",
+      "start": 1.68,
+      "end": 2.04
+    },
+    {
+      "word": "Good",
+      "start": 4.34,
+      "end": 4.92
+    },
+    {
+      "word": "job.",
+      "start": 4.92,
+      "end": 5.36
+    },
+    {
+      "word": "Keep",
+      "start": 5.68,
+      "end": 5.78
+    },
+    {
+      "word": "in",
+      "start": 5.78,
+      "end": 5.96
+    },
+    {
+      "word": "touch",
+      "start": 5.96,
+      "end": 6.4
+    },
+    {
+      "word": "with",
+      "start": 6.4,
+      "end": 6.6
+    },
+    {
+      "word": "Alonzo.",
+      "start": 6.6,
+      "end": 7.0
+    },
+    {
+      "word": "I'll",
+      "start": 8.16,
+      "end": 8.7
+    },
+    {
+      "word": "try",
+      "start": 8.7,
+      "end": 8.86
+    },
+    {
+      "word": "to",
+      "start": 8.86,
+      "end": 8.98
+    },
+    {
+      "word": "think",
+      "start": 8.98,
+      "end": 9.14
+    },
+    {
+      "word": "about",
+      "start": 9.14,
+      "end": 9.38
+    },
+    {
+      "word": "that",
+      "start": 9.38,
+      "end": 9.54
+    },
+    {
+      "word": "front",
+      "start": 9.54,
+      "end": 9.82
+    },
+    {
+      "word": "left",
+      "start": 9.82,
+      "end": 10.12
+    },
+    {
+      "word": "where",
+      "start": 10.12,
+      "end": 10.44
+    },
+    {
+      "word": "we",
+      "start": 10.44,
+      "end": 10.64
+    },
+    {
+      "word": "can.",
+      "start": 10.64,
+      "end": 10.88
+    },
+    {
+      "word": "Got",
+      "start": 11.18,
+      "end": 11.2
+    },
+    {
+      "word": "a",
+      "start": 11.2,
+      "end": 11.3
+    },
+    {
+      "word": "little",
+      "start": 11.3,
+      "end": 11.38
+    },
+    {
+      "word": "bit",
+      "start": 11.38,
+      "end": 11.52
+    },
+    {
+      "word": "of",
+      "start": 11.52,
+      "end": 11.6
+    },
+    {
+      "word": "under",
+      "start": 11.6,
+      "end": 11.7
+    },
+    {
+      "word": "rotation.",
+      "start": 11.7,
+      "end": 12.12
+    },
+    {
+      "word": "Turn",
+      "start": 12.36,
+      "end": 12.6
+    },
+    {
+      "word": "3",
+      "start": 12.6,
+      "end": 12.96
+    },
+    {
+      "word": "and",
+      "start": 12.96,
+      "end": 13.16
+    },
+    {
+      "word": "turn",
+      "start": 13.16,
+      "end": 13.28
+    },
+    {
+      "word": "9.",
+      "start": 13.28,
+      "end": 13.74
+    },
+    {
+      "word": "Got",
+      "start": 15.04,
+      "end": 15.64
+    },
+    {
+      "word": "to",
+      "start": 15.64,
+      "end": 15.8
+    },
+    {
+      "word": "Alonzo",
+      "start": 15.8,
+      "end": 16.12
+    },
+    {
+      "word": "0",
+      "start": 16.12,
+      "end": 16.28
+    },
+    {
+      "word": ".9.",
+      "start": 16.28,
+      "end": 16.82
+    },
+    {
+      "word": "Alonzo",
+      "start": 18.16,
+      "end": 18.76
+    },
+    {
+      "word": "last",
+      "start": 18.76,
+      "end": 19.0
+    },
+    {
+      "word": "lap",
+      "start": 19.0,
+      "end": 19.22
+    },
+    {
+      "word": "41.",
+      "start": 19.22,
+      "end": 19.68
+    }
+  ],
+  "language": "en",
+  "word_count": 43,
+  "is_empty": false,
+  "is_very_short": false
+}

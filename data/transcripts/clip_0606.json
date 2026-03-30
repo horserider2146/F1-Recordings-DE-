@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0606",
+  "text": "Charles is to behind Mercedes 14 in front 410 faster than Charles, gap, lap car in front of you, solid blue Up it up 11 laps when you cross the line, 11 laps",
+  "words": [
+    {
+      "word": "Charles",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "word": "is",
+      "start": 0.56,
+      "end": 0.82
+    },
+    {
+      "word": "to",
+      "start": 0.82,
+      "end": 0.94
+    },
+    {
+      "word": "behind",
+      "start": 0.94,
+      "end": 1.34
+    },
+    {
+      "word": "Mercedes",
+      "start": 3.66,
+      "end": 4.22
+    },
+    {
+      "word": "14",
+      "start": 4.22,
+      "end": 4.78
+    },
+    {
+      "word": "in",
+      "start": 4.78,
+      "end": 5.26
+    },
+    {
+      "word": "front",
+      "start": 5.26,
+      "end": 5.62
+    },
+    {
+      "word": "410",
+      "start": 7.5,
+      "end": 8.06
+    },
+    {
+      "word": "faster",
+      "start": 8.06,
+      "end": 8.4
+    },
+    {
+      "word": "than",
+      "start": 8.4,
+      "end": 8.58
+    },
+    {
+      "word": "Charles,",
+      "start": 8.58,
+      "end": 8.88
+    },
+    {
+      "word": "gap,",
+      "start": 9.04,
+      "end": 9.32
+    },
+    {
+      "word": "lap",
+      "start": 9.72,
+      "end": 9.92
+    },
+    {
+      "word": "car",
+      "start": 9.92,
+      "end": 10.18
+    },
+    {
+      "word": "in",
+      "start": 10.18,
+      "end": 10.3
+    },
+    {
+      "word": "front",
+      "start": 10.3,
+      "end": 10.48
+    },
+    {
+      "word": "of",
+      "start": 10.48,
+      "end": 10.66
+    },
+    {
+      "word": "you,",
+      "start": 10.66,
+      "end": 10.88
+    },
+    {
+      "word": "solid",
+      "start": 11.0,
+      "end": 11.32
+    },
+    {
+      "word": "blue",
+      "start": 11.32,
+      "end": 11.88
+    },
+    {
+      "word": "Up",
+      "start": 13.26,
+      "end": 13.82
+    },
+    {
+      "word": "it",
+      "start": 13.82,
+      "end": 13.94
+    },
+    {
+      "word": "up",
+      "start": 13.94,
+      "end": 14.22
+    },
+    {
+      "word": "11",
+      "start": 15.68,
+      "end": 16.24
+    },
+    {
+      "word": "laps",
+      "start": 16.24,
+      "end": 16.76
+    },
+    {
+      "word": "when",
+      "start": 16.76,
+      "end": 17.24
+    },
+    {
+      "word": "you",
+      "start": 17.24,
+      "end": 17.38
+    },
+    {
+      "word": "cross",
+      "start": 17.38,
+      "end": 17.58
+    },
+    {
+      "word": "the",
+      "start": 17.58,
+      "end": 17.68
+    },
+    {
+      "word": "line,",
+      "start": 17.68,
+      "end": 17.88
+    },
+    {
+      "word": "11",
+      "start": 18.06,
+      "end": 18.78
+    },
+    {
+      "word": "laps",
+      "start": 18.78,
+      "end": 19.12
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

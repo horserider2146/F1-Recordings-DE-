@@ -1,0 +1,75 @@
+{
+  "clip_id": "clip_0028",
+  "text": "Yeah, it's the same for everyone. We have telemetry on the radio hall.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "it's",
+      "start": 0.26,
+      "end": 0.4
+    },
+    {
+      "word": "the",
+      "start": 0.4,
+      "end": 0.4
+    },
+    {
+      "word": "same",
+      "start": 0.4,
+      "end": 0.58
+    },
+    {
+      "word": "for",
+      "start": 0.58,
+      "end": 0.86
+    },
+    {
+      "word": "everyone.",
+      "start": 0.86,
+      "end": 1.28
+    },
+    {
+      "word": "We",
+      "start": 1.58,
+      "end": 1.64
+    },
+    {
+      "word": "have",
+      "start": 1.64,
+      "end": 1.76
+    },
+    {
+      "word": "telemetry",
+      "start": 1.76,
+      "end": 2.3
+    },
+    {
+      "word": "on",
+      "start": 2.3,
+      "end": 2.58
+    },
+    {
+      "word": "the",
+      "start": 2.58,
+      "end": 2.7
+    },
+    {
+      "word": "radio",
+      "start": 2.7,
+      "end": 2.86
+    },
+    {
+      "word": "hall.",
+      "start": 2.86,
+      "end": 3.02
+    }
+  ],
+  "language": "en",
+  "word_count": 13,
+  "is_empty": false,
+  "is_very_short": false
+}

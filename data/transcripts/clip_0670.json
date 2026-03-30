@@ -1,0 +1,270 @@
+{
+  "clip_id": "clip_0670",
+  "text": "Isaac 1.3 Just give me a hand for that overtake one That was a good lap Liam No one has overtake for now We have every turn 2-3 Liam race update We are P9 in front of us Fulkenberg still needs to pit Overtake is now active for us Gustave",
+  "words": [
+    {
+      "word": "Isaac",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "1",
+      "start": 0.3,
+      "end": 0.78
+    },
+    {
+      "word": ".3",
+      "start": 0.78,
+      "end": 1.26
+    },
+    {
+      "word": "Just",
+      "start": 1.9,
+      "end": 2.38
+    },
+    {
+      "word": "give",
+      "start": 2.38,
+      "end": 2.54
+    },
+    {
+      "word": "me",
+      "start": 2.54,
+      "end": 2.64
+    },
+    {
+      "word": "a",
+      "start": 2.64,
+      "end": 2.72
+    },
+    {
+      "word": "hand",
+      "start": 2.72,
+      "end": 2.94
+    },
+    {
+      "word": "for",
+      "start": 2.94,
+      "end": 3.14
+    },
+    {
+      "word": "that",
+      "start": 3.14,
+      "end": 3.24
+    },
+    {
+      "word": "overtake",
+      "start": 3.24,
+      "end": 3.98
+    },
+    {
+      "word": "one",
+      "start": 3.98,
+      "end": 4.18
+    },
+    {
+      "word": "That",
+      "start": 4.78,
+      "end": 5.26
+    },
+    {
+      "word": "was",
+      "start": 5.26,
+      "end": 5.38
+    },
+    {
+      "word": "a",
+      "start": 5.38,
+      "end": 5.48
+    },
+    {
+      "word": "good",
+      "start": 5.48,
+      "end": 5.6
+    },
+    {
+      "word": "lap",
+      "start": 5.6,
+      "end": 5.78
+    },
+    {
+      "word": "Liam",
+      "start": 5.78,
+      "end": 5.94
+    },
+    {
+      "word": "No",
+      "start": 5.94,
+      "end": 6.36
+    },
+    {
+      "word": "one",
+      "start": 6.36,
+      "end": 6.54
+    },
+    {
+      "word": "has",
+      "start": 6.54,
+      "end": 6.72
+    },
+    {
+      "word": "overtake",
+      "start": 6.72,
+      "end": 7.12
+    },
+    {
+      "word": "for",
+      "start": 7.12,
+      "end": 7.26
+    },
+    {
+      "word": "now",
+      "start": 7.26,
+      "end": 7.44
+    },
+    {
+      "word": "We",
+      "start": 8.0,
+      "end": 8.28
+    },
+    {
+      "word": "have",
+      "start": 8.28,
+      "end": 8.52
+    },
+    {
+      "word": "every",
+      "start": 8.52,
+      "end": 8.94
+    },
+    {
+      "word": "turn",
+      "start": 8.94,
+      "end": 9.24
+    },
+    {
+      "word": "2",
+      "start": 9.24,
+      "end": 9.52
+    },
+    {
+      "word": "-3",
+      "start": 9.52,
+      "end": 9.84
+    },
+    {
+      "word": "Liam",
+      "start": 10.78,
+      "end": 11.26
+    },
+    {
+      "word": "race",
+      "start": 11.26,
+      "end": 11.58
+    },
+    {
+      "word": "update",
+      "start": 11.58,
+      "end": 11.9
+    },
+    {
+      "word": "We",
+      "start": 11.9,
+      "end": 12.38
+    },
+    {
+      "word": "are",
+      "start": 12.38,
+      "end": 12.5
+    },
+    {
+      "word": "P9",
+      "start": 12.5,
+      "end": 12.94
+    },
+    {
+      "word": "in",
+      "start": 12.94,
+      "end": 13.28
+    },
+    {
+      "word": "front",
+      "start": 13.28,
+      "end": 13.48
+    },
+    {
+      "word": "of",
+      "start": 13.48,
+      "end": 13.6
+    },
+    {
+      "word": "us",
+      "start": 13.6,
+      "end": 13.74
+    },
+    {
+      "word": "Fulkenberg",
+      "start": 13.74,
+      "end": 14.2
+    },
+    {
+      "word": "still",
+      "start": 14.2,
+      "end": 14.5
+    },
+    {
+      "word": "needs",
+      "start": 14.5,
+      "end": 14.8
+    },
+    {
+      "word": "to",
+      "start": 14.8,
+      "end": 14.96
+    },
+    {
+      "word": "pit",
+      "start": 14.96,
+      "end": 15.2
+    },
+    {
+      "word": "Overtake",
+      "start": 16.44,
+      "end": 16.92
+    },
+    {
+      "word": "is",
+      "start": 16.92,
+      "end": 17.04
+    },
+    {
+      "word": "now",
+      "start": 17.04,
+      "end": 17.2
+    },
+    {
+      "word": "active",
+      "start": 17.2,
+      "end": 17.58
+    },
+    {
+      "word": "for",
+      "start": 17.58,
+      "end": 17.82
+    },
+    {
+      "word": "us",
+      "start": 17.82,
+      "end": 18.04
+    },
+    {
+      "word": "Gustave",
+      "start": 19.26,
+      "end": 19.74
+    }
+  ],
+  "language": "en",
+  "word_count": 50,
+  "is_empty": false,
+  "is_very_short": false
+}

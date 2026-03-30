@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0272",
+  "text": "good hamilton thirty six one hamilton thirty six three eight yeah i've got a lot of uh... full flux yeah ties are gone take care three laps to go two laps to go",
+  "words": [
+    {
+      "word": "good",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "hamilton",
+      "start": 1.64,
+      "end": 2.28
+    },
+    {
+      "word": "thirty",
+      "start": 2.28,
+      "end": 2.54
+    },
+    {
+      "word": "six",
+      "start": 2.54,
+      "end": 2.84
+    },
+    {
+      "word": "one",
+      "start": 2.84,
+      "end": 3.22
+    },
+    {
+      "word": "hamilton",
+      "start": 5.6,
+      "end": 6.24
+    },
+    {
+      "word": "thirty",
+      "start": 6.24,
+      "end": 6.62
+    },
+    {
+      "word": "six",
+      "start": 6.62,
+      "end": 6.94
+    },
+    {
+      "word": "three",
+      "start": 6.94,
+      "end": 7.26
+    },
+    {
+      "word": "eight",
+      "start": 7.26,
+      "end": 7.94
+    },
+    {
+      "word": "yeah",
+      "start": 8.88,
+      "end": 9.2
+    },
+    {
+      "word": "i've",
+      "start": 9.2,
+      "end": 9.44
+    },
+    {
+      "word": "got",
+      "start": 9.44,
+      "end": 9.6
+    },
+    {
+      "word": "a",
+      "start": 9.6,
+      "end": 9.78
+    },
+    {
+      "word": "lot",
+      "start": 9.78,
+      "end": 9.88
+    },
+    {
+      "word": "of",
+      "start": 9.88,
+      "end": 10.26
+    },
+    {
+      "word": "uh...",
+      "start": 10.26,
+      "end": 10.78
+    },
+    {
+      "word": "full",
+      "start": 10.78,
+      "end": 10.8
+    },
+    {
+      "word": "flux",
+      "start": 10.8,
+      "end": 11.18
+    },
+    {
+      "word": "yeah",
+      "start": 12.2,
+      "end": 12.52
+    },
+    {
+      "word": "ties",
+      "start": 12.52,
+      "end": 12.86
+    },
+    {
+      "word": "are",
+      "start": 12.86,
+      "end": 13.0
+    },
+    {
+      "word": "gone",
+      "start": 13.0,
+      "end": 13.22
+    },
+    {
+      "word": "take",
+      "start": 13.22,
+      "end": 13.5
+    },
+    {
+      "word": "care",
+      "start": 13.5,
+      "end": 13.82
+    },
+    {
+      "word": "three",
+      "start": 15.36,
+      "end": 15.68
+    },
+    {
+      "word": "laps",
+      "start": 15.68,
+      "end": 15.88
+    },
+    {
+      "word": "to",
+      "start": 15.88,
+      "end": 16.08
+    },
+    {
+      "word": "go",
+      "start": 16.08,
+      "end": 16.58
+    },
+    {
+      "word": "two",
+      "start": 17.54,
+      "end": 17.86
+    },
+    {
+      "word": "laps",
+      "start": 17.86,
+      "end": 18.04
+    },
+    {
+      "word": "to",
+      "start": 18.04,
+      "end": 18.24
+    },
+    {
+      "word": "go",
+      "start": 18.24,
+      "end": 18.44
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

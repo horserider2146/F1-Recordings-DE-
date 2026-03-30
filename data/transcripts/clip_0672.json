@@ -1,0 +1,310 @@
+{
+  "clip_id": "clip_0672",
+  "text": "the rear. What's the most important thing to do with the battery? What you do is good, you can press and hold every straight, every back straight. If you are not under threat, you can just leave the battery to do its thing. You're doing good here. Upshift to 8 here on this straight. Entry 6 to protect the front.",
+  "words": [
+    {
+      "word": "the",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "rear.",
+      "start": 0.2,
+      "end": 0.38
+    },
+    {
+      "word": "What's",
+      "start": 1.36,
+      "end": 1.8
+    },
+    {
+      "word": "the",
+      "start": 1.8,
+      "end": 1.92
+    },
+    {
+      "word": "most",
+      "start": 1.92,
+      "end": 2.06
+    },
+    {
+      "word": "important",
+      "start": 2.06,
+      "end": 2.32
+    },
+    {
+      "word": "thing",
+      "start": 2.32,
+      "end": 2.68
+    },
+    {
+      "word": "to",
+      "start": 2.68,
+      "end": 2.82
+    },
+    {
+      "word": "do",
+      "start": 2.82,
+      "end": 3.02
+    },
+    {
+      "word": "with",
+      "start": 3.02,
+      "end": 3.18
+    },
+    {
+      "word": "the",
+      "start": 3.18,
+      "end": 3.3
+    },
+    {
+      "word": "battery?",
+      "start": 3.3,
+      "end": 3.56
+    },
+    {
+      "word": "What",
+      "start": 4.58,
+      "end": 5.02
+    },
+    {
+      "word": "you",
+      "start": 5.02,
+      "end": 5.16
+    },
+    {
+      "word": "do",
+      "start": 5.16,
+      "end": 5.28
+    },
+    {
+      "word": "is",
+      "start": 5.28,
+      "end": 5.38
+    },
+    {
+      "word": "good,",
+      "start": 5.38,
+      "end": 5.56
+    },
+    {
+      "word": "you",
+      "start": 5.72,
+      "end": 5.76
+    },
+    {
+      "word": "can",
+      "start": 5.76,
+      "end": 5.9
+    },
+    {
+      "word": "press",
+      "start": 5.9,
+      "end": 6.18
+    },
+    {
+      "word": "and",
+      "start": 6.18,
+      "end": 6.3
+    },
+    {
+      "word": "hold",
+      "start": 6.3,
+      "end": 6.52
+    },
+    {
+      "word": "every",
+      "start": 6.52,
+      "end": 6.76
+    },
+    {
+      "word": "straight,",
+      "start": 6.76,
+      "end": 6.98
+    },
+    {
+      "word": "every",
+      "start": 7.2,
+      "end": 7.48
+    },
+    {
+      "word": "back",
+      "start": 7.48,
+      "end": 7.86
+    },
+    {
+      "word": "straight.",
+      "start": 7.86,
+      "end": 8.04
+    },
+    {
+      "word": "If",
+      "start": 8.92,
+      "end": 9.36
+    },
+    {
+      "word": "you",
+      "start": 9.36,
+      "end": 9.48
+    },
+    {
+      "word": "are",
+      "start": 9.48,
+      "end": 9.56
+    },
+    {
+      "word": "not",
+      "start": 9.56,
+      "end": 9.76
+    },
+    {
+      "word": "under",
+      "start": 9.76,
+      "end": 9.98
+    },
+    {
+      "word": "threat,",
+      "start": 9.98,
+      "end": 10.22
+    },
+    {
+      "word": "you",
+      "start": 10.64,
+      "end": 10.74
+    },
+    {
+      "word": "can",
+      "start": 10.74,
+      "end": 10.92
+    },
+    {
+      "word": "just",
+      "start": 10.92,
+      "end": 11.16
+    },
+    {
+      "word": "leave",
+      "start": 11.16,
+      "end": 11.7
+    },
+    {
+      "word": "the",
+      "start": 11.7,
+      "end": 11.88
+    },
+    {
+      "word": "battery",
+      "start": 11.88,
+      "end": 12.16
+    },
+    {
+      "word": "to",
+      "start": 12.16,
+      "end": 12.36
+    },
+    {
+      "word": "do",
+      "start": 12.36,
+      "end": 12.48
+    },
+    {
+      "word": "its",
+      "start": 12.48,
+      "end": 12.6
+    },
+    {
+      "word": "thing.",
+      "start": 12.6,
+      "end": 12.8
+    },
+    {
+      "word": "You're",
+      "start": 13.52,
+      "end": 13.84
+    },
+    {
+      "word": "doing",
+      "start": 13.84,
+      "end": 14.02
+    },
+    {
+      "word": "good",
+      "start": 14.02,
+      "end": 14.28
+    },
+    {
+      "word": "here.",
+      "start": 14.28,
+      "end": 14.5
+    },
+    {
+      "word": "Upshift",
+      "start": 15.44,
+      "end": 15.88
+    },
+    {
+      "word": "to",
+      "start": 15.88,
+      "end": 16.14
+    },
+    {
+      "word": "8",
+      "start": 16.14,
+      "end": 16.44
+    },
+    {
+      "word": "here",
+      "start": 16.44,
+      "end": 16.72
+    },
+    {
+      "word": "on",
+      "start": 16.72,
+      "end": 16.84
+    },
+    {
+      "word": "this",
+      "start": 16.84,
+      "end": 16.98
+    },
+    {
+      "word": "straight.",
+      "start": 16.98,
+      "end": 17.2
+    },
+    {
+      "word": "Entry",
+      "start": 18.42,
+      "end": 18.86
+    },
+    {
+      "word": "6",
+      "start": 18.86,
+      "end": 19.18
+    },
+    {
+      "word": "to",
+      "start": 19.18,
+      "end": 19.4
+    },
+    {
+      "word": "protect",
+      "start": 19.4,
+      "end": 19.64
+    },
+    {
+      "word": "the",
+      "start": 19.64,
+      "end": 19.82
+    },
+    {
+      "word": "front.",
+      "start": 19.82,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 60,
+  "is_empty": false,
+  "is_very_short": false
+}

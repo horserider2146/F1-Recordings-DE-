@@ -1,0 +1,125 @@
+{
+  "clip_id": "clip_0169",
+  "text": "Stay to screen. Watch out, at point four, the soldier. At point two, we lost our attack. We still have our attack point.",
+  "words": [
+    {
+      "word": "Stay",
+      "start": 0.0,
+      "end": 0.8
+    },
+    {
+      "word": "to",
+      "start": 0.8,
+      "end": 0.96
+    },
+    {
+      "word": "screen.",
+      "start": 0.96,
+      "end": 1.22
+    },
+    {
+      "word": "Watch",
+      "start": 4.3,
+      "end": 4.74
+    },
+    {
+      "word": "out,",
+      "start": 4.74,
+      "end": 4.86
+    },
+    {
+      "word": "at",
+      "start": 4.96,
+      "end": 5.04
+    },
+    {
+      "word": "point",
+      "start": 5.04,
+      "end": 5.2
+    },
+    {
+      "word": "four,",
+      "start": 5.2,
+      "end": 5.76
+    },
+    {
+      "word": "the",
+      "start": 6.08,
+      "end": 6.24
+    },
+    {
+      "word": "soldier.",
+      "start": 6.24,
+      "end": 6.44
+    },
+    {
+      "word": "At",
+      "start": 8.48,
+      "end": 9.1
+    },
+    {
+      "word": "point",
+      "start": 9.1,
+      "end": 9.5
+    },
+    {
+      "word": "two,",
+      "start": 9.5,
+      "end": 10.16
+    },
+    {
+      "word": "we",
+      "start": 11.06,
+      "end": 11.24
+    },
+    {
+      "word": "lost",
+      "start": 11.24,
+      "end": 11.62
+    },
+    {
+      "word": "our",
+      "start": 11.62,
+      "end": 11.8
+    },
+    {
+      "word": "attack.",
+      "start": 11.8,
+      "end": 12.12
+    },
+    {
+      "word": "We",
+      "start": 15.36,
+      "end": 15.98
+    },
+    {
+      "word": "still",
+      "start": 15.98,
+      "end": 16.6
+    },
+    {
+      "word": "have",
+      "start": 16.6,
+      "end": 16.9
+    },
+    {
+      "word": "our",
+      "start": 16.9,
+      "end": 17.04
+    },
+    {
+      "word": "attack",
+      "start": 17.04,
+      "end": 17.2
+    },
+    {
+      "word": "point.",
+      "start": 17.2,
+      "end": 17.38
+    }
+  ],
+  "language": "en",
+  "word_count": 23,
+  "is_empty": false,
+  "is_very_short": false
+}

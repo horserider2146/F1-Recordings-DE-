@@ -1,0 +1,140 @@
+{
+  "clip_id": "clip_0234",
+  "text": "Car pressure No, Me K1 K1 Russell 32.5 scrubbed Antonine DP 4.3295 We need to improve 10.8 entry 110 4.8.07 and",
+  "words": [
+    {
+      "word": "Car",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "pressure",
+      "start": 0.16,
+      "end": 0.44
+    },
+    {
+      "word": "No,",
+      "start": 1.54,
+      "end": 2.5
+    },
+    {
+      "word": "Me",
+      "start": 2.64,
+      "end": 2.66
+    },
+    {
+      "word": "K1",
+      "start": 2.66,
+      "end": 3.0
+    },
+    {
+      "word": "K1",
+      "start": 4.0,
+      "end": 4.86
+    },
+    {
+      "word": "Russell",
+      "start": 4.86,
+      "end": 5.28
+    },
+    {
+      "word": "32",
+      "start": 5.28,
+      "end": 5.86
+    },
+    {
+      "word": ".5",
+      "start": 5.86,
+      "end": 6.64
+    },
+    {
+      "word": "scrubbed",
+      "start": 6.64,
+      "end": 8.0
+    },
+    {
+      "word": "Antonine",
+      "start": 8.7,
+      "end": 9.36
+    },
+    {
+      "word": "DP",
+      "start": 9.36,
+      "end": 9.54
+    },
+    {
+      "word": "4",
+      "start": 9.54,
+      "end": 9.86
+    },
+    {
+      "word": ".3295",
+      "start": 9.86,
+      "end": 10.92
+    },
+    {
+      "word": "We",
+      "start": 11.92,
+      "end": 12.88
+    },
+    {
+      "word": "need",
+      "start": 12.88,
+      "end": 13.08
+    },
+    {
+      "word": "to",
+      "start": 13.08,
+      "end": 13.2
+    },
+    {
+      "word": "improve",
+      "start": 13.2,
+      "end": 13.62
+    },
+    {
+      "word": "10",
+      "start": 13.62,
+      "end": 14.0
+    },
+    {
+      "word": ".8",
+      "start": 14.0,
+      "end": 14.48
+    },
+    {
+      "word": "entry",
+      "start": 14.48,
+      "end": 15.52
+    },
+    {
+      "word": "110",
+      "start": 15.52,
+      "end": 16.46
+    },
+    {
+      "word": "4",
+      "start": 17.62,
+      "end": 18.58
+    },
+    {
+      "word": ".8",
+      "start": 18.58,
+      "end": 18.92
+    },
+    {
+      "word": ".07",
+      "start": 18.92,
+      "end": 19.42
+    },
+    {
+      "word": "and",
+      "start": 19.42,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

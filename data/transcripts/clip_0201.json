@@ -1,0 +1,285 @@
+{
+  "clip_id": "clip_0201",
+  "text": "You're using the drone for your quick break as it curves, highly as you can now, to make your feet fast. As it curves, good for the braking, okay? Highly as you can now, to the end, level to go. Okay, pull a bit of the left side. Pull a bit of the left side.",
+  "words": [
+    {
+      "word": "You're",
+      "start": 2.1,
+      "end": 2.46
+    },
+    {
+      "word": "using",
+      "start": 2.46,
+      "end": 2.76
+    },
+    {
+      "word": "the",
+      "start": 2.76,
+      "end": 2.94
+    },
+    {
+      "word": "drone",
+      "start": 2.94,
+      "end": 3.06
+    },
+    {
+      "word": "for",
+      "start": 3.06,
+      "end": 3.22
+    },
+    {
+      "word": "your",
+      "start": 3.22,
+      "end": 3.32
+    },
+    {
+      "word": "quick",
+      "start": 3.32,
+      "end": 3.62
+    },
+    {
+      "word": "break",
+      "start": 3.62,
+      "end": 3.9
+    },
+    {
+      "word": "as",
+      "start": 3.9,
+      "end": 4.1
+    },
+    {
+      "word": "it",
+      "start": 4.1,
+      "end": 4.18
+    },
+    {
+      "word": "curves,",
+      "start": 4.18,
+      "end": 4.44
+    },
+    {
+      "word": "highly",
+      "start": 4.56,
+      "end": 5.0
+    },
+    {
+      "word": "as",
+      "start": 5.0,
+      "end": 5.24
+    },
+    {
+      "word": "you",
+      "start": 5.24,
+      "end": 5.36
+    },
+    {
+      "word": "can",
+      "start": 5.36,
+      "end": 5.5
+    },
+    {
+      "word": "now,",
+      "start": 5.5,
+      "end": 5.76
+    },
+    {
+      "word": "to",
+      "start": 5.94,
+      "end": 6.18
+    },
+    {
+      "word": "make",
+      "start": 6.18,
+      "end": 6.36
+    },
+    {
+      "word": "your",
+      "start": 6.36,
+      "end": 6.5
+    },
+    {
+      "word": "feet",
+      "start": 6.5,
+      "end": 6.64
+    },
+    {
+      "word": "fast.",
+      "start": 6.64,
+      "end": 6.9
+    },
+    {
+      "word": "As",
+      "start": 7.76,
+      "end": 8.12
+    },
+    {
+      "word": "it",
+      "start": 8.12,
+      "end": 8.24
+    },
+    {
+      "word": "curves,",
+      "start": 8.24,
+      "end": 8.44
+    },
+    {
+      "word": "good",
+      "start": 8.58,
+      "end": 8.66
+    },
+    {
+      "word": "for",
+      "start": 8.66,
+      "end": 8.86
+    },
+    {
+      "word": "the",
+      "start": 8.86,
+      "end": 9.0
+    },
+    {
+      "word": "braking,",
+      "start": 9.0,
+      "end": 9.42
+    },
+    {
+      "word": "okay?",
+      "start": 9.58,
+      "end": 9.8
+    },
+    {
+      "word": "Highly",
+      "start": 11.36,
+      "end": 11.7
+    },
+    {
+      "word": "as",
+      "start": 11.7,
+      "end": 11.84
+    },
+    {
+      "word": "you",
+      "start": 11.84,
+      "end": 11.92
+    },
+    {
+      "word": "can",
+      "start": 11.92,
+      "end": 12.08
+    },
+    {
+      "word": "now,",
+      "start": 12.08,
+      "end": 12.22
+    },
+    {
+      "word": "to",
+      "start": 12.4,
+      "end": 12.5
+    },
+    {
+      "word": "the",
+      "start": 12.5,
+      "end": 12.62
+    },
+    {
+      "word": "end,",
+      "start": 12.62,
+      "end": 12.76
+    },
+    {
+      "word": "level",
+      "start": 13.12,
+      "end": 13.3
+    },
+    {
+      "word": "to",
+      "start": 13.3,
+      "end": 13.48
+    },
+    {
+      "word": "go.",
+      "start": 13.48,
+      "end": 13.72
+    },
+    {
+      "word": "Okay,",
+      "start": 15.12,
+      "end": 15.48
+    },
+    {
+      "word": "pull",
+      "start": 16.4,
+      "end": 16.58
+    },
+    {
+      "word": "a",
+      "start": 16.58,
+      "end": 16.66
+    },
+    {
+      "word": "bit",
+      "start": 16.66,
+      "end": 16.78
+    },
+    {
+      "word": "of",
+      "start": 16.78,
+      "end": 16.92
+    },
+    {
+      "word": "the",
+      "start": 16.92,
+      "end": 16.96
+    },
+    {
+      "word": "left",
+      "start": 16.96,
+      "end": 17.1
+    },
+    {
+      "word": "side.",
+      "start": 17.1,
+      "end": 17.26
+    },
+    {
+      "word": "Pull",
+      "start": 19.16,
+      "end": 19.52
+    },
+    {
+      "word": "a",
+      "start": 19.52,
+      "end": 19.68
+    },
+    {
+      "word": "bit",
+      "start": 19.68,
+      "end": 19.74
+    },
+    {
+      "word": "of",
+      "start": 19.74,
+      "end": 19.86
+    },
+    {
+      "word": "the",
+      "start": 19.86,
+      "end": 19.86
+    },
+    {
+      "word": "left",
+      "start": 19.86,
+      "end": 19.92
+    },
+    {
+      "word": "side.",
+      "start": 19.92,
+      "end": 19.92
+    }
+  ],
+  "language": "en",
+  "word_count": 55,
+  "is_empty": false,
+  "is_very_short": false
+}

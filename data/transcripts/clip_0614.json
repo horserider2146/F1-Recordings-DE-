@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_0614",
+  "text": "Gap behind, 3.8 Gap behind is 3.7, 3.7 And last lap, last lap 3.5 behind And well done Luis, sorry the race, cleared as much as we wanted, thank you",
+  "words": [
+    {
+      "word": "Gap",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "behind,",
+      "start": 0.32,
+      "end": 0.56
+    },
+    {
+      "word": "3",
+      "start": 0.94,
+      "end": 1.24
+    },
+    {
+      "word": ".8",
+      "start": 1.24,
+      "end": 1.66
+    },
+    {
+      "word": "Gap",
+      "start": 2.9,
+      "end": 3.54
+    },
+    {
+      "word": "behind",
+      "start": 3.54,
+      "end": 3.92
+    },
+    {
+      "word": "is",
+      "start": 3.92,
+      "end": 4.36
+    },
+    {
+      "word": "3",
+      "start": 4.36,
+      "end": 4.82
+    },
+    {
+      "word": ".7,",
+      "start": 4.82,
+      "end": 5.42
+    },
+    {
+      "word": "3",
+      "start": 5.54,
+      "end": 5.92
+    },
+    {
+      "word": ".7",
+      "start": 5.92,
+      "end": 6.56
+    },
+    {
+      "word": "And",
+      "start": 7.58,
+      "end": 8.22
+    },
+    {
+      "word": "last",
+      "start": 8.22,
+      "end": 8.46
+    },
+    {
+      "word": "lap,",
+      "start": 8.46,
+      "end": 8.7
+    },
+    {
+      "word": "last",
+      "start": 8.84,
+      "end": 9.16
+    },
+    {
+      "word": "lap",
+      "start": 9.16,
+      "end": 9.92
+    },
+    {
+      "word": "3",
+      "start": 11.12,
+      "end": 11.76
+    },
+    {
+      "word": ".5",
+      "start": 11.76,
+      "end": 12.14
+    },
+    {
+      "word": "behind",
+      "start": 12.14,
+      "end": 12.64
+    },
+    {
+      "word": "And",
+      "start": 13.54,
+      "end": 14.18
+    },
+    {
+      "word": "well",
+      "start": 14.18,
+      "end": 14.82
+    },
+    {
+      "word": "done",
+      "start": 14.82,
+      "end": 15.02
+    },
+    {
+      "word": "Luis,",
+      "start": 15.02,
+      "end": 15.28
+    },
+    {
+      "word": "sorry",
+      "start": 15.72,
+      "end": 16.2
+    },
+    {
+      "word": "the",
+      "start": 16.2,
+      "end": 16.38
+    },
+    {
+      "word": "race,",
+      "start": 16.38,
+      "end": 16.68
+    },
+    {
+      "word": "cleared",
+      "start": 16.94,
+      "end": 17.14
+    },
+    {
+      "word": "as",
+      "start": 17.14,
+      "end": 17.34
+    },
+    {
+      "word": "much",
+      "start": 17.34,
+      "end": 17.56
+    },
+    {
+      "word": "as",
+      "start": 17.56,
+      "end": 18.06
+    },
+    {
+      "word": "we",
+      "start": 18.06,
+      "end": 18.2
+    },
+    {
+      "word": "wanted,",
+      "start": 18.2,
+      "end": 18.52
+    },
+    {
+      "word": "thank",
+      "start": 18.8,
+      "end": 19.1
+    },
+    {
+      "word": "you",
+      "start": 19.1,
+      "end": 19.3
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

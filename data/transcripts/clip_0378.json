@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_0378",
+  "text": "1.9 1.2 2.7 1.2 1.2 2.7 2.7 1.2",
+  "words": [
+    {
+      "word": "1",
+      "start": 2.68,
+      "end": 3.96
+    },
+    {
+      "word": ".9",
+      "start": 3.96,
+      "end": 4.22
+    },
+    {
+      "word": "1",
+      "start": 5.86,
+      "end": 7.14
+    },
+    {
+      "word": ".2",
+      "start": 7.14,
+      "end": 7.78
+    },
+    {
+      "word": "2",
+      "start": 7.78,
+      "end": 8.16
+    },
+    {
+      "word": ".7",
+      "start": 8.16,
+      "end": 11.98
+    },
+    {
+      "word": "1",
+      "start": 11.98,
+      "end": 12.06
+    },
+    {
+      "word": ".2",
+      "start": 12.06,
+      "end": 12.62
+    },
+    {
+      "word": "1",
+      "start": 12.62,
+      "end": 14.64
+    },
+    {
+      "word": ".2",
+      "start": 14.64,
+      "end": 15.3
+    },
+    {
+      "word": "2",
+      "start": 15.3,
+      "end": 15.5
+    },
+    {
+      "word": ".7",
+      "start": 15.5,
+      "end": 19.74
+    },
+    {
+      "word": "2",
+      "start": 19.74,
+      "end": 19.74
+    },
+    {
+      "word": ".7",
+      "start": 19.74,
+      "end": 19.82
+    },
+    {
+      "word": "1",
+      "start": 19.82,
+      "end": 19.84
+    },
+    {
+      "word": ".2",
+      "start": 19.84,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 8,
+  "is_empty": false,
+  "is_very_short": false
+}

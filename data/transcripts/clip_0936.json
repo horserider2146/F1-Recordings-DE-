@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_0936",
+  "text": "Our throttle, strat 2, and good to go. Remember lift into 11, 30 meters. Last lap, let's push. Strat 14, please. Strat 14, and stay just negative on the Delta. Keep the six at the moment, just rustle to set a time.",
+  "words": [
+    {
+      "word": "Our",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "throttle,",
+      "start": 0.1,
+      "end": 0.4
+    },
+    {
+      "word": "strat",
+      "start": 0.6,
+      "end": 0.74
+    },
+    {
+      "word": "2,",
+      "start": 0.74,
+      "end": 1.14
+    },
+    {
+      "word": "and",
+      "start": 1.28,
+      "end": 1.52
+    },
+    {
+      "word": "good",
+      "start": 1.52,
+      "end": 1.82
+    },
+    {
+      "word": "to",
+      "start": 1.82,
+      "end": 2.02
+    },
+    {
+      "word": "go.",
+      "start": 2.02,
+      "end": 2.26
+    },
+    {
+      "word": "Remember",
+      "start": 3.38,
+      "end": 3.66
+    },
+    {
+      "word": "lift",
+      "start": 3.66,
+      "end": 3.98
+    },
+    {
+      "word": "into",
+      "start": 3.98,
+      "end": 4.24
+    },
+    {
+      "word": "11,",
+      "start": 4.24,
+      "end": 4.56
+    },
+    {
+      "word": "30",
+      "start": 5.0,
+      "end": 5.46
+    },
+    {
+      "word": "meters.",
+      "start": 5.46,
+      "end": 5.8
+    },
+    {
+      "word": "Last",
+      "start": 6.74,
+      "end": 7.1
+    },
+    {
+      "word": "lap,",
+      "start": 7.1,
+      "end": 7.28
+    },
+    {
+      "word": "let's",
+      "start": 7.36,
+      "end": 7.44
+    },
+    {
+      "word": "push.",
+      "start": 7.44,
+      "end": 7.64
+    },
+    {
+      "word": "Strat",
+      "start": 9.42,
+      "end": 9.98
+    },
+    {
+      "word": "14,",
+      "start": 9.98,
+      "end": 10.54
+    },
+    {
+      "word": "please.",
+      "start": 10.7,
+      "end": 10.84
+    },
+    {
+      "word": "Strat",
+      "start": 11.14,
+      "end": 11.2
+    },
+    {
+      "word": "14,",
+      "start": 11.2,
+      "end": 11.86
+    },
+    {
+      "word": "and",
+      "start": 12.04,
+      "end": 12.14
+    },
+    {
+      "word": "stay",
+      "start": 12.14,
+      "end": 12.48
+    },
+    {
+      "word": "just",
+      "start": 12.48,
+      "end": 12.9
+    },
+    {
+      "word": "negative",
+      "start": 12.9,
+      "end": 13.32
+    },
+    {
+      "word": "on",
+      "start": 13.32,
+      "end": 13.62
+    },
+    {
+      "word": "the",
+      "start": 13.62,
+      "end": 13.72
+    },
+    {
+      "word": "Delta.",
+      "start": 13.72,
+      "end": 14.0
+    },
+    {
+      "word": "Keep",
+      "start": 14.46,
+      "end": 14.78
+    },
+    {
+      "word": "the",
+      "start": 14.78,
+      "end": 14.98
+    },
+    {
+      "word": "six",
+      "start": 14.98,
+      "end": 15.52
+    },
+    {
+      "word": "at",
+      "start": 15.52,
+      "end": 16.02
+    },
+    {
+      "word": "the",
+      "start": 16.02,
+      "end": 16.18
+    },
+    {
+      "word": "moment,",
+      "start": 16.18,
+      "end": 16.4
+    },
+    {
+      "word": "just",
+      "start": 16.6,
+      "end": 16.92
+    },
+    {
+      "word": "rustle",
+      "start": 16.92,
+      "end": 17.38
+    },
+    {
+      "word": "to",
+      "start": 17.38,
+      "end": 17.52
+    },
+    {
+      "word": "set",
+      "start": 17.52,
+      "end": 17.62
+    },
+    {
+      "word": "a",
+      "start": 17.62,
+      "end": 17.72
+    },
+    {
+      "word": "time.",
+      "start": 17.72,
+      "end": 17.96
+    }
+  ],
+  "language": "en",
+  "word_count": 42,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,130 @@
+{
+  "clip_id": "clip_0569",
+  "text": "Alpha second, Alpha second, second sector. And one tenth last step. And was in turn 16. One, two, three, four, five, six, seven, eight.",
+  "words": [
+    {
+      "word": "Alpha",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "second,",
+      "start": 0.32,
+      "end": 0.8
+    },
+    {
+      "word": "Alpha",
+      "start": 1.1,
+      "end": 1.4
+    },
+    {
+      "word": "second,",
+      "start": 1.4,
+      "end": 1.88
+    },
+    {
+      "word": "second",
+      "start": 2.0,
+      "end": 2.3
+    },
+    {
+      "word": "sector.",
+      "start": 2.3,
+      "end": 2.68
+    },
+    {
+      "word": "And",
+      "start": 4.0,
+      "end": 4.38
+    },
+    {
+      "word": "one",
+      "start": 4.38,
+      "end": 4.58
+    },
+    {
+      "word": "tenth",
+      "start": 4.58,
+      "end": 4.88
+    },
+    {
+      "word": "last",
+      "start": 4.88,
+      "end": 5.26
+    },
+    {
+      "word": "step.",
+      "start": 5.26,
+      "end": 5.58
+    },
+    {
+      "word": "And",
+      "start": 7.98,
+      "end": 8.44
+    },
+    {
+      "word": "was",
+      "start": 8.44,
+      "end": 8.64
+    },
+    {
+      "word": "in",
+      "start": 8.64,
+      "end": 8.82
+    },
+    {
+      "word": "turn",
+      "start": 8.82,
+      "end": 9.0
+    },
+    {
+      "word": "16.",
+      "start": 9.0,
+      "end": 9.32
+    },
+    {
+      "word": "One,",
+      "start": 10.48,
+      "end": 10.82
+    },
+    {
+      "word": "two,",
+      "start": 11.1,
+      "end": 11.48
+    },
+    {
+      "word": "three,",
+      "start": 12.04,
+      "end": 12.42
+    },
+    {
+      "word": "four,",
+      "start": 13.16,
+      "end": 13.44
+    },
+    {
+      "word": "five,",
+      "start": 13.92,
+      "end": 14.38
+    },
+    {
+      "word": "six,",
+      "start": 14.98,
+      "end": 15.24
+    },
+    {
+      "word": "seven,",
+      "start": 15.84,
+      "end": 16.36
+    },
+    {
+      "word": "eight.",
+      "start": 16.92,
+      "end": 17.32
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

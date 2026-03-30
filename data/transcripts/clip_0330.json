@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0330",
+  "text": "Up on the marks we can make the adjust still do another run. Box, box. Up on the marks and switch off. Switching off? Hey, permit me. We'll switch off, pull back in.",
+  "words": [
+    {
+      "word": "Up",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "word": "on",
+      "start": 0.08,
+      "end": 0.2
+    },
+    {
+      "word": "the",
+      "start": 0.2,
+      "end": 0.28
+    },
+    {
+      "word": "marks",
+      "start": 0.28,
+      "end": 0.66
+    },
+    {
+      "word": "we",
+      "start": 0.66,
+      "end": 1.14
+    },
+    {
+      "word": "can",
+      "start": 1.14,
+      "end": 1.3
+    },
+    {
+      "word": "make",
+      "start": 1.3,
+      "end": 1.42
+    },
+    {
+      "word": "the",
+      "start": 1.42,
+      "end": 1.58
+    },
+    {
+      "word": "adjust",
+      "start": 1.58,
+      "end": 1.84
+    },
+    {
+      "word": "still",
+      "start": 1.84,
+      "end": 3.02
+    },
+    {
+      "word": "do",
+      "start": 3.02,
+      "end": 3.22
+    },
+    {
+      "word": "another",
+      "start": 3.22,
+      "end": 3.4
+    },
+    {
+      "word": "run.",
+      "start": 3.4,
+      "end": 3.66
+    },
+    {
+      "word": "Box,",
+      "start": 5.64,
+      "end": 6.04
+    },
+    {
+      "word": "box.",
+      "start": 6.34,
+      "end": 6.58
+    },
+    {
+      "word": "Up",
+      "start": 7.2,
+      "end": 7.6
+    },
+    {
+      "word": "on",
+      "start": 7.6,
+      "end": 7.74
+    },
+    {
+      "word": "the",
+      "start": 7.74,
+      "end": 7.8
+    },
+    {
+      "word": "marks",
+      "start": 7.8,
+      "end": 8.08
+    },
+    {
+      "word": "and",
+      "start": 8.08,
+      "end": 8.24
+    },
+    {
+      "word": "switch",
+      "start": 8.24,
+      "end": 8.54
+    },
+    {
+      "word": "off.",
+      "start": 8.54,
+      "end": 8.74
+    },
+    {
+      "word": "Switching",
+      "start": 10.24,
+      "end": 10.64
+    },
+    {
+      "word": "off?",
+      "start": 10.64,
+      "end": 10.78
+    },
+    {
+      "word": "Hey,",
+      "start": 11.46,
+      "end": 11.7
+    },
+    {
+      "word": "permit",
+      "start": 11.74,
+      "end": 11.9
+    },
+    {
+      "word": "me.",
+      "start": 11.9,
+      "end": 12.26
+    },
+    {
+      "word": "We'll",
+      "start": 12.26,
+      "end": 12.4
+    },
+    {
+      "word": "switch",
+      "start": 12.4,
+      "end": 12.58
+    },
+    {
+      "word": "off,",
+      "start": 12.58,
+      "end": 12.82
+    },
+    {
+      "word": "pull",
+      "start": 12.88,
+      "end": 12.98
+    },
+    {
+      "word": "back",
+      "start": 12.98,
+      "end": 13.16
+    },
+    {
+      "word": "in.",
+      "start": 13.16,
+      "end": 13.28
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

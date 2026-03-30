@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_1185",
+  "text": "I'm sorry. Apologies, please repeat that last transmission. Tire sauce. Oh, good. I'm breathing. And Linblad ahead of us on 36 lap old hards still going strong. Alright, checker 1.6 behind.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "sorry.",
+      "start": 0.32,
+      "end": 0.32
+    },
+    {
+      "word": "Apologies,",
+      "start": 2.76,
+      "end": 3.28
+    },
+    {
+      "word": "please",
+      "start": 3.42,
+      "end": 3.6
+    },
+    {
+      "word": "repeat",
+      "start": 3.6,
+      "end": 4.0
+    },
+    {
+      "word": "that",
+      "start": 4.0,
+      "end": 4.18
+    },
+    {
+      "word": "last",
+      "start": 4.18,
+      "end": 4.4
+    },
+    {
+      "word": "transmission.",
+      "start": 4.4,
+      "end": 4.82
+    },
+    {
+      "word": "Tire",
+      "start": 5.5,
+      "end": 6.02
+    },
+    {
+      "word": "sauce.",
+      "start": 6.02,
+      "end": 6.24
+    },
+    {
+      "word": "Oh,",
+      "start": 6.58,
+      "end": 6.8
+    },
+    {
+      "word": "good.",
+      "start": 6.84,
+      "end": 6.98
+    },
+    {
+      "word": "I'm",
+      "start": 7.88,
+      "end": 8.1
+    },
+    {
+      "word": "breathing.",
+      "start": 8.1,
+      "end": 8.3
+    },
+    {
+      "word": "And",
+      "start": 12.08,
+      "end": 12.6
+    },
+    {
+      "word": "Linblad",
+      "start": 12.6,
+      "end": 13.12
+    },
+    {
+      "word": "ahead",
+      "start": 13.12,
+      "end": 13.32
+    },
+    {
+      "word": "of",
+      "start": 13.32,
+      "end": 13.44
+    },
+    {
+      "word": "us",
+      "start": 13.44,
+      "end": 13.64
+    },
+    {
+      "word": "on",
+      "start": 13.64,
+      "end": 13.84
+    },
+    {
+      "word": "36",
+      "start": 13.84,
+      "end": 14.4
+    },
+    {
+      "word": "lap",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "word": "old",
+      "start": 14.72,
+      "end": 14.94
+    },
+    {
+      "word": "hards",
+      "start": 14.94,
+      "end": 15.44
+    },
+    {
+      "word": "still",
+      "start": 15.44,
+      "end": 15.74
+    },
+    {
+      "word": "going",
+      "start": 15.74,
+      "end": 15.96
+    },
+    {
+      "word": "strong.",
+      "start": 15.96,
+      "end": 16.3
+    },
+    {
+      "word": "Alright,",
+      "start": 17.6,
+      "end": 18.12
+    },
+    {
+      "word": "checker",
+      "start": 18.26,
+      "end": 18.48
+    },
+    {
+      "word": "1",
+      "start": 18.48,
+      "end": 18.64
+    },
+    {
+      "word": ".6",
+      "start": 18.64,
+      "end": 19.1
+    },
+    {
+      "word": "behind.",
+      "start": 19.1,
+      "end": 19.46
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

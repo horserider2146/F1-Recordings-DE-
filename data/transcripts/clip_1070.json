@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_1070",
+  "text": "It's like strut 3, strut 3. And we want strut 3, you have changed the high speed. Here is strut 4, we want strut 3. I'm in strut 2 now. You see strut 3? And we see strut 3.",
+  "words": [
+    {
+      "word": "It's",
+      "start": 3.08,
+      "end": 3.6
+    },
+    {
+      "word": "like",
+      "start": 3.6,
+      "end": 3.68
+    },
+    {
+      "word": "strut",
+      "start": 3.68,
+      "end": 4.08
+    },
+    {
+      "word": "3,",
+      "start": 4.08,
+      "end": 4.36
+    },
+    {
+      "word": "strut",
+      "start": 4.5,
+      "end": 4.78
+    },
+    {
+      "word": "3.",
+      "start": 4.78,
+      "end": 5.04
+    },
+    {
+      "word": "And",
+      "start": 6.32,
+      "end": 6.84
+    },
+    {
+      "word": "we",
+      "start": 6.84,
+      "end": 6.94
+    },
+    {
+      "word": "want",
+      "start": 6.94,
+      "end": 7.02
+    },
+    {
+      "word": "strut",
+      "start": 7.02,
+      "end": 7.44
+    },
+    {
+      "word": "3,",
+      "start": 7.44,
+      "end": 7.74
+    },
+    {
+      "word": "you",
+      "start": 8.14,
+      "end": 8.44
+    },
+    {
+      "word": "have",
+      "start": 8.44,
+      "end": 8.54
+    },
+    {
+      "word": "changed",
+      "start": 8.54,
+      "end": 8.76
+    },
+    {
+      "word": "the",
+      "start": 8.76,
+      "end": 8.92
+    },
+    {
+      "word": "high",
+      "start": 8.92,
+      "end": 9.02
+    },
+    {
+      "word": "speed.",
+      "start": 9.02,
+      "end": 9.22
+    },
+    {
+      "word": "Here",
+      "start": 11.24,
+      "end": 11.76
+    },
+    {
+      "word": "is",
+      "start": 11.76,
+      "end": 11.86
+    },
+    {
+      "word": "strut",
+      "start": 11.86,
+      "end": 12.16
+    },
+    {
+      "word": "4,",
+      "start": 12.16,
+      "end": 12.42
+    },
+    {
+      "word": "we",
+      "start": 12.54,
+      "end": 12.62
+    },
+    {
+      "word": "want",
+      "start": 12.62,
+      "end": 12.78
+    },
+    {
+      "word": "strut",
+      "start": 12.78,
+      "end": 13.08
+    },
+    {
+      "word": "3.",
+      "start": 13.08,
+      "end": 13.38
+    },
+    {
+      "word": "I'm",
+      "start": 14.62,
+      "end": 14.92
+    },
+    {
+      "word": "in",
+      "start": 14.92,
+      "end": 15.0
+    },
+    {
+      "word": "strut",
+      "start": 15.0,
+      "end": 15.2
+    },
+    {
+      "word": "2",
+      "start": 15.2,
+      "end": 15.4
+    },
+    {
+      "word": "now.",
+      "start": 15.4,
+      "end": 15.62
+    },
+    {
+      "word": "You",
+      "start": 17.22,
+      "end": 17.52
+    },
+    {
+      "word": "see",
+      "start": 17.52,
+      "end": 17.7
+    },
+    {
+      "word": "strut",
+      "start": 17.7,
+      "end": 18.0
+    },
+    {
+      "word": "3?",
+      "start": 18.0,
+      "end": 18.22
+    },
+    {
+      "word": "And",
+      "start": 19.32,
+      "end": 19.72
+    },
+    {
+      "word": "we",
+      "start": 19.72,
+      "end": 19.9
+    },
+    {
+      "word": "see",
+      "start": 19.9,
+      "end": 19.98
+    },
+    {
+      "word": "strut",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "3.",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

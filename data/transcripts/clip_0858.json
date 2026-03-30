@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_0858",
+  "text": "Okay Ollie, we see a lot of rear locking end of brick and 14, suggest shape 2, shape 2 for the whole lap. Go, Steve! Max is stable at 27 to go. 26 to go. Good lap, Ollie, you were 3 tenths quicker than Max.",
+  "words": [
+    {
+      "word": "Okay",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "Ollie,",
+      "start": 0.44,
+      "end": 0.56
+    },
+    {
+      "word": "we",
+      "start": 0.72,
+      "end": 0.78
+    },
+    {
+      "word": "see",
+      "start": 0.78,
+      "end": 0.98
+    },
+    {
+      "word": "a",
+      "start": 0.98,
+      "end": 1.2
+    },
+    {
+      "word": "lot",
+      "start": 1.2,
+      "end": 1.3
+    },
+    {
+      "word": "of",
+      "start": 1.3,
+      "end": 1.42
+    },
+    {
+      "word": "rear",
+      "start": 1.42,
+      "end": 1.58
+    },
+    {
+      "word": "locking",
+      "start": 1.58,
+      "end": 1.92
+    },
+    {
+      "word": "end",
+      "start": 1.92,
+      "end": 2.28
+    },
+    {
+      "word": "of",
+      "start": 2.28,
+      "end": 2.4
+    },
+    {
+      "word": "brick",
+      "start": 2.4,
+      "end": 2.68
+    },
+    {
+      "word": "and",
+      "start": 2.68,
+      "end": 2.84
+    },
+    {
+      "word": "14,",
+      "start": 2.84,
+      "end": 3.28
+    },
+    {
+      "word": "suggest",
+      "start": 3.54,
+      "end": 3.76
+    },
+    {
+      "word": "shape",
+      "start": 3.76,
+      "end": 4.32
+    },
+    {
+      "word": "2,",
+      "start": 4.32,
+      "end": 4.58
+    },
+    {
+      "word": "shape",
+      "start": 4.72,
+      "end": 4.94
+    },
+    {
+      "word": "2",
+      "start": 4.94,
+      "end": 5.18
+    },
+    {
+      "word": "for",
+      "start": 5.18,
+      "end": 5.34
+    },
+    {
+      "word": "the",
+      "start": 5.34,
+      "end": 5.42
+    },
+    {
+      "word": "whole",
+      "start": 5.42,
+      "end": 5.56
+    },
+    {
+      "word": "lap.",
+      "start": 5.56,
+      "end": 5.76
+    },
+    {
+      "word": "Go,",
+      "start": 6.16,
+      "end": 6.5
+    },
+    {
+      "word": "Steve!",
+      "start": 6.6,
+      "end": 6.68
+    },
+    {
+      "word": "Max",
+      "start": 8.94,
+      "end": 9.38
+    },
+    {
+      "word": "is",
+      "start": 9.38,
+      "end": 9.74
+    },
+    {
+      "word": "stable",
+      "start": 9.74,
+      "end": 10.34
+    },
+    {
+      "word": "at",
+      "start": 10.34,
+      "end": 10.5
+    },
+    {
+      "word": "27",
+      "start": 10.5,
+      "end": 11.02
+    },
+    {
+      "word": "to",
+      "start": 11.02,
+      "end": 11.28
+    },
+    {
+      "word": "go.",
+      "start": 11.28,
+      "end": 11.52
+    },
+    {
+      "word": "26",
+      "start": 13.92,
+      "end": 14.36
+    },
+    {
+      "word": "to",
+      "start": 14.36,
+      "end": 14.58
+    },
+    {
+      "word": "go.",
+      "start": 14.58,
+      "end": 14.78
+    },
+    {
+      "word": "Good",
+      "start": 17.72,
+      "end": 18.16
+    },
+    {
+      "word": "lap,",
+      "start": 18.16,
+      "end": 18.34
+    },
+    {
+      "word": "Ollie,",
+      "start": 18.42,
+      "end": 18.58
+    },
+    {
+      "word": "you",
+      "start": 18.68,
+      "end": 18.76
+    },
+    {
+      "word": "were",
+      "start": 18.76,
+      "end": 18.82
+    },
+    {
+      "word": "3",
+      "start": 18.82,
+      "end": 19.18
+    },
+    {
+      "word": "tenths",
+      "start": 19.18,
+      "end": 19.52
+    },
+    {
+      "word": "quicker",
+      "start": 19.52,
+      "end": 19.64
+    },
+    {
+      "word": "than",
+      "start": 19.64,
+      "end": 19.84
+    },
+    {
+      "word": "Max.",
+      "start": 19.84,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

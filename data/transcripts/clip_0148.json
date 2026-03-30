@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_0148",
+  "text": "I think I can make it to the top but not for Okay, I need to get the wheel thing on the flap I need to get the flap please Oh, okay",
+  "words": [
+    {
+      "word": "I",
+      "start": 1.96,
+      "end": 2.28
+    },
+    {
+      "word": "think",
+      "start": 2.28,
+      "end": 2.48
+    },
+    {
+      "word": "I",
+      "start": 2.48,
+      "end": 2.62
+    },
+    {
+      "word": "can",
+      "start": 2.62,
+      "end": 2.74
+    },
+    {
+      "word": "make",
+      "start": 2.74,
+      "end": 2.9
+    },
+    {
+      "word": "it",
+      "start": 2.9,
+      "end": 3.08
+    },
+    {
+      "word": "to",
+      "start": 3.08,
+      "end": 3.16
+    },
+    {
+      "word": "the",
+      "start": 3.16,
+      "end": 3.3
+    },
+    {
+      "word": "top",
+      "start": 3.3,
+      "end": 3.42
+    },
+    {
+      "word": "but",
+      "start": 3.42,
+      "end": 3.96
+    },
+    {
+      "word": "not",
+      "start": 3.96,
+      "end": 4.2
+    },
+    {
+      "word": "for",
+      "start": 4.2,
+      "end": 4.36
+    },
+    {
+      "word": "Okay,",
+      "start": 6.3,
+      "end": 6.62
+    },
+    {
+      "word": "I",
+      "start": 6.66,
+      "end": 6.76
+    },
+    {
+      "word": "need",
+      "start": 6.76,
+      "end": 6.84
+    },
+    {
+      "word": "to",
+      "start": 6.84,
+      "end": 6.88
+    },
+    {
+      "word": "get",
+      "start": 6.88,
+      "end": 6.96
+    },
+    {
+      "word": "the",
+      "start": 6.96,
+      "end": 7.16
+    },
+    {
+      "word": "wheel",
+      "start": 7.16,
+      "end": 7.16
+    },
+    {
+      "word": "thing",
+      "start": 7.16,
+      "end": 7.44
+    },
+    {
+      "word": "on",
+      "start": 7.44,
+      "end": 7.56
+    },
+    {
+      "word": "the",
+      "start": 7.56,
+      "end": 7.64
+    },
+    {
+      "word": "flap",
+      "start": 7.64,
+      "end": 8.06
+    },
+    {
+      "word": "I",
+      "start": 10.92,
+      "end": 11.24
+    },
+    {
+      "word": "need",
+      "start": 11.24,
+      "end": 11.56
+    },
+    {
+      "word": "to",
+      "start": 11.56,
+      "end": 11.7
+    },
+    {
+      "word": "get",
+      "start": 11.7,
+      "end": 11.84
+    },
+    {
+      "word": "the",
+      "start": 11.84,
+      "end": 12.0
+    },
+    {
+      "word": "flap",
+      "start": 12.0,
+      "end": 12.14
+    },
+    {
+      "word": "please",
+      "start": 12.14,
+      "end": 13.1
+    },
+    {
+      "word": "Oh,",
+      "start": 15.52,
+      "end": 15.84
+    },
+    {
+      "word": "okay",
+      "start": 15.84,
+      "end": 16.16
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

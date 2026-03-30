@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0511",
+  "text": "Lensing end of this lap. I'll send nine behind. Box now, Lance, box now. I'll send four behind, pushing, finishing again. Box now. Waybridge, Lance, Waybridge. You can go back to P2 when you're ready.",
+  "words": [
+    {
+      "word": "Lensing",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "end",
+      "start": 0.18,
+      "end": 0.36
+    },
+    {
+      "word": "of",
+      "start": 0.36,
+      "end": 0.46
+    },
+    {
+      "word": "this",
+      "start": 0.46,
+      "end": 0.6
+    },
+    {
+      "word": "lap.",
+      "start": 0.6,
+      "end": 0.86
+    },
+    {
+      "word": "I'll",
+      "start": 1.46,
+      "end": 1.96
+    },
+    {
+      "word": "send",
+      "start": 1.96,
+      "end": 2.12
+    },
+    {
+      "word": "nine",
+      "start": 2.12,
+      "end": 2.64
+    },
+    {
+      "word": "behind.",
+      "start": 2.64,
+      "end": 2.98
+    },
+    {
+      "word": "Box",
+      "start": 4.16,
+      "end": 4.66
+    },
+    {
+      "word": "now,",
+      "start": 4.66,
+      "end": 5.0
+    },
+    {
+      "word": "Lance,",
+      "start": 5.18,
+      "end": 5.3
+    },
+    {
+      "word": "box",
+      "start": 5.54,
+      "end": 5.66
+    },
+    {
+      "word": "now.",
+      "start": 5.66,
+      "end": 6.08
+    },
+    {
+      "word": "I'll",
+      "start": 7.64,
+      "end": 8.14
+    },
+    {
+      "word": "send",
+      "start": 8.14,
+      "end": 8.44
+    },
+    {
+      "word": "four",
+      "start": 8.44,
+      "end": 8.78
+    },
+    {
+      "word": "behind,",
+      "start": 8.78,
+      "end": 9.2
+    },
+    {
+      "word": "pushing,",
+      "start": 9.34,
+      "end": 9.68
+    },
+    {
+      "word": "finishing",
+      "start": 9.92,
+      "end": 10.12
+    },
+    {
+      "word": "again.",
+      "start": 10.12,
+      "end": 10.42
+    },
+    {
+      "word": "Box",
+      "start": 11.02,
+      "end": 11.22
+    },
+    {
+      "word": "now.",
+      "start": 11.22,
+      "end": 11.48
+    },
+    {
+      "word": "Waybridge,",
+      "start": 13.18,
+      "end": 13.68
+    },
+    {
+      "word": "Lance,",
+      "start": 13.96,
+      "end": 14.16
+    },
+    {
+      "word": "Waybridge.",
+      "start": 14.36,
+      "end": 14.78
+    },
+    {
+      "word": "You",
+      "start": 16.56,
+      "end": 16.7
+    },
+    {
+      "word": "can",
+      "start": 16.7,
+      "end": 16.82
+    },
+    {
+      "word": "go",
+      "start": 16.82,
+      "end": 16.96
+    },
+    {
+      "word": "back",
+      "start": 16.96,
+      "end": 17.16
+    },
+    {
+      "word": "to",
+      "start": 17.16,
+      "end": 17.34
+    },
+    {
+      "word": "P2",
+      "start": 17.34,
+      "end": 17.72
+    },
+    {
+      "word": "when",
+      "start": 17.72,
+      "end": 17.94
+    },
+    {
+      "word": "you're",
+      "start": 17.94,
+      "end": 18.08
+    },
+    {
+      "word": "ready.",
+      "start": 18.08,
+      "end": 18.26
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

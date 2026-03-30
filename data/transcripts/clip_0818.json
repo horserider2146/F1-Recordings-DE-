@@ -1,0 +1,60 @@
+{
+  "clip_id": "clip_0818",
+  "text": "Yeah, I did want to risk Oli and get trouble",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "word": "I",
+      "start": 0.52,
+      "end": 0.58
+    },
+    {
+      "word": "did",
+      "start": 0.58,
+      "end": 0.64
+    },
+    {
+      "word": "want",
+      "start": 0.64,
+      "end": 0.8
+    },
+    {
+      "word": "to",
+      "start": 0.8,
+      "end": 0.88
+    },
+    {
+      "word": "risk",
+      "start": 0.88,
+      "end": 1.06
+    },
+    {
+      "word": "Oli",
+      "start": 1.06,
+      "end": 1.46
+    },
+    {
+      "word": "and",
+      "start": 1.46,
+      "end": 1.78
+    },
+    {
+      "word": "get",
+      "start": 1.78,
+      "end": 2.68
+    },
+    {
+      "word": "trouble",
+      "start": 2.68,
+      "end": 2.96
+    }
+  ],
+  "language": "en",
+  "word_count": 10,
+  "is_empty": false,
+  "is_very_short": false
+}

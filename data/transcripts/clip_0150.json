@@ -1,0 +1,245 @@
+{
+  "clip_id": "clip_0150",
+  "text": "Yellow flag can too. Then she's full stop, then 3. That's a 1.9 behind. Sector car, Sector car, so you go SC, go SC, work your front tires, front tires please. Yeah, I don't know what was the reason for that, it stopped when everyone in...",
+  "words": [
+    {
+      "word": "Yellow",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "word": "flag",
+      "start": 0.52,
+      "end": 0.76
+    },
+    {
+      "word": "can",
+      "start": 0.76,
+      "end": 1.0
+    },
+    {
+      "word": "too.",
+      "start": 1.0,
+      "end": 1.22
+    },
+    {
+      "word": "Then",
+      "start": 1.94,
+      "end": 2.42
+    },
+    {
+      "word": "she's",
+      "start": 2.42,
+      "end": 2.68
+    },
+    {
+      "word": "full",
+      "start": 2.68,
+      "end": 2.82
+    },
+    {
+      "word": "stop,",
+      "start": 2.82,
+      "end": 3.12
+    },
+    {
+      "word": "then",
+      "start": 3.26,
+      "end": 3.34
+    },
+    {
+      "word": "3.",
+      "start": 3.34,
+      "end": 3.58
+    },
+    {
+      "word": "That's",
+      "start": 5.6,
+      "end": 5.96
+    },
+    {
+      "word": "a",
+      "start": 5.96,
+      "end": 5.96
+    },
+    {
+      "word": "1",
+      "start": 5.96,
+      "end": 6.22
+    },
+    {
+      "word": ".9",
+      "start": 6.22,
+      "end": 6.6
+    },
+    {
+      "word": "behind.",
+      "start": 6.6,
+      "end": 6.82
+    },
+    {
+      "word": "Sector",
+      "start": 8.86,
+      "end": 9.34
+    },
+    {
+      "word": "car,",
+      "start": 9.34,
+      "end": 9.64
+    },
+    {
+      "word": "Sector",
+      "start": 9.96,
+      "end": 10.28
+    },
+    {
+      "word": "car,",
+      "start": 10.28,
+      "end": 10.54
+    },
+    {
+      "word": "so",
+      "start": 10.6,
+      "end": 10.7
+    },
+    {
+      "word": "you",
+      "start": 10.7,
+      "end": 10.84
+    },
+    {
+      "word": "go",
+      "start": 10.84,
+      "end": 11.08
+    },
+    {
+      "word": "SC,",
+      "start": 11.08,
+      "end": 11.52
+    },
+    {
+      "word": "go",
+      "start": 11.94,
+      "end": 12.1
+    },
+    {
+      "word": "SC,",
+      "start": 12.1,
+      "end": 12.42
+    },
+    {
+      "word": "work",
+      "start": 12.6,
+      "end": 12.78
+    },
+    {
+      "word": "your",
+      "start": 12.78,
+      "end": 12.98
+    },
+    {
+      "word": "front",
+      "start": 12.98,
+      "end": 13.22
+    },
+    {
+      "word": "tires,",
+      "start": 13.22,
+      "end": 13.58
+    },
+    {
+      "word": "front",
+      "start": 13.8,
+      "end": 13.96
+    },
+    {
+      "word": "tires",
+      "start": 13.96,
+      "end": 14.2
+    },
+    {
+      "word": "please.",
+      "start": 14.2,
+      "end": 14.46
+    },
+    {
+      "word": "Yeah,",
+      "start": 15.52,
+      "end": 16.0
+    },
+    {
+      "word": "I",
+      "start": 17.44,
+      "end": 17.44
+    },
+    {
+      "word": "don't",
+      "start": 17.44,
+      "end": 17.58
+    },
+    {
+      "word": "know",
+      "start": 17.58,
+      "end": 17.66
+    },
+    {
+      "word": "what",
+      "start": 17.66,
+      "end": 17.8
+    },
+    {
+      "word": "was",
+      "start": 17.8,
+      "end": 17.98
+    },
+    {
+      "word": "the",
+      "start": 17.98,
+      "end": 18.12
+    },
+    {
+      "word": "reason",
+      "start": 18.12,
+      "end": 18.28
+    },
+    {
+      "word": "for",
+      "start": 18.28,
+      "end": 18.6
+    },
+    {
+      "word": "that,",
+      "start": 18.6,
+      "end": 18.8
+    },
+    {
+      "word": "it",
+      "start": 18.96,
+      "end": 19.06
+    },
+    {
+      "word": "stopped",
+      "start": 19.06,
+      "end": 19.24
+    },
+    {
+      "word": "when",
+      "start": 19.24,
+      "end": 19.48
+    },
+    {
+      "word": "everyone",
+      "start": 19.48,
+      "end": 19.76
+    },
+    {
+      "word": "in...",
+      "start": 19.76,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 46,
+  "is_empty": false,
+  "is_very_short": false
+}

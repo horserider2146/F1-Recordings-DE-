@@ -1,0 +1,105 @@
+{
+  "clip_id": "clip_1021",
+  "text": "And now George Russell gets through past Hamilton so he's invited his time and he gets to the podium",
+  "words": [
+    {
+      "word": "And",
+      "start": 1.84,
+      "end": 2.64
+    },
+    {
+      "word": "now",
+      "start": 2.64,
+      "end": 3.04
+    },
+    {
+      "word": "George",
+      "start": 3.04,
+      "end": 3.72
+    },
+    {
+      "word": "Russell",
+      "start": 3.72,
+      "end": 4.26
+    },
+    {
+      "word": "gets",
+      "start": 4.26,
+      "end": 4.54
+    },
+    {
+      "word": "through",
+      "start": 4.54,
+      "end": 5.04
+    },
+    {
+      "word": "past",
+      "start": 5.04,
+      "end": 5.64
+    },
+    {
+      "word": "Hamilton",
+      "start": 5.64,
+      "end": 6.16
+    },
+    {
+      "word": "so",
+      "start": 6.16,
+      "end": 6.86
+    },
+    {
+      "word": "he's",
+      "start": 6.86,
+      "end": 7.12
+    },
+    {
+      "word": "invited",
+      "start": 7.12,
+      "end": 7.46
+    },
+    {
+      "word": "his",
+      "start": 7.46,
+      "end": 7.7
+    },
+    {
+      "word": "time",
+      "start": 7.7,
+      "end": 8.08
+    },
+    {
+      "word": "and",
+      "start": 8.08,
+      "end": 8.6
+    },
+    {
+      "word": "he",
+      "start": 8.6,
+      "end": 8.68
+    },
+    {
+      "word": "gets",
+      "start": 8.68,
+      "end": 8.96
+    },
+    {
+      "word": "to",
+      "start": 8.96,
+      "end": 9.16
+    },
+    {
+      "word": "the",
+      "start": 9.16,
+      "end": 9.26
+    },
+    {
+      "word": "podium",
+      "start": 9.26,
+      "end": 9.72
+    }
+  ],
+  "language": "en",
+  "word_count": 19,
+  "is_empty": false,
+  "is_very_short": false
+}

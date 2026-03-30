@@ -1,0 +1,50 @@
+{
+  "clip_id": "clip_0541",
+  "text": "Antony Lee is approaching the final corner now.",
+  "words": [
+    {
+      "word": "Antony",
+      "start": 0.0,
+      "end": 0.62
+    },
+    {
+      "word": "Lee",
+      "start": 0.62,
+      "end": 0.84
+    },
+    {
+      "word": "is",
+      "start": 0.84,
+      "end": 1.28
+    },
+    {
+      "word": "approaching",
+      "start": 1.28,
+      "end": 1.72
+    },
+    {
+      "word": "the",
+      "start": 1.72,
+      "end": 1.94
+    },
+    {
+      "word": "final",
+      "start": 1.94,
+      "end": 2.18
+    },
+    {
+      "word": "corner",
+      "start": 2.18,
+      "end": 2.52
+    },
+    {
+      "word": "now.",
+      "start": 2.52,
+      "end": 2.8
+    }
+  ],
+  "language": "en",
+  "word_count": 8,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,85 @@
+{
+  "clip_id": "clip_0351",
+  "text": "but I've got no battery so it's not gonna reach up. It's not gonna reach.",
+  "words": [
+    {
+      "word": "but",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "word": "I've",
+      "start": 0.08,
+      "end": 0.18
+    },
+    {
+      "word": "got",
+      "start": 0.18,
+      "end": 0.22
+    },
+    {
+      "word": "no",
+      "start": 0.22,
+      "end": 0.38
+    },
+    {
+      "word": "battery",
+      "start": 0.38,
+      "end": 0.7
+    },
+    {
+      "word": "so",
+      "start": 0.7,
+      "end": 0.98
+    },
+    {
+      "word": "it's",
+      "start": 0.98,
+      "end": 1.16
+    },
+    {
+      "word": "not",
+      "start": 1.16,
+      "end": 1.26
+    },
+    {
+      "word": "gonna",
+      "start": 1.26,
+      "end": 1.46
+    },
+    {
+      "word": "reach",
+      "start": 1.46,
+      "end": 1.78
+    },
+    {
+      "word": "up.",
+      "start": 1.78,
+      "end": 1.96
+    },
+    {
+      "word": "It's",
+      "start": 2.16,
+      "end": 2.22
+    },
+    {
+      "word": "not",
+      "start": 2.22,
+      "end": 2.32
+    },
+    {
+      "word": "gonna",
+      "start": 2.32,
+      "end": 2.44
+    },
+    {
+      "word": "reach.",
+      "start": 2.44,
+      "end": 2.6
+    }
+  ],
+  "language": "en",
+  "word_count": 15,
+  "is_empty": false,
+  "is_very_short": false
+}

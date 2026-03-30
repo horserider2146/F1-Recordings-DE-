@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_1080",
+  "text": "new tires. And box box box box. Yarn the right switches. Watch for double yellow, track is clear. Watch for double yellow here, look at your Delta. Keep watching your Delta.",
+  "words": [
+    {
+      "word": "new",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "tires.",
+      "start": 0.24,
+      "end": 0.66
+    },
+    {
+      "word": "And",
+      "start": 2.94,
+      "end": 3.5
+    },
+    {
+      "word": "box",
+      "start": 3.5,
+      "end": 5.06
+    },
+    {
+      "word": "box",
+      "start": 5.06,
+      "end": 5.44
+    },
+    {
+      "word": "box",
+      "start": 5.44,
+      "end": 5.74
+    },
+    {
+      "word": "box.",
+      "start": 5.74,
+      "end": 6.08
+    },
+    {
+      "word": "Yarn",
+      "start": 8.26,
+      "end": 8.82
+    },
+    {
+      "word": "the",
+      "start": 8.82,
+      "end": 8.94
+    },
+    {
+      "word": "right",
+      "start": 8.94,
+      "end": 9.02
+    },
+    {
+      "word": "switches.",
+      "start": 9.02,
+      "end": 9.4
+    },
+    {
+      "word": "Watch",
+      "start": 11.48,
+      "end": 12.04
+    },
+    {
+      "word": "for",
+      "start": 12.04,
+      "end": 12.3
+    },
+    {
+      "word": "double",
+      "start": 12.3,
+      "end": 12.5
+    },
+    {
+      "word": "yellow,",
+      "start": 12.5,
+      "end": 12.78
+    },
+    {
+      "word": "track",
+      "start": 12.96,
+      "end": 13.1
+    },
+    {
+      "word": "is",
+      "start": 13.1,
+      "end": 13.3
+    },
+    {
+      "word": "clear.",
+      "start": 13.3,
+      "end": 13.52
+    },
+    {
+      "word": "Watch",
+      "start": 14.32,
+      "end": 14.68
+    },
+    {
+      "word": "for",
+      "start": 14.68,
+      "end": 14.9
+    },
+    {
+      "word": "double",
+      "start": 14.9,
+      "end": 15.1
+    },
+    {
+      "word": "yellow",
+      "start": 15.1,
+      "end": 15.4
+    },
+    {
+      "word": "here,",
+      "start": 15.4,
+      "end": 15.66
+    },
+    {
+      "word": "look",
+      "start": 15.8,
+      "end": 15.92
+    },
+    {
+      "word": "at",
+      "start": 15.92,
+      "end": 16.08
+    },
+    {
+      "word": "your",
+      "start": 16.08,
+      "end": 16.2
+    },
+    {
+      "word": "Delta.",
+      "start": 16.2,
+      "end": 16.5
+    },
+    {
+      "word": "Keep",
+      "start": 18.64,
+      "end": 19.14
+    },
+    {
+      "word": "watching",
+      "start": 19.14,
+      "end": 19.5
+    },
+    {
+      "word": "your",
+      "start": 19.5,
+      "end": 19.7
+    },
+    {
+      "word": "Delta.",
+      "start": 19.7,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

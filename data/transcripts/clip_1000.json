@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_1000",
+  "text": "Turns on the racetrack. Safety car, safety car. Safety car window is closed. All in the top four. So they just had to. We've seen the medium tyres going away. It's lap 11, so...",
+  "words": [
+    {
+      "word": "Turns",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "on",
+      "start": 0.32,
+      "end": 0.5
+    },
+    {
+      "word": "the",
+      "start": 0.5,
+      "end": 0.6
+    },
+    {
+      "word": "racetrack.",
+      "start": 0.6,
+      "end": 1.22
+    },
+    {
+      "word": "Safety",
+      "start": 5.64,
+      "end": 6.12
+    },
+    {
+      "word": "car,",
+      "start": 6.12,
+      "end": 6.42
+    },
+    {
+      "word": "safety",
+      "start": 6.52,
+      "end": 6.74
+    },
+    {
+      "word": "car.",
+      "start": 6.74,
+      "end": 7.04
+    },
+    {
+      "word": "Safety",
+      "start": 7.24,
+      "end": 7.68
+    },
+    {
+      "word": "car",
+      "start": 7.68,
+      "end": 10.44
+    },
+    {
+      "word": "window",
+      "start": 10.44,
+      "end": 10.64
+    },
+    {
+      "word": "is",
+      "start": 10.64,
+      "end": 10.88
+    },
+    {
+      "word": "closed.",
+      "start": 10.88,
+      "end": 11.28
+    },
+    {
+      "word": "All",
+      "start": 14.4,
+      "end": 14.88
+    },
+    {
+      "word": "in",
+      "start": 14.88,
+      "end": 15.36
+    },
+    {
+      "word": "the",
+      "start": 15.36,
+      "end": 15.6
+    },
+    {
+      "word": "top",
+      "start": 15.6,
+      "end": 15.82
+    },
+    {
+      "word": "four.",
+      "start": 15.82,
+      "end": 16.2
+    },
+    {
+      "word": "So",
+      "start": 16.54,
+      "end": 16.58
+    },
+    {
+      "word": "they",
+      "start": 16.58,
+      "end": 16.76
+    },
+    {
+      "word": "just",
+      "start": 16.76,
+      "end": 16.94
+    },
+    {
+      "word": "had",
+      "start": 16.94,
+      "end": 17.18
+    },
+    {
+      "word": "to.",
+      "start": 17.18,
+      "end": 17.36
+    },
+    {
+      "word": "We've",
+      "start": 17.54,
+      "end": 17.54
+    },
+    {
+      "word": "seen",
+      "start": 17.54,
+      "end": 17.64
+    },
+    {
+      "word": "the",
+      "start": 17.64,
+      "end": 17.76
+    },
+    {
+      "word": "medium",
+      "start": 17.76,
+      "end": 18.0
+    },
+    {
+      "word": "tyres",
+      "start": 18.0,
+      "end": 18.26
+    },
+    {
+      "word": "going",
+      "start": 18.26,
+      "end": 18.56
+    },
+    {
+      "word": "away.",
+      "start": 18.56,
+      "end": 18.9
+    },
+    {
+      "word": "It's",
+      "start": 19.04,
+      "end": 19.06
+    },
+    {
+      "word": "lap",
+      "start": 19.06,
+      "end": 19.22
+    },
+    {
+      "word": "11,",
+      "start": 19.22,
+      "end": 19.6
+    },
+    {
+      "word": "so...",
+      "start": 19.8,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 34,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,70 @@
+{
+  "clip_id": "clip_0638",
+  "text": "I can't be very sorry for Peter. Happy to see you, sir.",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "can't",
+      "start": 0.16,
+      "end": 0.34
+    },
+    {
+      "word": "be",
+      "start": 0.34,
+      "end": 0.46
+    },
+    {
+      "word": "very",
+      "start": 0.46,
+      "end": 0.68
+    },
+    {
+      "word": "sorry",
+      "start": 0.68,
+      "end": 0.92
+    },
+    {
+      "word": "for",
+      "start": 0.92,
+      "end": 1.16
+    },
+    {
+      "word": "Peter.",
+      "start": 1.16,
+      "end": 1.36
+    },
+    {
+      "word": "Happy",
+      "start": 1.78,
+      "end": 2.04
+    },
+    {
+      "word": "to",
+      "start": 2.04,
+      "end": 2.22
+    },
+    {
+      "word": "see",
+      "start": 2.22,
+      "end": 2.42
+    },
+    {
+      "word": "you,",
+      "start": 2.42,
+      "end": 2.54
+    },
+    {
+      "word": "sir.",
+      "start": 2.56,
+      "end": 2.62
+    }
+  ],
+  "language": "en",
+  "word_count": 12,
+  "is_empty": false,
+  "is_very_short": false
+}

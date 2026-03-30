@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_1096",
+  "text": "But not a good idea, we'll just... we'll just mongrel it. B-Ball 7. Oh, well, we are. We got 30 laps remaining and Alonso is running 39.7 and the Bottas also 39.7.",
+  "words": [
+    {
+      "word": "But",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "not",
+      "start": 0.22,
+      "end": 0.4
+    },
+    {
+      "word": "a",
+      "start": 0.4,
+      "end": 0.5
+    },
+    {
+      "word": "good",
+      "start": 0.5,
+      "end": 0.62
+    },
+    {
+      "word": "idea,",
+      "start": 0.62,
+      "end": 0.9
+    },
+    {
+      "word": "we'll",
+      "start": 1.04,
+      "end": 1.28
+    },
+    {
+      "word": "just...",
+      "start": 1.28,
+      "end": 2.08
+    },
+    {
+      "word": "we'll",
+      "start": 2.08,
+      "end": 2.56
+    },
+    {
+      "word": "just",
+      "start": 2.56,
+      "end": 2.68
+    },
+    {
+      "word": "mongrel",
+      "start": 2.68,
+      "end": 2.98
+    },
+    {
+      "word": "it.",
+      "start": 2.98,
+      "end": 3.2
+    },
+    {
+      "word": "B",
+      "start": 4.98,
+      "end": 5.32
+    },
+    {
+      "word": "-Ball",
+      "start": 5.32,
+      "end": 5.54
+    },
+    {
+      "word": "7.",
+      "start": 5.54,
+      "end": 5.86
+    },
+    {
+      "word": "Oh,",
+      "start": 7.52,
+      "end": 7.8
+    },
+    {
+      "word": "well,",
+      "start": 7.86,
+      "end": 7.96
+    },
+    {
+      "word": "we",
+      "start": 8.02,
+      "end": 8.1
+    },
+    {
+      "word": "are.",
+      "start": 8.1,
+      "end": 8.26
+    },
+    {
+      "word": "We",
+      "start": 10.12,
+      "end": 10.68
+    },
+    {
+      "word": "got",
+      "start": 10.68,
+      "end": 10.98
+    },
+    {
+      "word": "30",
+      "start": 10.98,
+      "end": 11.96
+    },
+    {
+      "word": "laps",
+      "start": 11.96,
+      "end": 12.26
+    },
+    {
+      "word": "remaining",
+      "start": 12.26,
+      "end": 12.7
+    },
+    {
+      "word": "and",
+      "start": 12.7,
+      "end": 13.46
+    },
+    {
+      "word": "Alonso",
+      "start": 13.46,
+      "end": 14.82
+    },
+    {
+      "word": "is",
+      "start": 14.82,
+      "end": 14.94
+    },
+    {
+      "word": "running",
+      "start": 14.94,
+      "end": 15.18
+    },
+    {
+      "word": "39",
+      "start": 15.18,
+      "end": 15.64
+    },
+    {
+      "word": ".7",
+      "start": 15.64,
+      "end": 16.1
+    },
+    {
+      "word": "and",
+      "start": 16.1,
+      "end": 17.12
+    },
+    {
+      "word": "the",
+      "start": 17.12,
+      "end": 17.3
+    },
+    {
+      "word": "Bottas",
+      "start": 17.3,
+      "end": 17.58
+    },
+    {
+      "word": "also",
+      "start": 17.58,
+      "end": 17.74
+    },
+    {
+      "word": "39",
+      "start": 17.74,
+      "end": 18.1
+    },
+    {
+      "word": ".7.",
+      "start": 18.1,
+      "end": 18.5
+    }
+  ],
+  "language": "en",
+  "word_count": 32,
+  "is_empty": false,
+  "is_very_short": false
+}

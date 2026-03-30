@@ -1,0 +1,220 @@
+{
+  "clip_id": "clip_1161",
+  "text": "Let's go. One minute. 30 seconds. 10 seconds. Let's try and work the rear where we can. Alright, you're doing a good job. Let's try and cool the engine if you can. And formation lab, start feedback. We could try to drop.",
+  "words": [
+    {
+      "word": "Let's",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "word": "go.",
+      "start": 0.08,
+      "end": 0.1
+    },
+    {
+      "word": "One",
+      "start": 2.12,
+      "end": 2.56
+    },
+    {
+      "word": "minute.",
+      "start": 2.56,
+      "end": 2.88
+    },
+    {
+      "word": "30",
+      "start": 5.0,
+      "end": 5.4
+    },
+    {
+      "word": "seconds.",
+      "start": 5.4,
+      "end": 5.76
+    },
+    {
+      "word": "10",
+      "start": 7.64,
+      "end": 8.08
+    },
+    {
+      "word": "seconds.",
+      "start": 8.08,
+      "end": 8.52
+    },
+    {
+      "word": "Let's",
+      "start": 9.12,
+      "end": 9.5
+    },
+    {
+      "word": "try",
+      "start": 9.5,
+      "end": 9.68
+    },
+    {
+      "word": "and",
+      "start": 9.68,
+      "end": 9.78
+    },
+    {
+      "word": "work",
+      "start": 9.78,
+      "end": 9.98
+    },
+    {
+      "word": "the",
+      "start": 9.98,
+      "end": 10.32
+    },
+    {
+      "word": "rear",
+      "start": 10.32,
+      "end": 10.52
+    },
+    {
+      "word": "where",
+      "start": 10.52,
+      "end": 10.78
+    },
+    {
+      "word": "we",
+      "start": 10.78,
+      "end": 10.92
+    },
+    {
+      "word": "can.",
+      "start": 10.92,
+      "end": 11.1
+    },
+    {
+      "word": "Alright,",
+      "start": 12.0,
+      "end": 12.44
+    },
+    {
+      "word": "you're",
+      "start": 12.54,
+      "end": 12.58
+    },
+    {
+      "word": "doing",
+      "start": 12.58,
+      "end": 12.7
+    },
+    {
+      "word": "a",
+      "start": 12.7,
+      "end": 12.8
+    },
+    {
+      "word": "good",
+      "start": 12.8,
+      "end": 12.88
+    },
+    {
+      "word": "job.",
+      "start": 12.88,
+      "end": 13.12
+    },
+    {
+      "word": "Let's",
+      "start": 13.24,
+      "end": 13.3
+    },
+    {
+      "word": "try",
+      "start": 13.3,
+      "end": 13.46
+    },
+    {
+      "word": "and",
+      "start": 13.46,
+      "end": 13.56
+    },
+    {
+      "word": "cool",
+      "start": 13.56,
+      "end": 13.84
+    },
+    {
+      "word": "the",
+      "start": 13.84,
+      "end": 14.18
+    },
+    {
+      "word": "engine",
+      "start": 14.18,
+      "end": 14.32
+    },
+    {
+      "word": "if",
+      "start": 14.32,
+      "end": 14.56
+    },
+    {
+      "word": "you",
+      "start": 14.56,
+      "end": 14.66
+    },
+    {
+      "word": "can.",
+      "start": 14.66,
+      "end": 14.84
+    },
+    {
+      "word": "And",
+      "start": 16.52,
+      "end": 16.96
+    },
+    {
+      "word": "formation",
+      "start": 16.96,
+      "end": 17.36
+    },
+    {
+      "word": "lab,",
+      "start": 17.36,
+      "end": 17.58
+    },
+    {
+      "word": "start",
+      "start": 17.64,
+      "end": 17.82
+    },
+    {
+      "word": "feedback.",
+      "start": 17.82,
+      "end": 18.2
+    },
+    {
+      "word": "We",
+      "start": 18.7,
+      "end": 18.86
+    },
+    {
+      "word": "could",
+      "start": 18.86,
+      "end": 19.0
+    },
+    {
+      "word": "try",
+      "start": 19.0,
+      "end": 19.22
+    },
+    {
+      "word": "to",
+      "start": 19.22,
+      "end": 19.42
+    },
+    {
+      "word": "drop.",
+      "start": 19.42,
+      "end": 19.82
+    }
+  ],
+  "language": "en",
+  "word_count": 42,
+  "is_empty": false,
+  "is_very_short": false
+}

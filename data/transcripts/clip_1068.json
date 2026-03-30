@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_1068",
+  "text": "Yeah, that's good. Limiter on, please. Maximise the cooling of the car. Remember low RPM, low RPM. Okay, button off. Sergio, you were 4% overengaged on that start. 4% overengaged.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "that's",
+      "start": 0.2,
+      "end": 0.34
+    },
+    {
+      "word": "good.",
+      "start": 0.34,
+      "end": 0.52
+    },
+    {
+      "word": "Limiter",
+      "start": 2.16,
+      "end": 2.66
+    },
+    {
+      "word": "on,",
+      "start": 2.66,
+      "end": 2.82
+    },
+    {
+      "word": "please.",
+      "start": 2.94,
+      "end": 3.02
+    },
+    {
+      "word": "Maximise",
+      "start": 4.34,
+      "end": 4.84
+    },
+    {
+      "word": "the",
+      "start": 4.84,
+      "end": 5.0
+    },
+    {
+      "word": "cooling",
+      "start": 5.0,
+      "end": 5.24
+    },
+    {
+      "word": "of",
+      "start": 5.24,
+      "end": 5.44
+    },
+    {
+      "word": "the",
+      "start": 5.44,
+      "end": 5.54
+    },
+    {
+      "word": "car.",
+      "start": 5.54,
+      "end": 5.72
+    },
+    {
+      "word": "Remember",
+      "start": 6.84,
+      "end": 7.24
+    },
+    {
+      "word": "low",
+      "start": 7.24,
+      "end": 7.74
+    },
+    {
+      "word": "RPM,",
+      "start": 7.74,
+      "end": 8.34
+    },
+    {
+      "word": "low",
+      "start": 8.56,
+      "end": 8.62
+    },
+    {
+      "word": "RPM.",
+      "start": 8.62,
+      "end": 8.92
+    },
+    {
+      "word": "Okay,",
+      "start": 10.04,
+      "end": 10.34
+    },
+    {
+      "word": "button",
+      "start": 10.4,
+      "end": 10.54
+    },
+    {
+      "word": "off.",
+      "start": 10.54,
+      "end": 10.78
+    },
+    {
+      "word": "Sergio,",
+      "start": 12.88,
+      "end": 13.38
+    },
+    {
+      "word": "you",
+      "start": 13.64,
+      "end": 13.72
+    },
+    {
+      "word": "were",
+      "start": 13.72,
+      "end": 13.84
+    },
+    {
+      "word": "4",
+      "start": 13.84,
+      "end": 14.1
+    },
+    {
+      "word": "%",
+      "start": 14.1,
+      "end": 14.52
+    },
+    {
+      "word": "overengaged",
+      "start": 14.52,
+      "end": 15.48
+    },
+    {
+      "word": "on",
+      "start": 15.48,
+      "end": 15.76
+    },
+    {
+      "word": "that",
+      "start": 15.76,
+      "end": 15.94
+    },
+    {
+      "word": "start.",
+      "start": 15.94,
+      "end": 16.2
+    },
+    {
+      "word": "4",
+      "start": 16.76,
+      "end": 16.98
+    },
+    {
+      "word": "%",
+      "start": 16.98,
+      "end": 17.32
+    },
+    {
+      "word": "overengaged.",
+      "start": 17.32,
+      "end": 18.34
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,125 @@
+{
+  "clip_id": "clip_0641",
+  "text": "bit coping is, driving is going forward offset if you want, offset 0 and then we go offset minus 1 after 10.4.",
+  "words": [
+    {
+      "word": "bit",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "coping",
+      "start": 0.12,
+      "end": 0.38
+    },
+    {
+      "word": "is,",
+      "start": 0.38,
+      "end": 0.66
+    },
+    {
+      "word": "driving",
+      "start": 0.66,
+      "end": 0.86
+    },
+    {
+      "word": "is",
+      "start": 0.86,
+      "end": 1.12
+    },
+    {
+      "word": "going",
+      "start": 1.12,
+      "end": 1.38
+    },
+    {
+      "word": "forward",
+      "start": 1.38,
+      "end": 1.74
+    },
+    {
+      "word": "offset",
+      "start": 1.74,
+      "end": 2.08
+    },
+    {
+      "word": "if",
+      "start": 2.08,
+      "end": 2.32
+    },
+    {
+      "word": "you",
+      "start": 2.32,
+      "end": 2.42
+    },
+    {
+      "word": "want,",
+      "start": 2.42,
+      "end": 2.6
+    },
+    {
+      "word": "offset",
+      "start": 2.72,
+      "end": 2.96
+    },
+    {
+      "word": "0",
+      "start": 2.96,
+      "end": 3.3
+    },
+    {
+      "word": "and",
+      "start": 3.3,
+      "end": 3.52
+    },
+    {
+      "word": "then",
+      "start": 3.52,
+      "end": 3.66
+    },
+    {
+      "word": "we",
+      "start": 3.66,
+      "end": 3.76
+    },
+    {
+      "word": "go",
+      "start": 3.76,
+      "end": 3.92
+    },
+    {
+      "word": "offset",
+      "start": 3.92,
+      "end": 4.12
+    },
+    {
+      "word": "minus",
+      "start": 4.12,
+      "end": 4.8
+    },
+    {
+      "word": "1",
+      "start": 4.8,
+      "end": 5.1
+    },
+    {
+      "word": "after",
+      "start": 5.1,
+      "end": 5.3
+    },
+    {
+      "word": "10",
+      "start": 5.3,
+      "end": 5.52
+    },
+    {
+      "word": ".4.",
+      "start": 5.52,
+      "end": 5.72
+    }
+  ],
+  "language": "en",
+  "word_count": 22,
+  "is_empty": false,
+  "is_very_short": false
+}

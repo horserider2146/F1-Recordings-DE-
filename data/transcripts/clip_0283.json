@@ -1,0 +1,80 @@
+{
+  "clip_id": "clip_0283",
+  "text": "Thank you. And mode slow please. Fantastic job. Fantastic job guys. Really well done.",
+  "words": [
+    {
+      "word": "Thank",
+      "start": 0.0,
+      "end": 0.74
+    },
+    {
+      "word": "you.",
+      "start": 0.74,
+      "end": 1.12
+    },
+    {
+      "word": "And",
+      "start": 4.74,
+      "end": 5.5
+    },
+    {
+      "word": "mode",
+      "start": 5.5,
+      "end": 5.78
+    },
+    {
+      "word": "slow",
+      "start": 5.78,
+      "end": 6.02
+    },
+    {
+      "word": "please.",
+      "start": 6.02,
+      "end": 6.36
+    },
+    {
+      "word": "Fantastic",
+      "start": 12.22,
+      "end": 12.98
+    },
+    {
+      "word": "job.",
+      "start": 12.98,
+      "end": 13.32
+    },
+    {
+      "word": "Fantastic",
+      "start": 14.06,
+      "end": 14.82
+    },
+    {
+      "word": "job",
+      "start": 14.82,
+      "end": 15.12
+    },
+    {
+      "word": "guys.",
+      "start": 15.12,
+      "end": 15.32
+    },
+    {
+      "word": "Really",
+      "start": 15.7,
+      "end": 15.92
+    },
+    {
+      "word": "well",
+      "start": 15.92,
+      "end": 16.1
+    },
+    {
+      "word": "done.",
+      "start": 16.1,
+      "end": 16.3
+    }
+  ],
+  "language": "en",
+  "word_count": 14,
+  "is_empty": false,
+  "is_very_short": false
+}

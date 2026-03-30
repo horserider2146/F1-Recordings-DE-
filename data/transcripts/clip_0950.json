@@ -1,0 +1,310 @@
+{
+  "clip_id": "clip_0950",
+  "text": "car and VSC windows open, safety car and VSC windows open, box, box, box, box. Right, we're going half a turn down onto the hard tyre. Happy with that? Box, box, pick confirm, please. Box, box, pick confirm. Box, box, pick confirm. Box, box, box, box. OK, mate. Hard tyre, half a turn down. Keep in line, we balance, mate.",
+  "words": [
+    {
+      "word": "car",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "and",
+      "start": 0.2,
+      "end": 0.36
+    },
+    {
+      "word": "VSC",
+      "start": 0.36,
+      "end": 0.68
+    },
+    {
+      "word": "windows",
+      "start": 0.68,
+      "end": 0.98
+    },
+    {
+      "word": "open,",
+      "start": 0.98,
+      "end": 1.58
+    },
+    {
+      "word": "safety",
+      "start": 1.82,
+      "end": 2.02
+    },
+    {
+      "word": "car",
+      "start": 2.02,
+      "end": 2.4
+    },
+    {
+      "word": "and",
+      "start": 2.4,
+      "end": 2.6
+    },
+    {
+      "word": "VSC",
+      "start": 2.6,
+      "end": 2.9
+    },
+    {
+      "word": "windows",
+      "start": 2.9,
+      "end": 3.14
+    },
+    {
+      "word": "open,",
+      "start": 3.14,
+      "end": 3.66
+    },
+    {
+      "word": "box,",
+      "start": 3.9,
+      "end": 4.18
+    },
+    {
+      "word": "box,",
+      "start": 4.28,
+      "end": 4.44
+    },
+    {
+      "word": "box,",
+      "start": 4.58,
+      "end": 4.88
+    },
+    {
+      "word": "box.",
+      "start": 4.98,
+      "end": 5.12
+    },
+    {
+      "word": "Right,",
+      "start": 5.54,
+      "end": 5.94
+    },
+    {
+      "word": "we're",
+      "start": 6.02,
+      "end": 6.18
+    },
+    {
+      "word": "going",
+      "start": 6.18,
+      "end": 6.34
+    },
+    {
+      "word": "half",
+      "start": 6.34,
+      "end": 6.7
+    },
+    {
+      "word": "a",
+      "start": 6.7,
+      "end": 6.82
+    },
+    {
+      "word": "turn",
+      "start": 6.82,
+      "end": 6.98
+    },
+    {
+      "word": "down",
+      "start": 6.98,
+      "end": 7.26
+    },
+    {
+      "word": "onto",
+      "start": 7.26,
+      "end": 7.54
+    },
+    {
+      "word": "the",
+      "start": 7.54,
+      "end": 7.7
+    },
+    {
+      "word": "hard",
+      "start": 7.7,
+      "end": 7.96
+    },
+    {
+      "word": "tyre.",
+      "start": 7.96,
+      "end": 8.26
+    },
+    {
+      "word": "Happy",
+      "start": 8.46,
+      "end": 8.58
+    },
+    {
+      "word": "with",
+      "start": 8.58,
+      "end": 8.74
+    },
+    {
+      "word": "that?",
+      "start": 8.74,
+      "end": 8.84
+    },
+    {
+      "word": "Box,",
+      "start": 9.54,
+      "end": 9.88
+    },
+    {
+      "word": "box,",
+      "start": 9.96,
+      "end": 10.14
+    },
+    {
+      "word": "pick",
+      "start": 10.28,
+      "end": 10.4
+    },
+    {
+      "word": "confirm,",
+      "start": 10.4,
+      "end": 10.64
+    },
+    {
+      "word": "please.",
+      "start": 10.88,
+      "end": 10.96
+    },
+    {
+      "word": "Box,",
+      "start": 11.18,
+      "end": 11.26
+    },
+    {
+      "word": "box,",
+      "start": 11.38,
+      "end": 11.54
+    },
+    {
+      "word": "pick",
+      "start": 11.72,
+      "end": 11.84
+    },
+    {
+      "word": "confirm.",
+      "start": 11.84,
+      "end": 12.08
+    },
+    {
+      "word": "Box,",
+      "start": 13.1,
+      "end": 13.5
+    },
+    {
+      "word": "box,",
+      "start": 13.6,
+      "end": 13.8
+    },
+    {
+      "word": "pick",
+      "start": 14.02,
+      "end": 14.18
+    },
+    {
+      "word": "confirm.",
+      "start": 14.18,
+      "end": 14.52
+    },
+    {
+      "word": "Box,",
+      "start": 14.86,
+      "end": 15.22
+    },
+    {
+      "word": "box,",
+      "start": 15.22,
+      "end": 15.48
+    },
+    {
+      "word": "box,",
+      "start": 15.74,
+      "end": 15.74
+    },
+    {
+      "word": "box.",
+      "start": 15.9,
+      "end": 16.08
+    },
+    {
+      "word": "OK,",
+      "start": 16.08,
+      "end": 16.32
+    },
+    {
+      "word": "mate.",
+      "start": 16.38,
+      "end": 16.48
+    },
+    {
+      "word": "Hard",
+      "start": 16.86,
+      "end": 17.02
+    },
+    {
+      "word": "tyre,",
+      "start": 17.02,
+      "end": 17.36
+    },
+    {
+      "word": "half",
+      "start": 17.7,
+      "end": 17.9
+    },
+    {
+      "word": "a",
+      "start": 17.9,
+      "end": 18.0
+    },
+    {
+      "word": "turn",
+      "start": 18.0,
+      "end": 18.22
+    },
+    {
+      "word": "down.",
+      "start": 18.22,
+      "end": 18.58
+    },
+    {
+      "word": "Keep",
+      "start": 18.92,
+      "end": 19.02
+    },
+    {
+      "word": "in",
+      "start": 19.02,
+      "end": 19.14
+    },
+    {
+      "word": "line,",
+      "start": 19.14,
+      "end": 19.3
+    },
+    {
+      "word": "we",
+      "start": 19.42,
+      "end": 19.44
+    },
+    {
+      "word": "balance,",
+      "start": 19.44,
+      "end": 19.7
+    },
+    {
+      "word": "mate.",
+      "start": 19.84,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 60,
+  "is_empty": false,
+  "is_very_short": false
+}

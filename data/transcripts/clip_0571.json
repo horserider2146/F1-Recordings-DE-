@@ -1,0 +1,140 @@
+{
+  "clip_id": "clip_0571",
+  "text": "No, it's 5, 3D110. P3. Now Russell is pushing. At the moment we are P2. And we are P3. Russell P2, Antonelli P1, is 210s, 110s.",
+  "words": [
+    {
+      "word": "No,",
+      "start": 0.0,
+      "end": 0.64
+    },
+    {
+      "word": "it's",
+      "start": 0.84,
+      "end": 0.88
+    },
+    {
+      "word": "5,",
+      "start": 0.88,
+      "end": 1.04
+    },
+    {
+      "word": "3D110.",
+      "start": 2.46,
+      "end": 3.12
+    },
+    {
+      "word": "P3.",
+      "start": 4.68,
+      "end": 5.1
+    },
+    {
+      "word": "Now",
+      "start": 7.04,
+      "end": 7.34
+    },
+    {
+      "word": "Russell",
+      "start": 7.34,
+      "end": 7.72
+    },
+    {
+      "word": "is",
+      "start": 7.72,
+      "end": 7.98
+    },
+    {
+      "word": "pushing.",
+      "start": 7.98,
+      "end": 8.3
+    },
+    {
+      "word": "At",
+      "start": 9.4,
+      "end": 9.56
+    },
+    {
+      "word": "the",
+      "start": 9.56,
+      "end": 9.6
+    },
+    {
+      "word": "moment",
+      "start": 9.6,
+      "end": 9.82
+    },
+    {
+      "word": "we",
+      "start": 9.82,
+      "end": 10.0
+    },
+    {
+      "word": "are",
+      "start": 10.0,
+      "end": 10.04
+    },
+    {
+      "word": "P2.",
+      "start": 10.04,
+      "end": 10.32
+    },
+    {
+      "word": "And",
+      "start": 12.04,
+      "end": 12.38
+    },
+    {
+      "word": "we",
+      "start": 12.38,
+      "end": 12.56
+    },
+    {
+      "word": "are",
+      "start": 12.56,
+      "end": 12.68
+    },
+    {
+      "word": "P3.",
+      "start": 12.68,
+      "end": 13.16
+    },
+    {
+      "word": "Russell",
+      "start": 14.88,
+      "end": 15.36
+    },
+    {
+      "word": "P2,",
+      "start": 15.36,
+      "end": 16.24
+    },
+    {
+      "word": "Antonelli",
+      "start": 16.36,
+      "end": 16.82
+    },
+    {
+      "word": "P1,",
+      "start": 16.82,
+      "end": 17.62
+    },
+    {
+      "word": "is",
+      "start": 18.24,
+      "end": 18.58
+    },
+    {
+      "word": "210s,",
+      "start": 18.58,
+      "end": 19.38
+    },
+    {
+      "word": "110s.",
+      "start": 19.46,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 26,
+  "is_empty": false,
+  "is_very_short": false
+}

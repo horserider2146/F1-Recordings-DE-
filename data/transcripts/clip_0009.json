@@ -1,0 +1,120 @@
+{
+  "clip_id": "clip_0009",
+  "text": "I don't know if it's tires but it's... What events are just there? I think we have a good choice here 11.",
+  "words": [
+    {
+      "word": "I",
+      "start": 2.18,
+      "end": 2.68
+    },
+    {
+      "word": "don't",
+      "start": 2.68,
+      "end": 2.8
+    },
+    {
+      "word": "know",
+      "start": 2.8,
+      "end": 2.88
+    },
+    {
+      "word": "if",
+      "start": 2.88,
+      "end": 3.0
+    },
+    {
+      "word": "it's",
+      "start": 3.0,
+      "end": 3.16
+    },
+    {
+      "word": "tires",
+      "start": 3.16,
+      "end": 3.38
+    },
+    {
+      "word": "but",
+      "start": 3.38,
+      "end": 3.86
+    },
+    {
+      "word": "it's...",
+      "start": 3.86,
+      "end": 4.11
+    },
+    {
+      "word": "What",
+      "start": 8.72,
+      "end": 8.98
+    },
+    {
+      "word": "events",
+      "start": 8.98,
+      "end": 9.34
+    },
+    {
+      "word": "are",
+      "start": 9.34,
+      "end": 9.6
+    },
+    {
+      "word": "just",
+      "start": 9.6,
+      "end": 9.84
+    },
+    {
+      "word": "there?",
+      "start": 9.84,
+      "end": 10.14
+    },
+    {
+      "word": "I",
+      "start": 15.46,
+      "end": 15.96
+    },
+    {
+      "word": "think",
+      "start": 15.96,
+      "end": 16.46
+    },
+    {
+      "word": "we",
+      "start": 16.46,
+      "end": 16.82
+    },
+    {
+      "word": "have",
+      "start": 16.82,
+      "end": 16.98
+    },
+    {
+      "word": "a",
+      "start": 16.98,
+      "end": 17.16
+    },
+    {
+      "word": "good",
+      "start": 17.16,
+      "end": 17.24
+    },
+    {
+      "word": "choice",
+      "start": 17.24,
+      "end": 17.48
+    },
+    {
+      "word": "here",
+      "start": 17.48,
+      "end": 17.6
+    },
+    {
+      "word": "11.",
+      "start": 17.6,
+      "end": 17.84
+    }
+  ],
+  "language": "en",
+  "word_count": 22,
+  "is_empty": false,
+  "is_very_short": false
+}

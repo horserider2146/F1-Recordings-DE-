@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_0363",
+  "text": "Delta will be good for the flag. Set dip by speed 3. Got Leclerc at 8 seconds. Deva at 6. Now we don't have time to attempt to do your best. 6 to Leclerc.",
+  "words": [
+    {
+      "word": "Delta",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "will",
+      "start": 0.3,
+      "end": 0.64
+    },
+    {
+      "word": "be",
+      "start": 0.64,
+      "end": 0.92
+    },
+    {
+      "word": "good",
+      "start": 0.92,
+      "end": 1.36
+    },
+    {
+      "word": "for",
+      "start": 1.36,
+      "end": 1.94
+    },
+    {
+      "word": "the",
+      "start": 1.94,
+      "end": 2.06
+    },
+    {
+      "word": "flag.",
+      "start": 2.06,
+      "end": 2.36
+    },
+    {
+      "word": "Set",
+      "start": 3.68,
+      "end": 4.38
+    },
+    {
+      "word": "dip",
+      "start": 4.38,
+      "end": 4.7
+    },
+    {
+      "word": "by",
+      "start": 4.7,
+      "end": 4.92
+    },
+    {
+      "word": "speed",
+      "start": 4.92,
+      "end": 5.12
+    },
+    {
+      "word": "3.",
+      "start": 5.12,
+      "end": 6.16
+    },
+    {
+      "word": "Got",
+      "start": 6.8,
+      "end": 7.46
+    },
+    {
+      "word": "Leclerc",
+      "start": 7.46,
+      "end": 8.04
+    },
+    {
+      "word": "at",
+      "start": 8.04,
+      "end": 8.24
+    },
+    {
+      "word": "8",
+      "start": 8.24,
+      "end": 8.6
+    },
+    {
+      "word": "seconds.",
+      "start": 8.6,
+      "end": 9.32
+    },
+    {
+      "word": "Deva",
+      "start": 10.6,
+      "end": 11.14
+    },
+    {
+      "word": "at",
+      "start": 11.14,
+      "end": 11.86
+    },
+    {
+      "word": "6.",
+      "start": 11.86,
+      "end": 12.36
+    },
+    {
+      "word": "Now",
+      "start": 13.94,
+      "end": 14.14
+    },
+    {
+      "word": "we",
+      "start": 14.14,
+      "end": 14.22
+    },
+    {
+      "word": "don't",
+      "start": 14.22,
+      "end": 14.36
+    },
+    {
+      "word": "have",
+      "start": 14.36,
+      "end": 14.5
+    },
+    {
+      "word": "time",
+      "start": 14.5,
+      "end": 14.68
+    },
+    {
+      "word": "to",
+      "start": 14.68,
+      "end": 14.88
+    },
+    {
+      "word": "attempt",
+      "start": 14.88,
+      "end": 15.0
+    },
+    {
+      "word": "to",
+      "start": 15.0,
+      "end": 15.24
+    },
+    {
+      "word": "do",
+      "start": 15.24,
+      "end": 15.8
+    },
+    {
+      "word": "your",
+      "start": 15.8,
+      "end": 15.94
+    },
+    {
+      "word": "best.",
+      "start": 15.94,
+      "end": 16.18
+    },
+    {
+      "word": "6",
+      "start": 17.46,
+      "end": 18.16
+    },
+    {
+      "word": "to",
+      "start": 18.16,
+      "end": 18.86
+    },
+    {
+      "word": "Leclerc.",
+      "start": 18.86,
+      "end": 19.38
+    }
+  ],
+  "language": "en",
+  "word_count": 34,
+  "is_empty": false,
+  "is_very_short": false
+}

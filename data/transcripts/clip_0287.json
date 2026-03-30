@@ -1,0 +1,120 @@
+{
+  "clip_id": "clip_0287",
+  "text": "P5 what a drive, well done man. Excellent work. Yahoo! That was amazing, well done mate. Well deserved, well done. Great job.",
+  "words": [
+    {
+      "word": "P5",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "what",
+      "start": 0.46,
+      "end": 0.68
+    },
+    {
+      "word": "a",
+      "start": 0.68,
+      "end": 0.88
+    },
+    {
+      "word": "drive,",
+      "start": 0.88,
+      "end": 1.08
+    },
+    {
+      "word": "well",
+      "start": 1.64,
+      "end": 1.88
+    },
+    {
+      "word": "done",
+      "start": 1.88,
+      "end": 2.02
+    },
+    {
+      "word": "man.",
+      "start": 2.02,
+      "end": 2.52
+    },
+    {
+      "word": "Excellent",
+      "start": 4.6,
+      "end": 4.96
+    },
+    {
+      "word": "work.",
+      "start": 4.96,
+      "end": 5.22
+    },
+    {
+      "word": "Yahoo!",
+      "start": 8.08,
+      "end": 8.8
+    },
+    {
+      "word": "That",
+      "start": 12.5,
+      "end": 13.22
+    },
+    {
+      "word": "was",
+      "start": 13.22,
+      "end": 13.58
+    },
+    {
+      "word": "amazing,",
+      "start": 13.58,
+      "end": 14.66
+    },
+    {
+      "word": "well",
+      "start": 15.02,
+      "end": 15.14
+    },
+    {
+      "word": "done",
+      "start": 15.14,
+      "end": 15.36
+    },
+    {
+      "word": "mate.",
+      "start": 15.36,
+      "end": 15.58
+    },
+    {
+      "word": "Well",
+      "start": 16.2,
+      "end": 16.4
+    },
+    {
+      "word": "deserved,",
+      "start": 16.4,
+      "end": 17.0
+    },
+    {
+      "word": "well",
+      "start": 17.3,
+      "end": 17.42
+    },
+    {
+      "word": "done.",
+      "start": 17.42,
+      "end": 17.62
+    },
+    {
+      "word": "Great",
+      "start": 18.0,
+      "end": 18.04
+    },
+    {
+      "word": "job.",
+      "start": 18.04,
+      "end": 18.24
+    }
+  ],
+  "language": "en",
+  "word_count": 22,
+  "is_empty": false,
+  "is_very_short": false
+}

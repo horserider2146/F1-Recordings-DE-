@@ -1,0 +1,20 @@
+{
+  "clip_id": "clip_0398",
+  "text": "blue flags",
+  "words": [
+    {
+      "word": "blue",
+      "start": 18.58,
+      "end": 19.98
+    },
+    {
+      "word": "flags",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 2,
+  "is_empty": false,
+  "is_very_short": true
+}

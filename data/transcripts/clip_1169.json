@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_1169",
+  "text": "Alright, so we're happy in mode safety car. Mind you, let's just try and stay close to that Delta, you're doing a good job. Alright, for info we've got five cars half retired from the race already. Got marshals coming on track in turn two.",
+  "words": [
+    {
+      "word": "Alright,",
+      "start": 0.82,
+      "end": 1.26
+    },
+    {
+      "word": "so",
+      "start": 1.38,
+      "end": 1.48
+    },
+    {
+      "word": "we're",
+      "start": 1.48,
+      "end": 1.58
+    },
+    {
+      "word": "happy",
+      "start": 1.58,
+      "end": 1.8
+    },
+    {
+      "word": "in",
+      "start": 1.8,
+      "end": 2.26
+    },
+    {
+      "word": "mode",
+      "start": 2.26,
+      "end": 2.88
+    },
+    {
+      "word": "safety",
+      "start": 2.88,
+      "end": 3.3
+    },
+    {
+      "word": "car.",
+      "start": 3.3,
+      "end": 3.66
+    },
+    {
+      "word": "Mind",
+      "start": 3.88,
+      "end": 4.24
+    },
+    {
+      "word": "you,",
+      "start": 4.24,
+      "end": 4.38
+    },
+    {
+      "word": "let's",
+      "start": 4.4,
+      "end": 4.54
+    },
+    {
+      "word": "just",
+      "start": 4.54,
+      "end": 4.72
+    },
+    {
+      "word": "try",
+      "start": 4.72,
+      "end": 5.02
+    },
+    {
+      "word": "and",
+      "start": 5.02,
+      "end": 5.12
+    },
+    {
+      "word": "stay",
+      "start": 5.12,
+      "end": 5.28
+    },
+    {
+      "word": "close",
+      "start": 5.28,
+      "end": 5.52
+    },
+    {
+      "word": "to",
+      "start": 5.52,
+      "end": 5.66
+    },
+    {
+      "word": "that",
+      "start": 5.66,
+      "end": 5.76
+    },
+    {
+      "word": "Delta,",
+      "start": 5.76,
+      "end": 5.92
+    },
+    {
+      "word": "you're",
+      "start": 6.12,
+      "end": 6.16
+    },
+    {
+      "word": "doing",
+      "start": 6.16,
+      "end": 6.24
+    },
+    {
+      "word": "a",
+      "start": 6.24,
+      "end": 6.32
+    },
+    {
+      "word": "good",
+      "start": 6.32,
+      "end": 6.4
+    },
+    {
+      "word": "job.",
+      "start": 6.4,
+      "end": 6.62
+    },
+    {
+      "word": "Alright,",
+      "start": 8.76,
+      "end": 9.2
+    },
+    {
+      "word": "for",
+      "start": 9.2,
+      "end": 9.64
+    },
+    {
+      "word": "info",
+      "start": 9.64,
+      "end": 9.88
+    },
+    {
+      "word": "we've",
+      "start": 9.88,
+      "end": 10.18
+    },
+    {
+      "word": "got",
+      "start": 10.18,
+      "end": 10.38
+    },
+    {
+      "word": "five",
+      "start": 10.38,
+      "end": 12.4
+    },
+    {
+      "word": "cars",
+      "start": 12.4,
+      "end": 12.86
+    },
+    {
+      "word": "half",
+      "start": 12.86,
+      "end": 13.34
+    },
+    {
+      "word": "retired",
+      "start": 13.34,
+      "end": 13.66
+    },
+    {
+      "word": "from",
+      "start": 13.66,
+      "end": 14.66
+    },
+    {
+      "word": "the",
+      "start": 14.66,
+      "end": 14.76
+    },
+    {
+      "word": "race",
+      "start": 14.76,
+      "end": 14.94
+    },
+    {
+      "word": "already.",
+      "start": 14.94,
+      "end": 15.28
+    },
+    {
+      "word": "Got",
+      "start": 17.04,
+      "end": 17.6
+    },
+    {
+      "word": "marshals",
+      "start": 17.6,
+      "end": 18.08
+    },
+    {
+      "word": "coming",
+      "start": 18.08,
+      "end": 18.32
+    },
+    {
+      "word": "on",
+      "start": 18.32,
+      "end": 18.48
+    },
+    {
+      "word": "track",
+      "start": 18.48,
+      "end": 18.76
+    },
+    {
+      "word": "in",
+      "start": 18.76,
+      "end": 19.16
+    },
+    {
+      "word": "turn",
+      "start": 19.16,
+      "end": 19.4
+    },
+    {
+      "word": "two.",
+      "start": 19.4,
+      "end": 19.76
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

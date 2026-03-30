@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0003",
+  "text": "Okay, it's far, 40 seconds, four zero.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "it's",
+      "start": 0.36,
+      "end": 0.54
+    },
+    {
+      "word": "far,",
+      "start": 0.54,
+      "end": 0.74
+    },
+    {
+      "word": "40",
+      "start": 0.84,
+      "end": 1.06
+    },
+    {
+      "word": "seconds,",
+      "start": 1.06,
+      "end": 1.34
+    },
+    {
+      "word": "four",
+      "start": 1.62,
+      "end": 1.74
+    },
+    {
+      "word": "zero.",
+      "start": 1.74,
+      "end": 1.9
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

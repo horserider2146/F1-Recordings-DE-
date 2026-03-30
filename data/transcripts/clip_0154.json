@@ -1,0 +1,305 @@
+{
+  "clip_id": "clip_0154",
+  "text": "Ok, and you can see that you are taking the S21 for a second time, so you are free to push with double yellow turn 2 and a button to press 2 seconds on your target, there is a partial off the button and you are free to push now, you are free to push double yellow turn 2",
+  "words": [
+    {
+      "word": "Ok,",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "word": "and",
+      "start": 0.98,
+      "end": 1.18
+    },
+    {
+      "word": "you",
+      "start": 1.18,
+      "end": 1.52
+    },
+    {
+      "word": "can",
+      "start": 1.52,
+      "end": 2.06
+    },
+    {
+      "word": "see",
+      "start": 2.06,
+      "end": 2.2
+    },
+    {
+      "word": "that",
+      "start": 2.2,
+      "end": 2.56
+    },
+    {
+      "word": "you",
+      "start": 2.56,
+      "end": 2.66
+    },
+    {
+      "word": "are",
+      "start": 2.66,
+      "end": 2.66
+    },
+    {
+      "word": "taking",
+      "start": 2.66,
+      "end": 2.66
+    },
+    {
+      "word": "the",
+      "start": 2.66,
+      "end": 2.9
+    },
+    {
+      "word": "S21",
+      "start": 2.9,
+      "end": 3.32
+    },
+    {
+      "word": "for",
+      "start": 3.32,
+      "end": 3.6
+    },
+    {
+      "word": "a",
+      "start": 3.6,
+      "end": 3.64
+    },
+    {
+      "word": "second",
+      "start": 3.64,
+      "end": 3.8
+    },
+    {
+      "word": "time,",
+      "start": 3.8,
+      "end": 4.1
+    },
+    {
+      "word": "so",
+      "start": 4.18,
+      "end": 4.28
+    },
+    {
+      "word": "you",
+      "start": 4.28,
+      "end": 4.4
+    },
+    {
+      "word": "are",
+      "start": 4.4,
+      "end": 4.5
+    },
+    {
+      "word": "free",
+      "start": 4.5,
+      "end": 4.62
+    },
+    {
+      "word": "to",
+      "start": 4.62,
+      "end": 5.26
+    },
+    {
+      "word": "push",
+      "start": 5.26,
+      "end": 5.54
+    },
+    {
+      "word": "with",
+      "start": 5.54,
+      "end": 5.72
+    },
+    {
+      "word": "double",
+      "start": 5.72,
+      "end": 6.02
+    },
+    {
+      "word": "yellow",
+      "start": 6.02,
+      "end": 6.34
+    },
+    {
+      "word": "turn",
+      "start": 6.34,
+      "end": 6.66
+    },
+    {
+      "word": "2",
+      "start": 6.66,
+      "end": 6.98
+    },
+    {
+      "word": "and",
+      "start": 6.98,
+      "end": 7.44
+    },
+    {
+      "word": "a",
+      "start": 7.44,
+      "end": 7.56
+    },
+    {
+      "word": "button",
+      "start": 7.56,
+      "end": 7.72
+    },
+    {
+      "word": "to",
+      "start": 7.72,
+      "end": 8.02
+    },
+    {
+      "word": "press",
+      "start": 8.02,
+      "end": 8.4
+    },
+    {
+      "word": "2",
+      "start": 8.4,
+      "end": 8.64
+    },
+    {
+      "word": "seconds",
+      "start": 8.64,
+      "end": 8.82
+    },
+    {
+      "word": "on",
+      "start": 8.82,
+      "end": 9.04
+    },
+    {
+      "word": "your",
+      "start": 9.04,
+      "end": 9.16
+    },
+    {
+      "word": "target,",
+      "start": 9.16,
+      "end": 9.46
+    },
+    {
+      "word": "there",
+      "start": 9.64,
+      "end": 9.78
+    },
+    {
+      "word": "is",
+      "start": 9.78,
+      "end": 9.94
+    },
+    {
+      "word": "a",
+      "start": 9.94,
+      "end": 9.96
+    },
+    {
+      "word": "partial",
+      "start": 9.96,
+      "end": 10.34
+    },
+    {
+      "word": "off",
+      "start": 10.34,
+      "end": 10.82
+    },
+    {
+      "word": "the",
+      "start": 10.82,
+      "end": 10.92
+    },
+    {
+      "word": "button",
+      "start": 10.92,
+      "end": 12.5
+    },
+    {
+      "word": "and",
+      "start": 13.3,
+      "end": 13.76
+    },
+    {
+      "word": "you",
+      "start": 13.76,
+      "end": 13.9
+    },
+    {
+      "word": "are",
+      "start": 13.9,
+      "end": 13.94
+    },
+    {
+      "word": "free",
+      "start": 13.94,
+      "end": 14.04
+    },
+    {
+      "word": "to",
+      "start": 14.04,
+      "end": 14.2
+    },
+    {
+      "word": "push",
+      "start": 14.2,
+      "end": 14.4
+    },
+    {
+      "word": "now,",
+      "start": 14.4,
+      "end": 14.66
+    },
+    {
+      "word": "you",
+      "start": 15.3,
+      "end": 16.0
+    },
+    {
+      "word": "are",
+      "start": 16.0,
+      "end": 16.16
+    },
+    {
+      "word": "free",
+      "start": 16.16,
+      "end": 16.3
+    },
+    {
+      "word": "to",
+      "start": 16.3,
+      "end": 16.44
+    },
+    {
+      "word": "push",
+      "start": 16.44,
+      "end": 16.56
+    },
+    {
+      "word": "double",
+      "start": 16.56,
+      "end": 16.56
+    },
+    {
+      "word": "yellow",
+      "start": 16.56,
+      "end": 16.86
+    },
+    {
+      "word": "turn",
+      "start": 16.86,
+      "end": 17.1
+    },
+    {
+      "word": "2",
+      "start": 17.1,
+      "end": 17.4
+    }
+  ],
+  "language": "en",
+  "word_count": 59,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,170 @@
+{
+  "clip_id": "clip_0464",
+  "text": "order now, Leclerc, George, Lewis. Gap at 7.4. Gap at 37.1. 37.1. George, now currently 2. Gap at 7.7. You could have thought it was more. Turn 8.",
+  "words": [
+    {
+      "word": "order",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "now,",
+      "start": 0.3,
+      "end": 0.54
+    },
+    {
+      "word": "Leclerc,",
+      "start": 0.66,
+      "end": 1.26
+    },
+    {
+      "word": "George,",
+      "start": 1.26,
+      "end": 1.56
+    },
+    {
+      "word": "Lewis.",
+      "start": 1.86,
+      "end": 2.18
+    },
+    {
+      "word": "Gap",
+      "start": 3.74,
+      "end": 4.08
+    },
+    {
+      "word": "at",
+      "start": 4.08,
+      "end": 4.22
+    },
+    {
+      "word": "7",
+      "start": 4.22,
+      "end": 4.58
+    },
+    {
+      "word": ".4.",
+      "start": 4.58,
+      "end": 5.18
+    },
+    {
+      "word": "Gap",
+      "start": 6.86,
+      "end": 7.14
+    },
+    {
+      "word": "at",
+      "start": 7.14,
+      "end": 7.22
+    },
+    {
+      "word": "37",
+      "start": 7.22,
+      "end": 7.8
+    },
+    {
+      "word": ".1.",
+      "start": 7.8,
+      "end": 8.18
+    },
+    {
+      "word": "37",
+      "start": 8.42,
+      "end": 8.54
+    },
+    {
+      "word": ".1.",
+      "start": 8.54,
+      "end": 9.08
+    },
+    {
+      "word": "George,",
+      "start": 10.68,
+      "end": 11.28
+    },
+    {
+      "word": "now",
+      "start": 11.56,
+      "end": 11.76
+    },
+    {
+      "word": "currently",
+      "start": 11.76,
+      "end": 12.14
+    },
+    {
+      "word": "2.",
+      "start": 12.14,
+      "end": 12.5
+    },
+    {
+      "word": "Gap",
+      "start": 12.88,
+      "end": 13.14
+    },
+    {
+      "word": "at",
+      "start": 13.14,
+      "end": 13.34
+    },
+    {
+      "word": "7",
+      "start": 13.34,
+      "end": 13.8
+    },
+    {
+      "word": ".7.",
+      "start": 13.8,
+      "end": 14.36
+    },
+    {
+      "word": "You",
+      "start": 15.86,
+      "end": 16.46
+    },
+    {
+      "word": "could",
+      "start": 16.46,
+      "end": 16.62
+    },
+    {
+      "word": "have",
+      "start": 16.62,
+      "end": 16.74
+    },
+    {
+      "word": "thought",
+      "start": 16.74,
+      "end": 16.88
+    },
+    {
+      "word": "it",
+      "start": 16.88,
+      "end": 17.02
+    },
+    {
+      "word": "was",
+      "start": 17.02,
+      "end": 17.12
+    },
+    {
+      "word": "more.",
+      "start": 17.12,
+      "end": 17.42
+    },
+    {
+      "word": "Turn",
+      "start": 17.66,
+      "end": 17.78
+    },
+    {
+      "word": "8.",
+      "start": 17.78,
+      "end": 18.12
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

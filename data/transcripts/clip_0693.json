@@ -1,0 +1,115 @@
+{
+  "clip_id": "clip_0693",
+  "text": "Crack is clear behind Focused on tyres Positive on brakes Recharge off Easy on throttle exit Slow button practice now popped",
+  "words": [
+    {
+      "word": "Crack",
+      "start": 0.0,
+      "end": 0.86
+    },
+    {
+      "word": "is",
+      "start": 0.86,
+      "end": 0.98
+    },
+    {
+      "word": "clear",
+      "start": 0.98,
+      "end": 1.16
+    },
+    {
+      "word": "behind",
+      "start": 1.16,
+      "end": 1.36
+    },
+    {
+      "word": "Focused",
+      "start": 2.94,
+      "end": 3.62
+    },
+    {
+      "word": "on",
+      "start": 3.62,
+      "end": 3.74
+    },
+    {
+      "word": "tyres",
+      "start": 3.74,
+      "end": 4.04
+    },
+    {
+      "word": "Positive",
+      "start": 6.1,
+      "end": 6.78
+    },
+    {
+      "word": "on",
+      "start": 6.78,
+      "end": 6.98
+    },
+    {
+      "word": "brakes",
+      "start": 6.98,
+      "end": 7.24
+    },
+    {
+      "word": "Recharge",
+      "start": 8.22,
+      "end": 8.9
+    },
+    {
+      "word": "off",
+      "start": 8.9,
+      "end": 9.22
+    },
+    {
+      "word": "Easy",
+      "start": 11.8,
+      "end": 12.48
+    },
+    {
+      "word": "on",
+      "start": 12.48,
+      "end": 13.16
+    },
+    {
+      "word": "throttle",
+      "start": 13.16,
+      "end": 13.42
+    },
+    {
+      "word": "exit",
+      "start": 13.42,
+      "end": 13.74
+    },
+    {
+      "word": "Slow",
+      "start": 13.74,
+      "end": 14.88
+    },
+    {
+      "word": "button",
+      "start": 14.88,
+      "end": 16.08
+    },
+    {
+      "word": "practice",
+      "start": 16.08,
+      "end": 16.44
+    },
+    {
+      "word": "now",
+      "start": 16.44,
+      "end": 16.84
+    },
+    {
+      "word": "popped",
+      "start": 16.84,
+      "end": 17.18
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

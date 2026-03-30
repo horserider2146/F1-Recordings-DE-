@@ -1,0 +1,230 @@
+{
+  "clip_id": "clip_0427",
+  "text": "little bit target plus six. Road 1. Road 1. So we've got George, he stopped at turn 2, he's trying to get the car going again. The car's moving now. The track is clear. Okay, give me a little box, box. So, strat 13.",
+  "words": [
+    {
+      "word": "little",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "bit",
+      "start": 0.16,
+      "end": 0.3
+    },
+    {
+      "word": "target",
+      "start": 0.3,
+      "end": 0.76
+    },
+    {
+      "word": "plus",
+      "start": 0.76,
+      "end": 1.28
+    },
+    {
+      "word": "six.",
+      "start": 1.28,
+      "end": 2.02
+    },
+    {
+      "word": "Road",
+      "start": 4.04,
+      "end": 4.52
+    },
+    {
+      "word": "1.",
+      "start": 4.52,
+      "end": 5.0
+    },
+    {
+      "word": "Road",
+      "start": 5.62,
+      "end": 5.62
+    },
+    {
+      "word": "1.",
+      "start": 5.62,
+      "end": 5.94
+    },
+    {
+      "word": "So",
+      "start": 6.98,
+      "end": 7.46
+    },
+    {
+      "word": "we've",
+      "start": 7.46,
+      "end": 7.56
+    },
+    {
+      "word": "got",
+      "start": 7.56,
+      "end": 7.66
+    },
+    {
+      "word": "George,",
+      "start": 7.66,
+      "end": 7.88
+    },
+    {
+      "word": "he",
+      "start": 8.06,
+      "end": 8.08
+    },
+    {
+      "word": "stopped",
+      "start": 8.08,
+      "end": 8.38
+    },
+    {
+      "word": "at",
+      "start": 8.38,
+      "end": 8.62
+    },
+    {
+      "word": "turn",
+      "start": 8.62,
+      "end": 8.96
+    },
+    {
+      "word": "2,",
+      "start": 8.96,
+      "end": 9.26
+    },
+    {
+      "word": "he's",
+      "start": 9.34,
+      "end": 9.42
+    },
+    {
+      "word": "trying",
+      "start": 9.42,
+      "end": 9.58
+    },
+    {
+      "word": "to",
+      "start": 9.58,
+      "end": 9.66
+    },
+    {
+      "word": "get",
+      "start": 9.66,
+      "end": 9.76
+    },
+    {
+      "word": "the",
+      "start": 9.76,
+      "end": 9.9
+    },
+    {
+      "word": "car",
+      "start": 9.9,
+      "end": 10.0
+    },
+    {
+      "word": "going",
+      "start": 10.0,
+      "end": 10.24
+    },
+    {
+      "word": "again.",
+      "start": 10.24,
+      "end": 10.48
+    },
+    {
+      "word": "The",
+      "start": 11.66,
+      "end": 11.84
+    },
+    {
+      "word": "car's",
+      "start": 11.84,
+      "end": 12.22
+    },
+    {
+      "word": "moving",
+      "start": 12.22,
+      "end": 12.4
+    },
+    {
+      "word": "now.",
+      "start": 12.4,
+      "end": 12.74
+    },
+    {
+      "word": "The",
+      "start": 14.26,
+      "end": 14.3
+    },
+    {
+      "word": "track",
+      "start": 14.3,
+      "end": 14.56
+    },
+    {
+      "word": "is",
+      "start": 14.56,
+      "end": 14.72
+    },
+    {
+      "word": "clear.",
+      "start": 14.72,
+      "end": 14.92
+    },
+    {
+      "word": "Okay,",
+      "start": 16.38,
+      "end": 16.68
+    },
+    {
+      "word": "give",
+      "start": 16.74,
+      "end": 16.82
+    },
+    {
+      "word": "me",
+      "start": 16.82,
+      "end": 16.94
+    },
+    {
+      "word": "a",
+      "start": 16.94,
+      "end": 17.02
+    },
+    {
+      "word": "little",
+      "start": 17.02,
+      "end": 17.1
+    },
+    {
+      "word": "box,",
+      "start": 17.1,
+      "end": 17.38
+    },
+    {
+      "word": "box.",
+      "start": 17.48,
+      "end": 17.72
+    },
+    {
+      "word": "So,",
+      "start": 18.3,
+      "end": 18.3
+    },
+    {
+      "word": "strat",
+      "start": 18.38,
+      "end": 18.54
+    },
+    {
+      "word": "13.",
+      "start": 18.54,
+      "end": 19.0
+    }
+  ],
+  "language": "en",
+  "word_count": 44,
+  "is_empty": false,
+  "is_very_short": false
+}

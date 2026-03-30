@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_0305",
+  "text": "Way too much throttle at the end. That was strange. Copy that. If you have some full throttle here please. Full throttle if you can. If not exit 13 is awesome. Check the flag. Check the flag.",
+  "words": [
+    {
+      "word": "Way",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "too",
+      "start": 0.44,
+      "end": 0.62
+    },
+    {
+      "word": "much",
+      "start": 0.62,
+      "end": 0.84
+    },
+    {
+      "word": "throttle",
+      "start": 0.84,
+      "end": 1.04
+    },
+    {
+      "word": "at",
+      "start": 1.04,
+      "end": 1.3
+    },
+    {
+      "word": "the",
+      "start": 1.3,
+      "end": 1.4
+    },
+    {
+      "word": "end.",
+      "start": 1.4,
+      "end": 1.74
+    },
+    {
+      "word": "That",
+      "start": 2.08,
+      "end": 2.32
+    },
+    {
+      "word": "was",
+      "start": 2.32,
+      "end": 2.4
+    },
+    {
+      "word": "strange.",
+      "start": 2.4,
+      "end": 2.78
+    },
+    {
+      "word": "Copy",
+      "start": 3.16,
+      "end": 3.42
+    },
+    {
+      "word": "that.",
+      "start": 3.42,
+      "end": 3.64
+    },
+    {
+      "word": "If",
+      "start": 3.94,
+      "end": 4.02
+    },
+    {
+      "word": "you",
+      "start": 4.02,
+      "end": 4.08
+    },
+    {
+      "word": "have",
+      "start": 4.08,
+      "end": 4.2
+    },
+    {
+      "word": "some",
+      "start": 4.2,
+      "end": 4.32
+    },
+    {
+      "word": "full",
+      "start": 4.32,
+      "end": 4.52
+    },
+    {
+      "word": "throttle",
+      "start": 4.52,
+      "end": 4.78
+    },
+    {
+      "word": "here",
+      "start": 4.78,
+      "end": 4.98
+    },
+    {
+      "word": "please.",
+      "start": 4.98,
+      "end": 5.16
+    },
+    {
+      "word": "Full",
+      "start": 5.5,
+      "end": 5.94
+    },
+    {
+      "word": "throttle",
+      "start": 5.94,
+      "end": 6.2
+    },
+    {
+      "word": "if",
+      "start": 6.2,
+      "end": 6.38
+    },
+    {
+      "word": "you",
+      "start": 6.38,
+      "end": 6.48
+    },
+    {
+      "word": "can.",
+      "start": 6.48,
+      "end": 6.64
+    },
+    {
+      "word": "If",
+      "start": 8.06,
+      "end": 8.24
+    },
+    {
+      "word": "not",
+      "start": 8.24,
+      "end": 8.42
+    },
+    {
+      "word": "exit",
+      "start": 8.42,
+      "end": 8.72
+    },
+    {
+      "word": "13",
+      "start": 8.72,
+      "end": 9.06
+    },
+    {
+      "word": "is",
+      "start": 9.06,
+      "end": 9.24
+    },
+    {
+      "word": "awesome.",
+      "start": 9.24,
+      "end": 9.42
+    },
+    {
+      "word": "Check",
+      "start": 13.48,
+      "end": 13.94
+    },
+    {
+      "word": "the",
+      "start": 13.94,
+      "end": 13.94
+    },
+    {
+      "word": "flag.",
+      "start": 13.94,
+      "end": 17.92
+    },
+    {
+      "word": "Check",
+      "start": 18.68,
+      "end": 19.14
+    },
+    {
+      "word": "the",
+      "start": 19.14,
+      "end": 19.3
+    },
+    {
+      "word": "flag.",
+      "start": 19.3,
+      "end": 19.46
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_0785",
+  "text": "How about 3, target 70 kph 26? Is that what rapid? Yeah, it looks like it. 220 kph 27. That's your merit. 100 kph 29. Sorry, you have no virtual merit question. Correct. Copy.",
+  "words": [
+    {
+      "word": "How",
+      "start": 0.0,
+      "end": 0.64
+    },
+    {
+      "word": "about",
+      "start": 0.64,
+      "end": 0.8
+    },
+    {
+      "word": "3,",
+      "start": 0.8,
+      "end": 1.16
+    },
+    {
+      "word": "target",
+      "start": 1.32,
+      "end": 1.56
+    },
+    {
+      "word": "70",
+      "start": 1.56,
+      "end": 1.98
+    },
+    {
+      "word": "kph",
+      "start": 1.98,
+      "end": 2.38
+    },
+    {
+      "word": "26?",
+      "start": 2.38,
+      "end": 2.82
+    },
+    {
+      "word": "Is",
+      "start": 4.5,
+      "end": 5.16
+    },
+    {
+      "word": "that",
+      "start": 5.16,
+      "end": 5.26
+    },
+    {
+      "word": "what",
+      "start": 5.26,
+      "end": 5.42
+    },
+    {
+      "word": "rapid?",
+      "start": 5.42,
+      "end": 5.68
+    },
+    {
+      "word": "Yeah,",
+      "start": 6.32,
+      "end": 6.96
+    },
+    {
+      "word": "it",
+      "start": 7.02,
+      "end": 7.04
+    },
+    {
+      "word": "looks",
+      "start": 7.04,
+      "end": 7.2
+    },
+    {
+      "word": "like",
+      "start": 7.2,
+      "end": 7.46
+    },
+    {
+      "word": "it.",
+      "start": 7.46,
+      "end": 7.56
+    },
+    {
+      "word": "220",
+      "start": 7.78,
+      "end": 8.08
+    },
+    {
+      "word": "kph",
+      "start": 8.08,
+      "end": 8.6
+    },
+    {
+      "word": "27.",
+      "start": 8.6,
+      "end": 9.28
+    },
+    {
+      "word": "That's",
+      "start": 11.1,
+      "end": 11.68
+    },
+    {
+      "word": "your",
+      "start": 11.68,
+      "end": 11.74
+    },
+    {
+      "word": "merit.",
+      "start": 11.74,
+      "end": 11.94
+    },
+    {
+      "word": "100",
+      "start": 13.06,
+      "end": 13.72
+    },
+    {
+      "word": "kph",
+      "start": 13.72,
+      "end": 14.16
+    },
+    {
+      "word": "29.",
+      "start": 14.16,
+      "end": 14.6
+    },
+    {
+      "word": "Sorry,",
+      "start": 15.42,
+      "end": 15.56
+    },
+    {
+      "word": "you",
+      "start": 15.7,
+      "end": 15.74
+    },
+    {
+      "word": "have",
+      "start": 15.74,
+      "end": 15.84
+    },
+    {
+      "word": "no",
+      "start": 15.84,
+      "end": 16.0
+    },
+    {
+      "word": "virtual",
+      "start": 16.0,
+      "end": 16.26
+    },
+    {
+      "word": "merit",
+      "start": 16.26,
+      "end": 16.58
+    },
+    {
+      "word": "question.",
+      "start": 16.58,
+      "end": 16.92
+    },
+    {
+      "word": "Correct.",
+      "start": 17.76,
+      "end": 18.1
+    },
+    {
+      "word": "Copy.",
+      "start": 19.28,
+      "end": 19.74
+    }
+  ],
+  "language": "en",
+  "word_count": 34,
+  "is_empty": false,
+  "is_very_short": false
+}

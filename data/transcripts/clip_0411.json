@@ -1,0 +1,240 @@
+{
+  "clip_id": "clip_0411",
+  "text": "So six ahead, good to go. At least that time is safe, so we can box. A hopper bird behind, seven seconds, completing that Lewis starting at seven seconds. So strut with 13 and more boxpots. Have Lewis at seven seconds, currently P2 is just four...",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "word": "six",
+      "start": 0.56,
+      "end": 0.92
+    },
+    {
+      "word": "ahead,",
+      "start": 0.92,
+      "end": 1.16
+    },
+    {
+      "word": "good",
+      "start": 1.5,
+      "end": 1.86
+    },
+    {
+      "word": "to",
+      "start": 1.86,
+      "end": 2.02
+    },
+    {
+      "word": "go.",
+      "start": 2.02,
+      "end": 2.34
+    },
+    {
+      "word": "At",
+      "start": 3.66,
+      "end": 4.08
+    },
+    {
+      "word": "least",
+      "start": 4.08,
+      "end": 4.22
+    },
+    {
+      "word": "that",
+      "start": 4.22,
+      "end": 4.46
+    },
+    {
+      "word": "time",
+      "start": 4.46,
+      "end": 4.66
+    },
+    {
+      "word": "is",
+      "start": 4.66,
+      "end": 4.8
+    },
+    {
+      "word": "safe,",
+      "start": 4.8,
+      "end": 5.0
+    },
+    {
+      "word": "so",
+      "start": 5.16,
+      "end": 5.28
+    },
+    {
+      "word": "we",
+      "start": 5.28,
+      "end": 5.4
+    },
+    {
+      "word": "can",
+      "start": 5.4,
+      "end": 5.52
+    },
+    {
+      "word": "box.",
+      "start": 5.52,
+      "end": 5.78
+    },
+    {
+      "word": "A",
+      "start": 6.26,
+      "end": 6.38
+    },
+    {
+      "word": "hopper",
+      "start": 6.38,
+      "end": 6.68
+    },
+    {
+      "word": "bird",
+      "start": 6.68,
+      "end": 6.8
+    },
+    {
+      "word": "behind,",
+      "start": 6.8,
+      "end": 7.02
+    },
+    {
+      "word": "seven",
+      "start": 7.18,
+      "end": 7.36
+    },
+    {
+      "word": "seconds,",
+      "start": 7.36,
+      "end": 7.74
+    },
+    {
+      "word": "completing",
+      "start": 7.86,
+      "end": 8.16
+    },
+    {
+      "word": "that",
+      "start": 8.16,
+      "end": 8.46
+    },
+    {
+      "word": "Lewis",
+      "start": 8.46,
+      "end": 8.78
+    },
+    {
+      "word": "starting",
+      "start": 8.78,
+      "end": 9.38
+    },
+    {
+      "word": "at",
+      "start": 9.38,
+      "end": 10.18
+    },
+    {
+      "word": "seven",
+      "start": 10.18,
+      "end": 10.98
+    },
+    {
+      "word": "seconds.",
+      "start": 10.98,
+      "end": 11.7
+    },
+    {
+      "word": "So",
+      "start": 12.58,
+      "end": 13.18
+    },
+    {
+      "word": "strut",
+      "start": 13.18,
+      "end": 13.42
+    },
+    {
+      "word": "with",
+      "start": 13.42,
+      "end": 13.54
+    },
+    {
+      "word": "13",
+      "start": 13.54,
+      "end": 14.02
+    },
+    {
+      "word": "and",
+      "start": 14.02,
+      "end": 14.2
+    },
+    {
+      "word": "more",
+      "start": 14.2,
+      "end": 14.3
+    },
+    {
+      "word": "boxpots.",
+      "start": 14.3,
+      "end": 14.9
+    },
+    {
+      "word": "Have",
+      "start": 16.1,
+      "end": 16.66
+    },
+    {
+      "word": "Lewis",
+      "start": 16.66,
+      "end": 16.86
+    },
+    {
+      "word": "at",
+      "start": 16.86,
+      "end": 17.08
+    },
+    {
+      "word": "seven",
+      "start": 17.08,
+      "end": 17.38
+    },
+    {
+      "word": "seconds,",
+      "start": 17.38,
+      "end": 17.84
+    },
+    {
+      "word": "currently",
+      "start": 18.08,
+      "end": 18.38
+    },
+    {
+      "word": "P2",
+      "start": 18.38,
+      "end": 18.86
+    },
+    {
+      "word": "is",
+      "start": 18.86,
+      "end": 19.02
+    },
+    {
+      "word": "just",
+      "start": 19.02,
+      "end": 19.2
+    },
+    {
+      "word": "four...",
+      "start": 19.2,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 46,
+  "is_empty": false,
+  "is_very_short": false
+}

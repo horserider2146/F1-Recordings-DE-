@@ -1,0 +1,20 @@
+{
+  "clip_id": "clip_0220",
+  "text": "Thank you.",
+  "words": [
+    {
+      "word": "Thank",
+      "start": 0.0,
+      "end": 0.94
+    },
+    {
+      "word": "you.",
+      "start": 0.94,
+      "end": 1.12
+    }
+  ],
+  "language": "en",
+  "word_count": 2,
+  "is_empty": false,
+  "is_very_short": true
+}

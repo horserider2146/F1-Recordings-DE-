@@ -1,0 +1,150 @@
+{
+  "clip_id": "clip_0859",
+  "text": "Last lap, well done. Okay, Olli, now we have the A9 position 4 for more recharge. Copy. Captain, Astrid. 7.5. Really good laps, Olli, really good laps.",
+  "words": [
+    {
+      "word": "Last",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "lap,",
+      "start": 0.32,
+      "end": 0.6
+    },
+    {
+      "word": "well",
+      "start": 0.72,
+      "end": 0.88
+    },
+    {
+      "word": "done.",
+      "start": 0.88,
+      "end": 1.2
+    },
+    {
+      "word": "Okay,",
+      "start": 2.72,
+      "end": 3.3
+    },
+    {
+      "word": "Olli,",
+      "start": 3.46,
+      "end": 3.6
+    },
+    {
+      "word": "now",
+      "start": 3.82,
+      "end": 3.9
+    },
+    {
+      "word": "we",
+      "start": 3.9,
+      "end": 4.02
+    },
+    {
+      "word": "have",
+      "start": 4.02,
+      "end": 4.14
+    },
+    {
+      "word": "the",
+      "start": 4.14,
+      "end": 4.5
+    },
+    {
+      "word": "A9",
+      "start": 4.5,
+      "end": 5.66
+    },
+    {
+      "word": "position",
+      "start": 5.66,
+      "end": 6.16
+    },
+    {
+      "word": "4",
+      "start": 6.16,
+      "end": 6.64
+    },
+    {
+      "word": "for",
+      "start": 6.64,
+      "end": 7.26
+    },
+    {
+      "word": "more",
+      "start": 7.26,
+      "end": 7.44
+    },
+    {
+      "word": "recharge.",
+      "start": 7.44,
+      "end": 7.84
+    },
+    {
+      "word": "Copy.",
+      "start": 10.52,
+      "end": 11.1
+    },
+    {
+      "word": "Captain,",
+      "start": 13.24,
+      "end": 13.82
+    },
+    {
+      "word": "Astrid.",
+      "start": 13.96,
+      "end": 14.26
+    },
+    {
+      "word": "7",
+      "start": 15.12,
+      "end": 15.68
+    },
+    {
+      "word": ".5.",
+      "start": 15.68,
+      "end": 16.24
+    },
+    {
+      "word": "Really",
+      "start": 18.1,
+      "end": 18.68
+    },
+    {
+      "word": "good",
+      "start": 18.68,
+      "end": 18.86
+    },
+    {
+      "word": "laps,",
+      "start": 18.86,
+      "end": 19.08
+    },
+    {
+      "word": "Olli,",
+      "start": 19.2,
+      "end": 19.3
+    },
+    {
+      "word": "really",
+      "start": 19.38,
+      "end": 19.5
+    },
+    {
+      "word": "good",
+      "start": 19.5,
+      "end": 19.64
+    },
+    {
+      "word": "laps.",
+      "start": 19.64,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 27,
+  "is_empty": false,
+  "is_very_short": false
+}

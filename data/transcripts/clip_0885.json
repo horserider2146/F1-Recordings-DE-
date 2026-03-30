@@ -1,0 +1,95 @@
+{
+  "clip_id": "clip_0885",
+  "text": "Maybe a couple of notes on tracks, all the SM ports are all back in place now.",
+  "words": [
+    {
+      "word": "Maybe",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "a",
+      "start": 0.22,
+      "end": 0.38
+    },
+    {
+      "word": "couple",
+      "start": 0.38,
+      "end": 0.54
+    },
+    {
+      "word": "of",
+      "start": 0.54,
+      "end": 0.66
+    },
+    {
+      "word": "notes",
+      "start": 0.66,
+      "end": 0.84
+    },
+    {
+      "word": "on",
+      "start": 0.84,
+      "end": 1.02
+    },
+    {
+      "word": "tracks,",
+      "start": 1.02,
+      "end": 1.38
+    },
+    {
+      "word": "all",
+      "start": 1.56,
+      "end": 1.68
+    },
+    {
+      "word": "the",
+      "start": 1.68,
+      "end": 1.86
+    },
+    {
+      "word": "SM",
+      "start": 1.86,
+      "end": 2.54
+    },
+    {
+      "word": "ports",
+      "start": 2.54,
+      "end": 2.88
+    },
+    {
+      "word": "are",
+      "start": 2.88,
+      "end": 3.08
+    },
+    {
+      "word": "all",
+      "start": 3.08,
+      "end": 3.18
+    },
+    {
+      "word": "back",
+      "start": 3.18,
+      "end": 3.42
+    },
+    {
+      "word": "in",
+      "start": 3.42,
+      "end": 3.66
+    },
+    {
+      "word": "place",
+      "start": 3.66,
+      "end": 3.92
+    },
+    {
+      "word": "now.",
+      "start": 3.92,
+      "end": 4.18
+    }
+  ],
+  "language": "en",
+  "word_count": 17,
+  "is_empty": false,
+  "is_very_short": false
+}

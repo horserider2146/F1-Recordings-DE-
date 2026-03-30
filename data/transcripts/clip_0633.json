@@ -1,0 +1,215 @@
+{
+  "clip_id": "clip_0633",
+  "text": "The bearman is opening a lap on the line now. Three behind, two behind now. The truck is clear behind, you know. You can go easy on power. And turn it very slow around you there. You can go charge off.",
+  "words": [
+    {
+      "word": "The",
+      "start": 1.2,
+      "end": 1.72
+    },
+    {
+      "word": "bearman",
+      "start": 1.72,
+      "end": 2.04
+    },
+    {
+      "word": "is",
+      "start": 2.04,
+      "end": 2.24
+    },
+    {
+      "word": "opening",
+      "start": 2.24,
+      "end": 2.84
+    },
+    {
+      "word": "a",
+      "start": 2.84,
+      "end": 3.04
+    },
+    {
+      "word": "lap",
+      "start": 3.04,
+      "end": 3.14
+    },
+    {
+      "word": "on",
+      "start": 3.14,
+      "end": 3.4
+    },
+    {
+      "word": "the",
+      "start": 3.4,
+      "end": 3.52
+    },
+    {
+      "word": "line",
+      "start": 3.52,
+      "end": 3.72
+    },
+    {
+      "word": "now.",
+      "start": 3.72,
+      "end": 3.98
+    },
+    {
+      "word": "Three",
+      "start": 4.3,
+      "end": 4.56
+    },
+    {
+      "word": "behind,",
+      "start": 4.56,
+      "end": 5.0
+    },
+    {
+      "word": "two",
+      "start": 5.14,
+      "end": 5.22
+    },
+    {
+      "word": "behind",
+      "start": 5.22,
+      "end": 5.5
+    },
+    {
+      "word": "now.",
+      "start": 5.5,
+      "end": 5.76
+    },
+    {
+      "word": "The",
+      "start": 7.3,
+      "end": 7.82
+    },
+    {
+      "word": "truck",
+      "start": 7.82,
+      "end": 7.92
+    },
+    {
+      "word": "is",
+      "start": 7.92,
+      "end": 8.12
+    },
+    {
+      "word": "clear",
+      "start": 8.12,
+      "end": 8.32
+    },
+    {
+      "word": "behind,",
+      "start": 8.32,
+      "end": 8.6
+    },
+    {
+      "word": "you",
+      "start": 8.72,
+      "end": 8.76
+    },
+    {
+      "word": "know.",
+      "start": 8.76,
+      "end": 8.84
+    },
+    {
+      "word": "You",
+      "start": 10.78,
+      "end": 11.04
+    },
+    {
+      "word": "can",
+      "start": 11.04,
+      "end": 11.16
+    },
+    {
+      "word": "go",
+      "start": 11.16,
+      "end": 11.3
+    },
+    {
+      "word": "easy",
+      "start": 11.3,
+      "end": 11.62
+    },
+    {
+      "word": "on",
+      "start": 11.62,
+      "end": 11.84
+    },
+    {
+      "word": "power.",
+      "start": 11.84,
+      "end": 12.2
+    },
+    {
+      "word": "And",
+      "start": 13.32,
+      "end": 13.84
+    },
+    {
+      "word": "turn",
+      "start": 13.84,
+      "end": 13.98
+    },
+    {
+      "word": "it",
+      "start": 13.98,
+      "end": 14.06
+    },
+    {
+      "word": "very",
+      "start": 14.06,
+      "end": 14.22
+    },
+    {
+      "word": "slow",
+      "start": 14.22,
+      "end": 14.64
+    },
+    {
+      "word": "around",
+      "start": 14.64,
+      "end": 14.96
+    },
+    {
+      "word": "you",
+      "start": 14.96,
+      "end": 15.12
+    },
+    {
+      "word": "there.",
+      "start": 15.12,
+      "end": 15.3
+    },
+    {
+      "word": "You",
+      "start": 16.82,
+      "end": 17.34
+    },
+    {
+      "word": "can",
+      "start": 17.34,
+      "end": 17.48
+    },
+    {
+      "word": "go",
+      "start": 17.48,
+      "end": 17.62
+    },
+    {
+      "word": "charge",
+      "start": 17.62,
+      "end": 17.92
+    },
+    {
+      "word": "off.",
+      "start": 17.92,
+      "end": 18.14
+    }
+  ],
+  "language": "en",
+  "word_count": 41,
+  "is_empty": false,
+  "is_very_short": false
+}

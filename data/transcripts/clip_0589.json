@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0589",
+  "text": "A4, K2, K2. Overtake, we have overtake. Slide down and now focus on tires. And you have overtake and mode FW and boost on the main state. We are on plan.",
+  "words": [
+    {
+      "word": "A4,",
+      "start": 0.98,
+      "end": 1.54
+    },
+    {
+      "word": "K2,",
+      "start": 1.78,
+      "end": 2.14
+    },
+    {
+      "word": "K2.",
+      "start": 2.32,
+      "end": 3.38
+    },
+    {
+      "word": "Overtake,",
+      "start": 4.72,
+      "end": 5.28
+    },
+    {
+      "word": "we",
+      "start": 5.52,
+      "end": 5.58
+    },
+    {
+      "word": "have",
+      "start": 5.58,
+      "end": 5.7
+    },
+    {
+      "word": "overtake.",
+      "start": 5.7,
+      "end": 6.24
+    },
+    {
+      "word": "Slide",
+      "start": 8.22,
+      "end": 8.78
+    },
+    {
+      "word": "down",
+      "start": 8.78,
+      "end": 9.1
+    },
+    {
+      "word": "and",
+      "start": 9.1,
+      "end": 9.68
+    },
+    {
+      "word": "now",
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "word": "focus",
+      "start": 9.92,
+      "end": 10.26
+    },
+    {
+      "word": "on",
+      "start": 10.26,
+      "end": 10.52
+    },
+    {
+      "word": "tires.",
+      "start": 10.52,
+      "end": 10.8
+    },
+    {
+      "word": "And",
+      "start": 12.4,
+      "end": 12.66
+    },
+    {
+      "word": "you",
+      "start": 12.66,
+      "end": 12.78
+    },
+    {
+      "word": "have",
+      "start": 12.78,
+      "end": 12.92
+    },
+    {
+      "word": "overtake",
+      "start": 12.92,
+      "end": 13.46
+    },
+    {
+      "word": "and",
+      "start": 13.46,
+      "end": 14.88
+    },
+    {
+      "word": "mode",
+      "start": 14.88,
+      "end": 15.12
+    },
+    {
+      "word": "FW",
+      "start": 15.12,
+      "end": 15.84
+    },
+    {
+      "word": "and",
+      "start": 15.84,
+      "end": 16.42
+    },
+    {
+      "word": "boost",
+      "start": 16.42,
+      "end": 16.7
+    },
+    {
+      "word": "on",
+      "start": 16.7,
+      "end": 17.16
+    },
+    {
+      "word": "the",
+      "start": 17.16,
+      "end": 17.28
+    },
+    {
+      "word": "main",
+      "start": 17.28,
+      "end": 17.42
+    },
+    {
+      "word": "state.",
+      "start": 17.42,
+      "end": 17.68
+    },
+    {
+      "word": "We",
+      "start": 19.02,
+      "end": 19.46
+    },
+    {
+      "word": "are",
+      "start": 19.46,
+      "end": 19.58
+    },
+    {
+      "word": "on",
+      "start": 19.58,
+      "end": 19.68
+    },
+    {
+      "word": "plan.",
+      "start": 19.68,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

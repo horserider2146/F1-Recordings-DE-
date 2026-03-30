@@ -1,0 +1,185 @@
+{
+  "clip_id": "clip_0843",
+  "text": "Stop, turn three. Safety car, safety car, safety car, mode safety car, mode safety car. Blocks? Yeah, we'll stop by the box. And you know what pirate is. Well, obviously it's a hard. Yeah, and...",
+  "words": [
+    {
+      "word": "Stop,",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "turn",
+      "start": 0.44,
+      "end": 0.76
+    },
+    {
+      "word": "three.",
+      "start": 0.76,
+      "end": 1.24
+    },
+    {
+      "word": "Safety",
+      "start": 2.94,
+      "end": 3.42
+    },
+    {
+      "word": "car,",
+      "start": 3.42,
+      "end": 3.72
+    },
+    {
+      "word": "safety",
+      "start": 3.84,
+      "end": 3.96
+    },
+    {
+      "word": "car,",
+      "start": 3.96,
+      "end": 4.3
+    },
+    {
+      "word": "safety",
+      "start": 4.42,
+      "end": 4.5
+    },
+    {
+      "word": "car,",
+      "start": 4.5,
+      "end": 4.8
+    },
+    {
+      "word": "mode",
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "word": "safety",
+      "start": 5.04,
+      "end": 5.3
+    },
+    {
+      "word": "car,",
+      "start": 5.3,
+      "end": 5.7
+    },
+    {
+      "word": "mode",
+      "start": 5.76,
+      "end": 5.88
+    },
+    {
+      "word": "safety",
+      "start": 5.88,
+      "end": 6.08
+    },
+    {
+      "word": "car.",
+      "start": 6.08,
+      "end": 6.48
+    },
+    {
+      "word": "Blocks?",
+      "start": 8.6,
+      "end": 9.08
+    },
+    {
+      "word": "Yeah,",
+      "start": 9.8,
+      "end": 10.08
+    },
+    {
+      "word": "we'll",
+      "start": 10.2,
+      "end": 10.3
+    },
+    {
+      "word": "stop",
+      "start": 10.3,
+      "end": 10.48
+    },
+    {
+      "word": "by",
+      "start": 10.48,
+      "end": 10.68
+    },
+    {
+      "word": "the",
+      "start": 10.68,
+      "end": 10.76
+    },
+    {
+      "word": "box.",
+      "start": 10.76,
+      "end": 10.98
+    },
+    {
+      "word": "And",
+      "start": 12.84,
+      "end": 13.26
+    },
+    {
+      "word": "you",
+      "start": 13.26,
+      "end": 13.38
+    },
+    {
+      "word": "know",
+      "start": 13.38,
+      "end": 13.46
+    },
+    {
+      "word": "what",
+      "start": 13.46,
+      "end": 13.6
+    },
+    {
+      "word": "pirate",
+      "start": 13.6,
+      "end": 13.86
+    },
+    {
+      "word": "is.",
+      "start": 13.86,
+      "end": 14.14
+    },
+    {
+      "word": "Well,",
+      "start": 15.72,
+      "end": 16.16
+    },
+    {
+      "word": "obviously",
+      "start": 16.3,
+      "end": 16.58
+    },
+    {
+      "word": "it's",
+      "start": 16.58,
+      "end": 16.8
+    },
+    {
+      "word": "a",
+      "start": 16.8,
+      "end": 16.86
+    },
+    {
+      "word": "hard.",
+      "start": 16.86,
+      "end": 17.06
+    },
+    {
+      "word": "Yeah,",
+      "start": 18.4,
+      "end": 18.88
+    },
+    {
+      "word": "and...",
+      "start": 18.88,
+      "end": 19.36
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

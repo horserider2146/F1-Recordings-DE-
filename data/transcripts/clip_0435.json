@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_0435",
+  "text": "and can be ready to check from the garage.",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "can",
+      "start": 0.24,
+      "end": 0.54
+    },
+    {
+      "word": "be",
+      "start": 0.54,
+      "end": 0.64
+    },
+    {
+      "word": "ready",
+      "start": 0.64,
+      "end": 0.84
+    },
+    {
+      "word": "to",
+      "start": 0.84,
+      "end": 0.92
+    },
+    {
+      "word": "check",
+      "start": 0.92,
+      "end": 1.12
+    },
+    {
+      "word": "from",
+      "start": 1.12,
+      "end": 1.26
+    },
+    {
+      "word": "the",
+      "start": 1.26,
+      "end": 1.34
+    },
+    {
+      "word": "garage.",
+      "start": 1.34,
+      "end": 1.72
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

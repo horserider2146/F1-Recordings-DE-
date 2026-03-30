@@ -1,0 +1,140 @@
+{
+  "clip_id": "clip_0865",
+  "text": "half and five seconds. Yeah, really good laps, Ollie. Max 2.8, Gasly 5. Okay, Ollie, can we help anyone on Google since 13 to go.",
+  "words": [
+    {
+      "word": "half",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "and",
+      "start": 0.2,
+      "end": 0.36
+    },
+    {
+      "word": "five",
+      "start": 0.36,
+      "end": 0.68
+    },
+    {
+      "word": "seconds.",
+      "start": 0.68,
+      "end": 1.08
+    },
+    {
+      "word": "Yeah,",
+      "start": 2.58,
+      "end": 3.1
+    },
+    {
+      "word": "really",
+      "start": 3.18,
+      "end": 3.36
+    },
+    {
+      "word": "good",
+      "start": 3.36,
+      "end": 3.5
+    },
+    {
+      "word": "laps,",
+      "start": 3.5,
+      "end": 3.74
+    },
+    {
+      "word": "Ollie.",
+      "start": 3.88,
+      "end": 3.98
+    },
+    {
+      "word": "Max",
+      "start": 5.72,
+      "end": 6.24
+    },
+    {
+      "word": "2",
+      "start": 6.24,
+      "end": 6.5
+    },
+    {
+      "word": ".8,",
+      "start": 6.5,
+      "end": 7.02
+    },
+    {
+      "word": "Gasly",
+      "start": 7.3,
+      "end": 7.66
+    },
+    {
+      "word": "5.",
+      "start": 7.66,
+      "end": 7.94
+    },
+    {
+      "word": "Okay,",
+      "start": 8.96,
+      "end": 9.44
+    },
+    {
+      "word": "Ollie,",
+      "start": 9.52,
+      "end": 9.62
+    },
+    {
+      "word": "can",
+      "start": 9.68,
+      "end": 9.78
+    },
+    {
+      "word": "we",
+      "start": 9.78,
+      "end": 9.86
+    },
+    {
+      "word": "help",
+      "start": 9.86,
+      "end": 10.06
+    },
+    {
+      "word": "anyone",
+      "start": 10.06,
+      "end": 10.26
+    },
+    {
+      "word": "on",
+      "start": 10.26,
+      "end": 10.64
+    },
+    {
+      "word": "Google",
+      "start": 10.64,
+      "end": 10.98
+    },
+    {
+      "word": "since",
+      "start": 10.98,
+      "end": 11.26
+    },
+    {
+      "word": "13",
+      "start": 11.26,
+      "end": 11.74
+    },
+    {
+      "word": "to",
+      "start": 11.74,
+      "end": 11.92
+    },
+    {
+      "word": "go.",
+      "start": 11.92,
+      "end": 12.04
+    }
+  ],
+  "language": "en",
+  "word_count": 25,
+  "is_empty": false,
+  "is_very_short": false
+}

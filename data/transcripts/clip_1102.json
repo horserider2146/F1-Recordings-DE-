@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_1102",
+  "text": "Double yellow, truck clear, up to bot as 2.5 I pressed blue button earlier for corner 14 Ocon car behind has got damage and Alonso has retired Middle of corner 2 there are debris from Ocon",
+  "words": [
+    {
+      "word": "Double",
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "word": "yellow,",
+      "start": 0.42,
+      "end": 0.7
+    },
+    {
+      "word": "truck",
+      "start": 1.5,
+      "end": 2.44
+    },
+    {
+      "word": "clear,",
+      "start": 2.44,
+      "end": 2.74
+    },
+    {
+      "word": "up",
+      "start": 3.82,
+      "end": 4.18
+    },
+    {
+      "word": "to",
+      "start": 4.18,
+      "end": 4.32
+    },
+    {
+      "word": "bot",
+      "start": 4.32,
+      "end": 4.46
+    },
+    {
+      "word": "as",
+      "start": 4.46,
+      "end": 4.62
+    },
+    {
+      "word": "2",
+      "start": 4.62,
+      "end": 4.8
+    },
+    {
+      "word": ".5",
+      "start": 4.8,
+      "end": 5.36
+    },
+    {
+      "word": "I",
+      "start": 6.66,
+      "end": 7.26
+    },
+    {
+      "word": "pressed",
+      "start": 7.26,
+      "end": 7.58
+    },
+    {
+      "word": "blue",
+      "start": 7.58,
+      "end": 7.84
+    },
+    {
+      "word": "button",
+      "start": 7.84,
+      "end": 8.1
+    },
+    {
+      "word": "earlier",
+      "start": 8.1,
+      "end": 8.42
+    },
+    {
+      "word": "for",
+      "start": 8.42,
+      "end": 8.7
+    },
+    {
+      "word": "corner",
+      "start": 8.7,
+      "end": 8.88
+    },
+    {
+      "word": "14",
+      "start": 8.88,
+      "end": 9.6
+    },
+    {
+      "word": "Ocon",
+      "start": 11.38,
+      "end": 11.98
+    },
+    {
+      "word": "car",
+      "start": 11.98,
+      "end": 12.24
+    },
+    {
+      "word": "behind",
+      "start": 12.24,
+      "end": 12.6
+    },
+    {
+      "word": "has",
+      "start": 12.6,
+      "end": 12.76
+    },
+    {
+      "word": "got",
+      "start": 12.76,
+      "end": 12.94
+    },
+    {
+      "word": "damage",
+      "start": 12.94,
+      "end": 13.36
+    },
+    {
+      "word": "and",
+      "start": 13.36,
+      "end": 13.76
+    },
+    {
+      "word": "Alonso",
+      "start": 13.76,
+      "end": 14.16
+    },
+    {
+      "word": "has",
+      "start": 14.16,
+      "end": 14.28
+    },
+    {
+      "word": "retired",
+      "start": 14.28,
+      "end": 14.68
+    },
+    {
+      "word": "Middle",
+      "start": 15.98,
+      "end": 16.58
+    },
+    {
+      "word": "of",
+      "start": 16.58,
+      "end": 16.76
+    },
+    {
+      "word": "corner",
+      "start": 16.76,
+      "end": 16.98
+    },
+    {
+      "word": "2",
+      "start": 16.98,
+      "end": 17.32
+    },
+    {
+      "word": "there",
+      "start": 17.32,
+      "end": 17.48
+    },
+    {
+      "word": "are",
+      "start": 17.48,
+      "end": 17.58
+    },
+    {
+      "word": "debris",
+      "start": 17.58,
+      "end": 17.86
+    },
+    {
+      "word": "from",
+      "start": 17.86,
+      "end": 18.14
+    },
+    {
+      "word": "Ocon",
+      "start": 18.14,
+      "end": 18.46
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}

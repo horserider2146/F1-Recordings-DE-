@@ -1,0 +1,145 @@
+{
+  "clip_id": "clip_0395",
+  "text": "3, 4 Copy W Yellow turn 3 Saves car window Now we are in saves car window Just make clear though Maybe some debris That's 2, 3",
+  "words": [
+    {
+      "word": "3,",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "4",
+      "start": 0.16,
+      "end": 0.4
+    },
+    {
+      "word": "Copy",
+      "start": 2.38,
+      "end": 2.88
+    },
+    {
+      "word": "W",
+      "start": 4.6,
+      "end": 5.1
+    },
+    {
+      "word": "Yellow",
+      "start": 5.1,
+      "end": 5.34
+    },
+    {
+      "word": "turn",
+      "start": 5.34,
+      "end": 5.58
+    },
+    {
+      "word": "3",
+      "start": 5.58,
+      "end": 5.98
+    },
+    {
+      "word": "Saves",
+      "start": 6.78,
+      "end": 7.28
+    },
+    {
+      "word": "car",
+      "start": 7.28,
+      "end": 7.48
+    },
+    {
+      "word": "window",
+      "start": 7.48,
+      "end": 7.68
+    },
+    {
+      "word": "Now",
+      "start": 7.68,
+      "end": 8.44
+    },
+    {
+      "word": "we",
+      "start": 8.44,
+      "end": 8.64
+    },
+    {
+      "word": "are",
+      "start": 8.64,
+      "end": 8.74
+    },
+    {
+      "word": "in",
+      "start": 8.74,
+      "end": 8.92
+    },
+    {
+      "word": "saves",
+      "start": 8.92,
+      "end": 9.16
+    },
+    {
+      "word": "car",
+      "start": 9.16,
+      "end": 9.42
+    },
+    {
+      "word": "window",
+      "start": 9.42,
+      "end": 9.72
+    },
+    {
+      "word": "Just",
+      "start": 9.72,
+      "end": 10.34
+    },
+    {
+      "word": "make",
+      "start": 10.34,
+      "end": 10.52
+    },
+    {
+      "word": "clear",
+      "start": 10.52,
+      "end": 10.76
+    },
+    {
+      "word": "though",
+      "start": 10.76,
+      "end": 11.14
+    },
+    {
+      "word": "Maybe",
+      "start": 15.46,
+      "end": 15.96
+    },
+    {
+      "word": "some",
+      "start": 15.96,
+      "end": 16.46
+    },
+    {
+      "word": "debris",
+      "start": 16.46,
+      "end": 16.84
+    },
+    {
+      "word": "That's",
+      "start": 16.84,
+      "end": 17.44
+    },
+    {
+      "word": "2,",
+      "start": 17.44,
+      "end": 17.66
+    },
+    {
+      "word": "3",
+      "start": 17.68,
+      "end": 18.02
+    }
+  ],
+  "language": "en",
+  "word_count": 27,
+  "is_empty": false,
+  "is_very_short": false
+}

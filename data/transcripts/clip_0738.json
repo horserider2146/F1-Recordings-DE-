@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0738",
+  "text": "Okay understood, we'll have a look on our side as well.",
+  "words": [
+    {
+      "word": "Okay",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "understood,",
+      "start": 0.2,
+      "end": 0.66
+    },
+    {
+      "word": "we'll",
+      "start": 1.02,
+      "end": 1.26
+    },
+    {
+      "word": "have",
+      "start": 1.26,
+      "end": 1.4
+    },
+    {
+      "word": "a",
+      "start": 1.4,
+      "end": 1.5
+    },
+    {
+      "word": "look",
+      "start": 1.5,
+      "end": 1.58
+    },
+    {
+      "word": "on",
+      "start": 1.58,
+      "end": 1.76
+    },
+    {
+      "word": "our",
+      "start": 1.76,
+      "end": 1.88
+    },
+    {
+      "word": "side",
+      "start": 1.88,
+      "end": 2.04
+    },
+    {
+      "word": "as",
+      "start": 2.04,
+      "end": 2.16
+    },
+    {
+      "word": "well.",
+      "start": 2.16,
+      "end": 2.3
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

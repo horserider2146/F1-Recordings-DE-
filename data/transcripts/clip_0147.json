@@ -1,0 +1,160 @@
+{
+  "clip_id": "clip_0147",
+  "text": "Sir. Purple button on. Purple button on. What's up, I need complexion 1. Closing time 848. Go. No. Total middle turn 1. Okay, perfect closing time. Total middle turn 1.",
+  "words": [
+    {
+      "word": "Sir.",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "Purple",
+      "start": 2.02,
+      "end": 2.76
+    },
+    {
+      "word": "button",
+      "start": 2.76,
+      "end": 3.5
+    },
+    {
+      "word": "on.",
+      "start": 3.5,
+      "end": 4.02
+    },
+    {
+      "word": "Purple",
+      "start": 4.3,
+      "end": 4.74
+    },
+    {
+      "word": "button",
+      "start": 4.74,
+      "end": 5.4
+    },
+    {
+      "word": "on.",
+      "start": 5.4,
+      "end": 5.96
+    },
+    {
+      "word": "What's",
+      "start": 6.8,
+      "end": 7.4
+    },
+    {
+      "word": "up,",
+      "start": 7.4,
+      "end": 7.46
+    },
+    {
+      "word": "I",
+      "start": 7.7,
+      "end": 7.82
+    },
+    {
+      "word": "need",
+      "start": 7.82,
+      "end": 7.96
+    },
+    {
+      "word": "complexion",
+      "start": 7.96,
+      "end": 8.7
+    },
+    {
+      "word": "1.",
+      "start": 8.7,
+      "end": 9.0
+    },
+    {
+      "word": "Closing",
+      "start": 10.54,
+      "end": 11.28
+    },
+    {
+      "word": "time",
+      "start": 11.28,
+      "end": 11.5
+    },
+    {
+      "word": "848.",
+      "start": 11.5,
+      "end": 12.34
+    },
+    {
+      "word": "Go.",
+      "start": 12.68,
+      "end": 12.72
+    },
+    {
+      "word": "No.",
+      "start": 13.32,
+      "end": 13.52
+    },
+    {
+      "word": "Total",
+      "start": 13.9,
+      "end": 14.14
+    },
+    {
+      "word": "middle",
+      "start": 14.14,
+      "end": 14.5
+    },
+    {
+      "word": "turn",
+      "start": 14.5,
+      "end": 14.82
+    },
+    {
+      "word": "1.",
+      "start": 14.82,
+      "end": 15.34
+    },
+    {
+      "word": "Okay,",
+      "start": 16.85,
+      "end": 17.22
+    },
+    {
+      "word": "perfect",
+      "start": 17.34,
+      "end": 17.58
+    },
+    {
+      "word": "closing",
+      "start": 17.58,
+      "end": 18.06
+    },
+    {
+      "word": "time.",
+      "start": 18.06,
+      "end": 18.3
+    },
+    {
+      "word": "Total",
+      "start": 18.7,
+      "end": 19.02
+    },
+    {
+      "word": "middle",
+      "start": 19.02,
+      "end": 19.4
+    },
+    {
+      "word": "turn",
+      "start": 19.4,
+      "end": 19.62
+    },
+    {
+      "word": "1.",
+      "start": 19.62,
+      "end": 19.82
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_1032",
+  "text": "I'm glad. Try mode FW and boost on the main straight.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 13.9,
+      "end": 14.42
+    },
+    {
+      "word": "glad.",
+      "start": 14.42,
+      "end": 14.68
+    },
+    {
+      "word": "Try",
+      "start": 15.08,
+      "end": 15.4
+    },
+    {
+      "word": "mode",
+      "start": 15.4,
+      "end": 15.64
+    },
+    {
+      "word": "FW",
+      "start": 15.64,
+      "end": 16.1
+    },
+    {
+      "word": "and",
+      "start": 16.1,
+      "end": 16.88
+    },
+    {
+      "word": "boost",
+      "start": 16.88,
+      "end": 17.12
+    },
+    {
+      "word": "on",
+      "start": 17.12,
+      "end": 17.3
+    },
+    {
+      "word": "the",
+      "start": 17.3,
+      "end": 17.38
+    },
+    {
+      "word": "main",
+      "start": 17.38,
+      "end": 17.52
+    },
+    {
+      "word": "straight.",
+      "start": 17.52,
+      "end": 17.74
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

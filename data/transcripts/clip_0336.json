@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_0336",
+  "text": "build your gap on this exit",
+  "words": [
+    {
+      "word": "build",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "word": "your",
+      "start": 0.54,
+      "end": 0.9
+    },
+    {
+      "word": "gap",
+      "start": 0.9,
+      "end": 1.74
+    },
+    {
+      "word": "on",
+      "start": 1.74,
+      "end": 2.04
+    },
+    {
+      "word": "this",
+      "start": 2.04,
+      "end": 2.28
+    },
+    {
+      "word": "exit",
+      "start": 2.28,
+      "end": 2.54
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

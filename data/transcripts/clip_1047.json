@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_1047",
+  "text": "I will work your brakes, let lean block go. And next car pushing is Holkenberg, there is three behind you pushing. Mode push and good to go. It will be purple button on, purple button on. What's for Colapinto is the first car.",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.86,
+      "end": 1.38
+    },
+    {
+      "word": "will",
+      "start": 1.38,
+      "end": 1.54
+    },
+    {
+      "word": "work",
+      "start": 1.54,
+      "end": 1.86
+    },
+    {
+      "word": "your",
+      "start": 1.86,
+      "end": 2.02
+    },
+    {
+      "word": "brakes,",
+      "start": 2.02,
+      "end": 2.3
+    },
+    {
+      "word": "let",
+      "start": 2.86,
+      "end": 3.08
+    },
+    {
+      "word": "lean",
+      "start": 3.08,
+      "end": 3.26
+    },
+    {
+      "word": "block",
+      "start": 3.26,
+      "end": 3.44
+    },
+    {
+      "word": "go.",
+      "start": 3.44,
+      "end": 3.78
+    },
+    {
+      "word": "And",
+      "start": 5.52,
+      "end": 6.04
+    },
+    {
+      "word": "next",
+      "start": 6.04,
+      "end": 6.26
+    },
+    {
+      "word": "car",
+      "start": 6.26,
+      "end": 6.46
+    },
+    {
+      "word": "pushing",
+      "start": 6.46,
+      "end": 6.68
+    },
+    {
+      "word": "is",
+      "start": 6.68,
+      "end": 6.88
+    },
+    {
+      "word": "Holkenberg,",
+      "start": 6.88,
+      "end": 7.36
+    },
+    {
+      "word": "there",
+      "start": 7.44,
+      "end": 7.58
+    },
+    {
+      "word": "is",
+      "start": 7.58,
+      "end": 7.64
+    },
+    {
+      "word": "three",
+      "start": 7.64,
+      "end": 7.76
+    },
+    {
+      "word": "behind",
+      "start": 7.76,
+      "end": 8.04
+    },
+    {
+      "word": "you",
+      "start": 8.04,
+      "end": 8.22
+    },
+    {
+      "word": "pushing.",
+      "start": 8.22,
+      "end": 8.52
+    },
+    {
+      "word": "Mode",
+      "start": 9.72,
+      "end": 10.24
+    },
+    {
+      "word": "push",
+      "start": 10.24,
+      "end": 10.66
+    },
+    {
+      "word": "and",
+      "start": 10.66,
+      "end": 12.08
+    },
+    {
+      "word": "good",
+      "start": 12.08,
+      "end": 12.26
+    },
+    {
+      "word": "to",
+      "start": 12.26,
+      "end": 12.36
+    },
+    {
+      "word": "go.",
+      "start": 12.36,
+      "end": 12.58
+    },
+    {
+      "word": "It",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "will",
+      "start": 14.12,
+      "end": 14.56
+    },
+    {
+      "word": "be",
+      "start": 14.56,
+      "end": 14.68
+    },
+    {
+      "word": "purple",
+      "start": 14.68,
+      "end": 15.12
+    },
+    {
+      "word": "button",
+      "start": 15.12,
+      "end": 15.5
+    },
+    {
+      "word": "on,",
+      "start": 15.5,
+      "end": 15.76
+    },
+    {
+      "word": "purple",
+      "start": 15.98,
+      "end": 16.54
+    },
+    {
+      "word": "button",
+      "start": 16.54,
+      "end": 16.9
+    },
+    {
+      "word": "on.",
+      "start": 16.9,
+      "end": 17.16
+    },
+    {
+      "word": "What's",
+      "start": 17.56,
+      "end": 17.86
+    },
+    {
+      "word": "for",
+      "start": 17.86,
+      "end": 18.0
+    },
+    {
+      "word": "Colapinto",
+      "start": 18.0,
+      "end": 18.54
+    },
+    {
+      "word": "is",
+      "start": 18.54,
+      "end": 18.78
+    },
+    {
+      "word": "the",
+      "start": 18.78,
+      "end": 18.92
+    },
+    {
+      "word": "first",
+      "start": 18.92,
+      "end": 19.14
+    },
+    {
+      "word": "car.",
+      "start": 19.14,
+      "end": 19.4
+    }
+  ],
+  "language": "en",
+  "word_count": 43,
+  "is_empty": false,
+  "is_very_short": false
+}

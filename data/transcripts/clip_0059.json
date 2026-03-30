@@ -1,0 +1,270 @@
+{
+  "clip_id": "clip_0059",
+  "text": "Ok, good job, we are safe. Stay negative on your wings. Yes, of course. Yeah, I thought I got more grip on our lap. Ok, copy that. We think we are mid-touching all the tires. We have a thing for the next startup. We'd like to be of different. Yeah, copy.",
+  "words": [
+    {
+      "word": "Ok,",
+      "start": 1.1,
+      "end": 1.44
+    },
+    {
+      "word": "good",
+      "start": 1.5,
+      "end": 1.6
+    },
+    {
+      "word": "job,",
+      "start": 1.6,
+      "end": 1.76
+    },
+    {
+      "word": "we",
+      "start": 1.9,
+      "end": 2.0
+    },
+    {
+      "word": "are",
+      "start": 2.0,
+      "end": 2.02
+    },
+    {
+      "word": "safe.",
+      "start": 2.02,
+      "end": 2.2
+    },
+    {
+      "word": "Stay",
+      "start": 3.16,
+      "end": 3.42
+    },
+    {
+      "word": "negative",
+      "start": 3.42,
+      "end": 3.66
+    },
+    {
+      "word": "on",
+      "start": 3.66,
+      "end": 3.86
+    },
+    {
+      "word": "your",
+      "start": 3.86,
+      "end": 3.96
+    },
+    {
+      "word": "wings.",
+      "start": 3.96,
+      "end": 4.16
+    },
+    {
+      "word": "Yes,",
+      "start": 4.32,
+      "end": 4.42
+    },
+    {
+      "word": "of",
+      "start": 4.56,
+      "end": 4.88
+    },
+    {
+      "word": "course.",
+      "start": 4.88,
+      "end": 5.22
+    },
+    {
+      "word": "Yeah,",
+      "start": 6.62,
+      "end": 6.96
+    },
+    {
+      "word": "I",
+      "start": 7.1,
+      "end": 7.1
+    },
+    {
+      "word": "thought",
+      "start": 7.1,
+      "end": 7.18
+    },
+    {
+      "word": "I",
+      "start": 7.18,
+      "end": 7.32
+    },
+    {
+      "word": "got",
+      "start": 7.32,
+      "end": 7.34
+    },
+    {
+      "word": "more",
+      "start": 7.34,
+      "end": 7.54
+    },
+    {
+      "word": "grip",
+      "start": 7.54,
+      "end": 7.72
+    },
+    {
+      "word": "on",
+      "start": 7.72,
+      "end": 7.9
+    },
+    {
+      "word": "our",
+      "start": 7.9,
+      "end": 8.0
+    },
+    {
+      "word": "lap.",
+      "start": 8.0,
+      "end": 8.18
+    },
+    {
+      "word": "Ok,",
+      "start": 9.76,
+      "end": 10.1
+    },
+    {
+      "word": "copy",
+      "start": 10.18,
+      "end": 10.3
+    },
+    {
+      "word": "that.",
+      "start": 10.3,
+      "end": 10.44
+    },
+    {
+      "word": "We",
+      "start": 10.74,
+      "end": 10.88
+    },
+    {
+      "word": "think",
+      "start": 10.88,
+      "end": 11.08
+    },
+    {
+      "word": "we",
+      "start": 11.08,
+      "end": 11.28
+    },
+    {
+      "word": "are",
+      "start": 11.28,
+      "end": 11.38
+    },
+    {
+      "word": "mid",
+      "start": 11.38,
+      "end": 11.6
+    },
+    {
+      "word": "-touching",
+      "start": 11.6,
+      "end": 12.16
+    },
+    {
+      "word": "all",
+      "start": 12.16,
+      "end": 12.3
+    },
+    {
+      "word": "the",
+      "start": 12.3,
+      "end": 12.44
+    },
+    {
+      "word": "tires.",
+      "start": 12.44,
+      "end": 12.7
+    },
+    {
+      "word": "We",
+      "start": 13.44,
+      "end": 13.78
+    },
+    {
+      "word": "have",
+      "start": 13.78,
+      "end": 13.9
+    },
+    {
+      "word": "a",
+      "start": 13.9,
+      "end": 13.94
+    },
+    {
+      "word": "thing",
+      "start": 13.94,
+      "end": 14.12
+    },
+    {
+      "word": "for",
+      "start": 14.12,
+      "end": 14.28
+    },
+    {
+      "word": "the",
+      "start": 14.28,
+      "end": 14.38
+    },
+    {
+      "word": "next",
+      "start": 14.38,
+      "end": 14.52
+    },
+    {
+      "word": "startup.",
+      "start": 14.52,
+      "end": 14.72
+    },
+    {
+      "word": "We'd",
+      "start": 15.06,
+      "end": 15.24
+    },
+    {
+      "word": "like",
+      "start": 15.24,
+      "end": 15.32
+    },
+    {
+      "word": "to",
+      "start": 15.32,
+      "end": 15.46
+    },
+    {
+      "word": "be",
+      "start": 15.46,
+      "end": 15.56
+    },
+    {
+      "word": "of",
+      "start": 15.56,
+      "end": 15.66
+    },
+    {
+      "word": "different.",
+      "start": 15.66,
+      "end": 15.88
+    },
+    {
+      "word": "Yeah,",
+      "start": 18.46,
+      "end": 18.8
+    },
+    {
+      "word": "copy.",
+      "start": 18.9,
+      "end": 19.02
+    }
+  ],
+  "language": "en",
+  "word_count": 51,
+  "is_empty": false,
+  "is_very_short": false
+}

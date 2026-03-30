@@ -1,0 +1,115 @@
+{
+  "clip_id": "clip_0372",
+  "text": "2 minutes 75 seconds Fire up 1 minute 45 seconds 5.5 25 seconds 15 seconds We do normal pull away",
+  "words": [
+    {
+      "word": "2",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "minutes",
+      "start": 0.16,
+      "end": 0.44
+    },
+    {
+      "word": "75",
+      "start": 2.84,
+      "end": 3.54
+    },
+    {
+      "word": "seconds",
+      "start": 3.54,
+      "end": 4.44
+    },
+    {
+      "word": "Fire",
+      "start": 4.34,
+      "end": 5.04
+    },
+    {
+      "word": "up",
+      "start": 5.04,
+      "end": 5.56
+    },
+    {
+      "word": "1",
+      "start": 6.6,
+      "end": 7.3
+    },
+    {
+      "word": "minute",
+      "start": 7.3,
+      "end": 7.78
+    },
+    {
+      "word": "45",
+      "start": 10.0,
+      "end": 10.7
+    },
+    {
+      "word": "seconds",
+      "start": 10.7,
+      "end": 11.72
+    },
+    {
+      "word": "5",
+      "start": 11.72,
+      "end": 12.9
+    },
+    {
+      "word": ".5",
+      "start": 12.9,
+      "end": 13.8
+    },
+    {
+      "word": "25",
+      "start": 13.8,
+      "end": 14.62
+    },
+    {
+      "word": "seconds",
+      "start": 14.62,
+      "end": 15.42
+    },
+    {
+      "word": "15",
+      "start": 16.5,
+      "end": 17.2
+    },
+    {
+      "word": "seconds",
+      "start": 17.2,
+      "end": 18.02
+    },
+    {
+      "word": "We",
+      "start": 18.02,
+      "end": 18.62
+    },
+    {
+      "word": "do",
+      "start": 18.62,
+      "end": 18.9
+    },
+    {
+      "word": "normal",
+      "start": 18.9,
+      "end": 19.44
+    },
+    {
+      "word": "pull",
+      "start": 19.44,
+      "end": 19.8
+    },
+    {
+      "word": "away",
+      "start": 19.8,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 20,
+  "is_empty": false,
+  "is_very_short": false
+}

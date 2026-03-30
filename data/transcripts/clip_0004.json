@@ -1,0 +1,215 @@
+{
+  "clip_id": "clip_0004",
+  "text": "It's a bit like a vehicle. It gets the car ahead of you in two, just ten seconds. It looks to be quite a tight angle, I think. She's sitting next to the top of the car. We can do 11.",
+  "words": [
+    {
+      "word": "It's",
+      "start": 0.0,
+      "end": 0.68
+    },
+    {
+      "word": "a",
+      "start": 0.68,
+      "end": 0.82
+    },
+    {
+      "word": "bit",
+      "start": 0.82,
+      "end": 0.98
+    },
+    {
+      "word": "like",
+      "start": 0.98,
+      "end": 1.2
+    },
+    {
+      "word": "a",
+      "start": 1.2,
+      "end": 1.36
+    },
+    {
+      "word": "vehicle.",
+      "start": 1.36,
+      "end": 1.56
+    },
+    {
+      "word": "It",
+      "start": 2.84,
+      "end": 2.88
+    },
+    {
+      "word": "gets",
+      "start": 2.88,
+      "end": 3.18
+    },
+    {
+      "word": "the",
+      "start": 3.18,
+      "end": 3.34
+    },
+    {
+      "word": "car",
+      "start": 3.34,
+      "end": 3.56
+    },
+    {
+      "word": "ahead",
+      "start": 3.56,
+      "end": 3.72
+    },
+    {
+      "word": "of",
+      "start": 3.72,
+      "end": 3.82
+    },
+    {
+      "word": "you",
+      "start": 3.82,
+      "end": 4.06
+    },
+    {
+      "word": "in",
+      "start": 4.06,
+      "end": 4.28
+    },
+    {
+      "word": "two,",
+      "start": 4.28,
+      "end": 4.38
+    },
+    {
+      "word": "just",
+      "start": 5.84,
+      "end": 6.28
+    },
+    {
+      "word": "ten",
+      "start": 6.28,
+      "end": 6.52
+    },
+    {
+      "word": "seconds.",
+      "start": 6.52,
+      "end": 6.92
+    },
+    {
+      "word": "It",
+      "start": 8.84,
+      "end": 8.9
+    },
+    {
+      "word": "looks",
+      "start": 8.9,
+      "end": 9.32
+    },
+    {
+      "word": "to",
+      "start": 9.32,
+      "end": 9.5
+    },
+    {
+      "word": "be",
+      "start": 9.5,
+      "end": 9.62
+    },
+    {
+      "word": "quite",
+      "start": 9.62,
+      "end": 9.82
+    },
+    {
+      "word": "a",
+      "start": 9.82,
+      "end": 9.94
+    },
+    {
+      "word": "tight",
+      "start": 9.94,
+      "end": 10.14
+    },
+    {
+      "word": "angle,",
+      "start": 10.14,
+      "end": 10.44
+    },
+    {
+      "word": "I",
+      "start": 10.6,
+      "end": 10.62
+    },
+    {
+      "word": "think.",
+      "start": 10.62,
+      "end": 10.72
+    },
+    {
+      "word": "She's",
+      "start": 13.0,
+      "end": 13.44
+    },
+    {
+      "word": "sitting",
+      "start": 13.44,
+      "end": 13.58
+    },
+    {
+      "word": "next",
+      "start": 13.58,
+      "end": 13.88
+    },
+    {
+      "word": "to",
+      "start": 13.88,
+      "end": 14.02
+    },
+    {
+      "word": "the",
+      "start": 14.02,
+      "end": 14.16
+    },
+    {
+      "word": "top",
+      "start": 14.16,
+      "end": 14.46
+    },
+    {
+      "word": "of",
+      "start": 14.46,
+      "end": 14.68
+    },
+    {
+      "word": "the",
+      "start": 14.68,
+      "end": 14.9
+    },
+    {
+      "word": "car.",
+      "start": 14.9,
+      "end": 15.12
+    },
+    {
+      "word": "We",
+      "start": 16.78,
+      "end": 17.22
+    },
+    {
+      "word": "can",
+      "start": 17.22,
+      "end": 17.48
+    },
+    {
+      "word": "do",
+      "start": 17.48,
+      "end": 17.68
+    },
+    {
+      "word": "11.",
+      "start": 17.68,
+      "end": 17.9
+    }
+  ],
+  "language": "en",
+  "word_count": 41,
+  "is_empty": false,
+  "is_very_short": false
+}

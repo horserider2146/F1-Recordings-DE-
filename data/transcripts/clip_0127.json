@@ -1,0 +1,30 @@
+{
+  "clip_id": "clip_0127",
+  "text": "ahead, Lawson, Bermann, then.",
+  "words": [
+    {
+      "word": "ahead,",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "word": "Lawson,",
+      "start": 0.7,
+      "end": 1.14
+    },
+    {
+      "word": "Bermann,",
+      "start": 1.38,
+      "end": 1.82
+    },
+    {
+      "word": "then.",
+      "start": 1.98,
+      "end": 2.1
+    }
+  ],
+  "language": "en",
+  "word_count": 4,
+  "is_empty": false,
+  "is_very_short": false
+}

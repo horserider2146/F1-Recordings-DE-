@@ -1,0 +1,225 @@
+{
+  "clip_id": "clip_1029",
+  "text": "I am supposed to be on your side max and try to give you some help and some information nothing further me That's it Have no power give me something I come out of last corner. I've got no power On the class",
+  "words": [
+    {
+      "word": "I",
+      "start": 1.8,
+      "end": 2.24
+    },
+    {
+      "word": "am",
+      "start": 2.24,
+      "end": 2.44
+    },
+    {
+      "word": "supposed",
+      "start": 2.44,
+      "end": 2.7
+    },
+    {
+      "word": "to",
+      "start": 2.7,
+      "end": 2.9
+    },
+    {
+      "word": "be",
+      "start": 2.9,
+      "end": 2.94
+    },
+    {
+      "word": "on",
+      "start": 2.94,
+      "end": 3.02
+    },
+    {
+      "word": "your",
+      "start": 3.02,
+      "end": 3.12
+    },
+    {
+      "word": "side",
+      "start": 3.12,
+      "end": 3.36
+    },
+    {
+      "word": "max",
+      "start": 3.36,
+      "end": 3.58
+    },
+    {
+      "word": "and",
+      "start": 3.58,
+      "end": 3.82
+    },
+    {
+      "word": "try",
+      "start": 3.82,
+      "end": 3.98
+    },
+    {
+      "word": "to",
+      "start": 3.98,
+      "end": 4.1
+    },
+    {
+      "word": "give",
+      "start": 4.1,
+      "end": 4.24
+    },
+    {
+      "word": "you",
+      "start": 4.24,
+      "end": 4.32
+    },
+    {
+      "word": "some",
+      "start": 4.32,
+      "end": 4.46
+    },
+    {
+      "word": "help",
+      "start": 4.46,
+      "end": 4.68
+    },
+    {
+      "word": "and",
+      "start": 4.68,
+      "end": 5.14
+    },
+    {
+      "word": "some",
+      "start": 5.14,
+      "end": 5.3
+    },
+    {
+      "word": "information",
+      "start": 5.3,
+      "end": 5.74
+    },
+    {
+      "word": "nothing",
+      "start": 5.74,
+      "end": 6.16
+    },
+    {
+      "word": "further",
+      "start": 6.16,
+      "end": 6.52
+    },
+    {
+      "word": "me",
+      "start": 6.52,
+      "end": 6.84
+    },
+    {
+      "word": "That's",
+      "start": 6.84,
+      "end": 7.44
+    },
+    {
+      "word": "it",
+      "start": 7.44,
+      "end": 7.8
+    },
+    {
+      "word": "Have",
+      "start": 9.76,
+      "end": 10.2
+    },
+    {
+      "word": "no",
+      "start": 10.2,
+      "end": 10.52
+    },
+    {
+      "word": "power",
+      "start": 10.52,
+      "end": 10.9
+    },
+    {
+      "word": "give",
+      "start": 10.9,
+      "end": 11.48
+    },
+    {
+      "word": "me",
+      "start": 11.48,
+      "end": 11.66
+    },
+    {
+      "word": "something",
+      "start": 11.66,
+      "end": 12.0
+    },
+    {
+      "word": "I",
+      "start": 12.0,
+      "end": 12.56
+    },
+    {
+      "word": "come",
+      "start": 12.56,
+      "end": 12.7
+    },
+    {
+      "word": "out",
+      "start": 12.7,
+      "end": 12.82
+    },
+    {
+      "word": "of",
+      "start": 12.82,
+      "end": 12.9
+    },
+    {
+      "word": "last",
+      "start": 12.9,
+      "end": 13.1
+    },
+    {
+      "word": "corner.",
+      "start": 13.1,
+      "end": 13.36
+    },
+    {
+      "word": "I've",
+      "start": 13.36,
+      "end": 13.58
+    },
+    {
+      "word": "got",
+      "start": 13.58,
+      "end": 13.62
+    },
+    {
+      "word": "no",
+      "start": 13.62,
+      "end": 13.8
+    },
+    {
+      "word": "power",
+      "start": 13.8,
+      "end": 14.22
+    },
+    {
+      "word": "On",
+      "start": 19.08,
+      "end": 19.52
+    },
+    {
+      "word": "the",
+      "start": 19.52,
+      "end": 19.66
+    },
+    {
+      "word": "class",
+      "start": 19.66,
+      "end": 19.82
+    }
+  ],
+  "language": "en",
+  "word_count": 43,
+  "is_empty": false,
+  "is_very_short": false
+}

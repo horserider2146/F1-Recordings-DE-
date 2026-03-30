@@ -1,0 +1,70 @@
+{
+  "clip_id": "clip_0350",
+  "text": "Okay, so we will restart the engine, got Lewis on the exit.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "so",
+      "start": 0.36,
+      "end": 0.46
+    },
+    {
+      "word": "we",
+      "start": 0.46,
+      "end": 1.12
+    },
+    {
+      "word": "will",
+      "start": 1.12,
+      "end": 1.34
+    },
+    {
+      "word": "restart",
+      "start": 1.34,
+      "end": 2.32
+    },
+    {
+      "word": "the",
+      "start": 2.32,
+      "end": 2.56
+    },
+    {
+      "word": "engine,",
+      "start": 2.56,
+      "end": 2.78
+    },
+    {
+      "word": "got",
+      "start": 2.94,
+      "end": 3.2
+    },
+    {
+      "word": "Lewis",
+      "start": 3.2,
+      "end": 3.52
+    },
+    {
+      "word": "on",
+      "start": 3.52,
+      "end": 4.02
+    },
+    {
+      "word": "the",
+      "start": 4.02,
+      "end": 4.58
+    },
+    {
+      "word": "exit.",
+      "start": 4.58,
+      "end": 4.84
+    }
+  ],
+  "language": "en",
+  "word_count": 12,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_1051",
+  "text": "of the clicks. Click, click some.",
+  "words": [
+    {
+      "word": "of",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "the",
+      "start": 0.22,
+      "end": 0.5
+    },
+    {
+      "word": "clicks.",
+      "start": 0.5,
+      "end": 0.88
+    },
+    {
+      "word": "Click,",
+      "start": 1.36,
+      "end": 1.8
+    },
+    {
+      "word": "click",
+      "start": 1.84,
+      "end": 1.92
+    },
+    {
+      "word": "some.",
+      "start": 1.92,
+      "end": 2.1
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

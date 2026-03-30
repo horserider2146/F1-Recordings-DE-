@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0174",
+  "text": "The head of you are 38, B38, 2I38 Also we think we want to go and we need higher than stages 2 Carlos, we need higher than stages 2 Thank you very much",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "head",
+      "start": 0.36,
+      "end": 0.6
+    },
+    {
+      "word": "of",
+      "start": 0.6,
+      "end": 0.76
+    },
+    {
+      "word": "you",
+      "start": 0.76,
+      "end": 0.98
+    },
+    {
+      "word": "are",
+      "start": 0.98,
+      "end": 1.68
+    },
+    {
+      "word": "38,",
+      "start": 1.68,
+      "end": 2.84
+    },
+    {
+      "word": "B38,",
+      "start": 3.34,
+      "end": 3.9
+    },
+    {
+      "word": "2I38",
+      "start": 4.1,
+      "end": 4.9
+    },
+    {
+      "word": "Also",
+      "start": 6.8,
+      "end": 7.4
+    },
+    {
+      "word": "we",
+      "start": 7.4,
+      "end": 7.62
+    },
+    {
+      "word": "think",
+      "start": 7.62,
+      "end": 8.0
+    },
+    {
+      "word": "we",
+      "start": 8.0,
+      "end": 9.24
+    },
+    {
+      "word": "want",
+      "start": 9.24,
+      "end": 9.74
+    },
+    {
+      "word": "to",
+      "start": 9.74,
+      "end": 9.96
+    },
+    {
+      "word": "go",
+      "start": 9.96,
+      "end": 10.1
+    },
+    {
+      "word": "and",
+      "start": 10.1,
+      "end": 10.56
+    },
+    {
+      "word": "we",
+      "start": 10.56,
+      "end": 10.7
+    },
+    {
+      "word": "need",
+      "start": 10.7,
+      "end": 11.0
+    },
+    {
+      "word": "higher",
+      "start": 11.0,
+      "end": 11.42
+    },
+    {
+      "word": "than",
+      "start": 11.42,
+      "end": 11.6
+    },
+    {
+      "word": "stages",
+      "start": 11.6,
+      "end": 11.9
+    },
+    {
+      "word": "2",
+      "start": 11.9,
+      "end": 12.2
+    },
+    {
+      "word": "Carlos,",
+      "start": 14.7,
+      "end": 15.3
+    },
+    {
+      "word": "we",
+      "start": 15.6,
+      "end": 15.76
+    },
+    {
+      "word": "need",
+      "start": 15.76,
+      "end": 15.92
+    },
+    {
+      "word": "higher",
+      "start": 15.92,
+      "end": 16.14
+    },
+    {
+      "word": "than",
+      "start": 16.14,
+      "end": 16.26
+    },
+    {
+      "word": "stages",
+      "start": 16.26,
+      "end": 16.64
+    },
+    {
+      "word": "2",
+      "start": 16.64,
+      "end": 17.08
+    },
+    {
+      "word": "Thank",
+      "start": 17.08,
+      "end": 17.78
+    },
+    {
+      "word": "you",
+      "start": 17.78,
+      "end": 19.26
+    },
+    {
+      "word": "very",
+      "start": 19.26,
+      "end": 19.44
+    },
+    {
+      "word": "much",
+      "start": 19.44,
+      "end": 19.68
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

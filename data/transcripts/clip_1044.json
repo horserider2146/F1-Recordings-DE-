@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_1044",
+  "text": "special, 160 names on the Honour Board. The newest, Kimmy Antonelli.",
+  "words": [
+    {
+      "word": "special,",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "word": "160",
+      "start": 0.82,
+      "end": 1.92
+    },
+    {
+      "word": "names",
+      "start": 1.92,
+      "end": 2.9
+    },
+    {
+      "word": "on",
+      "start": 2.9,
+      "end": 3.28
+    },
+    {
+      "word": "the",
+      "start": 3.28,
+      "end": 3.4
+    },
+    {
+      "word": "Honour",
+      "start": 3.4,
+      "end": 3.62
+    },
+    {
+      "word": "Board.",
+      "start": 3.62,
+      "end": 3.94
+    },
+    {
+      "word": "The",
+      "start": 4.26,
+      "end": 4.34
+    },
+    {
+      "word": "newest,",
+      "start": 4.34,
+      "end": 4.7
+    },
+    {
+      "word": "Kimmy",
+      "start": 5.12,
+      "end": 5.42
+    },
+    {
+      "word": "Antonelli.",
+      "start": 5.42,
+      "end": 6.06
+    }
+  ],
+  "language": "en",
+  "word_count": 11,
+  "is_empty": false,
+  "is_very_short": false
+}

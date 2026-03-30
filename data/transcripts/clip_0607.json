@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0607",
+  "text": "Switch position, yes. You are doing a good job on tyres, good job on tyres. Charles, right behind. 8 speed 16, 1 temp, 8 speed 16. Charles, 2.8, think about your tyres, good job. Solid blue for botters.",
+  "words": [
+    {
+      "word": "Switch",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "word": "position,",
+      "start": 0.66,
+      "end": 1.16
+    },
+    {
+      "word": "yes.",
+      "start": 1.2,
+      "end": 1.44
+    },
+    {
+      "word": "You",
+      "start": 3.28,
+      "end": 3.48
+    },
+    {
+      "word": "are",
+      "start": 3.48,
+      "end": 3.62
+    },
+    {
+      "word": "doing",
+      "start": 3.62,
+      "end": 3.78
+    },
+    {
+      "word": "a",
+      "start": 3.78,
+      "end": 4.02
+    },
+    {
+      "word": "good",
+      "start": 4.02,
+      "end": 4.28
+    },
+    {
+      "word": "job",
+      "start": 4.28,
+      "end": 4.6
+    },
+    {
+      "word": "on",
+      "start": 4.6,
+      "end": 4.8
+    },
+    {
+      "word": "tyres,",
+      "start": 4.8,
+      "end": 5.02
+    },
+    {
+      "word": "good",
+      "start": 5.18,
+      "end": 5.3
+    },
+    {
+      "word": "job",
+      "start": 5.3,
+      "end": 5.52
+    },
+    {
+      "word": "on",
+      "start": 5.52,
+      "end": 5.7
+    },
+    {
+      "word": "tyres.",
+      "start": 5.7,
+      "end": 6.1
+    },
+    {
+      "word": "Charles,",
+      "start": 6.42,
+      "end": 6.94
+    },
+    {
+      "word": "right",
+      "start": 7.16,
+      "end": 7.3
+    },
+    {
+      "word": "behind.",
+      "start": 7.3,
+      "end": 7.62
+    },
+    {
+      "word": "8",
+      "start": 8.78,
+      "end": 9.26
+    },
+    {
+      "word": "speed",
+      "start": 9.26,
+      "end": 9.8
+    },
+    {
+      "word": "16,",
+      "start": 9.8,
+      "end": 10.52
+    },
+    {
+      "word": "1",
+      "start": 10.88,
+      "end": 11.08
+    },
+    {
+      "word": "temp,",
+      "start": 11.08,
+      "end": 11.34
+    },
+    {
+      "word": "8",
+      "start": 11.66,
+      "end": 11.84
+    },
+    {
+      "word": "speed",
+      "start": 11.84,
+      "end": 12.2
+    },
+    {
+      "word": "16.",
+      "start": 12.2,
+      "end": 12.74
+    },
+    {
+      "word": "Charles,",
+      "start": 13.72,
+      "end": 14.24
+    },
+    {
+      "word": "2",
+      "start": 14.42,
+      "end": 14.52
+    },
+    {
+      "word": ".8,",
+      "start": 14.52,
+      "end": 15.0
+    },
+    {
+      "word": "think",
+      "start": 15.2,
+      "end": 15.32
+    },
+    {
+      "word": "about",
+      "start": 15.32,
+      "end": 15.6
+    },
+    {
+      "word": "your",
+      "start": 15.6,
+      "end": 15.8
+    },
+    {
+      "word": "tyres,",
+      "start": 15.8,
+      "end": 16.14
+    },
+    {
+      "word": "good",
+      "start": 16.42,
+      "end": 16.54
+    },
+    {
+      "word": "job.",
+      "start": 16.54,
+      "end": 16.8
+    },
+    {
+      "word": "Solid",
+      "start": 18.12,
+      "end": 18.64
+    },
+    {
+      "word": "blue",
+      "start": 18.64,
+      "end": 18.9
+    },
+    {
+      "word": "for",
+      "start": 18.9,
+      "end": 19.14
+    },
+    {
+      "word": "botters.",
+      "start": 19.14,
+      "end": 19.46
+    }
+  ],
+  "language": "en",
+  "word_count": 38,
+  "is_empty": false,
+  "is_very_short": false
+}

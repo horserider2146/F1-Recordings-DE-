@@ -1,0 +1,35 @@
+{
+  "clip_id": "clip_0433",
+  "text": "Give me full position. Congratulations.",
+  "words": [
+    {
+      "word": "Give",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "me",
+      "start": 0.14,
+      "end": 0.3
+    },
+    {
+      "word": "full",
+      "start": 0.3,
+      "end": 0.64
+    },
+    {
+      "word": "position.",
+      "start": 0.64,
+      "end": 1.24
+    },
+    {
+      "word": "Congratulations.",
+      "start": 1.7,
+      "end": 1.94
+    }
+  ],
+  "language": "en",
+  "word_count": 5,
+  "is_empty": false,
+  "is_very_short": false
+}

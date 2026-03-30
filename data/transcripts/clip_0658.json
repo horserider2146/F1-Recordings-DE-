@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_0658",
+  "text": "Who's available? Yellow where you are. Safety car, LMS safety car, slow mode on. Safety copy. Yes. Work on your fronts, offset 2, mode 4 in the background. You're doing well on the Delta, keep doing this. Double yellow where you are. See you again.",
+  "words": [
+    {
+      "word": "Who's",
+      "start": 0.0,
+      "end": 0.96
+    },
+    {
+      "word": "available?",
+      "start": 0.96,
+      "end": 1.22
+    },
+    {
+      "word": "Yellow",
+      "start": 2.24,
+      "end": 2.64
+    },
+    {
+      "word": "where",
+      "start": 2.64,
+      "end": 2.86
+    },
+    {
+      "word": "you",
+      "start": 2.86,
+      "end": 3.0
+    },
+    {
+      "word": "are.",
+      "start": 3.0,
+      "end": 3.16
+    },
+    {
+      "word": "Safety",
+      "start": 3.86,
+      "end": 4.12
+    },
+    {
+      "word": "car,",
+      "start": 4.12,
+      "end": 4.44
+    },
+    {
+      "word": "LMS",
+      "start": 4.48,
+      "end": 4.68
+    },
+    {
+      "word": "safety",
+      "start": 4.68,
+      "end": 4.96
+    },
+    {
+      "word": "car,",
+      "start": 4.96,
+      "end": 5.2
+    },
+    {
+      "word": "slow",
+      "start": 5.38,
+      "end": 5.54
+    },
+    {
+      "word": "mode",
+      "start": 5.54,
+      "end": 5.76
+    },
+    {
+      "word": "on.",
+      "start": 5.76,
+      "end": 5.94
+    },
+    {
+      "word": "Safety",
+      "start": 6.5,
+      "end": 6.74
+    },
+    {
+      "word": "copy.",
+      "start": 6.74,
+      "end": 7.02
+    },
+    {
+      "word": "Yes.",
+      "start": 8.18,
+      "end": 8.62
+    },
+    {
+      "word": "Work",
+      "start": 9.82,
+      "end": 10.18
+    },
+    {
+      "word": "on",
+      "start": 10.18,
+      "end": 10.36
+    },
+    {
+      "word": "your",
+      "start": 10.36,
+      "end": 10.46
+    },
+    {
+      "word": "fronts,",
+      "start": 10.46,
+      "end": 10.78
+    },
+    {
+      "word": "offset",
+      "start": 11.36,
+      "end": 11.8
+    },
+    {
+      "word": "2,",
+      "start": 11.8,
+      "end": 12.24
+    },
+    {
+      "word": "mode",
+      "start": 12.88,
+      "end": 13.14
+    },
+    {
+      "word": "4",
+      "start": 13.14,
+      "end": 13.38
+    },
+    {
+      "word": "in",
+      "start": 13.38,
+      "end": 13.48
+    },
+    {
+      "word": "the",
+      "start": 13.48,
+      "end": 13.56
+    },
+    {
+      "word": "background.",
+      "start": 13.56,
+      "end": 13.88
+    },
+    {
+      "word": "You're",
+      "start": 14.5,
+      "end": 14.84
+    },
+    {
+      "word": "doing",
+      "start": 14.84,
+      "end": 15.0
+    },
+    {
+      "word": "well",
+      "start": 15.0,
+      "end": 15.2
+    },
+    {
+      "word": "on",
+      "start": 15.2,
+      "end": 15.34
+    },
+    {
+      "word": "the",
+      "start": 15.34,
+      "end": 15.42
+    },
+    {
+      "word": "Delta,",
+      "start": 15.42,
+      "end": 15.6
+    },
+    {
+      "word": "keep",
+      "start": 15.76,
+      "end": 15.86
+    },
+    {
+      "word": "doing",
+      "start": 15.86,
+      "end": 16.06
+    },
+    {
+      "word": "this.",
+      "start": 16.06,
+      "end": 16.34
+    },
+    {
+      "word": "Double",
+      "start": 16.9,
+      "end": 17.22
+    },
+    {
+      "word": "yellow",
+      "start": 17.22,
+      "end": 17.44
+    },
+    {
+      "word": "where",
+      "start": 17.44,
+      "end": 17.72
+    },
+    {
+      "word": "you",
+      "start": 17.72,
+      "end": 17.76
+    },
+    {
+      "word": "are.",
+      "start": 17.76,
+      "end": 17.88
+    },
+    {
+      "word": "See",
+      "start": 19.52,
+      "end": 19.66
+    },
+    {
+      "word": "you",
+      "start": 19.66,
+      "end": 19.76
+    },
+    {
+      "word": "again.",
+      "start": 19.76,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

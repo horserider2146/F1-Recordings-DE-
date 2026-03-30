@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_1128",
+  "text": "2 dash position 2. Alright and reminder it'll be mode push final quarter and let's go dude. Alright mode charge mode charge we've got Hamilton the car behind opening the time left 3 seconds back Hamilton.",
+  "words": [
+    {
+      "word": "2",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "dash",
+      "start": 0.4,
+      "end": 1.44
+    },
+    {
+      "word": "position",
+      "start": 1.44,
+      "end": 2.04
+    },
+    {
+      "word": "2.",
+      "start": 2.04,
+      "end": 2.46
+    },
+    {
+      "word": "Alright",
+      "start": 3.72,
+      "end": 4.3
+    },
+    {
+      "word": "and",
+      "start": 4.3,
+      "end": 4.72
+    },
+    {
+      "word": "reminder",
+      "start": 4.72,
+      "end": 5.06
+    },
+    {
+      "word": "it'll",
+      "start": 5.06,
+      "end": 5.5
+    },
+    {
+      "word": "be",
+      "start": 5.5,
+      "end": 5.68
+    },
+    {
+      "word": "mode",
+      "start": 5.68,
+      "end": 6.1
+    },
+    {
+      "word": "push",
+      "start": 6.1,
+      "end": 6.6
+    },
+    {
+      "word": "final",
+      "start": 6.6,
+      "end": 7.42
+    },
+    {
+      "word": "quarter",
+      "start": 7.42,
+      "end": 7.72
+    },
+    {
+      "word": "and",
+      "start": 7.72,
+      "end": 9.24
+    },
+    {
+      "word": "let's",
+      "start": 9.24,
+      "end": 9.58
+    },
+    {
+      "word": "go",
+      "start": 9.58,
+      "end": 9.68
+    },
+    {
+      "word": "dude.",
+      "start": 9.68,
+      "end": 9.84
+    },
+    {
+      "word": "Alright",
+      "start": 10.74,
+      "end": 11.56
+    },
+    {
+      "word": "mode",
+      "start": 11.56,
+      "end": 12.36
+    },
+    {
+      "word": "charge",
+      "start": 12.36,
+      "end": 12.86
+    },
+    {
+      "word": "mode",
+      "start": 12.86,
+      "end": 13.42
+    },
+    {
+      "word": "charge",
+      "start": 13.42,
+      "end": 13.82
+    },
+    {
+      "word": "we've",
+      "start": 13.82,
+      "end": 14.14
+    },
+    {
+      "word": "got",
+      "start": 14.14,
+      "end": 14.24
+    },
+    {
+      "word": "Hamilton",
+      "start": 14.24,
+      "end": 14.72
+    },
+    {
+      "word": "the",
+      "start": 14.72,
+      "end": 15.02
+    },
+    {
+      "word": "car",
+      "start": 15.02,
+      "end": 15.16
+    },
+    {
+      "word": "behind",
+      "start": 15.16,
+      "end": 15.38
+    },
+    {
+      "word": "opening",
+      "start": 15.38,
+      "end": 15.78
+    },
+    {
+      "word": "the",
+      "start": 15.78,
+      "end": 15.96
+    },
+    {
+      "word": "time",
+      "start": 15.96,
+      "end": 16.12
+    },
+    {
+      "word": "left",
+      "start": 16.12,
+      "end": 16.32
+    },
+    {
+      "word": "3",
+      "start": 16.32,
+      "end": 16.92
+    },
+    {
+      "word": "seconds",
+      "start": 16.92,
+      "end": 17.22
+    },
+    {
+      "word": "back",
+      "start": 17.22,
+      "end": 17.64
+    },
+    {
+      "word": "Hamilton.",
+      "start": 17.64,
+      "end": 19.54
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}

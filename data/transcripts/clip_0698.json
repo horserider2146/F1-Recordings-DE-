@@ -1,0 +1,195 @@
+{
+  "clip_id": "clip_0698",
+  "text": "Yep. In lane speed limiter on. Let's get some good brake temperature for the first half of the straight. The engine RPM dropped too low. OK, reminder for the boost button. Mass carb back at the grid.",
+  "words": [
+    {
+      "word": "Yep.",
+      "start": 0.0,
+      "end": 0.88
+    },
+    {
+      "word": "In",
+      "start": 3.42,
+      "end": 3.9
+    },
+    {
+      "word": "lane",
+      "start": 3.9,
+      "end": 4.0
+    },
+    {
+      "word": "speed",
+      "start": 4.0,
+      "end": 4.2
+    },
+    {
+      "word": "limiter",
+      "start": 4.2,
+      "end": 4.54
+    },
+    {
+      "word": "on.",
+      "start": 4.54,
+      "end": 4.78
+    },
+    {
+      "word": "Let's",
+      "start": 5.82,
+      "end": 6.3
+    },
+    {
+      "word": "get",
+      "start": 6.3,
+      "end": 6.42
+    },
+    {
+      "word": "some",
+      "start": 6.42,
+      "end": 6.66
+    },
+    {
+      "word": "good",
+      "start": 6.66,
+      "end": 7.24
+    },
+    {
+      "word": "brake",
+      "start": 7.24,
+      "end": 7.4
+    },
+    {
+      "word": "temperature",
+      "start": 7.4,
+      "end": 7.86
+    },
+    {
+      "word": "for",
+      "start": 7.86,
+      "end": 8.36
+    },
+    {
+      "word": "the",
+      "start": 8.36,
+      "end": 8.46
+    },
+    {
+      "word": "first",
+      "start": 8.46,
+      "end": 8.64
+    },
+    {
+      "word": "half",
+      "start": 8.64,
+      "end": 8.86
+    },
+    {
+      "word": "of",
+      "start": 8.86,
+      "end": 9.02
+    },
+    {
+      "word": "the",
+      "start": 9.02,
+      "end": 9.06
+    },
+    {
+      "word": "straight.",
+      "start": 9.06,
+      "end": 9.34
+    },
+    {
+      "word": "The",
+      "start": 11.42,
+      "end": 11.9
+    },
+    {
+      "word": "engine",
+      "start": 11.9,
+      "end": 12.2
+    },
+    {
+      "word": "RPM",
+      "start": 12.2,
+      "end": 12.48
+    },
+    {
+      "word": "dropped",
+      "start": 12.48,
+      "end": 13.1
+    },
+    {
+      "word": "too",
+      "start": 13.1,
+      "end": 13.32
+    },
+    {
+      "word": "low.",
+      "start": 13.32,
+      "end": 13.5
+    },
+    {
+      "word": "OK,",
+      "start": 14.98,
+      "end": 15.22
+    },
+    {
+      "word": "reminder",
+      "start": 15.28,
+      "end": 15.48
+    },
+    {
+      "word": "for",
+      "start": 15.48,
+      "end": 15.7
+    },
+    {
+      "word": "the",
+      "start": 15.7,
+      "end": 15.78
+    },
+    {
+      "word": "boost",
+      "start": 15.78,
+      "end": 15.94
+    },
+    {
+      "word": "button.",
+      "start": 15.94,
+      "end": 16.28
+    },
+    {
+      "word": "Mass",
+      "start": 18.34,
+      "end": 18.82
+    },
+    {
+      "word": "carb",
+      "start": 18.82,
+      "end": 19.08
+    },
+    {
+      "word": "back",
+      "start": 19.08,
+      "end": 19.38
+    },
+    {
+      "word": "at",
+      "start": 19.38,
+      "end": 19.54
+    },
+    {
+      "word": "the",
+      "start": 19.54,
+      "end": 19.62
+    },
+    {
+      "word": "grid.",
+      "start": 19.62,
+      "end": 19.78
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

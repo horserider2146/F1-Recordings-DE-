@@ -1,0 +1,155 @@
+{
+  "clip_id": "clip_0290",
+  "text": "job. I don't know, when you told me to stop managing tires I wanted to kill you for a second. Copy. I wasn't managing since, I guess, lap 5.",
+  "words": [
+    {
+      "word": "job.",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "I",
+      "start": 0.94,
+      "end": 1.26
+    },
+    {
+      "word": "don't",
+      "start": 1.26,
+      "end": 1.52
+    },
+    {
+      "word": "know,",
+      "start": 1.52,
+      "end": 1.58
+    },
+    {
+      "word": "when",
+      "start": 1.64,
+      "end": 1.72
+    },
+    {
+      "word": "you",
+      "start": 1.72,
+      "end": 1.84
+    },
+    {
+      "word": "told",
+      "start": 1.84,
+      "end": 2.02
+    },
+    {
+      "word": "me",
+      "start": 2.02,
+      "end": 2.26
+    },
+    {
+      "word": "to",
+      "start": 2.26,
+      "end": 2.9
+    },
+    {
+      "word": "stop",
+      "start": 2.9,
+      "end": 3.1
+    },
+    {
+      "word": "managing",
+      "start": 3.1,
+      "end": 3.54
+    },
+    {
+      "word": "tires",
+      "start": 3.54,
+      "end": 3.84
+    },
+    {
+      "word": "I",
+      "start": 3.84,
+      "end": 4.06
+    },
+    {
+      "word": "wanted",
+      "start": 4.06,
+      "end": 4.22
+    },
+    {
+      "word": "to",
+      "start": 4.22,
+      "end": 4.38
+    },
+    {
+      "word": "kill",
+      "start": 4.38,
+      "end": 4.58
+    },
+    {
+      "word": "you",
+      "start": 4.58,
+      "end": 4.7
+    },
+    {
+      "word": "for",
+      "start": 4.7,
+      "end": 4.86
+    },
+    {
+      "word": "a",
+      "start": 4.86,
+      "end": 4.94
+    },
+    {
+      "word": "second.",
+      "start": 4.94,
+      "end": 5.1
+    },
+    {
+      "word": "Copy.",
+      "start": 8.12,
+      "end": 8.58
+    },
+    {
+      "word": "I",
+      "start": 10.78,
+      "end": 11.24
+    },
+    {
+      "word": "wasn't",
+      "start": 11.24,
+      "end": 11.58
+    },
+    {
+      "word": "managing",
+      "start": 11.58,
+      "end": 11.9
+    },
+    {
+      "word": "since,",
+      "start": 11.9,
+      "end": 12.28
+    },
+    {
+      "word": "I",
+      "start": 12.5,
+      "end": 12.8
+    },
+    {
+      "word": "guess,",
+      "start": 12.8,
+      "end": 13.02
+    },
+    {
+      "word": "lap",
+      "start": 13.18,
+      "end": 13.28
+    },
+    {
+      "word": "5.",
+      "start": 13.28,
+      "end": 13.58
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

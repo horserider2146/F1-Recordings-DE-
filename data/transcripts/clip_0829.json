@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_0829",
+  "text": "Turn 13 is 170, does at least 7 ahead, 275 and a straight. Everything looking good.",
+  "words": [
+    {
+      "word": "Turn",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "word": "13",
+      "start": 0.66,
+      "end": 1.12
+    },
+    {
+      "word": "is",
+      "start": 1.12,
+      "end": 1.38
+    },
+    {
+      "word": "170,",
+      "start": 1.38,
+      "end": 1.96
+    },
+    {
+      "word": "does",
+      "start": 2.64,
+      "end": 2.9
+    },
+    {
+      "word": "at",
+      "start": 2.9,
+      "end": 3.02
+    },
+    {
+      "word": "least",
+      "start": 3.02,
+      "end": 3.1
+    },
+    {
+      "word": "7",
+      "start": 3.1,
+      "end": 3.38
+    },
+    {
+      "word": "ahead,",
+      "start": 3.38,
+      "end": 3.64
+    },
+    {
+      "word": "275",
+      "start": 4.16,
+      "end": 5.92
+    },
+    {
+      "word": "and",
+      "start": 5.92,
+      "end": 6.36
+    },
+    {
+      "word": "a",
+      "start": 6.36,
+      "end": 6.54
+    },
+    {
+      "word": "straight.",
+      "start": 6.54,
+      "end": 6.78
+    },
+    {
+      "word": "Everything",
+      "start": 8.7,
+      "end": 9.06
+    },
+    {
+      "word": "looking",
+      "start": 9.06,
+      "end": 9.32
+    },
+    {
+      "word": "good.",
+      "start": 9.32,
+      "end": 9.58
+    }
+  ],
+  "language": "en",
+  "word_count": 16,
+  "is_empty": false,
+  "is_very_short": false
+}

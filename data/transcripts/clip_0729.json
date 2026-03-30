@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0729",
+  "text": "He's also on an out lap. First car pushing is Hatchar, 19 seconds behind. Antonelli car in front could open now. Trike news, less heart throttle, opening this lap. Everything else was good. You can push.",
+  "words": [
+    {
+      "word": "He's",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "also",
+      "start": 0.3,
+      "end": 0.7
+    },
+    {
+      "word": "on",
+      "start": 0.7,
+      "end": 0.96
+    },
+    {
+      "word": "an",
+      "start": 0.96,
+      "end": 1.08
+    },
+    {
+      "word": "out",
+      "start": 1.08,
+      "end": 1.22
+    },
+    {
+      "word": "lap.",
+      "start": 1.22,
+      "end": 1.46
+    },
+    {
+      "word": "First",
+      "start": 3.18,
+      "end": 3.82
+    },
+    {
+      "word": "car",
+      "start": 3.82,
+      "end": 4.06
+    },
+    {
+      "word": "pushing",
+      "start": 4.06,
+      "end": 4.38
+    },
+    {
+      "word": "is",
+      "start": 4.38,
+      "end": 4.84
+    },
+    {
+      "word": "Hatchar,",
+      "start": 4.84,
+      "end": 5.7
+    },
+    {
+      "word": "19",
+      "start": 5.9,
+      "end": 6.36
+    },
+    {
+      "word": "seconds",
+      "start": 6.36,
+      "end": 6.76
+    },
+    {
+      "word": "behind.",
+      "start": 6.76,
+      "end": 7.16
+    },
+    {
+      "word": "Antonelli",
+      "start": 9.28,
+      "end": 9.92
+    },
+    {
+      "word": "car",
+      "start": 9.92,
+      "end": 10.18
+    },
+    {
+      "word": "in",
+      "start": 10.18,
+      "end": 10.32
+    },
+    {
+      "word": "front",
+      "start": 10.32,
+      "end": 10.52
+    },
+    {
+      "word": "could",
+      "start": 10.52,
+      "end": 10.8
+    },
+    {
+      "word": "open",
+      "start": 10.8,
+      "end": 11.2
+    },
+    {
+      "word": "now.",
+      "start": 11.2,
+      "end": 11.54
+    },
+    {
+      "word": "Trike",
+      "start": 12.7,
+      "end": 13.34
+    },
+    {
+      "word": "news,",
+      "start": 13.34,
+      "end": 13.58
+    },
+    {
+      "word": "less",
+      "start": 13.96,
+      "end": 14.26
+    },
+    {
+      "word": "heart",
+      "start": 14.26,
+      "end": 14.8
+    },
+    {
+      "word": "throttle,",
+      "start": 14.8,
+      "end": 15.18
+    },
+    {
+      "word": "opening",
+      "start": 15.42,
+      "end": 15.74
+    },
+    {
+      "word": "this",
+      "start": 15.74,
+      "end": 15.98
+    },
+    {
+      "word": "lap.",
+      "start": 15.98,
+      "end": 16.2
+    },
+    {
+      "word": "Everything",
+      "start": 16.8,
+      "end": 17.32
+    },
+    {
+      "word": "else",
+      "start": 17.32,
+      "end": 17.58
+    },
+    {
+      "word": "was",
+      "start": 17.58,
+      "end": 17.74
+    },
+    {
+      "word": "good.",
+      "start": 17.74,
+      "end": 17.92
+    },
+    {
+      "word": "You",
+      "start": 18.5,
+      "end": 18.58
+    },
+    {
+      "word": "can",
+      "start": 18.58,
+      "end": 18.72
+    },
+    {
+      "word": "push.",
+      "start": 18.72,
+      "end": 18.92
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}

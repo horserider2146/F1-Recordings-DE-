@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0912",
+  "text": "Car's out, Sainz, Albon, Alonso, Bottas, Stroll and Harris. P16 was lost. Okay, so it's negative on the Delta, Fox and Alton, but balance is not worrying. So focus on that first lap of the comment. Over, over the aircar!",
+  "words": [
+    {
+      "word": "Car's",
+      "start": 0.62,
+      "end": 1.18
+    },
+    {
+      "word": "out,",
+      "start": 1.18,
+      "end": 1.36
+    },
+    {
+      "word": "Sainz,",
+      "start": 1.66,
+      "end": 2.16
+    },
+    {
+      "word": "Albon,",
+      "start": 2.24,
+      "end": 2.52
+    },
+    {
+      "word": "Alonso,",
+      "start": 3.22,
+      "end": 3.7
+    },
+    {
+      "word": "Bottas,",
+      "start": 3.82,
+      "end": 4.2
+    },
+    {
+      "word": "Stroll",
+      "start": 4.28,
+      "end": 4.52
+    },
+    {
+      "word": "and",
+      "start": 4.52,
+      "end": 4.92
+    },
+    {
+      "word": "Harris.",
+      "start": 4.92,
+      "end": 5.36
+    },
+    {
+      "word": "P16",
+      "start": 6.22,
+      "end": 6.78
+    },
+    {
+      "word": "was",
+      "start": 6.78,
+      "end": 6.98
+    },
+    {
+      "word": "lost.",
+      "start": 6.98,
+      "end": 7.3
+    },
+    {
+      "word": "Okay,",
+      "start": 8.9,
+      "end": 9.46
+    },
+    {
+      "word": "so",
+      "start": 9.54,
+      "end": 9.62
+    },
+    {
+      "word": "it's",
+      "start": 9.62,
+      "end": 9.96
+    },
+    {
+      "word": "negative",
+      "start": 9.96,
+      "end": 9.96
+    },
+    {
+      "word": "on",
+      "start": 9.96,
+      "end": 10.64
+    },
+    {
+      "word": "the",
+      "start": 10.64,
+      "end": 10.76
+    },
+    {
+      "word": "Delta,",
+      "start": 10.76,
+      "end": 11.0
+    },
+    {
+      "word": "Fox",
+      "start": 11.38,
+      "end": 11.66
+    },
+    {
+      "word": "and",
+      "start": 11.66,
+      "end": 11.92
+    },
+    {
+      "word": "Alton,",
+      "start": 11.92,
+      "end": 12.16
+    },
+    {
+      "word": "but",
+      "start": 12.28,
+      "end": 12.36
+    },
+    {
+      "word": "balance",
+      "start": 12.36,
+      "end": 12.7
+    },
+    {
+      "word": "is",
+      "start": 12.7,
+      "end": 12.9
+    },
+    {
+      "word": "not",
+      "start": 12.9,
+      "end": 12.94
+    },
+    {
+      "word": "worrying.",
+      "start": 12.94,
+      "end": 13.2
+    },
+    {
+      "word": "So",
+      "start": 14.88,
+      "end": 15.44
+    },
+    {
+      "word": "focus",
+      "start": 15.44,
+      "end": 15.56
+    },
+    {
+      "word": "on",
+      "start": 15.56,
+      "end": 15.68
+    },
+    {
+      "word": "that",
+      "start": 15.68,
+      "end": 15.8
+    },
+    {
+      "word": "first",
+      "start": 15.8,
+      "end": 16.12
+    },
+    {
+      "word": "lap",
+      "start": 16.12,
+      "end": 16.5
+    },
+    {
+      "word": "of",
+      "start": 16.5,
+      "end": 16.7
+    },
+    {
+      "word": "the",
+      "start": 16.7,
+      "end": 16.78
+    },
+    {
+      "word": "comment.",
+      "start": 16.78,
+      "end": 16.92
+    },
+    {
+      "word": "Over,",
+      "start": 18.38,
+      "end": 18.76
+    },
+    {
+      "word": "over",
+      "start": 18.76,
+      "end": 19.28
+    },
+    {
+      "word": "the",
+      "start": 19.28,
+      "end": 19.48
+    },
+    {
+      "word": "aircar!",
+      "start": 19.48,
+      "end": 19.82
+    }
+  ],
+  "language": "en",
+  "word_count": 40,
+  "is_empty": false,
+  "is_very_short": false
+}

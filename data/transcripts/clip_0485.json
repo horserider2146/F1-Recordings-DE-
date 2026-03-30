@@ -1,0 +1,85 @@
+{
+  "clip_id": "clip_0485",
+  "text": "Well done! Get us a mate and P zero the car before you hop out",
+  "words": [
+    {
+      "word": "Well",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "word": "done!",
+      "start": 0.6,
+      "end": 1.24
+    },
+    {
+      "word": "Get",
+      "start": 2.4,
+      "end": 2.78
+    },
+    {
+      "word": "us",
+      "start": 2.78,
+      "end": 2.9
+    },
+    {
+      "word": "a",
+      "start": 2.9,
+      "end": 2.98
+    },
+    {
+      "word": "mate",
+      "start": 2.98,
+      "end": 3.22
+    },
+    {
+      "word": "and",
+      "start": 3.22,
+      "end": 3.72
+    },
+    {
+      "word": "P",
+      "start": 3.72,
+      "end": 4.02
+    },
+    {
+      "word": "zero",
+      "start": 4.02,
+      "end": 4.22
+    },
+    {
+      "word": "the",
+      "start": 4.22,
+      "end": 4.34
+    },
+    {
+      "word": "car",
+      "start": 4.34,
+      "end": 4.6
+    },
+    {
+      "word": "before",
+      "start": 4.6,
+      "end": 5.0
+    },
+    {
+      "word": "you",
+      "start": 5.0,
+      "end": 5.14
+    },
+    {
+      "word": "hop",
+      "start": 5.14,
+      "end": 5.34
+    },
+    {
+      "word": "out",
+      "start": 5.34,
+      "end": 5.6
+    }
+  ],
+  "language": "en",
+  "word_count": 15,
+  "is_empty": false,
+  "is_very_short": false
+}

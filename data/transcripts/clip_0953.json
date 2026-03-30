@@ -1,0 +1,335 @@
+{
+  "clip_id": "clip_0953",
+  "text": "OK mate, so there's just some safety car warning lights, nothing to worry about. Or a safety car is the car behind. OK mate, so where we are at the moment. We've got Fairman, who's just left the pit lane. He's 12 seconds behind. I thought these blue lights on my dash. They are just warnings for the safety car, I believe mate. No worry.",
+  "words": [
+    {
+      "word": "OK",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "mate,",
+      "start": 0.14,
+      "end": 0.26
+    },
+    {
+      "word": "so",
+      "start": 0.34,
+      "end": 0.42
+    },
+    {
+      "word": "there's",
+      "start": 0.42,
+      "end": 0.68
+    },
+    {
+      "word": "just",
+      "start": 0.68,
+      "end": 0.78
+    },
+    {
+      "word": "some",
+      "start": 0.78,
+      "end": 0.94
+    },
+    {
+      "word": "safety",
+      "start": 0.94,
+      "end": 1.14
+    },
+    {
+      "word": "car",
+      "start": 1.14,
+      "end": 1.34
+    },
+    {
+      "word": "warning",
+      "start": 1.34,
+      "end": 1.52
+    },
+    {
+      "word": "lights,",
+      "start": 1.52,
+      "end": 1.74
+    },
+    {
+      "word": "nothing",
+      "start": 1.76,
+      "end": 1.98
+    },
+    {
+      "word": "to",
+      "start": 1.98,
+      "end": 2.22
+    },
+    {
+      "word": "worry",
+      "start": 2.22,
+      "end": 2.36
+    },
+    {
+      "word": "about.",
+      "start": 2.36,
+      "end": 3.34
+    },
+    {
+      "word": "Or",
+      "start": 3.9,
+      "end": 4.26
+    },
+    {
+      "word": "a",
+      "start": 4.26,
+      "end": 4.38
+    },
+    {
+      "word": "safety",
+      "start": 4.38,
+      "end": 4.54
+    },
+    {
+      "word": "car",
+      "start": 4.54,
+      "end": 5.0
+    },
+    {
+      "word": "is",
+      "start": 5.0,
+      "end": 5.88
+    },
+    {
+      "word": "the",
+      "start": 5.88,
+      "end": 6.02
+    },
+    {
+      "word": "car",
+      "start": 6.02,
+      "end": 6.24
+    },
+    {
+      "word": "behind.",
+      "start": 6.24,
+      "end": 6.4
+    },
+    {
+      "word": "OK",
+      "start": 7.44,
+      "end": 7.8
+    },
+    {
+      "word": "mate,",
+      "start": 7.8,
+      "end": 7.94
+    },
+    {
+      "word": "so",
+      "start": 8.04,
+      "end": 8.18
+    },
+    {
+      "word": "where",
+      "start": 8.18,
+      "end": 8.38
+    },
+    {
+      "word": "we",
+      "start": 8.38,
+      "end": 8.5
+    },
+    {
+      "word": "are",
+      "start": 8.5,
+      "end": 8.64
+    },
+    {
+      "word": "at",
+      "start": 8.64,
+      "end": 8.72
+    },
+    {
+      "word": "the",
+      "start": 8.72,
+      "end": 8.76
+    },
+    {
+      "word": "moment.",
+      "start": 8.76,
+      "end": 8.9
+    },
+    {
+      "word": "We've",
+      "start": 9.0,
+      "end": 9.02
+    },
+    {
+      "word": "got",
+      "start": 9.02,
+      "end": 9.1
+    },
+    {
+      "word": "Fairman,",
+      "start": 9.1,
+      "end": 9.56
+    },
+    {
+      "word": "who's",
+      "start": 9.76,
+      "end": 9.9
+    },
+    {
+      "word": "just",
+      "start": 9.9,
+      "end": 10.14
+    },
+    {
+      "word": "left",
+      "start": 10.14,
+      "end": 10.74
+    },
+    {
+      "word": "the",
+      "start": 10.74,
+      "end": 10.96
+    },
+    {
+      "word": "pit",
+      "start": 10.96,
+      "end": 11.06
+    },
+    {
+      "word": "lane.",
+      "start": 11.06,
+      "end": 11.22
+    },
+    {
+      "word": "He's",
+      "start": 11.34,
+      "end": 11.5
+    },
+    {
+      "word": "12",
+      "start": 11.5,
+      "end": 11.88
+    },
+    {
+      "word": "seconds",
+      "start": 11.88,
+      "end": 12.4
+    },
+    {
+      "word": "behind.",
+      "start": 12.4,
+      "end": 12.84
+    },
+    {
+      "word": "I",
+      "start": 13.96,
+      "end": 14.32
+    },
+    {
+      "word": "thought",
+      "start": 14.32,
+      "end": 14.44
+    },
+    {
+      "word": "these",
+      "start": 14.44,
+      "end": 14.66
+    },
+    {
+      "word": "blue",
+      "start": 14.66,
+      "end": 14.92
+    },
+    {
+      "word": "lights",
+      "start": 14.92,
+      "end": 15.18
+    },
+    {
+      "word": "on",
+      "start": 15.18,
+      "end": 15.38
+    },
+    {
+      "word": "my",
+      "start": 15.38,
+      "end": 15.56
+    },
+    {
+      "word": "dash.",
+      "start": 15.56,
+      "end": 15.8
+    },
+    {
+      "word": "They",
+      "start": 16.54,
+      "end": 16.88
+    },
+    {
+      "word": "are",
+      "start": 16.88,
+      "end": 17.04
+    },
+    {
+      "word": "just",
+      "start": 17.04,
+      "end": 17.26
+    },
+    {
+      "word": "warnings",
+      "start": 17.26,
+      "end": 17.58
+    },
+    {
+      "word": "for",
+      "start": 17.58,
+      "end": 17.86
+    },
+    {
+      "word": "the",
+      "start": 17.86,
+      "end": 18.0
+    },
+    {
+      "word": "safety",
+      "start": 18.0,
+      "end": 18.32
+    },
+    {
+      "word": "car,",
+      "start": 18.32,
+      "end": 18.64
+    },
+    {
+      "word": "I",
+      "start": 18.74,
+      "end": 18.78
+    },
+    {
+      "word": "believe",
+      "start": 18.78,
+      "end": 18.84
+    },
+    {
+      "word": "mate.",
+      "start": 18.84,
+      "end": 19.16
+    },
+    {
+      "word": "No",
+      "start": 19.32,
+      "end": 19.5
+    },
+    {
+      "word": "worry.",
+      "start": 19.5,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 65,
+  "is_empty": false,
+  "is_very_short": false
+}

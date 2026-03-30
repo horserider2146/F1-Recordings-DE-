@@ -1,0 +1,115 @@
+{
+  "clip_id": "clip_0324",
+  "text": "It's straight out Track is clear Target plus four So Kimmy ahead 14 seconds It was a 3399 That's a used",
+  "words": [
+    {
+      "word": "It's",
+      "start": 0.0,
+      "end": 0.72
+    },
+    {
+      "word": "straight",
+      "start": 0.72,
+      "end": 0.94
+    },
+    {
+      "word": "out",
+      "start": 0.94,
+      "end": 1.22
+    },
+    {
+      "word": "Track",
+      "start": 2.54,
+      "end": 3.5
+    },
+    {
+      "word": "is",
+      "start": 3.5,
+      "end": 3.72
+    },
+    {
+      "word": "clear",
+      "start": 3.72,
+      "end": 4.0
+    },
+    {
+      "word": "Target",
+      "start": 5.34,
+      "end": 5.82
+    },
+    {
+      "word": "plus",
+      "start": 5.82,
+      "end": 6.2
+    },
+    {
+      "word": "four",
+      "start": 6.2,
+      "end": 7.0
+    },
+    {
+      "word": "So",
+      "start": 8.32,
+      "end": 8.86
+    },
+    {
+      "word": "Kimmy",
+      "start": 8.86,
+      "end": 9.2
+    },
+    {
+      "word": "ahead",
+      "start": 9.2,
+      "end": 9.42
+    },
+    {
+      "word": "14",
+      "start": 9.42,
+      "end": 9.82
+    },
+    {
+      "word": "seconds",
+      "start": 9.82,
+      "end": 10.42
+    },
+    {
+      "word": "It",
+      "start": 13.02,
+      "end": 13.98
+    },
+    {
+      "word": "was",
+      "start": 13.98,
+      "end": 14.94
+    },
+    {
+      "word": "a",
+      "start": 14.94,
+      "end": 15.04
+    },
+    {
+      "word": "3399",
+      "start": 15.04,
+      "end": 16.78
+    },
+    {
+      "word": "That's",
+      "start": 18.12,
+      "end": 19.08
+    },
+    {
+      "word": "a",
+      "start": 19.08,
+      "end": 19.18
+    },
+    {
+      "word": "used",
+      "start": 19.18,
+      "end": 19.66
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

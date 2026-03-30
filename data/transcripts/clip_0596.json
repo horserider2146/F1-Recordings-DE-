@@ -1,0 +1,150 @@
+{
+  "clip_id": "clip_0596",
+  "text": "I'm losing. I'm behind overtake. You are at the last at the wind overtake. I'm shitting slow. We're not losing that one. Coming back to you. R6 turn.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 2.76,
+      "end": 3.26
+    },
+    {
+      "word": "losing.",
+      "start": 3.26,
+      "end": 3.38
+    },
+    {
+      "word": "I'm",
+      "start": 4.9,
+      "end": 5.4
+    },
+    {
+      "word": "behind",
+      "start": 5.4,
+      "end": 5.56
+    },
+    {
+      "word": "overtake.",
+      "start": 5.56,
+      "end": 6.38
+    },
+    {
+      "word": "You",
+      "start": 8.18,
+      "end": 8.46
+    },
+    {
+      "word": "are",
+      "start": 8.46,
+      "end": 8.64
+    },
+    {
+      "word": "at",
+      "start": 8.64,
+      "end": 8.82
+    },
+    {
+      "word": "the",
+      "start": 8.82,
+      "end": 8.9
+    },
+    {
+      "word": "last",
+      "start": 8.9,
+      "end": 8.9
+    },
+    {
+      "word": "at",
+      "start": 8.9,
+      "end": 9.02
+    },
+    {
+      "word": "the",
+      "start": 9.02,
+      "end": 9.08
+    },
+    {
+      "word": "wind",
+      "start": 9.08,
+      "end": 9.22
+    },
+    {
+      "word": "overtake.",
+      "start": 9.22,
+      "end": 9.72
+    },
+    {
+      "word": "I'm",
+      "start": 11.96,
+      "end": 12.46
+    },
+    {
+      "word": "shitting",
+      "start": 12.46,
+      "end": 12.68
+    },
+    {
+      "word": "slow.",
+      "start": 12.68,
+      "end": 12.88
+    },
+    {
+      "word": "We're",
+      "start": 13.44,
+      "end": 13.68
+    },
+    {
+      "word": "not",
+      "start": 13.68,
+      "end": 13.8
+    },
+    {
+      "word": "losing",
+      "start": 13.8,
+      "end": 14.0
+    },
+    {
+      "word": "that",
+      "start": 14.0,
+      "end": 14.26
+    },
+    {
+      "word": "one.",
+      "start": 14.26,
+      "end": 14.46
+    },
+    {
+      "word": "Coming",
+      "start": 15.78,
+      "end": 16.06
+    },
+    {
+      "word": "back",
+      "start": 16.06,
+      "end": 16.22
+    },
+    {
+      "word": "to",
+      "start": 16.22,
+      "end": 16.36
+    },
+    {
+      "word": "you.",
+      "start": 16.36,
+      "end": 16.46
+    },
+    {
+      "word": "R6",
+      "start": 18.0,
+      "end": 18.5
+    },
+    {
+      "word": "turn.",
+      "start": 18.5,
+      "end": 18.82
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,45 @@
+{
+  "clip_id": "clip_0495",
+  "text": "One minute till we go, one minute.",
+  "words": [
+    {
+      "word": "One",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "minute",
+      "start": 0.16,
+      "end": 0.46
+    },
+    {
+      "word": "till",
+      "start": 0.46,
+      "end": 0.9
+    },
+    {
+      "word": "we",
+      "start": 0.9,
+      "end": 1.08
+    },
+    {
+      "word": "go,",
+      "start": 1.08,
+      "end": 1.3
+    },
+    {
+      "word": "one",
+      "start": 1.48,
+      "end": 1.72
+    },
+    {
+      "word": "minute.",
+      "start": 1.72,
+      "end": 2.0
+    }
+  ],
+  "language": "en",
+  "word_count": 7,
+  "is_empty": false,
+  "is_very_short": false
+}

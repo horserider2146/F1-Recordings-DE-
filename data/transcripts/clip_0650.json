@@ -1,0 +1,85 @@
+{
+  "clip_id": "clip_0650",
+  "text": "I don't know what it is, it's just I can feel it on my arm.",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "don't",
+      "start": 0.12,
+      "end": 0.32
+    },
+    {
+      "word": "know",
+      "start": 0.32,
+      "end": 0.32
+    },
+    {
+      "word": "what",
+      "start": 0.32,
+      "end": 0.44
+    },
+    {
+      "word": "it",
+      "start": 0.44,
+      "end": 0.54
+    },
+    {
+      "word": "is,",
+      "start": 0.54,
+      "end": 0.76
+    },
+    {
+      "word": "it's",
+      "start": 0.86,
+      "end": 0.98
+    },
+    {
+      "word": "just",
+      "start": 0.98,
+      "end": 1.1
+    },
+    {
+      "word": "I",
+      "start": 1.1,
+      "end": 1.32
+    },
+    {
+      "word": "can",
+      "start": 1.32,
+      "end": 1.44
+    },
+    {
+      "word": "feel",
+      "start": 1.44,
+      "end": 1.62
+    },
+    {
+      "word": "it",
+      "start": 1.62,
+      "end": 1.72
+    },
+    {
+      "word": "on",
+      "start": 1.72,
+      "end": 1.82
+    },
+    {
+      "word": "my",
+      "start": 1.82,
+      "end": 1.98
+    },
+    {
+      "word": "arm.",
+      "start": 1.98,
+      "end": 2.14
+    }
+  ],
+  "language": "en",
+  "word_count": 15,
+  "is_empty": false,
+  "is_very_short": false
+}

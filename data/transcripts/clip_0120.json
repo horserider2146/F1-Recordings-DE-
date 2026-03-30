@@ -1,0 +1,265 @@
+{
+  "clip_id": "clip_0120",
+  "text": "slow it, slow it yeah, it was a good lap, good improvement strong throughout all the way FITPALZAN especially in the last section of the lap in turn 6 as slow as you can please closer to the left, get minus 1 on your tarmac please it was a good lap",
+  "words": [
+    {
+      "word": "slow",
+      "start": 2.1,
+      "end": 2.5
+    },
+    {
+      "word": "it,",
+      "start": 2.5,
+      "end": 2.66
+    },
+    {
+      "word": "slow",
+      "start": 3.14,
+      "end": 3.26
+    },
+    {
+      "word": "it",
+      "start": 3.26,
+      "end": 4.16
+    },
+    {
+      "word": "yeah,",
+      "start": 4.16,
+      "end": 4.44
+    },
+    {
+      "word": "it",
+      "start": 4.66,
+      "end": 4.82
+    },
+    {
+      "word": "was",
+      "start": 4.82,
+      "end": 5.02
+    },
+    {
+      "word": "a",
+      "start": 5.02,
+      "end": 5.1
+    },
+    {
+      "word": "good",
+      "start": 5.1,
+      "end": 5.2
+    },
+    {
+      "word": "lap,",
+      "start": 5.2,
+      "end": 5.32
+    },
+    {
+      "word": "good",
+      "start": 5.34,
+      "end": 5.5
+    },
+    {
+      "word": "improvement",
+      "start": 5.5,
+      "end": 5.88
+    },
+    {
+      "word": "strong",
+      "start": 6.66,
+      "end": 7.06
+    },
+    {
+      "word": "throughout",
+      "start": 8.42,
+      "end": 8.82
+    },
+    {
+      "word": "all",
+      "start": 8.82,
+      "end": 9.22
+    },
+    {
+      "word": "the",
+      "start": 9.22,
+      "end": 9.36
+    },
+    {
+      "word": "way",
+      "start": 9.36,
+      "end": 9.54
+    },
+    {
+      "word": "FITPALZAN",
+      "start": 10.18,
+      "end": 10.58
+    },
+    {
+      "word": "especially",
+      "start": 10.58,
+      "end": 10.98
+    },
+    {
+      "word": "in",
+      "start": 10.98,
+      "end": 11.68
+    },
+    {
+      "word": "the",
+      "start": 11.68,
+      "end": 11.98
+    },
+    {
+      "word": "last",
+      "start": 11.98,
+      "end": 12.18
+    },
+    {
+      "word": "section",
+      "start": 12.18,
+      "end": 12.42
+    },
+    {
+      "word": "of",
+      "start": 12.42,
+      "end": 12.6
+    },
+    {
+      "word": "the",
+      "start": 12.6,
+      "end": 12.74
+    },
+    {
+      "word": "lap",
+      "start": 12.74,
+      "end": 12.92
+    },
+    {
+      "word": "in",
+      "start": 12.92,
+      "end": 13.08
+    },
+    {
+      "word": "turn",
+      "start": 13.08,
+      "end": 13.38
+    },
+    {
+      "word": "6",
+      "start": 13.38,
+      "end": 13.78
+    },
+    {
+      "word": "as",
+      "start": 14.28,
+      "end": 14.68
+    },
+    {
+      "word": "slow",
+      "start": 14.68,
+      "end": 14.88
+    },
+    {
+      "word": "as",
+      "start": 14.88,
+      "end": 15.04
+    },
+    {
+      "word": "you",
+      "start": 15.04,
+      "end": 15.14
+    },
+    {
+      "word": "can",
+      "start": 15.14,
+      "end": 15.34
+    },
+    {
+      "word": "please",
+      "start": 15.34,
+      "end": 15.6
+    },
+    {
+      "word": "closer",
+      "start": 15.6,
+      "end": 16.06
+    },
+    {
+      "word": "to",
+      "start": 16.06,
+      "end": 16.32
+    },
+    {
+      "word": "the",
+      "start": 16.32,
+      "end": 16.44
+    },
+    {
+      "word": "left,",
+      "start": 16.44,
+      "end": 16.7
+    },
+    {
+      "word": "get",
+      "start": 16.86,
+      "end": 17.02
+    },
+    {
+      "word": "minus",
+      "start": 17.02,
+      "end": 17.24
+    },
+    {
+      "word": "1",
+      "start": 17.24,
+      "end": 17.48
+    },
+    {
+      "word": "on",
+      "start": 17.48,
+      "end": 17.6
+    },
+    {
+      "word": "your",
+      "start": 17.6,
+      "end": 17.74
+    },
+    {
+      "word": "tarmac",
+      "start": 17.74,
+      "end": 18.04
+    },
+    {
+      "word": "please",
+      "start": 18.04,
+      "end": 18.18
+    },
+    {
+      "word": "it",
+      "start": 19.3,
+      "end": 19.7
+    },
+    {
+      "word": "was",
+      "start": 19.7,
+      "end": 19.8
+    },
+    {
+      "word": "a",
+      "start": 19.8,
+      "end": 19.88
+    },
+    {
+      "word": "good",
+      "start": 19.88,
+      "end": 19.98
+    },
+    {
+      "word": "lap",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 51,
+  "is_empty": false,
+  "is_very_short": false
+}

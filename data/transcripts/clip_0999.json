@@ -1,0 +1,90 @@
+{
+  "clip_id": "clip_0999",
+  "text": "Off the road goes Lance Troll, the Aston Martin coming to a halt in the first",
+  "words": [
+    {
+      "word": "Off",
+      "start": 15.14,
+      "end": 15.66
+    },
+    {
+      "word": "the",
+      "start": 15.66,
+      "end": 15.8
+    },
+    {
+      "word": "road",
+      "start": 15.8,
+      "end": 16.02
+    },
+    {
+      "word": "goes",
+      "start": 16.02,
+      "end": 16.3
+    },
+    {
+      "word": "Lance",
+      "start": 16.3,
+      "end": 16.64
+    },
+    {
+      "word": "Troll,",
+      "start": 16.64,
+      "end": 17.06
+    },
+    {
+      "word": "the",
+      "start": 17.44,
+      "end": 17.5
+    },
+    {
+      "word": "Aston",
+      "start": 17.5,
+      "end": 17.76
+    },
+    {
+      "word": "Martin",
+      "start": 17.76,
+      "end": 18.24
+    },
+    {
+      "word": "coming",
+      "start": 18.24,
+      "end": 18.66
+    },
+    {
+      "word": "to",
+      "start": 18.66,
+      "end": 18.86
+    },
+    {
+      "word": "a",
+      "start": 18.86,
+      "end": 19.0
+    },
+    {
+      "word": "halt",
+      "start": 19.0,
+      "end": 19.24
+    },
+    {
+      "word": "in",
+      "start": 19.24,
+      "end": 19.6
+    },
+    {
+      "word": "the",
+      "start": 19.6,
+      "end": 19.72
+    },
+    {
+      "word": "first",
+      "start": 19.72,
+      "end": 19.92
+    }
+  ],
+  "language": "en",
+  "word_count": 16,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_0346",
+  "text": "Thank you. I want anti salt.",
+  "words": [
+    {
+      "word": "Thank",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "you.",
+      "start": 0.16,
+      "end": 0.34
+    },
+    {
+      "word": "I",
+      "start": 0.5,
+      "end": 0.62
+    },
+    {
+      "word": "want",
+      "start": 0.62,
+      "end": 0.7
+    },
+    {
+      "word": "anti",
+      "start": 0.7,
+      "end": 2.04
+    },
+    {
+      "word": "salt.",
+      "start": 2.04,
+      "end": 2.28
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,80 @@
+{
+  "clip_id": "clip_0273",
+  "text": "Last lap P4 mode slow Pick up please So Mercedes 25 seconds from Lewis",
+  "words": [
+    {
+      "word": "Last",
+      "start": 0.0,
+      "end": 0.82
+    },
+    {
+      "word": "lap",
+      "start": 0.82,
+      "end": 1.18
+    },
+    {
+      "word": "P4",
+      "start": 2.44,
+      "end": 3.04
+    },
+    {
+      "word": "mode",
+      "start": 3.04,
+      "end": 4.02
+    },
+    {
+      "word": "slow",
+      "start": 4.02,
+      "end": 4.36
+    },
+    {
+      "word": "Pick",
+      "start": 4.36,
+      "end": 5.12
+    },
+    {
+      "word": "up",
+      "start": 5.12,
+      "end": 5.24
+    },
+    {
+      "word": "please",
+      "start": 5.24,
+      "end": 5.48
+    },
+    {
+      "word": "So",
+      "start": 12.86,
+      "end": 14.06
+    },
+    {
+      "word": "Mercedes",
+      "start": 14.06,
+      "end": 15.26
+    },
+    {
+      "word": "25",
+      "start": 15.26,
+      "end": 16.26
+    },
+    {
+      "word": "seconds",
+      "start": 16.26,
+      "end": 16.7
+    },
+    {
+      "word": "from",
+      "start": 16.7,
+      "end": 16.94
+    },
+    {
+      "word": "Lewis",
+      "start": 16.94,
+      "end": 17.22
+    }
+  ],
+  "language": "en",
+  "word_count": 14,
+  "is_empty": false,
+  "is_very_short": false
+}

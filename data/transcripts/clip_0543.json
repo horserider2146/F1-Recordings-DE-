@@ -1,0 +1,80 @@
+{
+  "clip_id": "clip_0543",
+  "text": "5, 4, 3, 2, 1, and then the clerk's over the staff finish line.",
+  "words": [
+    {
+      "word": "5,",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "4,",
+      "start": 0.44,
+      "end": 1.24
+    },
+    {
+      "word": "3,",
+      "start": 1.66,
+      "end": 2.26
+    },
+    {
+      "word": "2,",
+      "start": 2.44,
+      "end": 3.14
+    },
+    {
+      "word": "1,",
+      "start": 3.46,
+      "end": 3.98
+    },
+    {
+      "word": "and",
+      "start": 4.0,
+      "end": 4.44
+    },
+    {
+      "word": "then",
+      "start": 4.44,
+      "end": 4.54
+    },
+    {
+      "word": "the",
+      "start": 4.54,
+      "end": 4.64
+    },
+    {
+      "word": "clerk's",
+      "start": 4.64,
+      "end": 5.06
+    },
+    {
+      "word": "over",
+      "start": 5.06,
+      "end": 5.16
+    },
+    {
+      "word": "the",
+      "start": 5.16,
+      "end": 5.28
+    },
+    {
+      "word": "staff",
+      "start": 5.28,
+      "end": 5.48
+    },
+    {
+      "word": "finish",
+      "start": 5.48,
+      "end": 5.74
+    },
+    {
+      "word": "line.",
+      "start": 5.74,
+      "end": 6.04
+    }
+  ],
+  "language": "en",
+  "word_count": 14,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,105 @@
+{
+  "clip_id": "clip_0689",
+  "text": "shitty places Russell's three seconds 2.7 2.4 Russell two seconds Russell still two seconds 1.5 Oh",
+  "words": [
+    {
+      "word": "shitty",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "places",
+      "start": 0.32,
+      "end": 0.82
+    },
+    {
+      "word": "Russell's",
+      "start": 2.56,
+      "end": 3.22
+    },
+    {
+      "word": "three",
+      "start": 3.22,
+      "end": 3.42
+    },
+    {
+      "word": "seconds",
+      "start": 3.42,
+      "end": 3.94
+    },
+    {
+      "word": "2",
+      "start": 4.92,
+      "end": 5.58
+    },
+    {
+      "word": ".7",
+      "start": 5.58,
+      "end": 6.2
+    },
+    {
+      "word": "2",
+      "start": 6.2,
+      "end": 7.88
+    },
+    {
+      "word": ".4",
+      "start": 7.88,
+      "end": 8.66
+    },
+    {
+      "word": "Russell",
+      "start": 10.22,
+      "end": 10.88
+    },
+    {
+      "word": "two",
+      "start": 10.88,
+      "end": 11.2
+    },
+    {
+      "word": "seconds",
+      "start": 11.2,
+      "end": 11.86
+    },
+    {
+      "word": "Russell",
+      "start": 13.44,
+      "end": 14.1
+    },
+    {
+      "word": "still",
+      "start": 14.1,
+      "end": 14.32
+    },
+    {
+      "word": "two",
+      "start": 14.32,
+      "end": 14.64
+    },
+    {
+      "word": "seconds",
+      "start": 14.64,
+      "end": 15.2
+    },
+    {
+      "word": "1",
+      "start": 15.2,
+      "end": 16.28
+    },
+    {
+      "word": ".5",
+      "start": 16.28,
+      "end": 16.94
+    },
+    {
+      "word": "Oh",
+      "start": 18.74,
+      "end": 19.4
+    }
+  ],
+  "language": "en",
+  "word_count": 16,
+  "is_empty": false,
+  "is_very_short": false
+}

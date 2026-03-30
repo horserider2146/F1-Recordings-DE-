@@ -1,0 +1,110 @@
+{
+  "clip_id": "clip_0420",
+  "text": "Watch the white light. And way bridge, way bridge. So we're good on time, so just off the way bridge.",
+  "words": [
+    {
+      "word": "Watch",
+      "start": 0.92,
+      "end": 1.28
+    },
+    {
+      "word": "the",
+      "start": 1.28,
+      "end": 1.44
+    },
+    {
+      "word": "white",
+      "start": 1.44,
+      "end": 1.58
+    },
+    {
+      "word": "light.",
+      "start": 1.58,
+      "end": 1.9
+    },
+    {
+      "word": "And",
+      "start": 4.18,
+      "end": 4.54
+    },
+    {
+      "word": "way",
+      "start": 4.54,
+      "end": 4.8
+    },
+    {
+      "word": "bridge,",
+      "start": 4.8,
+      "end": 5.08
+    },
+    {
+      "word": "way",
+      "start": 5.24,
+      "end": 5.42
+    },
+    {
+      "word": "bridge.",
+      "start": 5.42,
+      "end": 5.82
+    },
+    {
+      "word": "So",
+      "start": 7.26,
+      "end": 7.58
+    },
+    {
+      "word": "we're",
+      "start": 7.58,
+      "end": 7.74
+    },
+    {
+      "word": "good",
+      "start": 7.74,
+      "end": 7.84
+    },
+    {
+      "word": "on",
+      "start": 7.84,
+      "end": 7.96
+    },
+    {
+      "word": "time,",
+      "start": 7.96,
+      "end": 8.22
+    },
+    {
+      "word": "so",
+      "start": 8.38,
+      "end": 8.5
+    },
+    {
+      "word": "just",
+      "start": 8.5,
+      "end": 8.82
+    },
+    {
+      "word": "off",
+      "start": 8.82,
+      "end": 8.96
+    },
+    {
+      "word": "the",
+      "start": 8.96,
+      "end": 9.08
+    },
+    {
+      "word": "way",
+      "start": 9.08,
+      "end": 9.2
+    },
+    {
+      "word": "bridge.",
+      "start": 9.2,
+      "end": 9.4
+    }
+  ],
+  "language": "en",
+  "word_count": 20,
+  "is_empty": false,
+  "is_very_short": false
+}

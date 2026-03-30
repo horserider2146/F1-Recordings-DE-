@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0095",
+  "text": "Moving. 13,000, we need to cut the signal. And about a half second push. On, off. I'll wait for 11,000, 36. Alex, far ahead. You're going to have to kill. You have to push.",
+  "words": [
+    {
+      "word": "Moving.",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "13",
+      "start": 2.48,
+      "end": 3.04
+    },
+    {
+      "word": ",000,",
+      "start": 3.04,
+      "end": 3.44
+    },
+    {
+      "word": "we",
+      "start": 3.74,
+      "end": 4.08
+    },
+    {
+      "word": "need",
+      "start": 4.08,
+      "end": 4.32
+    },
+    {
+      "word": "to",
+      "start": 4.32,
+      "end": 4.5
+    },
+    {
+      "word": "cut",
+      "start": 4.5,
+      "end": 4.68
+    },
+    {
+      "word": "the",
+      "start": 4.68,
+      "end": 4.82
+    },
+    {
+      "word": "signal.",
+      "start": 4.82,
+      "end": 5.08
+    },
+    {
+      "word": "And",
+      "start": 6.88,
+      "end": 7.44
+    },
+    {
+      "word": "about",
+      "start": 7.44,
+      "end": 7.68
+    },
+    {
+      "word": "a",
+      "start": 7.68,
+      "end": 7.9
+    },
+    {
+      "word": "half",
+      "start": 7.9,
+      "end": 8.1
+    },
+    {
+      "word": "second",
+      "start": 8.1,
+      "end": 8.36
+    },
+    {
+      "word": "push.",
+      "start": 8.36,
+      "end": 8.82
+    },
+    {
+      "word": "On,",
+      "start": 10.0,
+      "end": 10.56
+    },
+    {
+      "word": "off.",
+      "start": 10.56,
+      "end": 11.12
+    },
+    {
+      "word": "I'll",
+      "start": 12.3,
+      "end": 12.86
+    },
+    {
+      "word": "wait",
+      "start": 12.86,
+      "end": 13.04
+    },
+    {
+      "word": "for",
+      "start": 13.04,
+      "end": 13.26
+    },
+    {
+      "word": "11",
+      "start": 13.26,
+      "end": 13.5
+    },
+    {
+      "word": ",000,",
+      "start": 13.5,
+      "end": 13.9
+    },
+    {
+      "word": "36.",
+      "start": 14.08,
+      "end": 14.62
+    },
+    {
+      "word": "Alex,",
+      "start": 15.82,
+      "end": 16.36
+    },
+    {
+      "word": "far",
+      "start": 16.44,
+      "end": 16.6
+    },
+    {
+      "word": "ahead.",
+      "start": 16.6,
+      "end": 16.92
+    },
+    {
+      "word": "You're",
+      "start": 17.18,
+      "end": 17.52
+    },
+    {
+      "word": "going",
+      "start": 17.52,
+      "end": 17.7
+    },
+    {
+      "word": "to",
+      "start": 17.7,
+      "end": 17.84
+    },
+    {
+      "word": "have",
+      "start": 17.84,
+      "end": 17.86
+    },
+    {
+      "word": "to",
+      "start": 17.86,
+      "end": 18.06
+    },
+    {
+      "word": "kill.",
+      "start": 18.06,
+      "end": 18.34
+    },
+    {
+      "word": "You",
+      "start": 18.76,
+      "end": 18.8
+    },
+    {
+      "word": "have",
+      "start": 18.8,
+      "end": 18.8
+    },
+    {
+      "word": "to",
+      "start": 18.8,
+      "end": 19.0
+    },
+    {
+      "word": "push.",
+      "start": 19.0,
+      "end": 19.32
+    }
+  ],
+  "language": "en",
+  "word_count": 34,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,230 @@
+{
+  "clip_id": "clip_1075",
+  "text": "Yeah, please check the NIT. We are on it, we are on it. And we think the Aero has shifted one compound step rearward for info. We don't know, we can check. The Aero has shifted a bit more rearward, so it's more understeering.",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 0.72,
+      "end": 1.2
+    },
+    {
+      "word": "please",
+      "start": 1.24,
+      "end": 1.44
+    },
+    {
+      "word": "check",
+      "start": 1.44,
+      "end": 1.74
+    },
+    {
+      "word": "the",
+      "start": 1.74,
+      "end": 1.98
+    },
+    {
+      "word": "NIT.",
+      "start": 1.98,
+      "end": 2.72
+    },
+    {
+      "word": "We",
+      "start": 3.24,
+      "end": 3.46
+    },
+    {
+      "word": "are",
+      "start": 3.46,
+      "end": 3.54
+    },
+    {
+      "word": "on",
+      "start": 3.54,
+      "end": 3.7
+    },
+    {
+      "word": "it,",
+      "start": 3.7,
+      "end": 3.84
+    },
+    {
+      "word": "we",
+      "start": 3.86,
+      "end": 4.08
+    },
+    {
+      "word": "are",
+      "start": 4.08,
+      "end": 4.14
+    },
+    {
+      "word": "on",
+      "start": 4.14,
+      "end": 4.26
+    },
+    {
+      "word": "it.",
+      "start": 4.26,
+      "end": 4.46
+    },
+    {
+      "word": "And",
+      "start": 6.34,
+      "end": 6.82
+    },
+    {
+      "word": "we",
+      "start": 6.82,
+      "end": 7.0
+    },
+    {
+      "word": "think",
+      "start": 7.0,
+      "end": 7.26
+    },
+    {
+      "word": "the",
+      "start": 7.26,
+      "end": 7.46
+    },
+    {
+      "word": "Aero",
+      "start": 7.46,
+      "end": 7.7
+    },
+    {
+      "word": "has",
+      "start": 7.7,
+      "end": 7.86
+    },
+    {
+      "word": "shifted",
+      "start": 7.86,
+      "end": 8.1
+    },
+    {
+      "word": "one",
+      "start": 8.1,
+      "end": 8.56
+    },
+    {
+      "word": "compound",
+      "start": 8.56,
+      "end": 8.96
+    },
+    {
+      "word": "step",
+      "start": 8.96,
+      "end": 9.36
+    },
+    {
+      "word": "rearward",
+      "start": 9.36,
+      "end": 9.9
+    },
+    {
+      "word": "for",
+      "start": 9.9,
+      "end": 10.4
+    },
+    {
+      "word": "info.",
+      "start": 10.4,
+      "end": 10.62
+    },
+    {
+      "word": "We",
+      "start": 12.34,
+      "end": 12.82
+    },
+    {
+      "word": "don't",
+      "start": 12.82,
+      "end": 13.08
+    },
+    {
+      "word": "know,",
+      "start": 13.08,
+      "end": 13.24
+    },
+    {
+      "word": "we",
+      "start": 13.3,
+      "end": 13.42
+    },
+    {
+      "word": "can",
+      "start": 13.42,
+      "end": 13.58
+    },
+    {
+      "word": "check.",
+      "start": 13.58,
+      "end": 13.8
+    },
+    {
+      "word": "The",
+      "start": 14.92,
+      "end": 15.38
+    },
+    {
+      "word": "Aero",
+      "start": 15.38,
+      "end": 15.76
+    },
+    {
+      "word": "has",
+      "start": 15.76,
+      "end": 16.0
+    },
+    {
+      "word": "shifted",
+      "start": 16.0,
+      "end": 16.3
+    },
+    {
+      "word": "a",
+      "start": 16.3,
+      "end": 16.5
+    },
+    {
+      "word": "bit",
+      "start": 16.5,
+      "end": 16.62
+    },
+    {
+      "word": "more",
+      "start": 16.62,
+      "end": 16.82
+    },
+    {
+      "word": "rearward,",
+      "start": 16.82,
+      "end": 17.24
+    },
+    {
+      "word": "so",
+      "start": 17.4,
+      "end": 17.52
+    },
+    {
+      "word": "it's",
+      "start": 17.52,
+      "end": 17.9
+    },
+    {
+      "word": "more",
+      "start": 17.9,
+      "end": 18.12
+    },
+    {
+      "word": "understeering.",
+      "start": 18.12,
+      "end": 18.8
+    }
+  ],
+  "language": "en",
+  "word_count": 44,
+  "is_empty": false,
+  "is_very_short": false
+}

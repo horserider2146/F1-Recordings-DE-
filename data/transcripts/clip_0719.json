@@ -1,0 +1,70 @@
+{
+  "clip_id": "clip_0719",
+  "text": "Okay, let's fire up, fire up. Okay, and you can switch off.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.72,
+      "end": 1.16
+    },
+    {
+      "word": "let's",
+      "start": 1.28,
+      "end": 1.58
+    },
+    {
+      "word": "fire",
+      "start": 1.58,
+      "end": 1.7
+    },
+    {
+      "word": "up,",
+      "start": 1.7,
+      "end": 1.92
+    },
+    {
+      "word": "fire",
+      "start": 2.06,
+      "end": 2.36
+    },
+    {
+      "word": "up.",
+      "start": 2.36,
+      "end": 2.66
+    },
+    {
+      "word": "Okay,",
+      "start": 3.74,
+      "end": 4.18
+    },
+    {
+      "word": "and",
+      "start": 4.32,
+      "end": 4.52
+    },
+    {
+      "word": "you",
+      "start": 4.52,
+      "end": 4.66
+    },
+    {
+      "word": "can",
+      "start": 4.66,
+      "end": 4.86
+    },
+    {
+      "word": "switch",
+      "start": 4.86,
+      "end": 5.22
+    },
+    {
+      "word": "off.",
+      "start": 5.22,
+      "end": 5.5
+    }
+  ],
+  "language": "en",
+  "word_count": 12,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_1040",
+  "text": "What a drive, well done man, excellent work. Yehey! That was amazing, good job mate. Nice work everyone, that was awesome, great work, incredible work. Yeah well done Ali, good job. Good job, great job everyone, that was incredible. That was pushing flat out there.",
+  "words": [
+    {
+      "word": "What",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "a",
+      "start": 0.4,
+      "end": 0.54
+    },
+    {
+      "word": "drive,",
+      "start": 0.54,
+      "end": 0.72
+    },
+    {
+      "word": "well",
+      "start": 1.16,
+      "end": 1.18
+    },
+    {
+      "word": "done",
+      "start": 1.18,
+      "end": 1.32
+    },
+    {
+      "word": "man,",
+      "start": 1.32,
+      "end": 1.52
+    },
+    {
+      "word": "excellent",
+      "start": 2.24,
+      "end": 2.54
+    },
+    {
+      "word": "work.",
+      "start": 2.54,
+      "end": 2.84
+    },
+    {
+      "word": "Yehey!",
+      "start": 3.4,
+      "end": 3.96
+    },
+    {
+      "word": "That",
+      "start": 4.34,
+      "end": 4.78
+    },
+    {
+      "word": "was",
+      "start": 4.78,
+      "end": 5.18
+    },
+    {
+      "word": "amazing,",
+      "start": 5.18,
+      "end": 6.14
+    },
+    {
+      "word": "good",
+      "start": 6.6,
+      "end": 6.72
+    },
+    {
+      "word": "job",
+      "start": 6.72,
+      "end": 6.96
+    },
+    {
+      "word": "mate.",
+      "start": 6.96,
+      "end": 7.18
+    },
+    {
+      "word": "Nice",
+      "start": 8.02,
+      "end": 8.3
+    },
+    {
+      "word": "work",
+      "start": 8.3,
+      "end": 8.56
+    },
+    {
+      "word": "everyone,",
+      "start": 8.56,
+      "end": 8.9
+    },
+    {
+      "word": "that",
+      "start": 9.96,
+      "end": 10.2
+    },
+    {
+      "word": "was",
+      "start": 10.2,
+      "end": 10.5
+    },
+    {
+      "word": "awesome,",
+      "start": 10.5,
+      "end": 10.92
+    },
+    {
+      "word": "great",
+      "start": 11.24,
+      "end": 11.44
+    },
+    {
+      "word": "work,",
+      "start": 11.44,
+      "end": 11.76
+    },
+    {
+      "word": "incredible",
+      "start": 12.26,
+      "end": 12.66
+    },
+    {
+      "word": "work.",
+      "start": 12.66,
+      "end": 13.06
+    },
+    {
+      "word": "Yeah",
+      "start": 13.44,
+      "end": 13.6
+    },
+    {
+      "word": "well",
+      "start": 13.6,
+      "end": 13.78
+    },
+    {
+      "word": "done",
+      "start": 13.78,
+      "end": 13.88
+    },
+    {
+      "word": "Ali,",
+      "start": 13.88,
+      "end": 14.0
+    },
+    {
+      "word": "good",
+      "start": 14.14,
+      "end": 14.22
+    },
+    {
+      "word": "job.",
+      "start": 14.22,
+      "end": 14.46
+    },
+    {
+      "word": "Good",
+      "start": 14.74,
+      "end": 14.98
+    },
+    {
+      "word": "job,",
+      "start": 14.98,
+      "end": 15.28
+    },
+    {
+      "word": "great",
+      "start": 15.54,
+      "end": 15.74
+    },
+    {
+      "word": "job",
+      "start": 15.74,
+      "end": 15.98
+    },
+    {
+      "word": "everyone,",
+      "start": 15.98,
+      "end": 16.26
+    },
+    {
+      "word": "that",
+      "start": 16.46,
+      "end": 16.56
+    },
+    {
+      "word": "was",
+      "start": 16.56,
+      "end": 16.7
+    },
+    {
+      "word": "incredible.",
+      "start": 16.7,
+      "end": 17.12
+    },
+    {
+      "word": "That",
+      "start": 17.84,
+      "end": 18.06
+    },
+    {
+      "word": "was",
+      "start": 18.06,
+      "end": 18.3
+    },
+    {
+      "word": "pushing",
+      "start": 18.3,
+      "end": 19.34
+    },
+    {
+      "word": "flat",
+      "start": 19.34,
+      "end": 19.62
+    },
+    {
+      "word": "out",
+      "start": 19.62,
+      "end": 19.86
+    },
+    {
+      "word": "there.",
+      "start": 19.86,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 45,
+  "is_empty": false,
+  "is_very_short": false
+}

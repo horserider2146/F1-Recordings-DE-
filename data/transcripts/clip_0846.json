@@ -1,0 +1,155 @@
+{
+  "clip_id": "clip_0846",
+  "text": "The Audi. Coffee. And what about the RP and the Red Bull? Are they behind me? Yeah, they have come back out on hearts. Behind or in front? Behind.",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "Audi.",
+      "start": 0.36,
+      "end": 0.36
+    },
+    {
+      "word": "Coffee.",
+      "start": 1.86,
+      "end": 2.34
+    },
+    {
+      "word": "And",
+      "start": 6.5,
+      "end": 6.98
+    },
+    {
+      "word": "what",
+      "start": 6.98,
+      "end": 7.26
+    },
+    {
+      "word": "about",
+      "start": 7.26,
+      "end": 7.54
+    },
+    {
+      "word": "the",
+      "start": 7.54,
+      "end": 8.0
+    },
+    {
+      "word": "RP",
+      "start": 8.0,
+      "end": 8.72
+    },
+    {
+      "word": "and",
+      "start": 8.72,
+      "end": 8.88
+    },
+    {
+      "word": "the",
+      "start": 8.88,
+      "end": 8.98
+    },
+    {
+      "word": "Red",
+      "start": 8.98,
+      "end": 9.12
+    },
+    {
+      "word": "Bull?",
+      "start": 9.12,
+      "end": 9.26
+    },
+    {
+      "word": "Are",
+      "start": 10.48,
+      "end": 10.64
+    },
+    {
+      "word": "they",
+      "start": 10.64,
+      "end": 10.72
+    },
+    {
+      "word": "behind",
+      "start": 10.72,
+      "end": 10.92
+    },
+    {
+      "word": "me?",
+      "start": 10.92,
+      "end": 11.1
+    },
+    {
+      "word": "Yeah,",
+      "start": 12.42,
+      "end": 12.76
+    },
+    {
+      "word": "they",
+      "start": 12.86,
+      "end": 12.94
+    },
+    {
+      "word": "have",
+      "start": 12.94,
+      "end": 13.02
+    },
+    {
+      "word": "come",
+      "start": 13.02,
+      "end": 13.2
+    },
+    {
+      "word": "back",
+      "start": 13.2,
+      "end": 13.34
+    },
+    {
+      "word": "out",
+      "start": 13.34,
+      "end": 13.54
+    },
+    {
+      "word": "on",
+      "start": 13.54,
+      "end": 13.74
+    },
+    {
+      "word": "hearts.",
+      "start": 13.74,
+      "end": 14.16
+    },
+    {
+      "word": "Behind",
+      "start": 15.2,
+      "end": 15.68
+    },
+    {
+      "word": "or",
+      "start": 15.68,
+      "end": 15.86
+    },
+    {
+      "word": "in",
+      "start": 15.86,
+      "end": 15.98
+    },
+    {
+      "word": "front?",
+      "start": 15.98,
+      "end": 16.12
+    },
+    {
+      "word": "Behind.",
+      "start": 16.86,
+      "end": 17.3
+    }
+  ],
+  "language": "en",
+  "word_count": 29,
+  "is_empty": false,
+  "is_very_short": false
+}

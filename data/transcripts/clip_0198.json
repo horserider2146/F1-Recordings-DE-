@@ -1,0 +1,260 @@
+{
+  "clip_id": "clip_0198",
+  "text": "3 turn 1 2 and no management rest of the lap 2 go, collect 2 first, copy that 4 to go, collect 2, 3 to go, 37.4 rest of the lap, collect 2, 3 to go, 37.4 rest of the lap, collect 2, 3 to go, 37.4",
+  "words": [
+    {
+      "word": "3",
+      "start": 1.18,
+      "end": 1.74
+    },
+    {
+      "word": "turn",
+      "start": 1.74,
+      "end": 1.94
+    },
+    {
+      "word": "1",
+      "start": 1.94,
+      "end": 2.14
+    },
+    {
+      "word": "2",
+      "start": 2.14,
+      "end": 2.46
+    },
+    {
+      "word": "and",
+      "start": 2.46,
+      "end": 2.76
+    },
+    {
+      "word": "no",
+      "start": 2.76,
+      "end": 3.04
+    },
+    {
+      "word": "management",
+      "start": 3.04,
+      "end": 3.44
+    },
+    {
+      "word": "rest",
+      "start": 3.44,
+      "end": 3.84
+    },
+    {
+      "word": "of",
+      "start": 3.84,
+      "end": 4.02
+    },
+    {
+      "word": "the",
+      "start": 4.02,
+      "end": 4.14
+    },
+    {
+      "word": "lap",
+      "start": 4.14,
+      "end": 4.34
+    },
+    {
+      "word": "2",
+      "start": 5.38,
+      "end": 5.94
+    },
+    {
+      "word": "go,",
+      "start": 5.94,
+      "end": 6.3
+    },
+    {
+      "word": "collect",
+      "start": 6.82,
+      "end": 7.32
+    },
+    {
+      "word": "2",
+      "start": 7.32,
+      "end": 7.58
+    },
+    {
+      "word": "first,",
+      "start": 7.58,
+      "end": 7.86
+    },
+    {
+      "word": "copy",
+      "start": 7.94,
+      "end": 8.1
+    },
+    {
+      "word": "that",
+      "start": 8.1,
+      "end": 8.24
+    },
+    {
+      "word": "4",
+      "start": 11.4,
+      "end": 11.96
+    },
+    {
+      "word": "to",
+      "start": 11.96,
+      "end": 11.96
+    },
+    {
+      "word": "go,",
+      "start": 11.96,
+      "end": 12.9
+    },
+    {
+      "word": "collect",
+      "start": 12.96,
+      "end": 13.5
+    },
+    {
+      "word": "2,",
+      "start": 13.5,
+      "end": 13.98
+    },
+    {
+      "word": "3",
+      "start": 14.04,
+      "end": 14.14
+    },
+    {
+      "word": "to",
+      "start": 14.14,
+      "end": 14.28
+    },
+    {
+      "word": "go,",
+      "start": 14.28,
+      "end": 14.44
+    },
+    {
+      "word": "37",
+      "start": 14.44,
+      "end": 14.82
+    },
+    {
+      "word": ".4",
+      "start": 14.82,
+      "end": 15.52
+    },
+    {
+      "word": "rest",
+      "start": 15.52,
+      "end": 16.14
+    },
+    {
+      "word": "of",
+      "start": 16.14,
+      "end": 16.36
+    },
+    {
+      "word": "the",
+      "start": 16.36,
+      "end": 16.52
+    },
+    {
+      "word": "lap,",
+      "start": 16.52,
+      "end": 16.8
+    },
+    {
+      "word": "collect",
+      "start": 17.1,
+      "end": 17.22
+    },
+    {
+      "word": "2,",
+      "start": 17.22,
+      "end": 17.92
+    },
+    {
+      "word": "3",
+      "start": 18.16,
+      "end": 18.16
+    },
+    {
+      "word": "to",
+      "start": 18.16,
+      "end": 18.16
+    },
+    {
+      "word": "go,",
+      "start": 18.16,
+      "end": 18.16
+    },
+    {
+      "word": "37",
+      "start": 18.16,
+      "end": 18.16
+    },
+    {
+      "word": ".4",
+      "start": 18.16,
+      "end": 18.68
+    },
+    {
+      "word": "rest",
+      "start": 18.68,
+      "end": 18.86
+    },
+    {
+      "word": "of",
+      "start": 18.86,
+      "end": 18.86
+    },
+    {
+      "word": "the",
+      "start": 18.86,
+      "end": 18.86
+    },
+    {
+      "word": "lap,",
+      "start": 18.86,
+      "end": 19.88
+    },
+    {
+      "word": "collect",
+      "start": 19.88,
+      "end": 19.88
+    },
+    {
+      "word": "2,",
+      "start": 19.88,
+      "end": 19.98
+    },
+    {
+      "word": "3",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "to",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "go,",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": "37",
+      "start": 19.98,
+      "end": 19.98
+    },
+    {
+      "word": ".4",
+      "start": 19.98,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 47,
+  "is_empty": false,
+  "is_very_short": false
+}

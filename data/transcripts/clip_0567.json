@@ -1,0 +1,200 @@
+{
+  "clip_id": "clip_0567",
+  "text": "Turkey is clear, Turkey is clear. Warm up your tires. And noise will push behind. Noise behind you will push. And box box, lap was good, about XC910. You lost 4 times there. We are P3 Antoneli P1.",
+  "words": [
+    {
+      "word": "Turkey",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "is",
+      "start": 0.2,
+      "end": 0.34
+    },
+    {
+      "word": "clear,",
+      "start": 0.34,
+      "end": 0.52
+    },
+    {
+      "word": "Turkey",
+      "start": 0.64,
+      "end": 0.8
+    },
+    {
+      "word": "is",
+      "start": 0.8,
+      "end": 0.96
+    },
+    {
+      "word": "clear.",
+      "start": 0.96,
+      "end": 1.18
+    },
+    {
+      "word": "Warm",
+      "start": 1.48,
+      "end": 1.72
+    },
+    {
+      "word": "up",
+      "start": 1.72,
+      "end": 2.42
+    },
+    {
+      "word": "your",
+      "start": 2.42,
+      "end": 2.56
+    },
+    {
+      "word": "tires.",
+      "start": 2.56,
+      "end": 2.82
+    },
+    {
+      "word": "And",
+      "start": 4.3,
+      "end": 4.86
+    },
+    {
+      "word": "noise",
+      "start": 4.86,
+      "end": 5.18
+    },
+    {
+      "word": "will",
+      "start": 5.18,
+      "end": 5.46
+    },
+    {
+      "word": "push",
+      "start": 5.46,
+      "end": 5.74
+    },
+    {
+      "word": "behind.",
+      "start": 5.74,
+      "end": 6.12
+    },
+    {
+      "word": "Noise",
+      "start": 6.52,
+      "end": 6.78
+    },
+    {
+      "word": "behind",
+      "start": 6.78,
+      "end": 7.14
+    },
+    {
+      "word": "you",
+      "start": 7.14,
+      "end": 7.36
+    },
+    {
+      "word": "will",
+      "start": 7.36,
+      "end": 7.52
+    },
+    {
+      "word": "push.",
+      "start": 7.52,
+      "end": 7.86
+    },
+    {
+      "word": "And",
+      "start": 9.32,
+      "end": 9.58
+    },
+    {
+      "word": "box",
+      "start": 9.58,
+      "end": 9.78
+    },
+    {
+      "word": "box,",
+      "start": 9.78,
+      "end": 10.14
+    },
+    {
+      "word": "lap",
+      "start": 11.08,
+      "end": 11.4
+    },
+    {
+      "word": "was",
+      "start": 11.4,
+      "end": 11.66
+    },
+    {
+      "word": "good,",
+      "start": 11.66,
+      "end": 12.38
+    },
+    {
+      "word": "about",
+      "start": 12.68,
+      "end": 12.94
+    },
+    {
+      "word": "XC910.",
+      "start": 12.94,
+      "end": 14.56
+    },
+    {
+      "word": "You",
+      "start": 15.3,
+      "end": 15.76
+    },
+    {
+      "word": "lost",
+      "start": 15.76,
+      "end": 16.0
+    },
+    {
+      "word": "4",
+      "start": 16.0,
+      "end": 16.26
+    },
+    {
+      "word": "times",
+      "start": 16.26,
+      "end": 16.44
+    },
+    {
+      "word": "there.",
+      "start": 16.44,
+      "end": 16.68
+    },
+    {
+      "word": "We",
+      "start": 17.72,
+      "end": 17.86
+    },
+    {
+      "word": "are",
+      "start": 17.86,
+      "end": 17.96
+    },
+    {
+      "word": "P3",
+      "start": 17.96,
+      "end": 18.34
+    },
+    {
+      "word": "Antoneli",
+      "start": 18.34,
+      "end": 18.9
+    },
+    {
+      "word": "P1.",
+      "start": 18.9,
+      "end": 19.36
+    }
+  ],
+  "language": "en",
+  "word_count": 38,
+  "is_empty": false,
+  "is_very_short": false
+}

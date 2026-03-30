@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0683",
+  "text": "Let's assume so Max, I don't know. I don't know, I can't see the delta, it's just not taking me. I think you could ignore your delta when somebody overtakes you. I have no choice anyway.",
+  "words": [
+    {
+      "word": "Let's",
+      "start": 1.36,
+      "end": 2.0
+    },
+    {
+      "word": "assume",
+      "start": 2.0,
+      "end": 2.32
+    },
+    {
+      "word": "so",
+      "start": 2.32,
+      "end": 2.8
+    },
+    {
+      "word": "Max,",
+      "start": 2.8,
+      "end": 3.14
+    },
+    {
+      "word": "I",
+      "start": 3.46,
+      "end": 3.64
+    },
+    {
+      "word": "don't",
+      "start": 3.64,
+      "end": 4.06
+    },
+    {
+      "word": "know.",
+      "start": 4.06,
+      "end": 4.26
+    },
+    {
+      "word": "I",
+      "start": 6.08,
+      "end": 6.52
+    },
+    {
+      "word": "don't",
+      "start": 6.52,
+      "end": 6.78
+    },
+    {
+      "word": "know,",
+      "start": 6.78,
+      "end": 6.86
+    },
+    {
+      "word": "I",
+      "start": 6.88,
+      "end": 7.0
+    },
+    {
+      "word": "can't",
+      "start": 7.0,
+      "end": 8.34
+    },
+    {
+      "word": "see",
+      "start": 8.34,
+      "end": 8.56
+    },
+    {
+      "word": "the",
+      "start": 8.56,
+      "end": 8.88
+    },
+    {
+      "word": "delta,",
+      "start": 8.88,
+      "end": 9.1
+    },
+    {
+      "word": "it's",
+      "start": 9.54,
+      "end": 10.1
+    },
+    {
+      "word": "just",
+      "start": 10.1,
+      "end": 10.2
+    },
+    {
+      "word": "not",
+      "start": 10.2,
+      "end": 10.32
+    },
+    {
+      "word": "taking",
+      "start": 10.32,
+      "end": 10.64
+    },
+    {
+      "word": "me.",
+      "start": 10.64,
+      "end": 11.02
+    },
+    {
+      "word": "I",
+      "start": 11.6,
+      "end": 11.76
+    },
+    {
+      "word": "think",
+      "start": 11.76,
+      "end": 11.9
+    },
+    {
+      "word": "you",
+      "start": 11.9,
+      "end": 12.04
+    },
+    {
+      "word": "could",
+      "start": 12.04,
+      "end": 12.14
+    },
+    {
+      "word": "ignore",
+      "start": 12.14,
+      "end": 12.52
+    },
+    {
+      "word": "your",
+      "start": 12.52,
+      "end": 12.72
+    },
+    {
+      "word": "delta",
+      "start": 12.72,
+      "end": 13.08
+    },
+    {
+      "word": "when",
+      "start": 13.08,
+      "end": 13.4
+    },
+    {
+      "word": "somebody",
+      "start": 13.4,
+      "end": 13.8
+    },
+    {
+      "word": "overtakes",
+      "start": 13.8,
+      "end": 14.3
+    },
+    {
+      "word": "you.",
+      "start": 14.3,
+      "end": 14.6
+    },
+    {
+      "word": "I",
+      "start": 16.82,
+      "end": 17.2
+    },
+    {
+      "word": "have",
+      "start": 17.2,
+      "end": 17.36
+    },
+    {
+      "word": "no",
+      "start": 17.36,
+      "end": 17.48
+    },
+    {
+      "word": "choice",
+      "start": 17.48,
+      "end": 17.84
+    },
+    {
+      "word": "anyway.",
+      "start": 17.84,
+      "end": 18.16
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}

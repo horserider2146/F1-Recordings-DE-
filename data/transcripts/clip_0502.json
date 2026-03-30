@@ -1,0 +1,145 @@
+{
+  "clip_id": "clip_0502",
+  "text": "1, 2, 1. The next pushing is Bartoletto, 15 behind. We'll box now Lance, box now. And we'll box now Lance, box now for a pit stop.",
+  "words": [
+    {
+      "word": "1,",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "2,",
+      "start": 1.3,
+      "end": 2.12
+    },
+    {
+      "word": "1.",
+      "start": 3.9,
+      "end": 4.84
+    },
+    {
+      "word": "The",
+      "start": 6.1,
+      "end": 6.88
+    },
+    {
+      "word": "next",
+      "start": 6.88,
+      "end": 7.34
+    },
+    {
+      "word": "pushing",
+      "start": 7.34,
+      "end": 7.72
+    },
+    {
+      "word": "is",
+      "start": 7.72,
+      "end": 7.94
+    },
+    {
+      "word": "Bartoletto,",
+      "start": 7.94,
+      "end": 8.64
+    },
+    {
+      "word": "15",
+      "start": 9.56,
+      "end": 10.02
+    },
+    {
+      "word": "behind.",
+      "start": 10.02,
+      "end": 10.46
+    },
+    {
+      "word": "We'll",
+      "start": 11.1,
+      "end": 11.24
+    },
+    {
+      "word": "box",
+      "start": 11.24,
+      "end": 11.58
+    },
+    {
+      "word": "now",
+      "start": 11.58,
+      "end": 12.0
+    },
+    {
+      "word": "Lance,",
+      "start": 12.0,
+      "end": 12.28
+    },
+    {
+      "word": "box",
+      "start": 12.44,
+      "end": 12.6
+    },
+    {
+      "word": "now.",
+      "start": 12.6,
+      "end": 13.0
+    },
+    {
+      "word": "And",
+      "start": 15.18,
+      "end": 15.96
+    },
+    {
+      "word": "we'll",
+      "start": 15.96,
+      "end": 16.22
+    },
+    {
+      "word": "box",
+      "start": 16.22,
+      "end": 16.56
+    },
+    {
+      "word": "now",
+      "start": 16.56,
+      "end": 16.92
+    },
+    {
+      "word": "Lance,",
+      "start": 16.92,
+      "end": 17.16
+    },
+    {
+      "word": "box",
+      "start": 17.3,
+      "end": 17.46
+    },
+    {
+      "word": "now",
+      "start": 17.46,
+      "end": 17.86
+    },
+    {
+      "word": "for",
+      "start": 17.86,
+      "end": 18.1
+    },
+    {
+      "word": "a",
+      "start": 18.1,
+      "end": 18.24
+    },
+    {
+      "word": "pit",
+      "start": 18.24,
+      "end": 18.34
+    },
+    {
+      "word": "stop.",
+      "start": 18.34,
+      "end": 18.6
+    }
+  ],
+  "language": "en",
+  "word_count": 27,
+  "is_empty": false,
+  "is_very_short": false
+}

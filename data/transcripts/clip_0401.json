@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0401",
+  "text": "B353 The fog ahead doing 36.9 I would have been 13 seconds clear B355 and 9 laps remaining The front surface temperature is generally below the window entering corners B355",
+  "words": [
+    {
+      "word": "B353",
+      "start": 1.32,
+      "end": 2.16
+    },
+    {
+      "word": "The",
+      "start": 3.82,
+      "end": 4.24
+    },
+    {
+      "word": "fog",
+      "start": 4.24,
+      "end": 4.48
+    },
+    {
+      "word": "ahead",
+      "start": 4.48,
+      "end": 4.8
+    },
+    {
+      "word": "doing",
+      "start": 4.8,
+      "end": 5.02
+    },
+    {
+      "word": "36",
+      "start": 5.02,
+      "end": 5.68
+    },
+    {
+      "word": ".9",
+      "start": 5.68,
+      "end": 6.3
+    },
+    {
+      "word": "I",
+      "start": 6.3,
+      "end": 6.82
+    },
+    {
+      "word": "would",
+      "start": 6.82,
+      "end": 6.9
+    },
+    {
+      "word": "have",
+      "start": 6.9,
+      "end": 6.98
+    },
+    {
+      "word": "been",
+      "start": 6.98,
+      "end": 7.04
+    },
+    {
+      "word": "13",
+      "start": 7.04,
+      "end": 7.5
+    },
+    {
+      "word": "seconds",
+      "start": 7.5,
+      "end": 7.92
+    },
+    {
+      "word": "clear",
+      "start": 7.92,
+      "end": 8.44
+    },
+    {
+      "word": "B355",
+      "start": 10.3,
+      "end": 11.14
+    },
+    {
+      "word": "and",
+      "start": 11.14,
+      "end": 11.42
+    },
+    {
+      "word": "9",
+      "start": 11.42,
+      "end": 12.1
+    },
+    {
+      "word": "laps",
+      "start": 12.1,
+      "end": 12.54
+    },
+    {
+      "word": "remaining",
+      "start": 12.54,
+      "end": 13.08
+    },
+    {
+      "word": "The",
+      "start": 13.08,
+      "end": 13.58
+    },
+    {
+      "word": "front",
+      "start": 13.58,
+      "end": 14.3
+    },
+    {
+      "word": "surface",
+      "start": 14.3,
+      "end": 14.66
+    },
+    {
+      "word": "temperature",
+      "start": 14.66,
+      "end": 14.98
+    },
+    {
+      "word": "is",
+      "start": 14.98,
+      "end": 15.2
+    },
+    {
+      "word": "generally",
+      "start": 15.2,
+      "end": 15.46
+    },
+    {
+      "word": "below",
+      "start": 15.46,
+      "end": 15.78
+    },
+    {
+      "word": "the",
+      "start": 15.78,
+      "end": 16.02
+    },
+    {
+      "word": "window",
+      "start": 16.02,
+      "end": 16.32
+    },
+    {
+      "word": "entering",
+      "start": 16.32,
+      "end": 16.8
+    },
+    {
+      "word": "corners",
+      "start": 16.8,
+      "end": 17.18
+    },
+    {
+      "word": "B355",
+      "start": 19.14,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 30,
+  "is_empty": false,
+  "is_very_short": false
+}

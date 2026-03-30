@@ -1,0 +1,280 @@
+{
+  "clip_id": "clip_0961",
+  "text": "Okay mate, so we are going to go strat 7 at turn 14. You can go strat 7 if cars go before. Reminder, less than 50% throttle. Batteries full. Charge level is high. Okay mate, charge level getting high. Keep up 50% throttle please. I'll pull it away. No be strat 7.",
+  "words": [
+    {
+      "word": "Okay",
+      "start": 0.0,
+      "end": 0.92
+    },
+    {
+      "word": "mate,",
+      "start": 0.92,
+      "end": 1.1
+    },
+    {
+      "word": "so",
+      "start": 1.26,
+      "end": 1.38
+    },
+    {
+      "word": "we",
+      "start": 1.38,
+      "end": 1.58
+    },
+    {
+      "word": "are",
+      "start": 1.58,
+      "end": 1.66
+    },
+    {
+      "word": "going",
+      "start": 1.66,
+      "end": 1.86
+    },
+    {
+      "word": "to",
+      "start": 1.86,
+      "end": 2.02
+    },
+    {
+      "word": "go",
+      "start": 2.02,
+      "end": 2.2
+    },
+    {
+      "word": "strat",
+      "start": 2.2,
+      "end": 2.54
+    },
+    {
+      "word": "7",
+      "start": 2.54,
+      "end": 3.08
+    },
+    {
+      "word": "at",
+      "start": 3.08,
+      "end": 3.58
+    },
+    {
+      "word": "turn",
+      "start": 3.58,
+      "end": 3.82
+    },
+    {
+      "word": "14.",
+      "start": 3.82,
+      "end": 4.32
+    },
+    {
+      "word": "You",
+      "start": 4.76,
+      "end": 4.9
+    },
+    {
+      "word": "can",
+      "start": 4.9,
+      "end": 5.04
+    },
+    {
+      "word": "go",
+      "start": 5.04,
+      "end": 5.22
+    },
+    {
+      "word": "strat",
+      "start": 5.22,
+      "end": 5.54
+    },
+    {
+      "word": "7",
+      "start": 5.54,
+      "end": 6.0
+    },
+    {
+      "word": "if",
+      "start": 6.0,
+      "end": 6.34
+    },
+    {
+      "word": "cars",
+      "start": 6.34,
+      "end": 6.68
+    },
+    {
+      "word": "go",
+      "start": 6.68,
+      "end": 6.94
+    },
+    {
+      "word": "before.",
+      "start": 6.94,
+      "end": 7.26
+    },
+    {
+      "word": "Reminder,",
+      "start": 7.68,
+      "end": 8.16
+    },
+    {
+      "word": "less",
+      "start": 8.32,
+      "end": 8.6
+    },
+    {
+      "word": "than",
+      "start": 8.6,
+      "end": 8.84
+    },
+    {
+      "word": "50",
+      "start": 8.84,
+      "end": 9.2
+    },
+    {
+      "word": "%",
+      "start": 9.2,
+      "end": 9.58
+    },
+    {
+      "word": "throttle.",
+      "start": 9.58,
+      "end": 9.9
+    },
+    {
+      "word": "Batteries",
+      "start": 10.5,
+      "end": 11.06
+    },
+    {
+      "word": "full.",
+      "start": 11.06,
+      "end": 11.36
+    },
+    {
+      "word": "Charge",
+      "start": 11.9,
+      "end": 12.04
+    },
+    {
+      "word": "level",
+      "start": 12.04,
+      "end": 12.34
+    },
+    {
+      "word": "is",
+      "start": 12.34,
+      "end": 12.56
+    },
+    {
+      "word": "high.",
+      "start": 12.56,
+      "end": 12.76
+    },
+    {
+      "word": "Okay",
+      "start": 13.26,
+      "end": 13.74
+    },
+    {
+      "word": "mate,",
+      "start": 13.74,
+      "end": 13.96
+    },
+    {
+      "word": "charge",
+      "start": 14.26,
+      "end": 14.54
+    },
+    {
+      "word": "level",
+      "start": 14.54,
+      "end": 14.72
+    },
+    {
+      "word": "getting",
+      "start": 14.72,
+      "end": 14.88
+    },
+    {
+      "word": "high.",
+      "start": 14.88,
+      "end": 15.12
+    },
+    {
+      "word": "Keep",
+      "start": 15.28,
+      "end": 15.34
+    },
+    {
+      "word": "up",
+      "start": 15.34,
+      "end": 15.5
+    },
+    {
+      "word": "50",
+      "start": 15.5,
+      "end": 15.78
+    },
+    {
+      "word": "%",
+      "start": 15.78,
+      "end": 16.06
+    },
+    {
+      "word": "throttle",
+      "start": 16.06,
+      "end": 16.4
+    },
+    {
+      "word": "please.",
+      "start": 16.4,
+      "end": 16.74
+    },
+    {
+      "word": "I'll",
+      "start": 16.74,
+      "end": 17.44
+    },
+    {
+      "word": "pull",
+      "start": 17.44,
+      "end": 17.62
+    },
+    {
+      "word": "it",
+      "start": 17.62,
+      "end": 17.72
+    },
+    {
+      "word": "away.",
+      "start": 17.72,
+      "end": 18.0
+    },
+    {
+      "word": "No",
+      "start": 18.72,
+      "end": 19.02
+    },
+    {
+      "word": "be",
+      "start": 19.02,
+      "end": 19.16
+    },
+    {
+      "word": "strat",
+      "start": 19.16,
+      "end": 19.46
+    },
+    {
+      "word": "7.",
+      "start": 19.46,
+      "end": 19.8
+    }
+  ],
+  "language": "en",
+  "word_count": 52,
+  "is_empty": false,
+  "is_very_short": false
+}

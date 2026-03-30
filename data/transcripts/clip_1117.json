@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_1117",
+  "text": "He is 6.4 behind you but he is not lapping you so we need to stay ahead. Six laps to go. He is on soft tyres lapping 36.4. We are currently P14. We have to account 4 seconds.",
+  "words": [
+    {
+      "word": "He",
+      "start": 0.0,
+      "end": 1.06
+    },
+    {
+      "word": "is",
+      "start": 1.06,
+      "end": 1.18
+    },
+    {
+      "word": "6",
+      "start": 1.18,
+      "end": 1.38
+    },
+    {
+      "word": ".4",
+      "start": 1.38,
+      "end": 1.98
+    },
+    {
+      "word": "behind",
+      "start": 1.98,
+      "end": 2.22
+    },
+    {
+      "word": "you",
+      "start": 2.22,
+      "end": 2.54
+    },
+    {
+      "word": "but",
+      "start": 2.54,
+      "end": 3.04
+    },
+    {
+      "word": "he",
+      "start": 3.04,
+      "end": 3.82
+    },
+    {
+      "word": "is",
+      "start": 3.82,
+      "end": 3.92
+    },
+    {
+      "word": "not",
+      "start": 3.92,
+      "end": 4.1
+    },
+    {
+      "word": "lapping",
+      "start": 4.1,
+      "end": 4.38
+    },
+    {
+      "word": "you",
+      "start": 4.38,
+      "end": 4.6
+    },
+    {
+      "word": "so",
+      "start": 4.6,
+      "end": 4.9
+    },
+    {
+      "word": "we",
+      "start": 4.9,
+      "end": 5.08
+    },
+    {
+      "word": "need",
+      "start": 5.08,
+      "end": 5.2
+    },
+    {
+      "word": "to",
+      "start": 5.2,
+      "end": 5.32
+    },
+    {
+      "word": "stay",
+      "start": 5.32,
+      "end": 5.46
+    },
+    {
+      "word": "ahead.",
+      "start": 5.46,
+      "end": 5.78
+    },
+    {
+      "word": "Six",
+      "start": 7.34,
+      "end": 7.98
+    },
+    {
+      "word": "laps",
+      "start": 7.98,
+      "end": 8.28
+    },
+    {
+      "word": "to",
+      "start": 8.28,
+      "end": 8.52
+    },
+    {
+      "word": "go.",
+      "start": 8.52,
+      "end": 8.74
+    },
+    {
+      "word": "He",
+      "start": 10.38,
+      "end": 10.94
+    },
+    {
+      "word": "is",
+      "start": 10.94,
+      "end": 11.06
+    },
+    {
+      "word": "on",
+      "start": 11.06,
+      "end": 11.14
+    },
+    {
+      "word": "soft",
+      "start": 11.14,
+      "end": 11.46
+    },
+    {
+      "word": "tyres",
+      "start": 11.46,
+      "end": 11.84
+    },
+    {
+      "word": "lapping",
+      "start": 11.84,
+      "end": 12.4
+    },
+    {
+      "word": "36",
+      "start": 12.4,
+      "end": 12.82
+    },
+    {
+      "word": ".4.",
+      "start": 12.82,
+      "end": 13.26
+    },
+    {
+      "word": "We",
+      "start": 14.62,
+      "end": 15.02
+    },
+    {
+      "word": "are",
+      "start": 15.02,
+      "end": 15.1
+    },
+    {
+      "word": "currently",
+      "start": 15.1,
+      "end": 15.6
+    },
+    {
+      "word": "P14.",
+      "start": 15.6,
+      "end": 16.76
+    },
+    {
+      "word": "We",
+      "start": 18.16,
+      "end": 18.36
+    },
+    {
+      "word": "have",
+      "start": 18.36,
+      "end": 18.46
+    },
+    {
+      "word": "to",
+      "start": 18.46,
+      "end": 18.68
+    },
+    {
+      "word": "account",
+      "start": 18.68,
+      "end": 19.0
+    },
+    {
+      "word": "4",
+      "start": 19.0,
+      "end": 19.4
+    },
+    {
+      "word": "seconds.",
+      "start": 19.4,
+      "end": 19.72
+    }
+  ],
+  "language": "en",
+  "word_count": 38,
+  "is_empty": false,
+  "is_very_short": false
+}

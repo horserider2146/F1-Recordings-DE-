@@ -1,0 +1,145 @@
+{
+  "clip_id": "clip_0389",
+  "text": "Head to 1.5 The clerk doesn't have overtake Head to the clerk 1.1 Head to 1.2 The clerk doesn't have overtake So avoid boosting",
+  "words": [
+    {
+      "word": "Head",
+      "start": 0.0,
+      "end": 0.98
+    },
+    {
+      "word": "to",
+      "start": 0.98,
+      "end": 1.12
+    },
+    {
+      "word": "1",
+      "start": 1.12,
+      "end": 1.24
+    },
+    {
+      "word": ".5",
+      "start": 1.24,
+      "end": 1.88
+    },
+    {
+      "word": "The",
+      "start": 3.56,
+      "end": 4.56
+    },
+    {
+      "word": "clerk",
+      "start": 4.56,
+      "end": 4.74
+    },
+    {
+      "word": "doesn't",
+      "start": 4.74,
+      "end": 5.32
+    },
+    {
+      "word": "have",
+      "start": 5.32,
+      "end": 5.62
+    },
+    {
+      "word": "overtake",
+      "start": 5.62,
+      "end": 6.28
+    },
+    {
+      "word": "Head",
+      "start": 7.62,
+      "end": 8.62
+    },
+    {
+      "word": "to",
+      "start": 8.62,
+      "end": 8.74
+    },
+    {
+      "word": "the",
+      "start": 8.74,
+      "end": 8.9
+    },
+    {
+      "word": "clerk",
+      "start": 8.9,
+      "end": 9.18
+    },
+    {
+      "word": "1",
+      "start": 9.18,
+      "end": 9.56
+    },
+    {
+      "word": ".1",
+      "start": 9.56,
+      "end": 10.3
+    },
+    {
+      "word": "Head",
+      "start": 11.76,
+      "end": 12.26
+    },
+    {
+      "word": "to",
+      "start": 12.26,
+      "end": 12.36
+    },
+    {
+      "word": "1",
+      "start": 12.36,
+      "end": 12.62
+    },
+    {
+      "word": ".2",
+      "start": 12.62,
+      "end": 13.42
+    },
+    {
+      "word": "The",
+      "start": 13.42,
+      "end": 14.48
+    },
+    {
+      "word": "clerk",
+      "start": 14.48,
+      "end": 15.74
+    },
+    {
+      "word": "doesn't",
+      "start": 15.74,
+      "end": 16.24
+    },
+    {
+      "word": "have",
+      "start": 16.24,
+      "end": 16.52
+    },
+    {
+      "word": "overtake",
+      "start": 16.52,
+      "end": 17.26
+    },
+    {
+      "word": "So",
+      "start": 18.64,
+      "end": 19.14
+    },
+    {
+      "word": "avoid",
+      "start": 19.14,
+      "end": 19.56
+    },
+    {
+      "word": "boosting",
+      "start": 19.56,
+      "end": 19.92
+    }
+  ],
+  "language": "en",
+  "word_count": 24,
+  "is_empty": false,
+  "is_very_short": false
+}

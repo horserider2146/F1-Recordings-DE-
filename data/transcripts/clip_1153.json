@@ -1,0 +1,40 @@
+{
+  "clip_id": "clip_1153",
+  "text": "Portoletto, Lindblad, Ocon, Holopinto, and Holperberg.",
+  "words": [
+    {
+      "word": "Portoletto,",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "word": "Lindblad,",
+      "start": 1.16,
+      "end": 1.72
+    },
+    {
+      "word": "Ocon,",
+      "start": 1.98,
+      "end": 2.34
+    },
+    {
+      "word": "Holopinto,",
+      "start": 2.68,
+      "end": 3.26
+    },
+    {
+      "word": "and",
+      "start": 3.56,
+      "end": 3.7
+    },
+    {
+      "word": "Holperberg.",
+      "start": 3.7,
+      "end": 4.24
+    }
+  ],
+  "language": "en",
+  "word_count": 6,
+  "is_empty": false,
+  "is_very_short": false
+}

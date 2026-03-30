@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0364",
+  "text": "Will my note appear from my quickest lap before? It's the quickest lap of this session so far. 225. The flirt at 5 seconds. Good lap time, well, give me. Give me was a 32.3.",
+  "words": [
+    {
+      "word": "Will",
+      "start": 0.88,
+      "end": 1.5
+    },
+    {
+      "word": "my",
+      "start": 1.5,
+      "end": 1.7
+    },
+    {
+      "word": "note",
+      "start": 1.7,
+      "end": 1.96
+    },
+    {
+      "word": "appear",
+      "start": 1.96,
+      "end": 2.3
+    },
+    {
+      "word": "from",
+      "start": 2.3,
+      "end": 3.44
+    },
+    {
+      "word": "my",
+      "start": 3.44,
+      "end": 4.2
+    },
+    {
+      "word": "quickest",
+      "start": 4.2,
+      "end": 4.44
+    },
+    {
+      "word": "lap",
+      "start": 4.44,
+      "end": 4.72
+    },
+    {
+      "word": "before?",
+      "start": 4.72,
+      "end": 5.02
+    },
+    {
+      "word": "It's",
+      "start": 7.2,
+      "end": 7.82
+    },
+    {
+      "word": "the",
+      "start": 7.82,
+      "end": 7.94
+    },
+    {
+      "word": "quickest",
+      "start": 7.94,
+      "end": 8.26
+    },
+    {
+      "word": "lap",
+      "start": 8.26,
+      "end": 8.62
+    },
+    {
+      "word": "of",
+      "start": 8.62,
+      "end": 8.9
+    },
+    {
+      "word": "this",
+      "start": 8.9,
+      "end": 9.12
+    },
+    {
+      "word": "session",
+      "start": 9.12,
+      "end": 9.56
+    },
+    {
+      "word": "so",
+      "start": 9.56,
+      "end": 9.98
+    },
+    {
+      "word": "far.",
+      "start": 9.98,
+      "end": 10.34
+    },
+    {
+      "word": "225.",
+      "start": 11.58,
+      "end": 12.2
+    },
+    {
+      "word": "The",
+      "start": 12.76,
+      "end": 13.0
+    },
+    {
+      "word": "flirt",
+      "start": 13.0,
+      "end": 13.2
+    },
+    {
+      "word": "at",
+      "start": 13.2,
+      "end": 13.48
+    },
+    {
+      "word": "5",
+      "start": 13.48,
+      "end": 13.92
+    },
+    {
+      "word": "seconds.",
+      "start": 13.92,
+      "end": 14.28
+    },
+    {
+      "word": "Good",
+      "start": 15.34,
+      "end": 15.8
+    },
+    {
+      "word": "lap",
+      "start": 15.8,
+      "end": 15.96
+    },
+    {
+      "word": "time,",
+      "start": 15.96,
+      "end": 16.18
+    },
+    {
+      "word": "well,",
+      "start": 16.34,
+      "end": 16.36
+    },
+    {
+      "word": "give",
+      "start": 16.42,
+      "end": 16.5
+    },
+    {
+      "word": "me.",
+      "start": 16.5,
+      "end": 16.62
+    },
+    {
+      "word": "Give",
+      "start": 17.38,
+      "end": 18.0
+    },
+    {
+      "word": "me",
+      "start": 18.0,
+      "end": 18.12
+    },
+    {
+      "word": "was",
+      "start": 18.12,
+      "end": 18.28
+    },
+    {
+      "word": "a",
+      "start": 18.28,
+      "end": 18.42
+    },
+    {
+      "word": "32",
+      "start": 18.42,
+      "end": 19.02
+    },
+    {
+      "word": ".3.",
+      "start": 19.02,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

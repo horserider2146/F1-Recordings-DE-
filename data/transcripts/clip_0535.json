@@ -1,0 +1,180 @@
+{
+  "clip_id": "clip_0535",
+  "text": "It will be clear exit. There's no one behind you. And yet clear exit. And landed mine. White H9 position 12. White H9 position 12. Two cars ahead to go. Well spoken. Let's assume",
+  "words": [
+    {
+      "word": "It",
+      "start": 0.0,
+      "end": 0.92
+    },
+    {
+      "word": "will",
+      "start": 0.92,
+      "end": 1.02
+    },
+    {
+      "word": "be",
+      "start": 1.02,
+      "end": 1.16
+    },
+    {
+      "word": "clear",
+      "start": 1.16,
+      "end": 1.48
+    },
+    {
+      "word": "exit.",
+      "start": 1.48,
+      "end": 1.84
+    },
+    {
+      "word": "There's",
+      "start": 3.4,
+      "end": 3.94
+    },
+    {
+      "word": "no",
+      "start": 3.94,
+      "end": 4.12
+    },
+    {
+      "word": "one",
+      "start": 4.12,
+      "end": 4.26
+    },
+    {
+      "word": "behind",
+      "start": 4.26,
+      "end": 4.56
+    },
+    {
+      "word": "you.",
+      "start": 4.56,
+      "end": 4.92
+    },
+    {
+      "word": "And",
+      "start": 6.8,
+      "end": 7.44
+    },
+    {
+      "word": "yet",
+      "start": 7.44,
+      "end": 7.56
+    },
+    {
+      "word": "clear",
+      "start": 7.56,
+      "end": 7.88
+    },
+    {
+      "word": "exit.",
+      "start": 7.88,
+      "end": 8.24
+    },
+    {
+      "word": "And",
+      "start": 9.08,
+      "end": 9.34
+    },
+    {
+      "word": "landed",
+      "start": 9.34,
+      "end": 9.6
+    },
+    {
+      "word": "mine.",
+      "start": 9.6,
+      "end": 9.92
+    },
+    {
+      "word": "White",
+      "start": 10.08,
+      "end": 10.34
+    },
+    {
+      "word": "H9",
+      "start": 10.34,
+      "end": 11.02
+    },
+    {
+      "word": "position",
+      "start": 11.02,
+      "end": 11.36
+    },
+    {
+      "word": "12.",
+      "start": 11.36,
+      "end": 11.94
+    },
+    {
+      "word": "White",
+      "start": 12.14,
+      "end": 12.56
+    },
+    {
+      "word": "H9",
+      "start": 12.56,
+      "end": 13.32
+    },
+    {
+      "word": "position",
+      "start": 13.32,
+      "end": 13.76
+    },
+    {
+      "word": "12.",
+      "start": 13.76,
+      "end": 14.34
+    },
+    {
+      "word": "Two",
+      "start": 14.96,
+      "end": 15.6
+    },
+    {
+      "word": "cars",
+      "start": 15.6,
+      "end": 15.86
+    },
+    {
+      "word": "ahead",
+      "start": 15.86,
+      "end": 16.02
+    },
+    {
+      "word": "to",
+      "start": 16.02,
+      "end": 16.16
+    },
+    {
+      "word": "go.",
+      "start": 16.16,
+      "end": 16.34
+    },
+    {
+      "word": "Well",
+      "start": 16.6,
+      "end": 16.8
+    },
+    {
+      "word": "spoken.",
+      "start": 16.8,
+      "end": 17.02
+    },
+    {
+      "word": "Let's",
+      "start": 19.04,
+      "end": 19.58
+    },
+    {
+      "word": "assume",
+      "start": 19.58,
+      "end": 19.9
+    }
+  ],
+  "language": "en",
+  "word_count": 34,
+  "is_empty": false,
+  "is_very_short": false
+}

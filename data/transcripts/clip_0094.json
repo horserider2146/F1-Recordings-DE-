@@ -1,0 +1,570 @@
+{
+  "clip_id": "clip_0094",
+  "text": "one, two, three, four, six, five, six, six, five, six, six, five, six, seven, eight, nine, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten",
+  "words": [
+    {
+      "word": "one,",
+      "start": 0.0,
+      "end": 0.9
+    },
+    {
+      "word": "two,",
+      "start": 1.48,
+      "end": 1.84
+    },
+    {
+      "word": "three,",
+      "start": 2.02,
+      "end": 3.12
+    },
+    {
+      "word": "four,",
+      "start": 3.94,
+      "end": 3.94
+    },
+    {
+      "word": "six,",
+      "start": 4.1,
+      "end": 4.52
+    },
+    {
+      "word": "five,",
+      "start": 4.74,
+      "end": 5.18
+    },
+    {
+      "word": "six,",
+      "start": 5.3,
+      "end": 7.0
+    },
+    {
+      "word": "six,",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "word": "five,",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "word": "six,",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "word": "six,",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "word": "five,",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "word": "six,",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "word": "seven,",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "word": "eight,",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "word": "nine,",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "word": "ten,",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "word": "ten,",
+      "start": 8.72,
+      "end": 9.76
+    },
+    {
+      "word": "ten,",
+      "start": 12.14,
+      "end": 12.68
+    },
+    {
+      "word": "ten,",
+      "start": 12.68,
+      "end": 13.34
+    },
+    {
+      "word": "ten,",
+      "start": 13.44,
+      "end": 13.44
+    },
+    {
+      "word": "ten,",
+      "start": 13.44,
+      "end": 13.44
+    },
+    {
+      "word": "ten,",
+      "start": 13.64,
+      "end": 13.64
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.02,
+      "end": 14.02
+    },
+    {
+      "word": "ten,",
+      "start": 14.04,
+      "end": 14.04
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.12
+    },
+    {
+      "word": "ten,",
+      "start": 14.12,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.14
+    },
+    {
+      "word": "ten,",
+      "start": 14.14,
+      "end": 14.18
+    },
+    {
+      "word": "ten,",
+      "start": 14.18,
+      "end": 14.18
+    },
+    {
+      "word": "ten,",
+      "start": 14.18,
+      "end": 14.22
+    },
+    {
+      "word": "ten,",
+      "start": 14.22,
+      "end": 14.22
+    },
+    {
+      "word": "ten,",
+      "start": 14.22,
+      "end": 14.22
+    },
+    {
+      "word": "ten,",
+      "start": 14.22,
+      "end": 14.22
+    },
+    {
+      "word": "ten,",
+      "start": 14.22,
+      "end": 14.22
+    },
+    {
+      "word": "ten,",
+      "start": 14.22,
+      "end": 14.22
+    },
+    {
+      "word": "ten,",
+      "start": 14.22,
+      "end": 14.22
+    },
+    {
+      "word": "ten,",
+      "start": 14.22,
+      "end": 14.22
+    },
+    {
+      "word": "ten,",
+      "start": 14.22,
+      "end": 14.22
+    },
+    {
+      "word": "ten,",
+      "start": 14.3,
+      "end": 14.3
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 14.46,
+      "end": 14.46
+    },
+    {
+      "word": "ten,",
+      "start": 15.54,
+      "end": 15.54
+    },
+    {
+      "word": "ten,",
+      "start": 15.54,
+      "end": 15.54
+    },
+    {
+      "word": "ten,",
+      "start": 15.54,
+      "end": 15.54
+    },
+    {
+      "word": "ten,",
+      "start": 15.54,
+      "end": 15.54
+    },
+    {
+      "word": "ten,",
+      "start": 15.54,
+      "end": 15.54
+    },
+    {
+      "word": "ten,",
+      "start": 15.54,
+      "end": 15.54
+    },
+    {
+      "word": "ten,",
+      "start": 15.54,
+      "end": 15.54
+    },
+    {
+      "word": "ten,",
+      "start": 15.54,
+      "end": 15.54
+    },
+    {
+      "word": "ten,",
+      "start": 15.76,
+      "end": 17.7
+    },
+    {
+      "word": "ten,",
+      "start": 18.08,
+      "end": 18.08
+    },
+    {
+      "word": "ten,",
+      "start": 18.08,
+      "end": 18.08
+    },
+    {
+      "word": "ten,",
+      "start": 18.08,
+      "end": 18.08
+    },
+    {
+      "word": "ten,",
+      "start": 18.12,
+      "end": 18.12
+    },
+    {
+      "word": "ten,",
+      "start": 18.12,
+      "end": 18.12
+    },
+    {
+      "word": "ten,",
+      "start": 19.54,
+      "end": 19.54
+    },
+    {
+      "word": "ten,",
+      "start": 19.54,
+      "end": 19.54
+    },
+    {
+      "word": "ten",
+      "start": 19.9,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 112,
+  "is_empty": false,
+  "is_very_short": false
+}

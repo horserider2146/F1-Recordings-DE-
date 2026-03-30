@@ -1,0 +1,155 @@
+{
+  "clip_id": "clip_0394",
+  "text": "One second. Copy that. 0.9. 0.8. The book will have overtaken. Yeah, 1.1. Give me 36.1. 24 laps remaining. Just feedback on tyres, please. Cut!",
+  "words": [
+    {
+      "word": "One",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "second.",
+      "start": 0.36,
+      "end": 0.68
+    },
+    {
+      "word": "Copy",
+      "start": 1.14,
+      "end": 1.48
+    },
+    {
+      "word": "that.",
+      "start": 1.48,
+      "end": 1.62
+    },
+    {
+      "word": "0",
+      "start": 2.34,
+      "end": 2.34
+    },
+    {
+      "word": ".9.",
+      "start": 2.34,
+      "end": 3.38
+    },
+    {
+      "word": "0",
+      "start": 4.02,
+      "end": 4.24
+    },
+    {
+      "word": ".8.",
+      "start": 4.24,
+      "end": 4.82
+    },
+    {
+      "word": "The",
+      "start": 6.01,
+      "end": 6.4
+    },
+    {
+      "word": "book",
+      "start": 6.4,
+      "end": 6.6
+    },
+    {
+      "word": "will",
+      "start": 6.6,
+      "end": 6.84
+    },
+    {
+      "word": "have",
+      "start": 6.84,
+      "end": 7.0
+    },
+    {
+      "word": "overtaken.",
+      "start": 7.0,
+      "end": 7.52
+    },
+    {
+      "word": "Yeah,",
+      "start": 7.74,
+      "end": 7.82
+    },
+    {
+      "word": "1",
+      "start": 7.88,
+      "end": 8.12
+    },
+    {
+      "word": ".1.",
+      "start": 8.12,
+      "end": 9.04
+    },
+    {
+      "word": "Give",
+      "start": 10.05,
+      "end": 10.44
+    },
+    {
+      "word": "me",
+      "start": 10.44,
+      "end": 10.6
+    },
+    {
+      "word": "36",
+      "start": 10.6,
+      "end": 11.24
+    },
+    {
+      "word": ".1.",
+      "start": 11.24,
+      "end": 11.72
+    },
+    {
+      "word": "24",
+      "start": 13.3,
+      "end": 13.9
+    },
+    {
+      "word": "laps",
+      "start": 13.9,
+      "end": 14.62
+    },
+    {
+      "word": "remaining.",
+      "start": 14.62,
+      "end": 15.04
+    },
+    {
+      "word": "Just",
+      "start": 15.66,
+      "end": 15.94
+    },
+    {
+      "word": "feedback",
+      "start": 15.94,
+      "end": 16.18
+    },
+    {
+      "word": "on",
+      "start": 16.18,
+      "end": 16.46
+    },
+    {
+      "word": "tyres,",
+      "start": 16.46,
+      "end": 16.7
+    },
+    {
+      "word": "please.",
+      "start": 16.84,
+      "end": 16.96
+    },
+    {
+      "word": "Cut!",
+      "start": 19.47,
+      "end": 19.86
+    }
+  ],
+  "language": "en",
+  "word_count": 25,
+  "is_empty": false,
+  "is_very_short": false
+}

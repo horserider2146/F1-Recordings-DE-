@@ -1,0 +1,115 @@
+{
+  "clip_id": "clip_0085",
+  "text": "Okay, if we can't wait to plug the car, then we have a quick chat on Unit to go get away.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.52,
+      "end": 0.8
+    },
+    {
+      "word": "if",
+      "start": 0.92,
+      "end": 1.1
+    },
+    {
+      "word": "we",
+      "start": 1.1,
+      "end": 1.2
+    },
+    {
+      "word": "can't",
+      "start": 1.2,
+      "end": 1.52
+    },
+    {
+      "word": "wait",
+      "start": 1.52,
+      "end": 1.64
+    },
+    {
+      "word": "to",
+      "start": 1.64,
+      "end": 1.84
+    },
+    {
+      "word": "plug",
+      "start": 1.84,
+      "end": 2.0
+    },
+    {
+      "word": "the",
+      "start": 2.0,
+      "end": 2.14
+    },
+    {
+      "word": "car,",
+      "start": 2.14,
+      "end": 2.32
+    },
+    {
+      "word": "then",
+      "start": 2.78,
+      "end": 2.94
+    },
+    {
+      "word": "we",
+      "start": 2.94,
+      "end": 3.08
+    },
+    {
+      "word": "have",
+      "start": 3.08,
+      "end": 3.16
+    },
+    {
+      "word": "a",
+      "start": 3.16,
+      "end": 3.26
+    },
+    {
+      "word": "quick",
+      "start": 3.26,
+      "end": 3.36
+    },
+    {
+      "word": "chat",
+      "start": 3.36,
+      "end": 3.58
+    },
+    {
+      "word": "on",
+      "start": 3.58,
+      "end": 4.16
+    },
+    {
+      "word": "Unit",
+      "start": 4.16,
+      "end": 4.42
+    },
+    {
+      "word": "to",
+      "start": 4.42,
+      "end": 4.5
+    },
+    {
+      "word": "go",
+      "start": 4.5,
+      "end": 4.62
+    },
+    {
+      "word": "get",
+      "start": 4.62,
+      "end": 4.76
+    },
+    {
+      "word": "away.",
+      "start": 4.76,
+      "end": 4.9
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,200 @@
+{
+  "clip_id": "clip_0097",
+  "text": "1.9 I'm going to make up the gap at 9.11 Head of noise, oxygen moving Next building up Well, so I'm going to make up at 11.5 I'm going to open, right side at 5",
+  "words": [
+    {
+      "word": "1",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": ".9",
+      "start": 0.4,
+      "end": 0.82
+    },
+    {
+      "word": "I'm",
+      "start": 2.5,
+      "end": 3.02
+    },
+    {
+      "word": "going",
+      "start": 3.02,
+      "end": 3.1
+    },
+    {
+      "word": "to",
+      "start": 3.1,
+      "end": 3.1
+    },
+    {
+      "word": "make",
+      "start": 3.1,
+      "end": 3.22
+    },
+    {
+      "word": "up",
+      "start": 3.22,
+      "end": 3.38
+    },
+    {
+      "word": "the",
+      "start": 3.38,
+      "end": 3.46
+    },
+    {
+      "word": "gap",
+      "start": 3.46,
+      "end": 3.6
+    },
+    {
+      "word": "at",
+      "start": 3.6,
+      "end": 3.78
+    },
+    {
+      "word": "9",
+      "start": 3.78,
+      "end": 4.02
+    },
+    {
+      "word": ".11",
+      "start": 4.02,
+      "end": 4.84
+    },
+    {
+      "word": "Head",
+      "start": 6.02,
+      "end": 6.54
+    },
+    {
+      "word": "of",
+      "start": 6.54,
+      "end": 6.68
+    },
+    {
+      "word": "noise,",
+      "start": 6.68,
+      "end": 7.06
+    },
+    {
+      "word": "oxygen",
+      "start": 7.42,
+      "end": 7.78
+    },
+    {
+      "word": "moving",
+      "start": 7.78,
+      "end": 8.2
+    },
+    {
+      "word": "Next",
+      "start": 8.94,
+      "end": 9.2
+    },
+    {
+      "word": "building",
+      "start": 9.2,
+      "end": 12.6
+    },
+    {
+      "word": "up",
+      "start": 12.6,
+      "end": 12.9
+    },
+    {
+      "word": "Well,",
+      "start": 12.9,
+      "end": 13.36
+    },
+    {
+      "word": "so",
+      "start": 13.56,
+      "end": 13.78
+    },
+    {
+      "word": "I'm",
+      "start": 13.78,
+      "end": 13.86
+    },
+    {
+      "word": "going",
+      "start": 13.86,
+      "end": 13.96
+    },
+    {
+      "word": "to",
+      "start": 13.96,
+      "end": 14.0
+    },
+    {
+      "word": "make",
+      "start": 14.0,
+      "end": 14.06
+    },
+    {
+      "word": "up",
+      "start": 14.06,
+      "end": 14.32
+    },
+    {
+      "word": "at",
+      "start": 14.32,
+      "end": 14.44
+    },
+    {
+      "word": "11",
+      "start": 14.44,
+      "end": 14.88
+    },
+    {
+      "word": ".5",
+      "start": 14.88,
+      "end": 15.94
+    },
+    {
+      "word": "I'm",
+      "start": 15.94,
+      "end": 16.08
+    },
+    {
+      "word": "going",
+      "start": 16.08,
+      "end": 16.08
+    },
+    {
+      "word": "to",
+      "start": 16.08,
+      "end": 16.12
+    },
+    {
+      "word": "open,",
+      "start": 16.12,
+      "end": 16.5
+    },
+    {
+      "word": "right",
+      "start": 17.28,
+      "end": 17.78
+    },
+    {
+      "word": "side",
+      "start": 17.78,
+      "end": 17.9
+    },
+    {
+      "word": "at",
+      "start": 17.9,
+      "end": 18.08
+    },
+    {
+      "word": "5",
+      "start": 18.08,
+      "end": 18.34
+    }
+  ],
+  "language": "en",
+  "word_count": 35,
+  "is_empty": false,
+  "is_very_short": false
+}

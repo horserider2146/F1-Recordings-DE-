@@ -1,0 +1,35 @@
+{
+  "clip_id": "clip_1007",
+  "text": "and now focus on tires.",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "word": "now",
+      "start": 0.14,
+      "end": 0.3
+    },
+    {
+      "word": "focus",
+      "start": 0.3,
+      "end": 0.64
+    },
+    {
+      "word": "on",
+      "start": 0.64,
+      "end": 0.92
+    },
+    {
+      "word": "tires.",
+      "start": 0.92,
+      "end": 1.2
+    }
+  ],
+  "language": "en",
+  "word_count": 5,
+  "is_empty": false,
+  "is_very_short": false
+}

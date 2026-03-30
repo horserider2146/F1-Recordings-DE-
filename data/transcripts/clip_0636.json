@@ -1,0 +1,165 @@
+{
+  "clip_id": "clip_0636",
+  "text": "I'm not sure what's wrong. A box box. An advice is to keep second gear longer in turn 12. Box box. Jumping. Yeah, I had a massive, massive snap this week.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": "not",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "word": "sure",
+      "start": 0.0,
+      "end": 0.06
+    },
+    {
+      "word": "what's",
+      "start": 0.06,
+      "end": 0.3
+    },
+    {
+      "word": "wrong.",
+      "start": 0.3,
+      "end": 0.5
+    },
+    {
+      "word": "A",
+      "start": 1.84,
+      "end": 2.04
+    },
+    {
+      "word": "box",
+      "start": 2.04,
+      "end": 2.32
+    },
+    {
+      "word": "box.",
+      "start": 2.32,
+      "end": 2.58
+    },
+    {
+      "word": "An",
+      "start": 4.0,
+      "end": 4.56
+    },
+    {
+      "word": "advice",
+      "start": 4.56,
+      "end": 4.92
+    },
+    {
+      "word": "is",
+      "start": 4.92,
+      "end": 5.14
+    },
+    {
+      "word": "to",
+      "start": 5.14,
+      "end": 5.24
+    },
+    {
+      "word": "keep",
+      "start": 5.24,
+      "end": 5.5
+    },
+    {
+      "word": "second",
+      "start": 5.5,
+      "end": 5.88
+    },
+    {
+      "word": "gear",
+      "start": 5.88,
+      "end": 6.1
+    },
+    {
+      "word": "longer",
+      "start": 6.1,
+      "end": 6.52
+    },
+    {
+      "word": "in",
+      "start": 6.52,
+      "end": 6.84
+    },
+    {
+      "word": "turn",
+      "start": 6.84,
+      "end": 7.0
+    },
+    {
+      "word": "12.",
+      "start": 7.0,
+      "end": 7.32
+    },
+    {
+      "word": "Box",
+      "start": 9.12,
+      "end": 9.5
+    },
+    {
+      "word": "box.",
+      "start": 9.5,
+      "end": 9.78
+    },
+    {
+      "word": "Jumping.",
+      "start": 10.66,
+      "end": 11.22
+    },
+    {
+      "word": "Yeah,",
+      "start": 12.72,
+      "end": 13.16
+    },
+    {
+      "word": "I",
+      "start": 13.34,
+      "end": 13.42
+    },
+    {
+      "word": "had",
+      "start": 13.42,
+      "end": 13.56
+    },
+    {
+      "word": "a",
+      "start": 13.56,
+      "end": 13.72
+    },
+    {
+      "word": "massive,",
+      "start": 13.72,
+      "end": 14.68
+    },
+    {
+      "word": "massive",
+      "start": 14.7,
+      "end": 15.18
+    },
+    {
+      "word": "snap",
+      "start": 15.18,
+      "end": 15.52
+    },
+    {
+      "word": "this",
+      "start": 15.52,
+      "end": 15.72
+    },
+    {
+      "word": "week.",
+      "start": 15.72,
+      "end": 15.84
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

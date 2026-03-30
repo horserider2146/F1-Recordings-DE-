@@ -1,0 +1,150 @@
+{
+  "clip_id": "clip_0801",
+  "text": "I think I could get away with 58 big balance in that sixth then because I keep going rearwards but that second lap I had that rear locking.",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "word": "think",
+      "start": 0.52,
+      "end": 0.66
+    },
+    {
+      "word": "I",
+      "start": 0.66,
+      "end": 0.78
+    },
+    {
+      "word": "could",
+      "start": 0.78,
+      "end": 0.86
+    },
+    {
+      "word": "get",
+      "start": 0.86,
+      "end": 1.02
+    },
+    {
+      "word": "away",
+      "start": 1.02,
+      "end": 1.22
+    },
+    {
+      "word": "with",
+      "start": 1.22,
+      "end": 1.38
+    },
+    {
+      "word": "58",
+      "start": 1.38,
+      "end": 1.86
+    },
+    {
+      "word": "big",
+      "start": 1.86,
+      "end": 2.38
+    },
+    {
+      "word": "balance",
+      "start": 2.38,
+      "end": 2.66
+    },
+    {
+      "word": "in",
+      "start": 2.66,
+      "end": 2.88
+    },
+    {
+      "word": "that",
+      "start": 2.88,
+      "end": 3.02
+    },
+    {
+      "word": "sixth",
+      "start": 3.02,
+      "end": 3.3
+    },
+    {
+      "word": "then",
+      "start": 3.3,
+      "end": 3.5
+    },
+    {
+      "word": "because",
+      "start": 3.5,
+      "end": 3.76
+    },
+    {
+      "word": "I",
+      "start": 3.76,
+      "end": 3.98
+    },
+    {
+      "word": "keep",
+      "start": 3.98,
+      "end": 4.24
+    },
+    {
+      "word": "going",
+      "start": 4.24,
+      "end": 4.44
+    },
+    {
+      "word": "rearwards",
+      "start": 4.44,
+      "end": 4.86
+    },
+    {
+      "word": "but",
+      "start": 4.86,
+      "end": 5.08
+    },
+    {
+      "word": "that",
+      "start": 5.6,
+      "end": 5.84
+    },
+    {
+      "word": "second",
+      "start": 5.84,
+      "end": 6.06
+    },
+    {
+      "word": "lap",
+      "start": 6.06,
+      "end": 6.24
+    },
+    {
+      "word": "I",
+      "start": 6.24,
+      "end": 6.36
+    },
+    {
+      "word": "had",
+      "start": 6.36,
+      "end": 6.48
+    },
+    {
+      "word": "that",
+      "start": 6.48,
+      "end": 6.6
+    },
+    {
+      "word": "rear",
+      "start": 6.6,
+      "end": 6.74
+    },
+    {
+      "word": "locking.",
+      "start": 6.74,
+      "end": 6.96
+    }
+  ],
+  "language": "en",
+  "word_count": 28,
+  "is_empty": false,
+  "is_very_short": false
+}

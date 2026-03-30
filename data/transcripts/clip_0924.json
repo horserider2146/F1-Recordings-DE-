@@ -1,0 +1,255 @@
+{
+  "clip_id": "clip_0924",
+  "text": "of 6, 200 through 7. So weaving down to 11, weaving down to 11. I'm unsure at this stage whether Piastri is going to cool and then push again. I think he'll box. Happy to go in front of him. Strong weaving down to 14. Next car pushing behind.",
+  "words": [
+    {
+      "word": "of",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "6,",
+      "start": 0.22,
+      "end": 0.48
+    },
+    {
+      "word": "200",
+      "start": 1.38,
+      "end": 2.9
+    },
+    {
+      "word": "through",
+      "start": 2.9,
+      "end": 3.38
+    },
+    {
+      "word": "7.",
+      "start": 3.38,
+      "end": 3.8
+    },
+    {
+      "word": "So",
+      "start": 5.74,
+      "end": 5.94
+    },
+    {
+      "word": "weaving",
+      "start": 5.94,
+      "end": 6.3
+    },
+    {
+      "word": "down",
+      "start": 6.3,
+      "end": 6.72
+    },
+    {
+      "word": "to",
+      "start": 6.72,
+      "end": 6.94
+    },
+    {
+      "word": "11,",
+      "start": 6.94,
+      "end": 7.28
+    },
+    {
+      "word": "weaving",
+      "start": 7.44,
+      "end": 7.64
+    },
+    {
+      "word": "down",
+      "start": 7.64,
+      "end": 7.9
+    },
+    {
+      "word": "to",
+      "start": 7.9,
+      "end": 8.04
+    },
+    {
+      "word": "11.",
+      "start": 8.04,
+      "end": 8.32
+    },
+    {
+      "word": "I'm",
+      "start": 9.06,
+      "end": 9.54
+    },
+    {
+      "word": "unsure",
+      "start": 9.54,
+      "end": 9.9
+    },
+    {
+      "word": "at",
+      "start": 9.9,
+      "end": 10.14
+    },
+    {
+      "word": "this",
+      "start": 10.14,
+      "end": 10.26
+    },
+    {
+      "word": "stage",
+      "start": 10.26,
+      "end": 10.48
+    },
+    {
+      "word": "whether",
+      "start": 10.48,
+      "end": 10.7
+    },
+    {
+      "word": "Piastri",
+      "start": 10.7,
+      "end": 11.28
+    },
+    {
+      "word": "is",
+      "start": 11.28,
+      "end": 11.46
+    },
+    {
+      "word": "going",
+      "start": 11.46,
+      "end": 11.66
+    },
+    {
+      "word": "to",
+      "start": 11.66,
+      "end": 12.0
+    },
+    {
+      "word": "cool",
+      "start": 12.0,
+      "end": 13.04
+    },
+    {
+      "word": "and",
+      "start": 13.04,
+      "end": 13.2
+    },
+    {
+      "word": "then",
+      "start": 13.2,
+      "end": 13.3
+    },
+    {
+      "word": "push",
+      "start": 13.3,
+      "end": 13.48
+    },
+    {
+      "word": "again.",
+      "start": 13.48,
+      "end": 13.68
+    },
+    {
+      "word": "I",
+      "start": 13.84,
+      "end": 13.84
+    },
+    {
+      "word": "think",
+      "start": 13.84,
+      "end": 14.1
+    },
+    {
+      "word": "he'll",
+      "start": 14.1,
+      "end": 14.36
+    },
+    {
+      "word": "box.",
+      "start": 14.36,
+      "end": 14.66
+    },
+    {
+      "word": "Happy",
+      "start": 14.9,
+      "end": 15.06
+    },
+    {
+      "word": "to",
+      "start": 15.06,
+      "end": 15.16
+    },
+    {
+      "word": "go",
+      "start": 15.16,
+      "end": 15.28
+    },
+    {
+      "word": "in",
+      "start": 15.28,
+      "end": 15.34
+    },
+    {
+      "word": "front",
+      "start": 15.34,
+      "end": 15.48
+    },
+    {
+      "word": "of",
+      "start": 15.48,
+      "end": 15.58
+    },
+    {
+      "word": "him.",
+      "start": 15.58,
+      "end": 15.68
+    },
+    {
+      "word": "Strong",
+      "start": 17.36,
+      "end": 17.84
+    },
+    {
+      "word": "weaving",
+      "start": 17.84,
+      "end": 18.1
+    },
+    {
+      "word": "down",
+      "start": 18.1,
+      "end": 18.36
+    },
+    {
+      "word": "to",
+      "start": 18.36,
+      "end": 18.46
+    },
+    {
+      "word": "14.",
+      "start": 18.46,
+      "end": 18.9
+    },
+    {
+      "word": "Next",
+      "start": 19.1,
+      "end": 19.22
+    },
+    {
+      "word": "car",
+      "start": 19.22,
+      "end": 19.48
+    },
+    {
+      "word": "pushing",
+      "start": 19.48,
+      "end": 19.74
+    },
+    {
+      "word": "behind.",
+      "start": 19.74,
+      "end": 19.94
+    }
+  ],
+  "language": "en",
+  "word_count": 49,
+  "is_empty": false,
+  "is_very_short": false
+}

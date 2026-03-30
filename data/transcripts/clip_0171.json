@@ -1,0 +1,255 @@
+{
+  "clip_id": "clip_0171",
+  "text": "Good race, team. That's fine, that's fine. For the end, you have a gap to 4th at 7th, so again... Try to see if you want to go on stages 3 at the backers. Let me know what is our best opportunity for points or... Panagina... Just wanted 35...",
+  "words": [
+    {
+      "word": "Good",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "word": "race,",
+      "start": 0.4,
+      "end": 0.6
+    },
+    {
+      "word": "team.",
+      "start": 0.68,
+      "end": 0.84
+    },
+    {
+      "word": "That's",
+      "start": 0.92,
+      "end": 1.04
+    },
+    {
+      "word": "fine,",
+      "start": 1.04,
+      "end": 1.16
+    },
+    {
+      "word": "that's",
+      "start": 1.24,
+      "end": 1.46
+    },
+    {
+      "word": "fine.",
+      "start": 1.46,
+      "end": 1.66
+    },
+    {
+      "word": "For",
+      "start": 1.78,
+      "end": 1.9
+    },
+    {
+      "word": "the",
+      "start": 1.9,
+      "end": 1.94
+    },
+    {
+      "word": "end,",
+      "start": 1.94,
+      "end": 2.08
+    },
+    {
+      "word": "you",
+      "start": 2.16,
+      "end": 2.16
+    },
+    {
+      "word": "have",
+      "start": 2.16,
+      "end": 2.24
+    },
+    {
+      "word": "a",
+      "start": 2.24,
+      "end": 2.32
+    },
+    {
+      "word": "gap",
+      "start": 2.32,
+      "end": 2.48
+    },
+    {
+      "word": "to",
+      "start": 2.48,
+      "end": 2.62
+    },
+    {
+      "word": "4th",
+      "start": 2.62,
+      "end": 2.84
+    },
+    {
+      "word": "at",
+      "start": 2.84,
+      "end": 2.96
+    },
+    {
+      "word": "7th,",
+      "start": 2.96,
+      "end": 3.34
+    },
+    {
+      "word": "so",
+      "start": 3.4,
+      "end": 3.44
+    },
+    {
+      "word": "again...",
+      "start": 3.44,
+      "end": 4.0
+    },
+    {
+      "word": "Try",
+      "start": 4.62,
+      "end": 4.98
+    },
+    {
+      "word": "to",
+      "start": 4.98,
+      "end": 5.14
+    },
+    {
+      "word": "see",
+      "start": 5.14,
+      "end": 5.34
+    },
+    {
+      "word": "if",
+      "start": 5.34,
+      "end": 5.48
+    },
+    {
+      "word": "you",
+      "start": 5.48,
+      "end": 5.56
+    },
+    {
+      "word": "want",
+      "start": 5.56,
+      "end": 5.7
+    },
+    {
+      "word": "to",
+      "start": 5.7,
+      "end": 5.88
+    },
+    {
+      "word": "go",
+      "start": 5.88,
+      "end": 6.02
+    },
+    {
+      "word": "on",
+      "start": 6.02,
+      "end": 6.24
+    },
+    {
+      "word": "stages",
+      "start": 6.24,
+      "end": 6.6
+    },
+    {
+      "word": "3",
+      "start": 6.6,
+      "end": 7.06
+    },
+    {
+      "word": "at",
+      "start": 7.06,
+      "end": 7.28
+    },
+    {
+      "word": "the",
+      "start": 7.28,
+      "end": 7.34
+    },
+    {
+      "word": "backers.",
+      "start": 7.34,
+      "end": 7.74
+    },
+    {
+      "word": "Let",
+      "start": 10.08,
+      "end": 10.44
+    },
+    {
+      "word": "me",
+      "start": 10.44,
+      "end": 10.62
+    },
+    {
+      "word": "know",
+      "start": 10.62,
+      "end": 10.76
+    },
+    {
+      "word": "what",
+      "start": 10.76,
+      "end": 10.96
+    },
+    {
+      "word": "is",
+      "start": 10.96,
+      "end": 11.14
+    },
+    {
+      "word": "our",
+      "start": 11.14,
+      "end": 11.64
+    },
+    {
+      "word": "best",
+      "start": 11.64,
+      "end": 11.86
+    },
+    {
+      "word": "opportunity",
+      "start": 11.86,
+      "end": 12.28
+    },
+    {
+      "word": "for",
+      "start": 12.28,
+      "end": 12.62
+    },
+    {
+      "word": "points",
+      "start": 12.62,
+      "end": 12.98
+    },
+    {
+      "word": "or...",
+      "start": 12.98,
+      "end": 13.16
+    },
+    {
+      "word": "Panagina...",
+      "start": 14.16,
+      "end": 14.52
+    },
+    {
+      "word": "Just",
+      "start": 18.56,
+      "end": 18.92
+    },
+    {
+      "word": "wanted",
+      "start": 18.92,
+      "end": 19.24
+    },
+    {
+      "word": "35...",
+      "start": 19.24,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 49,
+  "is_empty": false,
+  "is_very_short": false
+}

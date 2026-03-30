@@ -1,0 +1,30 @@
+{
+  "clip_id": "clip_0652",
+  "text": "Okay, go for that.",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.82,
+      "end": 1.1
+    },
+    {
+      "word": "go",
+      "start": 1.2,
+      "end": 1.34
+    },
+    {
+      "word": "for",
+      "start": 1.34,
+      "end": 1.48
+    },
+    {
+      "word": "that.",
+      "start": 1.48,
+      "end": 2.24
+    }
+  ],
+  "language": "en",
+  "word_count": 4,
+  "is_empty": false,
+  "is_very_short": false
+}

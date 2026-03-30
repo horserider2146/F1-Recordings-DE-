@@ -1,0 +1,300 @@
+{
+  "clip_id": "clip_0084",
+  "text": "He is in front of the head, sector 1 on half a dance behind sector 2. Fox, Fox, why do you breathe like this? I will revise the approach in turn so I can point out the term. There are a few ideas. Fox, Fox. Why do you breathe like this? I think it's because of the price.",
+  "words": [
+    {
+      "word": "He",
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "word": "is",
+      "start": 0.18,
+      "end": 0.28
+    },
+    {
+      "word": "in",
+      "start": 0.28,
+      "end": 0.34
+    },
+    {
+      "word": "front",
+      "start": 0.34,
+      "end": 0.48
+    },
+    {
+      "word": "of",
+      "start": 0.48,
+      "end": 0.56
+    },
+    {
+      "word": "the",
+      "start": 0.56,
+      "end": 0.64
+    },
+    {
+      "word": "head,",
+      "start": 0.64,
+      "end": 0.7
+    },
+    {
+      "word": "sector",
+      "start": 1.12,
+      "end": 1.34
+    },
+    {
+      "word": "1",
+      "start": 1.34,
+      "end": 1.62
+    },
+    {
+      "word": "on",
+      "start": 1.62,
+      "end": 3.28
+    },
+    {
+      "word": "half",
+      "start": 3.28,
+      "end": 3.5
+    },
+    {
+      "word": "a",
+      "start": 3.5,
+      "end": 3.6
+    },
+    {
+      "word": "dance",
+      "start": 3.6,
+      "end": 3.72
+    },
+    {
+      "word": "behind",
+      "start": 3.72,
+      "end": 4.0
+    },
+    {
+      "word": "sector",
+      "start": 4.0,
+      "end": 4.3
+    },
+    {
+      "word": "2.",
+      "start": 4.3,
+      "end": 4.72
+    },
+    {
+      "word": "Fox,",
+      "start": 5.82,
+      "end": 6.14
+    },
+    {
+      "word": "Fox,",
+      "start": 6.6,
+      "end": 6.6
+    },
+    {
+      "word": "why",
+      "start": 6.78,
+      "end": 6.9
+    },
+    {
+      "word": "do",
+      "start": 6.9,
+      "end": 7.0
+    },
+    {
+      "word": "you",
+      "start": 7.0,
+      "end": 7.1
+    },
+    {
+      "word": "breathe",
+      "start": 7.1,
+      "end": 7.18
+    },
+    {
+      "word": "like",
+      "start": 7.18,
+      "end": 7.3
+    },
+    {
+      "word": "this?",
+      "start": 7.3,
+      "end": 7.54
+    },
+    {
+      "word": "I",
+      "start": 8.58,
+      "end": 8.9
+    },
+    {
+      "word": "will",
+      "start": 8.9,
+      "end": 9.22
+    },
+    {
+      "word": "revise",
+      "start": 9.22,
+      "end": 9.52
+    },
+    {
+      "word": "the",
+      "start": 9.52,
+      "end": 9.72
+    },
+    {
+      "word": "approach",
+      "start": 9.72,
+      "end": 9.96
+    },
+    {
+      "word": "in",
+      "start": 9.96,
+      "end": 10.16
+    },
+    {
+      "word": "turn",
+      "start": 10.16,
+      "end": 10.3
+    },
+    {
+      "word": "so",
+      "start": 10.3,
+      "end": 10.46
+    },
+    {
+      "word": "I",
+      "start": 10.46,
+      "end": 10.52
+    },
+    {
+      "word": "can",
+      "start": 10.52,
+      "end": 10.56
+    },
+    {
+      "word": "point",
+      "start": 10.56,
+      "end": 10.8
+    },
+    {
+      "word": "out",
+      "start": 10.8,
+      "end": 10.94
+    },
+    {
+      "word": "the",
+      "start": 10.94,
+      "end": 11.04
+    },
+    {
+      "word": "term.",
+      "start": 11.04,
+      "end": 11.24
+    },
+    {
+      "word": "There",
+      "start": 11.6,
+      "end": 11.68
+    },
+    {
+      "word": "are",
+      "start": 11.68,
+      "end": 11.78
+    },
+    {
+      "word": "a",
+      "start": 11.78,
+      "end": 11.8
+    },
+    {
+      "word": "few",
+      "start": 11.8,
+      "end": 11.92
+    },
+    {
+      "word": "ideas.",
+      "start": 11.92,
+      "end": 12.12
+    },
+    {
+      "word": "Fox,",
+      "start": 13.04,
+      "end": 13.36
+    },
+    {
+      "word": "Fox.",
+      "start": 13.48,
+      "end": 13.64
+    },
+    {
+      "word": "Why",
+      "start": 16.4,
+      "end": 16.72
+    },
+    {
+      "word": "do",
+      "start": 16.72,
+      "end": 16.8
+    },
+    {
+      "word": "you",
+      "start": 16.8,
+      "end": 16.9
+    },
+    {
+      "word": "breathe",
+      "start": 16.9,
+      "end": 16.96
+    },
+    {
+      "word": "like",
+      "start": 16.96,
+      "end": 17.12
+    },
+    {
+      "word": "this?",
+      "start": 17.12,
+      "end": 17.44
+    },
+    {
+      "word": "I",
+      "start": 17.6,
+      "end": 17.6
+    },
+    {
+      "word": "think",
+      "start": 17.6,
+      "end": 17.7
+    },
+    {
+      "word": "it's",
+      "start": 17.7,
+      "end": 17.86
+    },
+    {
+      "word": "because",
+      "start": 17.86,
+      "end": 17.86
+    },
+    {
+      "word": "of",
+      "start": 17.86,
+      "end": 17.94
+    },
+    {
+      "word": "the",
+      "start": 17.94,
+      "end": 18.02
+    },
+    {
+      "word": "price.",
+      "start": 18.02,
+      "end": 18.2
+    }
+  ],
+  "language": "en",
+  "word_count": 58,
+  "is_empty": false,
+  "is_very_short": false
+}

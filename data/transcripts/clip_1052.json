@@ -1,0 +1,55 @@
+{
+  "clip_id": "clip_1052",
+  "text": "I went deep into tank 1 with the understood",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "went",
+      "start": 0.12,
+      "end": 0.28
+    },
+    {
+      "word": "deep",
+      "start": 0.28,
+      "end": 0.48
+    },
+    {
+      "word": "into",
+      "start": 0.48,
+      "end": 0.74
+    },
+    {
+      "word": "tank",
+      "start": 0.74,
+      "end": 0.9
+    },
+    {
+      "word": "1",
+      "start": 0.9,
+      "end": 1.14
+    },
+    {
+      "word": "with",
+      "start": 1.14,
+      "end": 1.58
+    },
+    {
+      "word": "the",
+      "start": 1.58,
+      "end": 1.68
+    },
+    {
+      "word": "understood",
+      "start": 1.68,
+      "end": 1.82
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,25 @@
+{
+  "clip_id": "clip_0359",
+  "text": "Target neutral over",
+  "words": [
+    {
+      "word": "Target",
+      "start": 0.0,
+      "end": 0.78
+    },
+    {
+      "word": "neutral",
+      "start": 0.78,
+      "end": 1.28
+    },
+    {
+      "word": "over",
+      "start": 1.28,
+      "end": 1.72
+    }
+  ],
+  "language": "en",
+  "word_count": 3,
+  "is_empty": false,
+  "is_very_short": false
+}

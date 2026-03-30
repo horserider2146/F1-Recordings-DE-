@@ -1,0 +1,200 @@
+{
+  "clip_id": "clip_0414",
+  "text": "Science is a fast car again but unsure. He's still seven seconds away though so no pressure. He's at five seconds. The hulkbird is behind on a slow lap. It'll be into pit lane. So, on white light.",
+  "words": [
+    {
+      "word": "Science",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "is",
+      "start": 0.44,
+      "end": 0.66
+    },
+    {
+      "word": "a",
+      "start": 0.66,
+      "end": 0.8
+    },
+    {
+      "word": "fast",
+      "start": 0.8,
+      "end": 1.08
+    },
+    {
+      "word": "car",
+      "start": 1.08,
+      "end": 1.36
+    },
+    {
+      "word": "again",
+      "start": 1.36,
+      "end": 1.66
+    },
+    {
+      "word": "but",
+      "start": 1.66,
+      "end": 2.04
+    },
+    {
+      "word": "unsure.",
+      "start": 2.04,
+      "end": 2.58
+    },
+    {
+      "word": "He's",
+      "start": 3.14,
+      "end": 3.34
+    },
+    {
+      "word": "still",
+      "start": 3.34,
+      "end": 3.44
+    },
+    {
+      "word": "seven",
+      "start": 3.44,
+      "end": 3.72
+    },
+    {
+      "word": "seconds",
+      "start": 3.72,
+      "end": 4.04
+    },
+    {
+      "word": "away",
+      "start": 4.04,
+      "end": 4.26
+    },
+    {
+      "word": "though",
+      "start": 4.26,
+      "end": 4.44
+    },
+    {
+      "word": "so",
+      "start": 4.44,
+      "end": 4.62
+    },
+    {
+      "word": "no",
+      "start": 4.62,
+      "end": 4.96
+    },
+    {
+      "word": "pressure.",
+      "start": 4.96,
+      "end": 5.3
+    },
+    {
+      "word": "He's",
+      "start": 6.44,
+      "end": 7.02
+    },
+    {
+      "word": "at",
+      "start": 7.02,
+      "end": 7.24
+    },
+    {
+      "word": "five",
+      "start": 7.24,
+      "end": 7.74
+    },
+    {
+      "word": "seconds.",
+      "start": 7.74,
+      "end": 8.2
+    },
+    {
+      "word": "The",
+      "start": 9.34,
+      "end": 9.42
+    },
+    {
+      "word": "hulkbird",
+      "start": 9.42,
+      "end": 9.86
+    },
+    {
+      "word": "is",
+      "start": 9.86,
+      "end": 10.08
+    },
+    {
+      "word": "behind",
+      "start": 10.08,
+      "end": 10.54
+    },
+    {
+      "word": "on",
+      "start": 10.54,
+      "end": 10.74
+    },
+    {
+      "word": "a",
+      "start": 10.74,
+      "end": 10.88
+    },
+    {
+      "word": "slow",
+      "start": 10.88,
+      "end": 11.02
+    },
+    {
+      "word": "lap.",
+      "start": 11.02,
+      "end": 11.22
+    },
+    {
+      "word": "It'll",
+      "start": 11.96,
+      "end": 12.32
+    },
+    {
+      "word": "be",
+      "start": 12.32,
+      "end": 12.44
+    },
+    {
+      "word": "into",
+      "start": 12.44,
+      "end": 12.76
+    },
+    {
+      "word": "pit",
+      "start": 12.76,
+      "end": 12.96
+    },
+    {
+      "word": "lane.",
+      "start": 12.96,
+      "end": 13.16
+    },
+    {
+      "word": "So,",
+      "start": 16.36,
+      "end": 16.94
+    },
+    {
+      "word": "on",
+      "start": 17.26,
+      "end": 17.26
+    },
+    {
+      "word": "white",
+      "start": 17.26,
+      "end": 17.48
+    },
+    {
+      "word": "light.",
+      "start": 17.48,
+      "end": 17.7
+    }
+  ],
+  "language": "en",
+  "word_count": 38,
+  "is_empty": false,
+  "is_very_short": false
+}

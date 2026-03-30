@@ -1,0 +1,115 @@
+{
+  "clip_id": "clip_0319",
+  "text": "Well done. Now it's time to really close the gap. Let's go in some coins soon. Well done everyone. Good job.",
+  "words": [
+    {
+      "word": "Well",
+      "start": 0.0,
+      "end": 0.68
+    },
+    {
+      "word": "done.",
+      "start": 0.68,
+      "end": 0.92
+    },
+    {
+      "word": "Now",
+      "start": 2.12,
+      "end": 2.68
+    },
+    {
+      "word": "it's",
+      "start": 2.68,
+      "end": 3.24
+    },
+    {
+      "word": "time",
+      "start": 3.24,
+      "end": 3.38
+    },
+    {
+      "word": "to",
+      "start": 3.38,
+      "end": 3.6
+    },
+    {
+      "word": "really",
+      "start": 3.6,
+      "end": 4.32
+    },
+    {
+      "word": "close",
+      "start": 4.32,
+      "end": 4.52
+    },
+    {
+      "word": "the",
+      "start": 4.52,
+      "end": 4.66
+    },
+    {
+      "word": "gap.",
+      "start": 4.66,
+      "end": 4.88
+    },
+    {
+      "word": "Let's",
+      "start": 5.96,
+      "end": 6.52
+    },
+    {
+      "word": "go",
+      "start": 6.52,
+      "end": 6.66
+    },
+    {
+      "word": "in",
+      "start": 6.66,
+      "end": 6.74
+    },
+    {
+      "word": "some",
+      "start": 6.74,
+      "end": 7.12
+    },
+    {
+      "word": "coins",
+      "start": 7.12,
+      "end": 7.4
+    },
+    {
+      "word": "soon.",
+      "start": 7.4,
+      "end": 7.98
+    },
+    {
+      "word": "Well",
+      "start": 8.74,
+      "end": 9.06
+    },
+    {
+      "word": "done",
+      "start": 9.06,
+      "end": 9.22
+    },
+    {
+      "word": "everyone.",
+      "start": 9.22,
+      "end": 9.46
+    },
+    {
+      "word": "Good",
+      "start": 9.74,
+      "end": 9.82
+    },
+    {
+      "word": "job.",
+      "start": 9.82,
+      "end": 10.04
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

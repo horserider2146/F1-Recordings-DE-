@@ -1,0 +1,110 @@
+{
+  "clip_id": "clip_0639",
+  "text": "Okay, so all the systems want to trace you, the only place we are losing to Arvid, so he's breaking",
+  "words": [
+    {
+      "word": "Okay,",
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "word": "so",
+      "start": 0.54,
+      "end": 0.6
+    },
+    {
+      "word": "all",
+      "start": 0.6,
+      "end": 0.82
+    },
+    {
+      "word": "the",
+      "start": 0.82,
+      "end": 0.94
+    },
+    {
+      "word": "systems",
+      "start": 0.94,
+      "end": 1.32
+    },
+    {
+      "word": "want",
+      "start": 1.32,
+      "end": 1.9
+    },
+    {
+      "word": "to",
+      "start": 1.9,
+      "end": 2.04
+    },
+    {
+      "word": "trace",
+      "start": 2.04,
+      "end": 2.24
+    },
+    {
+      "word": "you,",
+      "start": 2.24,
+      "end": 2.42
+    },
+    {
+      "word": "the",
+      "start": 2.44,
+      "end": 2.54
+    },
+    {
+      "word": "only",
+      "start": 2.54,
+      "end": 2.7
+    },
+    {
+      "word": "place",
+      "start": 2.7,
+      "end": 2.96
+    },
+    {
+      "word": "we",
+      "start": 2.96,
+      "end": 3.14
+    },
+    {
+      "word": "are",
+      "start": 3.14,
+      "end": 3.2
+    },
+    {
+      "word": "losing",
+      "start": 3.2,
+      "end": 3.44
+    },
+    {
+      "word": "to",
+      "start": 3.44,
+      "end": 3.94
+    },
+    {
+      "word": "Arvid,",
+      "start": 3.94,
+      "end": 4.5
+    },
+    {
+      "word": "so",
+      "start": 4.64,
+      "end": 4.8
+    },
+    {
+      "word": "he's",
+      "start": 4.8,
+      "end": 5.16
+    },
+    {
+      "word": "breaking",
+      "start": 5.16,
+      "end": 5.4
+    }
+  ],
+  "language": "en",
+  "word_count": 20,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_1092",
+  "text": "and we are happy with your time management. We see brake knockoff increasing to 8, just caution there. Up to potas is 1.4, 1.4. How is the balance? Yeah, it's fine.",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "word": "we",
+      "start": 0.58,
+      "end": 1.96
+    },
+    {
+      "word": "are",
+      "start": 1.96,
+      "end": 2.04
+    },
+    {
+      "word": "happy",
+      "start": 2.04,
+      "end": 2.24
+    },
+    {
+      "word": "with",
+      "start": 2.24,
+      "end": 2.42
+    },
+    {
+      "word": "your",
+      "start": 2.42,
+      "end": 2.54
+    },
+    {
+      "word": "time",
+      "start": 2.54,
+      "end": 2.76
+    },
+    {
+      "word": "management.",
+      "start": 2.76,
+      "end": 3.14
+    },
+    {
+      "word": "We",
+      "start": 4.16,
+      "end": 4.8
+    },
+    {
+      "word": "see",
+      "start": 4.8,
+      "end": 5.06
+    },
+    {
+      "word": "brake",
+      "start": 5.06,
+      "end": 5.3
+    },
+    {
+      "word": "knockoff",
+      "start": 5.3,
+      "end": 5.74
+    },
+    {
+      "word": "increasing",
+      "start": 5.74,
+      "end": 6.2
+    },
+    {
+      "word": "to",
+      "start": 6.2,
+      "end": 6.54
+    },
+    {
+      "word": "8,",
+      "start": 6.54,
+      "end": 6.8
+    },
+    {
+      "word": "just",
+      "start": 7.8,
+      "end": 8.18
+    },
+    {
+      "word": "caution",
+      "start": 8.18,
+      "end": 8.52
+    },
+    {
+      "word": "there.",
+      "start": 8.52,
+      "end": 8.88
+    },
+    {
+      "word": "Up",
+      "start": 11.16,
+      "end": 11.8
+    },
+    {
+      "word": "to",
+      "start": 11.8,
+      "end": 12.1
+    },
+    {
+      "word": "potas",
+      "start": 12.1,
+      "end": 12.66
+    },
+    {
+      "word": "is",
+      "start": 12.66,
+      "end": 12.86
+    },
+    {
+      "word": "1",
+      "start": 12.86,
+      "end": 13.18
+    },
+    {
+      "word": ".4,",
+      "start": 13.18,
+      "end": 13.58
+    },
+    {
+      "word": "1",
+      "start": 13.66,
+      "end": 13.76
+    },
+    {
+      "word": ".4.",
+      "start": 13.76,
+      "end": 14.12
+    },
+    {
+      "word": "How",
+      "start": 14.92,
+      "end": 15.56
+    },
+    {
+      "word": "is",
+      "start": 15.56,
+      "end": 15.68
+    },
+    {
+      "word": "the",
+      "start": 15.68,
+      "end": 15.78
+    },
+    {
+      "word": "balance?",
+      "start": 15.78,
+      "end": 16.02
+    },
+    {
+      "word": "Yeah,",
+      "start": 18.26,
+      "end": 18.54
+    },
+    {
+      "word": "it's",
+      "start": 18.7,
+      "end": 19.16
+    },
+    {
+      "word": "fine.",
+      "start": 19.16,
+      "end": 19.26
+    }
+  ],
+  "language": "en",
+  "word_count": 31,
+  "is_empty": false,
+  "is_very_short": false
+}

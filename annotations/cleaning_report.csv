@@ -1,0 +1,46 @@
+clip_id,reason,text
+clip_0005,empty_transcript,"8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,"
+clip_0027,filler_only: 'and',and
+clip_0050,filler_only: 'the',the
+clip_0096,"repeated_words: 'good good,' x112","good, good, good, good, good, good, good, good, good, good, good, good, good, go"
+clip_0099,empty_transcript,"4, 5, 4, 4, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6,"
+clip_0102,too_short: 2 words,98 it's ok
+clip_0122,too_short: 3 words,take a peek
+clip_0159,"repeated_words: 'oh, oh' x224","oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, "
+clip_0163,"repeated_words: 'go go,' x334","go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, "
+clip_0166,too_short: 2 words,for low-throttle pressure.
+clip_0213,"repeated_words: 'no no,' x112","no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, "
+clip_0220,too_short: 2 words,thank you.
+clip_0251,repeated_words: 'bye.' x4,bye. bye. bye. bye.
+clip_0313,repeated_words: 'the' x5,the the the the the
+clip_0323,empty_transcript,
+clip_0331,too_short: 3 words,target plus four
+clip_0332,too_short: 2 words,the lap.
+clip_0359,too_short: 3 words,target neutral over
+clip_0378,empty_transcript,1.9 1.2 2.7 1.2 1.2 2.7 2.7 1.2
+clip_0398,too_short: 2 words,blue flags
+clip_0402,empty_transcript,"35, 5, 7, 5, 7, 5, 7, 5, 7, 5, 7, 5, 7, 5, 7, 5, 7, 5, 7, 5, 7, 5, 7, 5, 7, 5, 7"
+clip_0407,repeated_words: 'bye.' x4,bye. bye. bye. bye.
+clip_0451,too_short: 2 words,be removed.
+clip_0490,too_short: 1 words,up
+clip_0513,repeated_words: 'the' x4,the the the the
+clip_0532,empty_transcript,"5, 6, 5, 4, 3, 2, 1"
+clip_0550,empty_transcript,
+clip_0671,filler_only: 'the',the
+clip_0695,empty_transcript,
+clip_0696,too_short: 3 words,this is the
+clip_0718,filler_only: 'the',the
+clip_0732,filler_only: 'the',the
+clip_0770,repeated_words: 'to chill' x24,to chill to chill to chill to chill to chill to chill to chill to chill to chill
+clip_0781,too_short: 2 words,bye. bye.
+clip_0784,too_short: 2 words,"yeah, definitely."
+clip_0966,too_short: 2 words,i think
+clip_0969,filler_only: 'the',the
+clip_1004,youtube_noise: 'thank you for watching!',thank you for watching!
+clip_1014,filler_only: 'and',and
+clip_1023,filler_only: 'is',is
+clip_1027,repeated_words: 'i'm sorry.' x6,i'm sorry. i'm sorry. i'm sorry.
+clip_1054,too_short: 1 words,promise
+clip_1062,empty_transcript,
+clip_1064,empty_transcript,lin-bland-oconen-kolatintosunhar.
+clip_1065,too_short: 3 words,"you can select k2, k21."

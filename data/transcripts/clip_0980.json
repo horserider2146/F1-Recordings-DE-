@@ -1,0 +1,275 @@
+{
+  "clip_id": "clip_0980",
+  "text": "2.8 seconds, we're still catching them, let's go. Sherman gaining mid corner turn 3 and turn 8, we're happy to push the tyre if you can. I'm looking up. 5 left, go 2.7. Safety car windows are closed. Sherman struggling a little more, 7, 8, 9 that time, let's keep pushing.",
+  "words": [
+    {
+      "word": "2",
+      "start": 0.0,
+      "end": 0.06
+    },
+    {
+      "word": ".8",
+      "start": 0.06,
+      "end": 0.46
+    },
+    {
+      "word": "seconds,",
+      "start": 0.46,
+      "end": 0.78
+    },
+    {
+      "word": "we're",
+      "start": 0.9,
+      "end": 1.02
+    },
+    {
+      "word": "still",
+      "start": 1.02,
+      "end": 1.16
+    },
+    {
+      "word": "catching",
+      "start": 1.16,
+      "end": 1.42
+    },
+    {
+      "word": "them,",
+      "start": 1.42,
+      "end": 1.68
+    },
+    {
+      "word": "let's",
+      "start": 1.7,
+      "end": 1.86
+    },
+    {
+      "word": "go.",
+      "start": 1.86,
+      "end": 2.04
+    },
+    {
+      "word": "Sherman",
+      "start": 2.74,
+      "end": 3.26
+    },
+    {
+      "word": "gaining",
+      "start": 3.26,
+      "end": 3.78
+    },
+    {
+      "word": "mid",
+      "start": 3.78,
+      "end": 4.22
+    },
+    {
+      "word": "corner",
+      "start": 4.22,
+      "end": 4.52
+    },
+    {
+      "word": "turn",
+      "start": 4.52,
+      "end": 4.9
+    },
+    {
+      "word": "3",
+      "start": 4.9,
+      "end": 5.36
+    },
+    {
+      "word": "and",
+      "start": 5.36,
+      "end": 5.68
+    },
+    {
+      "word": "turn",
+      "start": 5.68,
+      "end": 6.06
+    },
+    {
+      "word": "8,",
+      "start": 6.06,
+      "end": 6.5
+    },
+    {
+      "word": "we're",
+      "start": 6.58,
+      "end": 6.86
+    },
+    {
+      "word": "happy",
+      "start": 6.86,
+      "end": 7.1
+    },
+    {
+      "word": "to",
+      "start": 7.1,
+      "end": 7.3
+    },
+    {
+      "word": "push",
+      "start": 7.3,
+      "end": 7.58
+    },
+    {
+      "word": "the",
+      "start": 7.58,
+      "end": 7.72
+    },
+    {
+      "word": "tyre",
+      "start": 7.72,
+      "end": 8.0
+    },
+    {
+      "word": "if",
+      "start": 8.0,
+      "end": 8.22
+    },
+    {
+      "word": "you",
+      "start": 8.22,
+      "end": 8.28
+    },
+    {
+      "word": "can.",
+      "start": 8.28,
+      "end": 8.48
+    },
+    {
+      "word": "I'm",
+      "start": 9.16,
+      "end": 9.56
+    },
+    {
+      "word": "looking",
+      "start": 9.56,
+      "end": 9.7
+    },
+    {
+      "word": "up.",
+      "start": 9.7,
+      "end": 9.94
+    },
+    {
+      "word": "5",
+      "start": 10.42,
+      "end": 10.66
+    },
+    {
+      "word": "left,",
+      "start": 10.66,
+      "end": 10.8
+    },
+    {
+      "word": "go",
+      "start": 10.96,
+      "end": 11.12
+    },
+    {
+      "word": "2",
+      "start": 11.12,
+      "end": 11.42
+    },
+    {
+      "word": ".7.",
+      "start": 11.42,
+      "end": 12.06
+    },
+    {
+      "word": "Safety",
+      "start": 12.94,
+      "end": 13.46
+    },
+    {
+      "word": "car",
+      "start": 13.46,
+      "end": 13.74
+    },
+    {
+      "word": "windows",
+      "start": 13.74,
+      "end": 13.98
+    },
+    {
+      "word": "are",
+      "start": 13.98,
+      "end": 14.26
+    },
+    {
+      "word": "closed.",
+      "start": 14.26,
+      "end": 14.6
+    },
+    {
+      "word": "Sherman",
+      "start": 15.4,
+      "end": 15.92
+    },
+    {
+      "word": "struggling",
+      "start": 15.92,
+      "end": 16.32
+    },
+    {
+      "word": "a",
+      "start": 16.32,
+      "end": 16.56
+    },
+    {
+      "word": "little",
+      "start": 16.56,
+      "end": 16.74
+    },
+    {
+      "word": "more,",
+      "start": 16.74,
+      "end": 17.02
+    },
+    {
+      "word": "7,",
+      "start": 17.22,
+      "end": 17.66
+    },
+    {
+      "word": "8,",
+      "start": 17.8,
+      "end": 17.96
+    },
+    {
+      "word": "9",
+      "start": 18.0,
+      "end": 18.2
+    },
+    {
+      "word": "that",
+      "start": 18.2,
+      "end": 18.4
+    },
+    {
+      "word": "time,",
+      "start": 18.4,
+      "end": 18.64
+    },
+    {
+      "word": "let's",
+      "start": 18.78,
+      "end": 18.88
+    },
+    {
+      "word": "keep",
+      "start": 18.88,
+      "end": 18.98
+    },
+    {
+      "word": "pushing.",
+      "start": 18.98,
+      "end": 19.3
+    }
+  ],
+  "language": "en",
+  "word_count": 51,
+  "is_empty": false,
+  "is_very_short": false
+}

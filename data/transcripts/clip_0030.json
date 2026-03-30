@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0030",
+  "text": "good waving and then take it easy for rear-to-pass.",
+  "words": [
+    {
+      "word": "good",
+      "start": 0.0,
+      "end": 0.28
+    },
+    {
+      "word": "waving",
+      "start": 0.28,
+      "end": 0.56
+    },
+    {
+      "word": "and",
+      "start": 0.56,
+      "end": 1.26
+    },
+    {
+      "word": "then",
+      "start": 1.26,
+      "end": 1.44
+    },
+    {
+      "word": "take",
+      "start": 1.44,
+      "end": 1.7
+    },
+    {
+      "word": "it",
+      "start": 1.7,
+      "end": 1.84
+    },
+    {
+      "word": "easy",
+      "start": 1.84,
+      "end": 2.04
+    },
+    {
+      "word": "for",
+      "start": 2.04,
+      "end": 2.24
+    },
+    {
+      "word": "rear",
+      "start": 2.24,
+      "end": 2.36
+    },
+    {
+      "word": "-to",
+      "start": 2.36,
+      "end": 2.5
+    },
+    {
+      "word": "-pass.",
+      "start": 2.5,
+      "end": 2.66
+    }
+  ],
+  "language": "en",
+  "word_count": 9,
+  "is_empty": false,
+  "is_very_short": false
+}

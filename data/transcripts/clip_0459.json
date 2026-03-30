@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0459",
+  "text": "This is 36.9, 0.4, Gap at 1.6, and this is just half a tenth slower. It's difficult to be pulling the gap out a little bit more, so you can push more, turn",
+  "words": [
+    {
+      "word": "This",
+      "start": 0.92,
+      "end": 1.36
+    },
+    {
+      "word": "is",
+      "start": 1.36,
+      "end": 1.52
+    },
+    {
+      "word": "36",
+      "start": 1.52,
+      "end": 1.94
+    },
+    {
+      "word": ".9,",
+      "start": 1.94,
+      "end": 2.36
+    },
+    {
+      "word": "0",
+      "start": 2.82,
+      "end": 3.44
+    },
+    {
+      "word": ".4,",
+      "start": 3.44,
+      "end": 4.16
+    },
+    {
+      "word": "Gap",
+      "start": 4.44,
+      "end": 5.54
+    },
+    {
+      "word": "at",
+      "start": 5.54,
+      "end": 5.6
+    },
+    {
+      "word": "1",
+      "start": 5.6,
+      "end": 5.74
+    },
+    {
+      "word": ".6,",
+      "start": 5.74,
+      "end": 6.34
+    },
+    {
+      "word": "and",
+      "start": 7.28,
+      "end": 8.22
+    },
+    {
+      "word": "this",
+      "start": 8.22,
+      "end": 8.38
+    },
+    {
+      "word": "is",
+      "start": 8.38,
+      "end": 8.56
+    },
+    {
+      "word": "just",
+      "start": 8.56,
+      "end": 8.68
+    },
+    {
+      "word": "half",
+      "start": 8.68,
+      "end": 8.96
+    },
+    {
+      "word": "a",
+      "start": 8.96,
+      "end": 9.04
+    },
+    {
+      "word": "tenth",
+      "start": 9.04,
+      "end": 9.18
+    },
+    {
+      "word": "slower.",
+      "start": 9.18,
+      "end": 9.6
+    },
+    {
+      "word": "It's",
+      "start": 10.08,
+      "end": 10.22
+    },
+    {
+      "word": "difficult",
+      "start": 10.22,
+      "end": 10.38
+    },
+    {
+      "word": "to",
+      "start": 10.38,
+      "end": 10.62
+    },
+    {
+      "word": "be",
+      "start": 10.62,
+      "end": 10.7
+    },
+    {
+      "word": "pulling",
+      "start": 10.7,
+      "end": 10.88
+    },
+    {
+      "word": "the",
+      "start": 10.88,
+      "end": 11.06
+    },
+    {
+      "word": "gap",
+      "start": 11.06,
+      "end": 11.2
+    },
+    {
+      "word": "out",
+      "start": 11.2,
+      "end": 11.44
+    },
+    {
+      "word": "a",
+      "start": 11.44,
+      "end": 11.62
+    },
+    {
+      "word": "little",
+      "start": 11.62,
+      "end": 11.7
+    },
+    {
+      "word": "bit",
+      "start": 11.7,
+      "end": 11.86
+    },
+    {
+      "word": "more,",
+      "start": 11.86,
+      "end": 12.1
+    },
+    {
+      "word": "so",
+      "start": 12.56,
+      "end": 12.82
+    },
+    {
+      "word": "you",
+      "start": 12.82,
+      "end": 12.94
+    },
+    {
+      "word": "can",
+      "start": 12.94,
+      "end": 13.06
+    },
+    {
+      "word": "push",
+      "start": 13.06,
+      "end": 13.34
+    },
+    {
+      "word": "more,",
+      "start": 13.34,
+      "end": 13.56
+    },
+    {
+      "word": "turn",
+      "start": 13.78,
+      "end": 13.92
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

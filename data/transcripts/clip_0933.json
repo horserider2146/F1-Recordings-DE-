@@ -1,0 +1,50 @@
+{
+  "clip_id": "clip_0933",
+  "text": "and stop in front of the garage. OK.",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "stop",
+      "start": 0.16,
+      "end": 1.88
+    },
+    {
+      "word": "in",
+      "start": 1.88,
+      "end": 2.08
+    },
+    {
+      "word": "front",
+      "start": 2.08,
+      "end": 2.22
+    },
+    {
+      "word": "of",
+      "start": 2.22,
+      "end": 2.3
+    },
+    {
+      "word": "the",
+      "start": 2.3,
+      "end": 2.36
+    },
+    {
+      "word": "garage.",
+      "start": 2.36,
+      "end": 2.56
+    },
+    {
+      "word": "OK.",
+      "start": 2.8,
+      "end": 3.0
+    }
+  ],
+  "language": "en",
+  "word_count": 8,
+  "is_empty": false,
+  "is_very_short": false
+}

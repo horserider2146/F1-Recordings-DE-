@@ -1,0 +1,85 @@
+{
+  "clip_id": "clip_1050",
+  "text": "I cannot turn the car. Yeah, it's going now. What do you think of Flap?",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.84,
+      "end": 1.24
+    },
+    {
+      "word": "cannot",
+      "start": 1.24,
+      "end": 1.42
+    },
+    {
+      "word": "turn",
+      "start": 1.42,
+      "end": 1.68
+    },
+    {
+      "word": "the",
+      "start": 1.68,
+      "end": 1.9
+    },
+    {
+      "word": "car.",
+      "start": 1.9,
+      "end": 2.38
+    },
+    {
+      "word": "Yeah,",
+      "start": 4.12,
+      "end": 4.36
+    },
+    {
+      "word": "it's",
+      "start": 4.48,
+      "end": 4.66
+    },
+    {
+      "word": "going",
+      "start": 4.66,
+      "end": 4.86
+    },
+    {
+      "word": "now.",
+      "start": 4.86,
+      "end": 5.1
+    },
+    {
+      "word": "What",
+      "start": 7.02,
+      "end": 7.42
+    },
+    {
+      "word": "do",
+      "start": 7.42,
+      "end": 7.5
+    },
+    {
+      "word": "you",
+      "start": 7.5,
+      "end": 7.56
+    },
+    {
+      "word": "think",
+      "start": 7.56,
+      "end": 7.68
+    },
+    {
+      "word": "of",
+      "start": 7.68,
+      "end": 7.82
+    },
+    {
+      "word": "Flap?",
+      "start": 7.82,
+      "end": 8.02
+    }
+  ],
+  "language": "en",
+  "word_count": 15,
+  "is_empty": false,
+  "is_very_short": false
+}

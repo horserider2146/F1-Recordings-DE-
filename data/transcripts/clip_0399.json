@@ -1,0 +1,210 @@
+{
+  "clip_id": "clip_0399",
+  "text": "Looking good so far. Give me 35.9 Give me 35.9 This is blue flag traffic Give me 35.3 I'm happy to lean on the tires more You can have 7 Black at 7 Don't know, just that",
+  "words": [
+    {
+      "word": "Looking",
+      "start": 0.72,
+      "end": 1.22
+    },
+    {
+      "word": "good",
+      "start": 1.22,
+      "end": 1.46
+    },
+    {
+      "word": "so",
+      "start": 1.46,
+      "end": 1.62
+    },
+    {
+      "word": "far.",
+      "start": 1.62,
+      "end": 1.92
+    },
+    {
+      "word": "Give",
+      "start": 2.42,
+      "end": 2.6
+    },
+    {
+      "word": "me",
+      "start": 2.6,
+      "end": 2.7
+    },
+    {
+      "word": "35",
+      "start": 2.7,
+      "end": 3.38
+    },
+    {
+      "word": ".9",
+      "start": 3.38,
+      "end": 3.94
+    },
+    {
+      "word": "Give",
+      "start": 5.46,
+      "end": 5.96
+    },
+    {
+      "word": "me",
+      "start": 5.96,
+      "end": 6.1
+    },
+    {
+      "word": "35",
+      "start": 6.1,
+      "end": 6.78
+    },
+    {
+      "word": ".9",
+      "start": 6.78,
+      "end": 7.28
+    },
+    {
+      "word": "This",
+      "start": 7.28,
+      "end": 7.74
+    },
+    {
+      "word": "is",
+      "start": 7.74,
+      "end": 7.86
+    },
+    {
+      "word": "blue",
+      "start": 7.86,
+      "end": 8.16
+    },
+    {
+      "word": "flag",
+      "start": 8.16,
+      "end": 8.38
+    },
+    {
+      "word": "traffic",
+      "start": 8.38,
+      "end": 8.76
+    },
+    {
+      "word": "Give",
+      "start": 9.92,
+      "end": 10.42
+    },
+    {
+      "word": "me",
+      "start": 10.42,
+      "end": 10.6
+    },
+    {
+      "word": "35",
+      "start": 10.6,
+      "end": 11.38
+    },
+    {
+      "word": ".3",
+      "start": 11.38,
+      "end": 11.98
+    },
+    {
+      "word": "I'm",
+      "start": 11.98,
+      "end": 12.66
+    },
+    {
+      "word": "happy",
+      "start": 12.66,
+      "end": 12.8
+    },
+    {
+      "word": "to",
+      "start": 12.8,
+      "end": 12.94
+    },
+    {
+      "word": "lean",
+      "start": 12.94,
+      "end": 13.06
+    },
+    {
+      "word": "on",
+      "start": 13.06,
+      "end": 13.18
+    },
+    {
+      "word": "the",
+      "start": 13.18,
+      "end": 13.32
+    },
+    {
+      "word": "tires",
+      "start": 13.32,
+      "end": 13.5
+    },
+    {
+      "word": "more",
+      "start": 13.5,
+      "end": 13.76
+    },
+    {
+      "word": "You",
+      "start": 13.76,
+      "end": 13.96
+    },
+    {
+      "word": "can",
+      "start": 13.96,
+      "end": 14.12
+    },
+    {
+      "word": "have",
+      "start": 14.12,
+      "end": 14.14
+    },
+    {
+      "word": "7",
+      "start": 14.14,
+      "end": 14.52
+    },
+    {
+      "word": "Black",
+      "start": 16.8,
+      "end": 17.3
+    },
+    {
+      "word": "at",
+      "start": 17.3,
+      "end": 17.44
+    },
+    {
+      "word": "7",
+      "start": 17.44,
+      "end": 17.7
+    },
+    {
+      "word": "Don't",
+      "start": 17.7,
+      "end": 18.48
+    },
+    {
+      "word": "know,",
+      "start": 18.48,
+      "end": 18.58
+    },
+    {
+      "word": "just",
+      "start": 18.62,
+      "end": 18.82
+    },
+    {
+      "word": "that",
+      "start": 18.82,
+      "end": 19.08
+    }
+  ],
+  "language": "en",
+  "word_count": 37,
+  "is_empty": false,
+  "is_very_short": false
+}

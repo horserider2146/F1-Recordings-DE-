@@ -1,0 +1,235 @@
+{
+  "clip_id": "clip_1178",
+  "text": "Gap to checko behind 1.5, he's pushing harder than you in turn 8. Gap to checko behind 1.3. Ok, so Gap to checko 1.2. Got strap 5 available, we want a little bit more to point at 4.7. Ok, checko ahead.",
+  "words": [
+    {
+      "word": "Gap",
+      "start": 0.68,
+      "end": 1.22
+    },
+    {
+      "word": "to",
+      "start": 1.22,
+      "end": 1.36
+    },
+    {
+      "word": "checko",
+      "start": 1.36,
+      "end": 1.58
+    },
+    {
+      "word": "behind",
+      "start": 1.58,
+      "end": 1.84
+    },
+    {
+      "word": "1",
+      "start": 1.84,
+      "end": 2.18
+    },
+    {
+      "word": ".5,",
+      "start": 2.18,
+      "end": 2.92
+    },
+    {
+      "word": "he's",
+      "start": 3.1,
+      "end": 3.46
+    },
+    {
+      "word": "pushing",
+      "start": 3.46,
+      "end": 3.74
+    },
+    {
+      "word": "harder",
+      "start": 3.74,
+      "end": 4.04
+    },
+    {
+      "word": "than",
+      "start": 4.04,
+      "end": 4.26
+    },
+    {
+      "word": "you",
+      "start": 4.26,
+      "end": 4.4
+    },
+    {
+      "word": "in",
+      "start": 4.4,
+      "end": 4.58
+    },
+    {
+      "word": "turn",
+      "start": 4.58,
+      "end": 4.78
+    },
+    {
+      "word": "8.",
+      "start": 4.78,
+      "end": 5.24
+    },
+    {
+      "word": "Gap",
+      "start": 6.94,
+      "end": 7.48
+    },
+    {
+      "word": "to",
+      "start": 7.48,
+      "end": 7.62
+    },
+    {
+      "word": "checko",
+      "start": 7.62,
+      "end": 8.02
+    },
+    {
+      "word": "behind",
+      "start": 8.02,
+      "end": 8.34
+    },
+    {
+      "word": "1",
+      "start": 8.34,
+      "end": 8.82
+    },
+    {
+      "word": ".3.",
+      "start": 8.82,
+      "end": 9.42
+    },
+    {
+      "word": "Ok,",
+      "start": 10.72,
+      "end": 11.26
+    },
+    {
+      "word": "so",
+      "start": 11.5,
+      "end": 11.86
+    },
+    {
+      "word": "Gap",
+      "start": 11.86,
+      "end": 12.48
+    },
+    {
+      "word": "to",
+      "start": 12.48,
+      "end": 12.56
+    },
+    {
+      "word": "checko",
+      "start": 12.56,
+      "end": 12.86
+    },
+    {
+      "word": "1",
+      "start": 12.86,
+      "end": 13.06
+    },
+    {
+      "word": ".2.",
+      "start": 13.06,
+      "end": 13.7
+    },
+    {
+      "word": "Got",
+      "start": 14.46,
+      "end": 14.68
+    },
+    {
+      "word": "strap",
+      "start": 14.68,
+      "end": 14.98
+    },
+    {
+      "word": "5",
+      "start": 14.98,
+      "end": 15.38
+    },
+    {
+      "word": "available,",
+      "start": 15.38,
+      "end": 15.74
+    },
+    {
+      "word": "we",
+      "start": 15.94,
+      "end": 16.02
+    },
+    {
+      "word": "want",
+      "start": 16.02,
+      "end": 16.14
+    },
+    {
+      "word": "a",
+      "start": 16.14,
+      "end": 16.24
+    },
+    {
+      "word": "little",
+      "start": 16.24,
+      "end": 16.34
+    },
+    {
+      "word": "bit",
+      "start": 16.34,
+      "end": 16.46
+    },
+    {
+      "word": "more",
+      "start": 16.46,
+      "end": 16.64
+    },
+    {
+      "word": "to",
+      "start": 16.64,
+      "end": 16.76
+    },
+    {
+      "word": "point",
+      "start": 16.76,
+      "end": 16.94
+    },
+    {
+      "word": "at",
+      "start": 16.94,
+      "end": 17.12
+    },
+    {
+      "word": "4",
+      "start": 17.12,
+      "end": 17.64
+    },
+    {
+      "word": ".7.",
+      "start": 17.64,
+      "end": 18.04
+    },
+    {
+      "word": "Ok,",
+      "start": 18.9,
+      "end": 19.44
+    },
+    {
+      "word": "checko",
+      "start": 19.6,
+      "end": 19.82
+    },
+    {
+      "word": "ahead.",
+      "start": 19.82,
+      "end": 19.92
+    }
+  ],
+  "language": "en",
+  "word_count": 41,
+  "is_empty": false,
+  "is_very_short": false
+}

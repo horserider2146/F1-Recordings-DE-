@@ -1,0 +1,80 @@
+{
+  "clip_id": "clip_0783",
+  "text": "I guess you should go when the last car leaves the queue, you know.",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.46
+    },
+    {
+      "word": "guess",
+      "start": 0.46,
+      "end": 0.66
+    },
+    {
+      "word": "you",
+      "start": 0.66,
+      "end": 0.82
+    },
+    {
+      "word": "should",
+      "start": 0.82,
+      "end": 0.92
+    },
+    {
+      "word": "go",
+      "start": 0.92,
+      "end": 1.14
+    },
+    {
+      "word": "when",
+      "start": 1.14,
+      "end": 1.36
+    },
+    {
+      "word": "the",
+      "start": 1.36,
+      "end": 1.8
+    },
+    {
+      "word": "last",
+      "start": 1.8,
+      "end": 2.04
+    },
+    {
+      "word": "car",
+      "start": 2.04,
+      "end": 2.46
+    },
+    {
+      "word": "leaves",
+      "start": 2.46,
+      "end": 2.72
+    },
+    {
+      "word": "the",
+      "start": 2.72,
+      "end": 2.9
+    },
+    {
+      "word": "queue,",
+      "start": 2.9,
+      "end": 3.08
+    },
+    {
+      "word": "you",
+      "start": 3.14,
+      "end": 3.24
+    },
+    {
+      "word": "know.",
+      "start": 3.24,
+      "end": 3.24
+    }
+  ],
+  "language": "en",
+  "word_count": 14,
+  "is_empty": false,
+  "is_very_short": false
+}

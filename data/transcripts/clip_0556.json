@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0556",
+  "text": "The escal behind is R6 P3, sharp push behind, sharp push behind Two tenths from R1, one tenth first sector, one tenth last sector And we think we are ok on our side",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.26
+    },
+    {
+      "word": "escal",
+      "start": 0.26,
+      "end": 0.26
+    },
+    {
+      "word": "behind",
+      "start": 0.26,
+      "end": 0.68
+    },
+    {
+      "word": "is",
+      "start": 0.68,
+      "end": 1.24
+    },
+    {
+      "word": "R6",
+      "start": 1.24,
+      "end": 2.0
+    },
+    {
+      "word": "P3,",
+      "start": 4.14,
+      "end": 4.86
+    },
+    {
+      "word": "sharp",
+      "start": 5.24,
+      "end": 5.82
+    },
+    {
+      "word": "push",
+      "start": 5.82,
+      "end": 6.12
+    },
+    {
+      "word": "behind,",
+      "start": 6.12,
+      "end": 6.46
+    },
+    {
+      "word": "sharp",
+      "start": 6.6,
+      "end": 6.88
+    },
+    {
+      "word": "push",
+      "start": 6.88,
+      "end": 7.16
+    },
+    {
+      "word": "behind",
+      "start": 7.16,
+      "end": 7.58
+    },
+    {
+      "word": "Two",
+      "start": 8.66,
+      "end": 9.38
+    },
+    {
+      "word": "tenths",
+      "start": 9.38,
+      "end": 9.78
+    },
+    {
+      "word": "from",
+      "start": 9.78,
+      "end": 9.98
+    },
+    {
+      "word": "R1,",
+      "start": 9.98,
+      "end": 10.72
+    },
+    {
+      "word": "one",
+      "start": 10.72,
+      "end": 11.82
+    },
+    {
+      "word": "tenth",
+      "start": 11.82,
+      "end": 12.24
+    },
+    {
+      "word": "first",
+      "start": 12.24,
+      "end": 13.06
+    },
+    {
+      "word": "sector,",
+      "start": 13.06,
+      "end": 13.54
+    },
+    {
+      "word": "one",
+      "start": 13.72,
+      "end": 13.96
+    },
+    {
+      "word": "tenth",
+      "start": 13.96,
+      "end": 14.32
+    },
+    {
+      "word": "last",
+      "start": 14.32,
+      "end": 14.68
+    },
+    {
+      "word": "sector",
+      "start": 14.68,
+      "end": 15.2
+    },
+    {
+      "word": "And",
+      "start": 16.06,
+      "end": 16.78
+    },
+    {
+      "word": "we",
+      "start": 16.78,
+      "end": 16.96
+    },
+    {
+      "word": "think",
+      "start": 16.96,
+      "end": 17.28
+    },
+    {
+      "word": "we",
+      "start": 17.28,
+      "end": 17.54
+    },
+    {
+      "word": "are",
+      "start": 17.54,
+      "end": 17.68
+    },
+    {
+      "word": "ok",
+      "start": 17.68,
+      "end": 17.98
+    },
+    {
+      "word": "on",
+      "start": 17.98,
+      "end": 18.22
+    },
+    {
+      "word": "our",
+      "start": 18.22,
+      "end": 18.34
+    },
+    {
+      "word": "side",
+      "start": 18.34,
+      "end": 18.86
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

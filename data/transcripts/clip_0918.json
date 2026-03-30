@@ -1,0 +1,205 @@
+{
+  "clip_id": "clip_0918",
+  "text": "I lost it a damn! You need to try and hook up the last one, fuck sake! Okay mate, strat one. Strat one. Keep your pace up, mate. Uhhh... Lost the rear. Lost the rear at the end and...",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "lost",
+      "start": 0.16,
+      "end": 0.34
+    },
+    {
+      "word": "it",
+      "start": 0.34,
+      "end": 0.48
+    },
+    {
+      "word": "a",
+      "start": 0.48,
+      "end": 0.58
+    },
+    {
+      "word": "damn!",
+      "start": 0.58,
+      "end": 0.9
+    },
+    {
+      "word": "You",
+      "start": 2.72,
+      "end": 2.94
+    },
+    {
+      "word": "need",
+      "start": 2.94,
+      "end": 3.06
+    },
+    {
+      "word": "to",
+      "start": 3.06,
+      "end": 3.08
+    },
+    {
+      "word": "try",
+      "start": 3.08,
+      "end": 3.34
+    },
+    {
+      "word": "and",
+      "start": 3.34,
+      "end": 3.46
+    },
+    {
+      "word": "hook",
+      "start": 3.46,
+      "end": 3.56
+    },
+    {
+      "word": "up",
+      "start": 3.56,
+      "end": 3.7
+    },
+    {
+      "word": "the",
+      "start": 3.7,
+      "end": 3.8
+    },
+    {
+      "word": "last",
+      "start": 3.8,
+      "end": 4.04
+    },
+    {
+      "word": "one,",
+      "start": 4.04,
+      "end": 4.26
+    },
+    {
+      "word": "fuck",
+      "start": 4.5,
+      "end": 4.9
+    },
+    {
+      "word": "sake!",
+      "start": 4.9,
+      "end": 5.36
+    },
+    {
+      "word": "Okay",
+      "start": 7.06,
+      "end": 7.5
+    },
+    {
+      "word": "mate,",
+      "start": 7.5,
+      "end": 7.64
+    },
+    {
+      "word": "strat",
+      "start": 7.78,
+      "end": 7.92
+    },
+    {
+      "word": "one.",
+      "start": 7.92,
+      "end": 8.2
+    },
+    {
+      "word": "Strat",
+      "start": 8.72,
+      "end": 8.94
+    },
+    {
+      "word": "one.",
+      "start": 8.94,
+      "end": 9.14
+    },
+    {
+      "word": "Keep",
+      "start": 9.28,
+      "end": 9.38
+    },
+    {
+      "word": "your",
+      "start": 9.38,
+      "end": 9.52
+    },
+    {
+      "word": "pace",
+      "start": 9.52,
+      "end": 9.66
+    },
+    {
+      "word": "up,",
+      "start": 9.66,
+      "end": 9.9
+    },
+    {
+      "word": "mate.",
+      "start": 9.98,
+      "end": 10.06
+    },
+    {
+      "word": "Uhhh...",
+      "start": 14.92,
+      "end": 15.36
+    },
+    {
+      "word": "Lost",
+      "start": 15.36,
+      "end": 15.66
+    },
+    {
+      "word": "the",
+      "start": 15.66,
+      "end": 15.88
+    },
+    {
+      "word": "rear.",
+      "start": 15.88,
+      "end": 16.1
+    },
+    {
+      "word": "Lost",
+      "start": 16.4,
+      "end": 16.72
+    },
+    {
+      "word": "the",
+      "start": 16.72,
+      "end": 16.94
+    },
+    {
+      "word": "rear",
+      "start": 16.94,
+      "end": 17.12
+    },
+    {
+      "word": "at",
+      "start": 17.12,
+      "end": 17.32
+    },
+    {
+      "word": "the",
+      "start": 17.32,
+      "end": 17.46
+    },
+    {
+      "word": "end",
+      "start": 17.46,
+      "end": 17.68
+    },
+    {
+      "word": "and...",
+      "start": 17.68,
+      "end": 18.22
+    }
+  ],
+  "language": "en",
+  "word_count": 39,
+  "is_empty": false,
+  "is_very_short": false
+}

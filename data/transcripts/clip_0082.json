@@ -1,0 +1,175 @@
+{
+  "clip_id": "clip_0082",
+  "text": "We might just lift the button, see for turn 1. We take that corner, right on. W, left corner. Turn on high RPM. Time to go again. Negative. Yeah. Yeah, I fucked up.",
+  "words": [
+    {
+      "word": "We",
+      "start": 1.24,
+      "end": 1.64
+    },
+    {
+      "word": "might",
+      "start": 1.64,
+      "end": 1.82
+    },
+    {
+      "word": "just",
+      "start": 1.82,
+      "end": 1.98
+    },
+    {
+      "word": "lift",
+      "start": 1.98,
+      "end": 2.18
+    },
+    {
+      "word": "the",
+      "start": 2.18,
+      "end": 2.38
+    },
+    {
+      "word": "button,",
+      "start": 2.38,
+      "end": 2.56
+    },
+    {
+      "word": "see",
+      "start": 2.7,
+      "end": 2.8
+    },
+    {
+      "word": "for",
+      "start": 2.8,
+      "end": 2.92
+    },
+    {
+      "word": "turn",
+      "start": 2.92,
+      "end": 3.04
+    },
+    {
+      "word": "1.",
+      "start": 3.04,
+      "end": 3.28
+    },
+    {
+      "word": "We",
+      "start": 3.8,
+      "end": 3.92
+    },
+    {
+      "word": "take",
+      "start": 3.92,
+      "end": 4.14
+    },
+    {
+      "word": "that",
+      "start": 4.14,
+      "end": 4.32
+    },
+    {
+      "word": "corner,",
+      "start": 4.32,
+      "end": 4.5
+    },
+    {
+      "word": "right",
+      "start": 4.88,
+      "end": 5.08
+    },
+    {
+      "word": "on.",
+      "start": 5.08,
+      "end": 5.26
+    },
+    {
+      "word": "W,",
+      "start": 7.54,
+      "end": 7.94
+    },
+    {
+      "word": "left",
+      "start": 8.1,
+      "end": 8.26
+    },
+    {
+      "word": "corner.",
+      "start": 8.26,
+      "end": 8.46
+    },
+    {
+      "word": "Turn",
+      "start": 10.3,
+      "end": 10.7
+    },
+    {
+      "word": "on",
+      "start": 10.7,
+      "end": 10.88
+    },
+    {
+      "word": "high",
+      "start": 10.88,
+      "end": 11.08
+    },
+    {
+      "word": "RPM.",
+      "start": 11.08,
+      "end": 11.32
+    },
+    {
+      "word": "Time",
+      "start": 12.94,
+      "end": 13.34
+    },
+    {
+      "word": "to",
+      "start": 13.34,
+      "end": 13.48
+    },
+    {
+      "word": "go",
+      "start": 13.48,
+      "end": 13.62
+    },
+    {
+      "word": "again.",
+      "start": 13.62,
+      "end": 13.84
+    },
+    {
+      "word": "Negative.",
+      "start": 15.2,
+      "end": 15.58
+    },
+    {
+      "word": "Yeah.",
+      "start": 17.48,
+      "end": 17.88
+    },
+    {
+      "word": "Yeah,",
+      "start": 19.0,
+      "end": 19.4
+    },
+    {
+      "word": "I",
+      "start": 19.48,
+      "end": 19.52
+    },
+    {
+      "word": "fucked",
+      "start": 19.52,
+      "end": 19.76
+    },
+    {
+      "word": "up.",
+      "start": 19.76,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 33,
+  "is_empty": false,
+  "is_very_short": false
+}

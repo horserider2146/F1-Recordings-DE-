@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_0104",
+  "text": "7 is all pretence So I'll be short of AC2 with the countdown 6, 7, 6, 5 Where else? 3, 2, 1 scenery head go out, go out with the berg on the push number 5",
+  "words": [
+    {
+      "word": "7",
+      "start": 0.0,
+      "end": 0.36
+    },
+    {
+      "word": "is",
+      "start": 0.36,
+      "end": 0.58
+    },
+    {
+      "word": "all",
+      "start": 0.58,
+      "end": 0.7
+    },
+    {
+      "word": "pretence",
+      "start": 0.7,
+      "end": 1.86
+    },
+    {
+      "word": "So",
+      "start": 1.86,
+      "end": 2.14
+    },
+    {
+      "word": "I'll",
+      "start": 2.14,
+      "end": 2.26
+    },
+    {
+      "word": "be",
+      "start": 2.26,
+      "end": 2.3
+    },
+    {
+      "word": "short",
+      "start": 2.3,
+      "end": 2.54
+    },
+    {
+      "word": "of",
+      "start": 2.54,
+      "end": 2.7
+    },
+    {
+      "word": "AC2",
+      "start": 2.7,
+      "end": 3.44
+    },
+    {
+      "word": "with",
+      "start": 3.92,
+      "end": 4.24
+    },
+    {
+      "word": "the",
+      "start": 4.24,
+      "end": 4.38
+    },
+    {
+      "word": "countdown",
+      "start": 4.38,
+      "end": 4.62
+    },
+    {
+      "word": "6,",
+      "start": 4.62,
+      "end": 5.74
+    },
+    {
+      "word": "7,",
+      "start": 5.82,
+      "end": 6.28
+    },
+    {
+      "word": "6,",
+      "start": 6.4,
+      "end": 7.14
+    },
+    {
+      "word": "5",
+      "start": 7.14,
+      "end": 8.12
+    },
+    {
+      "word": "Where",
+      "start": 8.12,
+      "end": 8.4
+    },
+    {
+      "word": "else?",
+      "start": 8.4,
+      "end": 8.7
+    },
+    {
+      "word": "3,",
+      "start": 9.6,
+      "end": 9.94
+    },
+    {
+      "word": "2,",
+      "start": 10.08,
+      "end": 11.0
+    },
+    {
+      "word": "1",
+      "start": 11.22,
+      "end": 12.0
+    },
+    {
+      "word": "scenery",
+      "start": 12.0,
+      "end": 12.52
+    },
+    {
+      "word": "head",
+      "start": 12.52,
+      "end": 12.9
+    },
+    {
+      "word": "go",
+      "start": 12.9,
+      "end": 13.78
+    },
+    {
+      "word": "out,",
+      "start": 13.78,
+      "end": 14.16
+    },
+    {
+      "word": "go",
+      "start": 14.2,
+      "end": 14.84
+    },
+    {
+      "word": "out",
+      "start": 14.84,
+      "end": 16.48
+    },
+    {
+      "word": "with",
+      "start": 16.48,
+      "end": 16.76
+    },
+    {
+      "word": "the",
+      "start": 16.76,
+      "end": 16.86
+    },
+    {
+      "word": "berg",
+      "start": 16.86,
+      "end": 17.06
+    },
+    {
+      "word": "on",
+      "start": 17.06,
+      "end": 17.14
+    },
+    {
+      "word": "the",
+      "start": 17.14,
+      "end": 17.26
+    },
+    {
+      "word": "push",
+      "start": 17.26,
+      "end": 17.74
+    },
+    {
+      "word": "number",
+      "start": 17.74,
+      "end": 18.2
+    },
+    {
+      "word": "5",
+      "start": 18.2,
+      "end": 18.76
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}

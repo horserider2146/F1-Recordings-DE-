@@ -1,0 +1,65 @@
+{
+  "clip_id": "clip_0051",
+  "text": "So, Abit, we can do pushtoggle.16, what do you think?",
+  "words": [
+    {
+      "word": "So,",
+      "start": 0.0,
+      "end": 0.22
+    },
+    {
+      "word": "Abit,",
+      "start": 0.38,
+      "end": 0.68
+    },
+    {
+      "word": "we",
+      "start": 1.16,
+      "end": 1.36
+    },
+    {
+      "word": "can",
+      "start": 1.36,
+      "end": 1.62
+    },
+    {
+      "word": "do",
+      "start": 1.62,
+      "end": 1.86
+    },
+    {
+      "word": "pushtoggle",
+      "start": 1.86,
+      "end": 2.66
+    },
+    {
+      "word": ".16,",
+      "start": 2.66,
+      "end": 3.22
+    },
+    {
+      "word": "what",
+      "start": 3.5,
+      "end": 3.7
+    },
+    {
+      "word": "do",
+      "start": 3.7,
+      "end": 3.84
+    },
+    {
+      "word": "you",
+      "start": 3.84,
+      "end": 3.9
+    },
+    {
+      "word": "think?",
+      "start": 3.9,
+      "end": 4.04
+    }
+  ],
+  "language": "en",
+  "word_count": 10,
+  "is_empty": false,
+  "is_very_short": false
+}

@@ -1,0 +1,80 @@
+{
+  "clip_id": "clip_0348",
+  "text": "looks okay now. It's not. To check boosts, we've got massive engine braking here.",
+  "words": [
+    {
+      "word": "looks",
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "word": "okay",
+      "start": 0.3,
+      "end": 0.66
+    },
+    {
+      "word": "now.",
+      "start": 0.66,
+      "end": 0.92
+    },
+    {
+      "word": "It's",
+      "start": 1.56,
+      "end": 1.74
+    },
+    {
+      "word": "not.",
+      "start": 1.74,
+      "end": 1.98
+    },
+    {
+      "word": "To",
+      "start": 3.02,
+      "end": 3.52
+    },
+    {
+      "word": "check",
+      "start": 3.52,
+      "end": 3.78
+    },
+    {
+      "word": "boosts,",
+      "start": 3.78,
+      "end": 4.5
+    },
+    {
+      "word": "we've",
+      "start": 4.5,
+      "end": 4.62
+    },
+    {
+      "word": "got",
+      "start": 4.62,
+      "end": 4.7
+    },
+    {
+      "word": "massive",
+      "start": 4.7,
+      "end": 5.02
+    },
+    {
+      "word": "engine",
+      "start": 5.02,
+      "end": 5.34
+    },
+    {
+      "word": "braking",
+      "start": 5.34,
+      "end": 5.66
+    },
+    {
+      "word": "here.",
+      "start": 5.66,
+      "end": 6.04
+    }
+  ],
+  "language": "en",
+  "word_count": 14,
+  "is_empty": false,
+  "is_very_short": false
+}

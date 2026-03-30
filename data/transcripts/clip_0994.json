@@ -1,0 +1,115 @@
+{
+  "clip_id": "clip_0994",
+  "text": "have to move up to seventh. Oh, sorry, that's this. That's contact in turn three. I'm gonna just check on it.",
+  "words": [
+    {
+      "word": "have",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "to",
+      "start": 0.1,
+      "end": 0.22
+    },
+    {
+      "word": "move",
+      "start": 0.22,
+      "end": 0.34
+    },
+    {
+      "word": "up",
+      "start": 0.34,
+      "end": 0.58
+    },
+    {
+      "word": "to",
+      "start": 0.58,
+      "end": 0.72
+    },
+    {
+      "word": "seventh.",
+      "start": 0.72,
+      "end": 1.2
+    },
+    {
+      "word": "Oh,",
+      "start": 9.82,
+      "end": 10.22
+    },
+    {
+      "word": "sorry,",
+      "start": 10.3,
+      "end": 10.58
+    },
+    {
+      "word": "that's",
+      "start": 10.78,
+      "end": 10.98
+    },
+    {
+      "word": "this.",
+      "start": 10.98,
+      "end": 11.18
+    },
+    {
+      "word": "That's",
+      "start": 16.6,
+      "end": 17.0
+    },
+    {
+      "word": "contact",
+      "start": 17.0,
+      "end": 17.32
+    },
+    {
+      "word": "in",
+      "start": 17.32,
+      "end": 17.6
+    },
+    {
+      "word": "turn",
+      "start": 17.6,
+      "end": 17.8
+    },
+    {
+      "word": "three.",
+      "start": 17.8,
+      "end": 18.2
+    },
+    {
+      "word": "I'm",
+      "start": 18.68,
+      "end": 18.98
+    },
+    {
+      "word": "gonna",
+      "start": 18.98,
+      "end": 19.04
+    },
+    {
+      "word": "just",
+      "start": 19.04,
+      "end": 19.26
+    },
+    {
+      "word": "check",
+      "start": 19.26,
+      "end": 19.46
+    },
+    {
+      "word": "on",
+      "start": 19.46,
+      "end": 19.64
+    },
+    {
+      "word": "it.",
+      "start": 19.64,
+      "end": 19.76
+    }
+  ],
+  "language": "en",
+  "word_count": 21,
+  "is_empty": false,
+  "is_very_short": false
+}

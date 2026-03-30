@@ -1,0 +1,50 @@
+{
+  "clip_id": "clip_0367",
+  "text": "up to get anything. Long race to go.",
+  "words": [
+    {
+      "word": "up",
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "word": "to",
+      "start": 0.1,
+      "end": 0.22
+    },
+    {
+      "word": "get",
+      "start": 0.22,
+      "end": 0.34
+    },
+    {
+      "word": "anything.",
+      "start": 0.34,
+      "end": 0.64
+    },
+    {
+      "word": "Long",
+      "start": 3.16,
+      "end": 3.52
+    },
+    {
+      "word": "race",
+      "start": 3.52,
+      "end": 3.72
+    },
+    {
+      "word": "to",
+      "start": 3.72,
+      "end": 3.88
+    },
+    {
+      "word": "go.",
+      "start": 3.88,
+      "end": 4.0
+    }
+  ],
+  "language": "en",
+  "word_count": 8,
+  "is_empty": false,
+  "is_very_short": false
+}

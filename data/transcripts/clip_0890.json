@@ -1,0 +1,125 @@
+{
+  "clip_id": "clip_0890",
+  "text": "So there's a chance, subject to how late we leave it, that we will have cars coming as pushing for the first time.",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "word": "there's",
+      "start": 0.54,
+      "end": 1.18
+    },
+    {
+      "word": "a",
+      "start": 1.18,
+      "end": 1.26
+    },
+    {
+      "word": "chance,",
+      "start": 1.26,
+      "end": 1.48
+    },
+    {
+      "word": "subject",
+      "start": 1.64,
+      "end": 1.88
+    },
+    {
+      "word": "to",
+      "start": 1.88,
+      "end": 2.02
+    },
+    {
+      "word": "how",
+      "start": 2.02,
+      "end": 2.12
+    },
+    {
+      "word": "late",
+      "start": 2.12,
+      "end": 2.26
+    },
+    {
+      "word": "we",
+      "start": 2.26,
+      "end": 2.42
+    },
+    {
+      "word": "leave",
+      "start": 2.42,
+      "end": 2.64
+    },
+    {
+      "word": "it,",
+      "start": 2.64,
+      "end": 2.8
+    },
+    {
+      "word": "that",
+      "start": 2.86,
+      "end": 2.94
+    },
+    {
+      "word": "we",
+      "start": 2.94,
+      "end": 3.06
+    },
+    {
+      "word": "will",
+      "start": 3.06,
+      "end": 3.22
+    },
+    {
+      "word": "have",
+      "start": 3.22,
+      "end": 3.38
+    },
+    {
+      "word": "cars",
+      "start": 3.38,
+      "end": 3.58
+    },
+    {
+      "word": "coming",
+      "start": 3.58,
+      "end": 3.82
+    },
+    {
+      "word": "as",
+      "start": 3.82,
+      "end": 4.34
+    },
+    {
+      "word": "pushing",
+      "start": 4.34,
+      "end": 4.78
+    },
+    {
+      "word": "for",
+      "start": 4.78,
+      "end": 5.24
+    },
+    {
+      "word": "the",
+      "start": 5.24,
+      "end": 5.32
+    },
+    {
+      "word": "first",
+      "start": 5.32,
+      "end": 5.48
+    },
+    {
+      "word": "time.",
+      "start": 5.48,
+      "end": 5.7
+    }
+  ],
+  "language": "en",
+  "word_count": 23,
+  "is_empty": false,
+  "is_very_short": false
+}

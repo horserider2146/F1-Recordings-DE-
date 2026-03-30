@@ -1,0 +1,350 @@
+{
+  "clip_id": "clip_0975",
+  "text": "still closing up that gap 2.5 now keep it up think about top right modify the turn nine think about top right turn nine another 1.2 seconds we'll be within the FIA overtake to the stop and keep it up keep going if there was a safety car up here we'd come out just in front of Lawson Hager we can very close to the trimpo",
+  "words": [
+    {
+      "word": "still",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "word": "closing",
+      "start": 0.16,
+      "end": 0.44
+    },
+    {
+      "word": "up",
+      "start": 0.44,
+      "end": 0.58
+    },
+    {
+      "word": "that",
+      "start": 0.58,
+      "end": 0.7
+    },
+    {
+      "word": "gap",
+      "start": 0.7,
+      "end": 0.88
+    },
+    {
+      "word": "2",
+      "start": 0.88,
+      "end": 1.16
+    },
+    {
+      "word": ".5",
+      "start": 1.16,
+      "end": 1.7
+    },
+    {
+      "word": "now",
+      "start": 1.7,
+      "end": 1.96
+    },
+    {
+      "word": "keep",
+      "start": 1.96,
+      "end": 2.2
+    },
+    {
+      "word": "it",
+      "start": 2.2,
+      "end": 2.34
+    },
+    {
+      "word": "up",
+      "start": 2.34,
+      "end": 2.46
+    },
+    {
+      "word": "think",
+      "start": 2.46,
+      "end": 3.46
+    },
+    {
+      "word": "about",
+      "start": 3.46,
+      "end": 3.68
+    },
+    {
+      "word": "top",
+      "start": 3.68,
+      "end": 4.02
+    },
+    {
+      "word": "right",
+      "start": 4.02,
+      "end": 4.5
+    },
+    {
+      "word": "modify",
+      "start": 4.5,
+      "end": 4.88
+    },
+    {
+      "word": "the",
+      "start": 4.88,
+      "end": 5.16
+    },
+    {
+      "word": "turn",
+      "start": 5.16,
+      "end": 5.38
+    },
+    {
+      "word": "nine",
+      "start": 5.38,
+      "end": 5.64
+    },
+    {
+      "word": "think",
+      "start": 5.64,
+      "end": 5.8
+    },
+    {
+      "word": "about",
+      "start": 5.8,
+      "end": 5.98
+    },
+    {
+      "word": "top",
+      "start": 5.98,
+      "end": 6.18
+    },
+    {
+      "word": "right",
+      "start": 6.18,
+      "end": 6.42
+    },
+    {
+      "word": "turn",
+      "start": 6.42,
+      "end": 6.8
+    },
+    {
+      "word": "nine",
+      "start": 6.8,
+      "end": 7.14
+    },
+    {
+      "word": "another",
+      "start": 8.1,
+      "end": 8.54
+    },
+    {
+      "word": "1",
+      "start": 8.54,
+      "end": 8.82
+    },
+    {
+      "word": ".2",
+      "start": 8.82,
+      "end": 9.34
+    },
+    {
+      "word": "seconds",
+      "start": 9.34,
+      "end": 9.74
+    },
+    {
+      "word": "we'll",
+      "start": 9.74,
+      "end": 10.2
+    },
+    {
+      "word": "be",
+      "start": 10.2,
+      "end": 10.44
+    },
+    {
+      "word": "within",
+      "start": 10.44,
+      "end": 10.92
+    },
+    {
+      "word": "the",
+      "start": 10.92,
+      "end": 11.06
+    },
+    {
+      "word": "FIA",
+      "start": 11.06,
+      "end": 11.4
+    },
+    {
+      "word": "overtake",
+      "start": 11.4,
+      "end": 11.96
+    },
+    {
+      "word": "to",
+      "start": 11.96,
+      "end": 12.08
+    },
+    {
+      "word": "the",
+      "start": 12.08,
+      "end": 12.22
+    },
+    {
+      "word": "stop",
+      "start": 12.22,
+      "end": 12.38
+    },
+    {
+      "word": "and",
+      "start": 12.38,
+      "end": 12.54
+    },
+    {
+      "word": "keep",
+      "start": 12.54,
+      "end": 12.84
+    },
+    {
+      "word": "it",
+      "start": 12.84,
+      "end": 12.96
+    },
+    {
+      "word": "up",
+      "start": 12.96,
+      "end": 13.06
+    },
+    {
+      "word": "keep",
+      "start": 13.06,
+      "end": 13.24
+    },
+    {
+      "word": "going",
+      "start": 13.24,
+      "end": 13.44
+    },
+    {
+      "word": "if",
+      "start": 13.44,
+      "end": 14.42
+    },
+    {
+      "word": "there",
+      "start": 14.42,
+      "end": 14.6
+    },
+    {
+      "word": "was",
+      "start": 14.6,
+      "end": 14.76
+    },
+    {
+      "word": "a",
+      "start": 14.76,
+      "end": 14.88
+    },
+    {
+      "word": "safety",
+      "start": 14.88,
+      "end": 15.14
+    },
+    {
+      "word": "car",
+      "start": 15.14,
+      "end": 15.44
+    },
+    {
+      "word": "up",
+      "start": 15.44,
+      "end": 15.58
+    },
+    {
+      "word": "here",
+      "start": 15.58,
+      "end": 15.74
+    },
+    {
+      "word": "we'd",
+      "start": 15.74,
+      "end": 16.22
+    },
+    {
+      "word": "come",
+      "start": 16.22,
+      "end": 16.38
+    },
+    {
+      "word": "out",
+      "start": 16.38,
+      "end": 16.56
+    },
+    {
+      "word": "just",
+      "start": 16.56,
+      "end": 16.94
+    },
+    {
+      "word": "in",
+      "start": 16.94,
+      "end": 17.16
+    },
+    {
+      "word": "front",
+      "start": 17.16,
+      "end": 17.38
+    },
+    {
+      "word": "of",
+      "start": 17.38,
+      "end": 17.54
+    },
+    {
+      "word": "Lawson",
+      "start": 17.54,
+      "end": 17.88
+    },
+    {
+      "word": "Hager",
+      "start": 17.88,
+      "end": 18.2
+    },
+    {
+      "word": "we",
+      "start": 18.2,
+      "end": 18.38
+    },
+    {
+      "word": "can",
+      "start": 18.38,
+      "end": 18.52
+    },
+    {
+      "word": "very",
+      "start": 18.52,
+      "end": 18.72
+    },
+    {
+      "word": "close",
+      "start": 18.72,
+      "end": 19.02
+    },
+    {
+      "word": "to",
+      "start": 19.02,
+      "end": 19.12
+    },
+    {
+      "word": "the",
+      "start": 19.12,
+      "end": 19.18
+    },
+    {
+      "word": "trimpo",
+      "start": 19.18,
+      "end": 19.56
+    }
+  ],
+  "language": "en",
+  "word_count": 66,
+  "is_empty": false,
+  "is_very_short": false
+}

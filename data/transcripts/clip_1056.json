@@ -1,0 +1,260 @@
+{
+  "clip_id": "clip_1056",
+  "text": "So we're trying to change stride, it's gone wrong, so we're at the moment I see set. And they are clear on exit. Are we okay on the stride? We've seen 13, but on the feeling it says 6. We are good on the strides. Just think about your values.",
+  "words": [
+    {
+      "word": "So",
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "word": "we're",
+      "start": 0.12,
+      "end": 0.26
+    },
+    {
+      "word": "trying",
+      "start": 0.26,
+      "end": 0.38
+    },
+    {
+      "word": "to",
+      "start": 0.38,
+      "end": 0.44
+    },
+    {
+      "word": "change",
+      "start": 0.44,
+      "end": 0.68
+    },
+    {
+      "word": "stride,",
+      "start": 0.68,
+      "end": 1.08
+    },
+    {
+      "word": "it's",
+      "start": 1.12,
+      "end": 1.24
+    },
+    {
+      "word": "gone",
+      "start": 1.24,
+      "end": 1.38
+    },
+    {
+      "word": "wrong,",
+      "start": 1.38,
+      "end": 1.68
+    },
+    {
+      "word": "so",
+      "start": 1.82,
+      "end": 1.94
+    },
+    {
+      "word": "we're",
+      "start": 1.94,
+      "end": 2.14
+    },
+    {
+      "word": "at",
+      "start": 2.14,
+      "end": 2.66
+    },
+    {
+      "word": "the",
+      "start": 2.66,
+      "end": 2.76
+    },
+    {
+      "word": "moment",
+      "start": 2.76,
+      "end": 2.86
+    },
+    {
+      "word": "I",
+      "start": 2.86,
+      "end": 3.08
+    },
+    {
+      "word": "see",
+      "start": 3.08,
+      "end": 3.26
+    },
+    {
+      "word": "set.",
+      "start": 3.26,
+      "end": 3.6
+    },
+    {
+      "word": "And",
+      "start": 5.84,
+      "end": 6.24
+    },
+    {
+      "word": "they",
+      "start": 6.24,
+      "end": 6.34
+    },
+    {
+      "word": "are",
+      "start": 6.34,
+      "end": 6.44
+    },
+    {
+      "word": "clear",
+      "start": 6.44,
+      "end": 6.64
+    },
+    {
+      "word": "on",
+      "start": 6.64,
+      "end": 6.84
+    },
+    {
+      "word": "exit.",
+      "start": 6.84,
+      "end": 7.1
+    },
+    {
+      "word": "Are",
+      "start": 8.66,
+      "end": 9.06
+    },
+    {
+      "word": "we",
+      "start": 9.06,
+      "end": 9.22
+    },
+    {
+      "word": "okay",
+      "start": 9.22,
+      "end": 9.42
+    },
+    {
+      "word": "on",
+      "start": 9.42,
+      "end": 9.56
+    },
+    {
+      "word": "the",
+      "start": 9.56,
+      "end": 9.64
+    },
+    {
+      "word": "stride?",
+      "start": 9.64,
+      "end": 9.86
+    },
+    {
+      "word": "We've",
+      "start": 11.94,
+      "end": 12.18
+    },
+    {
+      "word": "seen",
+      "start": 12.18,
+      "end": 12.32
+    },
+    {
+      "word": "13,",
+      "start": 12.32,
+      "end": 12.6
+    },
+    {
+      "word": "but",
+      "start": 12.82,
+      "end": 12.96
+    },
+    {
+      "word": "on",
+      "start": 12.96,
+      "end": 13.14
+    },
+    {
+      "word": "the",
+      "start": 13.14,
+      "end": 13.24
+    },
+    {
+      "word": "feeling",
+      "start": 13.24,
+      "end": 13.46
+    },
+    {
+      "word": "it",
+      "start": 13.46,
+      "end": 13.66
+    },
+    {
+      "word": "says",
+      "start": 13.66,
+      "end": 13.92
+    },
+    {
+      "word": "6.",
+      "start": 13.92,
+      "end": 14.24
+    },
+    {
+      "word": "We",
+      "start": 14.86,
+      "end": 15.26
+    },
+    {
+      "word": "are",
+      "start": 15.26,
+      "end": 15.38
+    },
+    {
+      "word": "good",
+      "start": 15.38,
+      "end": 15.56
+    },
+    {
+      "word": "on",
+      "start": 15.56,
+      "end": 15.7
+    },
+    {
+      "word": "the",
+      "start": 15.7,
+      "end": 15.78
+    },
+    {
+      "word": "strides.",
+      "start": 15.78,
+      "end": 16.1
+    },
+    {
+      "word": "Just",
+      "start": 17.12,
+      "end": 17.36
+    },
+    {
+      "word": "think",
+      "start": 17.36,
+      "end": 17.68
+    },
+    {
+      "word": "about",
+      "start": 17.68,
+      "end": 17.96
+    },
+    {
+      "word": "your",
+      "start": 17.96,
+      "end": 18.32
+    },
+    {
+      "word": "values.",
+      "start": 18.32,
+      "end": 19.04
+    }
+  ],
+  "language": "en",
+  "word_count": 50,
+  "is_empty": false,
+  "is_very_short": false
+}

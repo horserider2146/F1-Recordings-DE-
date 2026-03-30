@@ -1,0 +1,190 @@
+{
+  "clip_id": "clip_1059",
+  "text": "Yeah, I got no deployment. Mode slow. Let's check a flag for us. Yeah, I got no deployment at all. Copy that, Sergio. Yeah, it was a half run. At the moment we are P22. And...",
+  "words": [
+    {
+      "word": "Yeah,",
+      "start": 1.02,
+      "end": 1.46
+    },
+    {
+      "word": "I",
+      "start": 1.54,
+      "end": 1.62
+    },
+    {
+      "word": "got",
+      "start": 1.62,
+      "end": 1.7
+    },
+    {
+      "word": "no",
+      "start": 1.7,
+      "end": 1.88
+    },
+    {
+      "word": "deployment.",
+      "start": 1.88,
+      "end": 2.26
+    },
+    {
+      "word": "Mode",
+      "start": 4.26,
+      "end": 4.7
+    },
+    {
+      "word": "slow.",
+      "start": 4.7,
+      "end": 5.08
+    },
+    {
+      "word": "Let's",
+      "start": 5.84,
+      "end": 6.16
+    },
+    {
+      "word": "check",
+      "start": 6.16,
+      "end": 6.34
+    },
+    {
+      "word": "a",
+      "start": 6.34,
+      "end": 6.48
+    },
+    {
+      "word": "flag",
+      "start": 6.48,
+      "end": 6.68
+    },
+    {
+      "word": "for",
+      "start": 6.68,
+      "end": 6.9
+    },
+    {
+      "word": "us.",
+      "start": 6.9,
+      "end": 7.12
+    },
+    {
+      "word": "Yeah,",
+      "start": 8.56,
+      "end": 8.96
+    },
+    {
+      "word": "I",
+      "start": 9.08,
+      "end": 9.18
+    },
+    {
+      "word": "got",
+      "start": 9.18,
+      "end": 9.3
+    },
+    {
+      "word": "no",
+      "start": 9.3,
+      "end": 9.46
+    },
+    {
+      "word": "deployment",
+      "start": 9.46,
+      "end": 9.84
+    },
+    {
+      "word": "at",
+      "start": 9.84,
+      "end": 10.12
+    },
+    {
+      "word": "all.",
+      "start": 10.12,
+      "end": 10.3
+    },
+    {
+      "word": "Copy",
+      "start": 11.28,
+      "end": 11.72
+    },
+    {
+      "word": "that,",
+      "start": 11.72,
+      "end": 12.02
+    },
+    {
+      "word": "Sergio.",
+      "start": 12.56,
+      "end": 12.66
+    },
+    {
+      "word": "Yeah,",
+      "start": 12.94,
+      "end": 13.0
+    },
+    {
+      "word": "it",
+      "start": 13.04,
+      "end": 13.08
+    },
+    {
+      "word": "was",
+      "start": 13.08,
+      "end": 13.24
+    },
+    {
+      "word": "a",
+      "start": 13.24,
+      "end": 13.38
+    },
+    {
+      "word": "half",
+      "start": 13.38,
+      "end": 13.78
+    },
+    {
+      "word": "run.",
+      "start": 13.78,
+      "end": 13.96
+    },
+    {
+      "word": "At",
+      "start": 14.9,
+      "end": 15.34
+    },
+    {
+      "word": "the",
+      "start": 15.34,
+      "end": 15.4
+    },
+    {
+      "word": "moment",
+      "start": 15.4,
+      "end": 15.58
+    },
+    {
+      "word": "we",
+      "start": 15.58,
+      "end": 15.78
+    },
+    {
+      "word": "are",
+      "start": 15.78,
+      "end": 15.88
+    },
+    {
+      "word": "P22.",
+      "start": 15.88,
+      "end": 16.54
+    },
+    {
+      "word": "And...",
+      "start": 19.54,
+      "end": 19.98
+    }
+  ],
+  "language": "en",
+  "word_count": 36,
+  "is_empty": false,
+  "is_very_short": false
+}
