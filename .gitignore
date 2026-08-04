@@ -5,3 +5,8 @@ data/raw_video/
 data/raw_audio/
 data/clips/
 data/cleaned/
+data/transcripts/
+models/*.pt
+models/*.pkl
+models/*.txt
+models/*.png
