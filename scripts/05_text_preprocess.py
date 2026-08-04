@@ -53,7 +53,7 @@ def ensure_nltk_data():
             nltk.download(pkg, quiet=True)
 
 
-# ── Cleaning helpers ──────────────────────────────────────────────────────────
+# -- Cleaning helpers ----------------------------------------------------------
 
 # ASR artefacts: hesitation tokens, repeated punctuation, etc.
 _ASR_ARTEFACTS = re.compile(
@@ -113,7 +113,7 @@ def avg_word_length(tokens: list[str]) -> float:
     return sum(len(t) for t in alpha) / len(alpha)
 
 
-# ── Per-transcript processing ─────────────────────────────────────────────────
+# -- Per-transcript processing -------------------------------------------------
 
 def process_transcript(json_path: Path, stop_set: set, lemmatizer: WordNetLemmatizer) -> dict:
     """Load a transcript JSON and return an enriched dict."""
@@ -201,9 +201,9 @@ def main():
             row = process_transcript(jp, stop_set, lemmatizer)
             rows.append(row)
             marker = "[EMPTY]" if row["is_empty"] else f"{row['word_count']}w"
-            print(f"✓  {marker}  \"{row['clean_text'][:55]}{'…' if len(row['clean_text']) > 55 else ''}\"")
+            print(f"OK  {marker}  \"{row['clean_text'][:55]}{'…' if len(row['clean_text']) > 55 else ''}\"")
         except Exception as e:
-            print(f"✗  ERROR: {e}")
+            print(f"ERR  ERROR: {e}")
 
     if rows:
         new_df = pd.DataFrame(rows)
@@ -214,7 +214,7 @@ def main():
             combined = new_df
         combined.to_csv(out_csv, index=False)
 
-        print(f"\n{'─'*50}")
+        print(f"\n{'-'*50}")
         print(f"Text preprocessing complete.")
         print(f"  Processed   : {len(rows)}")
         empty = sum(1 for r in rows if r["is_empty"])

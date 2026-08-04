@@ -7,9 +7,9 @@ clip_0099,empty_transcript,"4, 5, 4, 4, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5, 6, 5
 clip_0102,too_short: 2 words,98 it's ok
 clip_0122,too_short: 3 words,take a peek
 clip_0159,"repeated_words: 'oh, oh' x224","oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, "
-clip_0163,"repeated_words: 'go go,' x334","go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, "
+clip_0163,"repeated_words: 'go, go' x334","go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, "
 clip_0166,too_short: 2 words,for low-throttle pressure.
-clip_0213,"repeated_words: 'no no,' x112","no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, "
+clip_0213,"repeated_words: 'no, no' x112","no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, "
 clip_0220,too_short: 2 words,thank you.
 clip_0251,repeated_words: 'bye.' x4,bye. bye. bye. bye.
 clip_0313,repeated_words: 'the' x5,the the the the the
@@ -39,8 +39,17 @@ clip_0969,filler_only: 'the',the
 clip_1004,youtube_noise: 'thank you for watching!',thank you for watching!
 clip_1014,filler_only: 'and',and
 clip_1023,filler_only: 'is',is
-clip_1027,repeated_words: 'i'm sorry.' x6,i'm sorry. i'm sorry. i'm sorry.
+clip_1027,repeated_words: 'sorry. i'm' x6,i'm sorry. i'm sorry. i'm sorry.
 clip_1054,too_short: 1 words,promise
 clip_1062,empty_transcript,
 clip_1064,empty_transcript,lin-bland-oconen-kolatintosunhar.
 clip_1065,too_short: 3 words,"you can select k2, k21."
+clip_1219,empty_transcript,
+clip_1225,too_short: 3 words,rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+clip_1303,too_short: 1 words,impressive!
+clip_1304,too_short: 3 words,it's the pump.
+clip_1329,too_short: 3 words,possible. mr. fibre okay?
+clip_1330,youtube_noise: 'music',music
+clip_1331,too_short: 1 words,what?
+clip_1332,filler_only: 'i',i
+clip_1357,filler_only: 'oh',oh

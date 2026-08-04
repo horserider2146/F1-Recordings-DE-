@@ -1,0 +1,17 @@
+{
+  "by_label": {
+    "Calm": 0.4631,
+    "Frustrated": 5.0,
+    "High Stress": 1.5607
+  },
+  "by_id": {
+    "0": 0.4631,
+    "1": 5.0,
+    "2": 1.5607
+  },
+  "label_order": [
+    "Calm",
+    "Frustrated",
+    "High Stress"
+  ]
+}

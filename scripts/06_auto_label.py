@@ -2,7 +2,7 @@
 06_auto_label.py — Automated emotion pre-labelling combining acoustic + text signals.
 
 Target categories (Section 6.1.3):
-  Calm | Frustrated | High Stress | Urgent
+  Calm | Frustrated | High Stress
 
 Strategy:
   Text channel  — HuggingFace emotion classifier (j-hartmann/emotion-english-distilroberta-base)
@@ -50,7 +50,7 @@ _HARTMANN_TO_PROJECT = {
     "disgust":  "Frustrated",
     "fear":     "High Stress",
     "sadness":  "High Stress",
-    "surprise": "Urgent",        # will be refined by acoustic energy
+    "surprise": "High Stress",
     "joy":      "Calm",
     "neutral":  "Calm",
 }
@@ -98,7 +98,7 @@ def text_label(clf, text: str, clean_text: str) -> tuple[str, float]:
         if clf is not None:
             pass  # let model boost confidence below
         else:
-            return "Urgent", base_conf
+            return "High Stress", base_conf
 
     if frustration_score >= 2:
         base_conf = min(0.5 + 0.10 * frustration_score, 0.90)
@@ -119,7 +119,7 @@ def text_label(clf, text: str, clean_text: str) -> tuple[str, float]:
 
             # Keyword overrides can bump the label
             if urgency_score >= 1 and top_score < 0.70:
-                project_label = "Urgent"
+                project_label = "High Stress"
                 top_score = max(top_score, base_conf if frustration_score == 0 else 0.65)
             elif frustration_score >= 2 and project_label == "Calm":
                 project_label = "Frustrated"
@@ -131,7 +131,7 @@ def text_label(clf, text: str, clean_text: str) -> tuple[str, float]:
 
     # ── Pure keyword fallback ──────────────────────────────────────────────
     if urgency_score >= 1:
-        return "Urgent", min(0.5 + 0.15 * urgency_score, 0.85)
+        return "High Stress", min(0.5 + 0.15 * urgency_score, 0.85)
     if frustration_score >= 1:
         return "Frustrated", min(0.45 + 0.12 * frustration_score, 0.80)
     return "Calm", 0.55
@@ -197,11 +197,10 @@ def acoustic_label(clip_path: Path) -> tuple[str, float, dict]:
     high_range   = pitch_range > 150.0
     high_zcr     = mean_zcr    > 0.15     # lots of high-freq content / fast speech
 
-    # Urgent: high energy + high pitch + fast rate
+    # High Stress: high energy + high pitch (covers former Urgent) or pitch range
     if high_energy and high_pitch and high_zcr:
-        return "Urgent", 0.75, features
+        return "High Stress", 0.75, features
 
-    # High Stress: high energy + high pitch range (strained voice) but not ultra-fast
     if high_energy and high_range:
         return "High Stress", 0.70, features
 
@@ -215,7 +214,7 @@ def acoustic_label(clip_path: Path) -> tuple[str, float, dict]:
 
 # ── Fusion ────────────────────────────────────────────────────────────────────
 
-_LABEL_INDEX = {"Calm": 0, "Frustrated": 1, "High Stress": 2, "Urgent": 3}
+_LABEL_INDEX = {"Calm": 0, "Frustrated": 1, "High Stress": 2}
 _INDEX_LABEL = {v: k for k, v in _LABEL_INDEX.items()}
 
 
@@ -302,7 +301,7 @@ def main():
         flagged = final_conf < LABEL_CONFIDENCE_MIN
 
         print(f"text={t_label}({t_conf:.2f})  acou={a_label}({a_conf:.2f})  "
-              f"→ {final_label}({final_conf:.2f})"
+              f"-> {final_label}({final_conf:.2f})"
               + ("  [REVIEW]" if flagged else ""))
 
         rows.append({
@@ -326,7 +325,7 @@ def main():
             combined = new_df
         combined.to_csv(labels_csv, index=False)
 
-        print(f"\n{'─'*50}")
+        print(f"\n{'-'*50}")
         print(f"Auto-labelling complete.")
         print(f"  Labelled this run : {len(rows)}")
 

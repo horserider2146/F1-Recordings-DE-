@@ -39,7 +39,7 @@ VAD_HOP_LENGTH    = 512   # hop between frames
 VAD_ENERGY_THRESH = 0.05  # fraction of max RMS — below = silence (raised for F1 radio)
 VAD_GAP_TOLERANCE = 0.8   # seconds — gaps shorter than this are bridged
 VAD_MIN_DURATION  = 2.0   # seconds — discard clips shorter than this
-VAD_MAX_DURATION  = 20.0  # seconds — discard clips longer than this
+VAD_MAX_DURATION  = 35.0  # seconds — discard clips longer than this
 
 # ── Audio preprocessing ────────────────────────────────────────────────────────
 BANDPASS_LOW_HZ   = 80    # Hz

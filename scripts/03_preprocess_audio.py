@@ -33,7 +33,7 @@ from config import (
 )
 
 
-# ── Stage 1: Spectral Subtraction ─────────────────────────────────────────────
+# -- Stage 1: Spectral Subtraction ---------------------------------------------
 
 def spectral_subtraction(audio: np.ndarray, sr: int) -> np.ndarray:
     """
@@ -57,7 +57,7 @@ def spectral_subtraction(audio: np.ndarray, sr: int) -> np.ndarray:
     return reduced.astype(np.float32)
 
 
-# ── Stage 2: Bandpass Filter ──────────────────────────────────────────────────
+# -- Stage 2: Bandpass Filter --------------------------------------------------
 
 def bandpass_filter(audio: np.ndarray, sr: int) -> np.ndarray:
     """
@@ -77,7 +77,7 @@ def bandpass_filter(audio: np.ndarray, sr: int) -> np.ndarray:
     return filtered.astype(np.float32)
 
 
-# ── Stage 3: VAD Trim ─────────────────────────────────────────────────────────
+# -- Stage 3: VAD Trim ---------------------------------------------------------
 
 def vad_trim(audio: np.ndarray, sr: int) -> np.ndarray:
     """
@@ -90,7 +90,7 @@ def vad_trim(audio: np.ndarray, sr: int) -> np.ndarray:
     return trimmed
 
 
-# ── Stage 4: Amplitude Normalisation ─────────────────────────────────────────
+# -- Stage 4: Amplitude Normalisation -----------------------------------------
 
 def normalise_amplitude(audio: np.ndarray) -> np.ndarray:
     """
@@ -113,7 +113,7 @@ def normalise_amplitude(audio: np.ndarray) -> np.ndarray:
     return normalised.astype(np.float32)
 
 
-# ── Pipeline ──────────────────────────────────────────────────────────────────
+# -- Pipeline ------------------------------------------------------------------
 
 def preprocess_clip(clip_path: Path, output_path: Path) -> dict:
     """
@@ -185,9 +185,9 @@ def main():
         try:
             info = preprocess_clip(clip_path, out_path)
             results.append(info)
-            print(f"✓  {info['output_duration']:.1f}s")
+            print(f"OK  {info['output_duration']:.1f}s")
         except Exception as e:
-            print(f"✗  ERROR: {e}")
+            print(f"ERR  ERROR: {e}")
             results.append({
                 "clip_id":         clip_path.stem,
                 "input_rms":       None,
@@ -196,7 +196,7 @@ def main():
                 "status":          f"error: {e}",
             })
 
-    print(f"\n{'─'*50}")
+    print(f"\n{'-'*50}")
     print(f"Preprocessing complete.")
     print(f"  Processed : {len(results)}")
     print(f"  Skipped   : {skipped} (already exist — use --overwrite to redo)")

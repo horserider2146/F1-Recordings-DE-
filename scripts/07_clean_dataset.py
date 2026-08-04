@@ -40,7 +40,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from config import ANNOTATIONS_DIR, CLIPS_DIR, CLEANED_DIR, TRANSCRIPTS_DIR
 
 
-# ── Cleaning rules ───────────────────────────────────────────────────────────
+# -- Cleaning rules -----------------------------------------------------------
 
 MIN_WORDS = 4  # clips with fewer words are removed
 
@@ -125,7 +125,7 @@ def classify_garbage(clip_id: str, raw_text: str, clean_text: str, word_count: i
     return None
 
 
-# ── Main ─────────────────────────────────────────────────────────────────────
+# -- Main ---------------------------------------------------------------------
 
 def main():
     parser = argparse.ArgumentParser(description="Clean garbage clips from the dataset.")
@@ -164,7 +164,7 @@ def main():
 
     # Report
     print(f"Dataset cleaning analysis")
-    print(f"{'─' * 50}")
+    print(f"{'-' * 50}")
     print(f"  Total clips     : {len(text_df)}")
     print(f"  Garbage clips   : {len(garbage)}")
     print(f"  Clean clips     : {len(keep)}")
@@ -196,7 +196,7 @@ def main():
         print(f"  Report saved to: {report_path}")
         return
 
-    # ── Apply cleaning ────────────────────────────────────────────────────
+    # -- Apply cleaning ----------------------------------------------------
     garbage_ids = {g["clip_id"] for g in garbage}
 
     # Clean text CSV

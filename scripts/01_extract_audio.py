@@ -45,6 +45,7 @@ def download_youtube(url: str, out_dir: Path) -> Path:
     cmd = [
         sys.executable, "-m", "yt_dlp",
         "--no-playlist",
+        "--no-check-certificates",
         "--output", str(out_dir / "%(title)s.%(ext)s"),
         "--format", "bestaudio/best",
         url,
@@ -94,7 +95,8 @@ def process_video_file(video_path: Path) -> bool:
         print(f"  [SKIP] Already extracted: {output_wav.name}")
         return True
 
-    print(f"  Extracting: {video_path.name} → {output_wav.name}")
+    safe_title = video_path.name.encode('ascii', errors='replace').decode('ascii')
+    print(f"  Extracting: {safe_title} -> {output_wav.name}")
     success = extract_audio_ffmpeg(video_path, output_wav)
     if success:
         # Quick validation: ensure file is readable and has content

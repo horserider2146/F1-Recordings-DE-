@@ -203,7 +203,7 @@ def main():
 
     combined.to_csv(manifest_path, index=False)
 
-    print(f"\n{'─'*50}")
+    print(f"\n{'-'*50}")
     print(f"Segmentation complete.")
     print(f"  New clips this run : {len(all_rows)}")
     print(f"  Total clips        : {len(combined)}")

@@ -134,7 +134,7 @@ def main():
 
             flag = "[EMPTY]" if result["is_empty"] else ""
             preview = result["text"][:60] + ("…" if len(result["text"]) > 60 else "")
-            print(f"✓  {flag}  \"{preview}\"")
+            print(f"OK  {flag}  \"{preview}\"")
 
             log_rows.append({
                 "clip_id":       result["clip_id"],
@@ -146,7 +146,7 @@ def main():
             })
 
         except Exception as e:
-            print(f"✗  ERROR: {e}")
+            print(f"ERR  ERROR: {e}")
             errors.append({"clip_id": clip_path.stem, "error": str(e)})
 
     if log_rows:
@@ -157,7 +157,7 @@ def main():
             combined = new_df
         combined.to_csv(log_path, index=False)
 
-    print(f"\n{'─'*50}")
+    print(f"\n{'-'*50}")
     print(f"Transcription complete.")
     print(f"  Transcribed : {len(log_rows)}")
     print(f"  Errors      : {len(errors)}")
